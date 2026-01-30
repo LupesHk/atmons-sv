@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:nectarine_log"
+      "item": "productivetrees:white_poplar_log"
     },
     {
-      "item": "productivetrees:nectarine_wood"
+      "item": "productivetrees:white_poplar_wood"
     },
     {
-      "item": "productivetrees:nectarine_stripped_log"
+      "item": "productivetrees:white_poplar_stripped_log"
     },
     {
-      "item": "productivetrees:nectarine_stripped_wood"
+      "item": "productivetrees:white_poplar_stripped_wood"
     }
   ],
   "result": {

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:elm_planks"
+    "item": "minecraft:birch_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

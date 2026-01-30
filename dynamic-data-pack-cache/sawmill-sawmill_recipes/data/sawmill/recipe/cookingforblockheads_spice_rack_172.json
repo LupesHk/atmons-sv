@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:dark_log"
+      "item": "productivetrees:blackthorn_log"
     },
     {
-      "item": "twilightforest:dark_wood"
+      "item": "productivetrees:blackthorn_wood"
     },
     {
-      "item": "twilightforest:stripped_dark_log"
+      "item": "productivetrees:blackthorn_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_dark_wood"
+      "item": "productivetrees:blackthorn_stripped_wood"
     }
   ],
   "result": {

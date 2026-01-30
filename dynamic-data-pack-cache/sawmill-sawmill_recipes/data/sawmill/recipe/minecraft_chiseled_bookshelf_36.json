@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brazil_nut_log"
+      "item": "productivetrees:kumquat_log"
     },
     {
-      "item": "productivetrees:brazil_nut_wood"
+      "item": "productivetrees:kumquat_wood"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_log"
+      "item": "productivetrees:kumquat_stripped_log"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_wood"
+      "item": "productivetrees:kumquat_stripped_wood"
     }
   ],
   "result": {

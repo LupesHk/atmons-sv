@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sequoia_log"
+      "item": "minecraft:dark_oak_log"
     },
     {
-      "item": "productivetrees:sequoia_wood"
+      "item": "minecraft:dark_oak_wood"
     },
     {
-      "item": "productivetrees:sequoia_stripped_log"
+      "item": "minecraft:stripped_dark_oak_log"
     },
     {
-      "item": "productivetrees:sequoia_stripped_wood"
+      "item": "minecraft:stripped_dark_oak_wood"
     }
   ],
   "result": {

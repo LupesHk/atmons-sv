@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "productivetrees:lawson_cypress_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "productivetrees:lawson_cypress_wood"
+    },
+    {
+      "item": "productivetrees:lawson_cypress_stripped_log"
+    },
+    {
+      "item": "productivetrees:lawson_cypress_stripped_wood"
     }
   ],
   "result": {

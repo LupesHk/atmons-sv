@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:boxwood_log"
+      "item": "productivetrees:grapefruit_log"
     },
     {
-      "item": "productivetrees:boxwood_wood"
+      "item": "productivetrees:grapefruit_wood"
     },
     {
-      "item": "productivetrees:boxwood_stripped_log"
+      "item": "productivetrees:grapefruit_stripped_log"
     },
     {
-      "item": "productivetrees:boxwood_stripped_wood"
+      "item": "productivetrees:grapefruit_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "aether:skyroot_log"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "aether:skyroot_wood"
+      "item": "twilightforest:transformation_wood"
     },
     {
-      "item": "aether:stripped_skyroot_log"
+      "item": "twilightforest:stripped_transformation_log"
     },
     {
-      "item": "aether:stripped_skyroot_wood"
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {

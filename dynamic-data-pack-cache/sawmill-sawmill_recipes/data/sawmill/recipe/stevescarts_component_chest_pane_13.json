@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:alder_planks"
+    "item": "eternal_starlight:jinglestem_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

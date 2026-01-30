@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sandalwood_log"
+      "item": "productivetrees:wenge_log"
     },
     {
-      "item": "productivetrees:sandalwood_wood"
+      "item": "productivetrees:wenge_wood"
     },
     {
-      "item": "productivetrees:sandalwood_stripped_log"
+      "item": "productivetrees:wenge_stripped_log"
     },
     {
-      "item": "productivetrees:sandalwood_stripped_wood"
+      "item": "productivetrees:wenge_stripped_wood"
     }
   ],
   "result": {

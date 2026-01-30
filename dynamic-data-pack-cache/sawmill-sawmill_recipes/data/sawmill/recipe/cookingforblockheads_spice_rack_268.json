@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:buddhas_hand_log"
+      "item": "minecraft:cherry_log"
     },
     {
-      "item": "productivetrees:buddhas_hand_wood"
+      "item": "minecraft:cherry_wood"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_log"
+      "item": "minecraft:stripped_cherry_log"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_wood"
+      "item": "minecraft:stripped_cherry_wood"
     }
   ],
   "result": {

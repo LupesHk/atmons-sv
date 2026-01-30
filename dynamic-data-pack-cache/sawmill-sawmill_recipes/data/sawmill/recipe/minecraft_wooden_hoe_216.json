@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:copoazu_log"
+      "item": "productivetrees:orange_log"
     },
     {
-      "item": "productivetrees:copoazu_wood"
+      "item": "productivetrees:orange_wood"
     },
     {
-      "item": "productivetrees:copoazu_stripped_log"
+      "item": "productivetrees:orange_stripped_log"
     },
     {
-      "item": "productivetrees:copoazu_stripped_wood"
+      "item": "productivetrees:orange_stripped_wood"
     }
   ],
   "result": {

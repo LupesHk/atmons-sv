@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:soul_log"
+      "item": "productivetrees:pomegranate_log"
     },
     {
-      "item": "allthemodium:stripped_soul_log"
+      "item": "productivetrees:pomegranate_wood"
+    },
+    {
+      "item": "productivetrees:pomegranate_stripped_log"
+    },
+    {
+      "item": "productivetrees:pomegranate_stripped_wood"
     }
   ],
   "result": {

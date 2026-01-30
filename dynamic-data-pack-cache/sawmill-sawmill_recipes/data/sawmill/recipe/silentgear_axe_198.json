@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:nectarine_log"
-    },
-    {
-      "item": "productivetrees:nectarine_wood"
-    },
-    {
-      "item": "productivetrees:nectarine_stripped_log"
-    },
-    {
-      "item": "productivetrees:nectarine_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "silentgear:axe",
     "count": 1

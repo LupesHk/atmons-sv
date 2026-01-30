@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:white_poplar_log"
+      "item": "productivetrees:dogwood_log"
     },
     {
-      "item": "productivetrees:white_poplar_wood"
+      "item": "productivetrees:dogwood_wood"
     },
     {
-      "item": "productivetrees:white_poplar_stripped_log"
+      "item": "productivetrees:dogwood_stripped_log"
     },
     {
-      "item": "productivetrees:white_poplar_stripped_wood"
+      "item": "productivetrees:dogwood_stripped_wood"
     }
   ],
   "result": {

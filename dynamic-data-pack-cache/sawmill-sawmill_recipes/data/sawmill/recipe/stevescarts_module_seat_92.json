@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:persimmon_log"
+      "item": "productivetrees:osage_orange_log"
     },
     {
-      "item": "productivetrees:persimmon_wood"
+      "item": "productivetrees:osage_orange_wood"
     },
     {
-      "item": "productivetrees:persimmon_stripped_log"
+      "item": "productivetrees:osage_orange_stripped_log"
     },
     {
-      "item": "productivetrees:persimmon_stripped_wood"
+      "item": "productivetrees:osage_orange_stripped_wood"
     }
   ],
   "result": {

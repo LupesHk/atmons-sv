@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brazil_nut_log"
+      "item": "productivetrees:ceylon_ebony_log"
     },
     {
-      "item": "productivetrees:brazil_nut_wood"
+      "item": "productivetrees:ceylon_ebony_wood"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_log"
+      "item": "productivetrees:ceylon_ebony_stripped_log"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_wood"
+      "item": "productivetrees:ceylon_ebony_stripped_wood"
     }
   ],
   "result": {

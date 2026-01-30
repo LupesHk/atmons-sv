@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:cashew_planks"
+    "item": "productivetrees:wild_cherry_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

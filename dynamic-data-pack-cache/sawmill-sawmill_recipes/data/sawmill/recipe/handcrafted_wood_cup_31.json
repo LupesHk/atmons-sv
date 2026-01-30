@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:purpleheart_planks"
+    "item": "silentgear:netherwood_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

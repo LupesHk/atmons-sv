@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:wenge_log"
-    },
-    {
-      "item": "productivetrees:wenge_wood"
-    },
-    {
-      "item": "productivetrees:wenge_stripped_log"
-    },
-    {
-      "item": "productivetrees:wenge_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "actuallyadditions:wood_casing",
     "count": 1

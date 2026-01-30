@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:alder_planks"
+    "item": "productivetrees:european_larch_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:almond_log"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "productivetrees:almond_wood"
+      "item": "silentgear:netherwood_wood"
     },
     {
-      "item": "productivetrees:almond_stripped_log"
+      "item": "silentgear:stripped_netherwood_log"
     },
     {
-      "item": "productivetrees:almond_stripped_wood"
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {

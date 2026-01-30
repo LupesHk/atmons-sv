@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:mangrove_planks"
+    "item": "productivetrees:sweet_chestnut_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

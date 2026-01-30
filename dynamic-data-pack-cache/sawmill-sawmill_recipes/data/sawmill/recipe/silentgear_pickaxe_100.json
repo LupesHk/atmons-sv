@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:beliy_naliv_apple_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_stripped_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:blackthorn_log"
+      "item": "minecraft:acacia_log"
     },
     {
-      "item": "productivetrees:blackthorn_wood"
+      "item": "minecraft:acacia_wood"
     },
     {
-      "item": "productivetrees:blackthorn_stripped_log"
+      "item": "minecraft:stripped_acacia_log"
     },
     {
-      "item": "productivetrees:blackthorn_stripped_wood"
+      "item": "minecraft:stripped_acacia_wood"
     }
   ],
   "result": {

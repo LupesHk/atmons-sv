@@ -18,6 +18,21 @@ if not defined ATM10_JAVA (
    exit /b 1
 )
 
+SET "PLAYIT_EXE=playit.exe"
+SET "PLAYIT_SECRET=90fbbf7a2b5943a6ec0a9f58c958a4945fc78b149082240021d4fd75bc114c91"
+
+REM ===========================
+echo VERIFICANDO PLAYIT...
+REM ===========================
+tasklist /FI "IMAGENAME eq playit.exe" | find /I "playit.exe" >nul
+if %errorlevel%==0 (
+    echo Playit ja esta aberto.
+) else (
+    echo Iniciando Playit...
+    start "" /min "%PLAYIT_EXE%" --secret "%PLAYIT_SECRET%"
+)
+echo.
+
 :NEOFORGE
 setlocal
 cd /D "%~dp0"

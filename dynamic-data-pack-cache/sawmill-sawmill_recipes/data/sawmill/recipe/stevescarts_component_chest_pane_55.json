@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:cashew_planks"
+    "item": "twilightforest:transformation_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

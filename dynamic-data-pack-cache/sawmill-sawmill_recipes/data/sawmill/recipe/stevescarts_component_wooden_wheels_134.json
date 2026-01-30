@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:rainbow_gum_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:rainbow_gum_wood"
+    },
+    {
+      "item": "productivetrees:rainbow_gum_stripped_log"
+    },
+    {
+      "item": "productivetrees:rainbow_gum_stripped_wood"
     }
   ],
   "result": {

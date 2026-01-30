@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:ginkgo_planks"
+    "item": "productivetrees:osage_orange_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

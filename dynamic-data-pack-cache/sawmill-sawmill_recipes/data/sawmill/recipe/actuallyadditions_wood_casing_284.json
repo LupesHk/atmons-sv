@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:lawson_cypress_log"
+      "item": "minecraft:oak_log"
     },
     {
-      "item": "productivetrees:lawson_cypress_wood"
+      "item": "minecraft:oak_wood"
     },
     {
-      "item": "productivetrees:lawson_cypress_stripped_log"
+      "item": "minecraft:stripped_oak_log"
     },
     {
-      "item": "productivetrees:lawson_cypress_stripped_wood"
+      "item": "minecraft:stripped_oak_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:star_anise_log"
+      "item": "cobblemon:saccharine_log"
     },
     {
-      "item": "productivetrees:star_anise_wood"
+      "item": "cobblemon:saccharine_wood"
     },
     {
-      "item": "productivetrees:star_anise_stripped_log"
+      "item": "cobblemon:stripped_saccharine_log"
     },
     {
-      "item": "productivetrees:star_anise_stripped_wood"
+      "item": "cobblemon:stripped_saccharine_wood"
     }
   ],
   "result": {

@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "cobblemon:apricorn_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "cobblemon:apricorn_wood"
-    },
-    {
-      "item": "cobblemon:stripped_apricorn_log"
-    },
-    {
-      "item": "cobblemon:stripped_apricorn_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "cookingforblockheads:fruit_basket",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

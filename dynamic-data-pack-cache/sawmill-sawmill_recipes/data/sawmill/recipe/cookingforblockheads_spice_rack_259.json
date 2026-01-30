@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:soursop_planks"
+    "item": "productivetrees:citron_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

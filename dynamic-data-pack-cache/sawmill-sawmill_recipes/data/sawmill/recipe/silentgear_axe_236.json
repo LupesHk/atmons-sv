@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:balsa_log"
+      "item": "allthemodium:demonic_log"
     },
     {
-      "item": "productivetrees:balsa_wood"
-    },
-    {
-      "item": "productivetrees:balsa_stripped_log"
-    },
-    {
-      "item": "productivetrees:balsa_stripped_wood"
+      "item": "allthemodium:stripped_demonic_log"
     }
   ],
   "result": {

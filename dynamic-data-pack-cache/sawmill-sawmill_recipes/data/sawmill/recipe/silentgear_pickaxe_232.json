@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:salak_log"
+      "item": "minecraft:crimson_stem"
     },
     {
-      "item": "productivetrees:salak_wood"
+      "item": "minecraft:crimson_hyphae"
     },
     {
-      "item": "productivetrees:salak_stripped_log"
+      "item": "minecraft:stripped_crimson_stem"
     },
     {
-      "item": "productivetrees:salak_stripped_wood"
+      "item": "minecraft:stripped_crimson_hyphae"
     }
   ],
   "result": {

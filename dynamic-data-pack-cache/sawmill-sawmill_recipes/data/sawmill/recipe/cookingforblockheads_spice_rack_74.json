@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cultivated_pear_log"
+      "item": "productivetrees:balsam_fir_log"
     },
     {
-      "item": "productivetrees:cultivated_pear_wood"
+      "item": "productivetrees:balsam_fir_wood"
     },
     {
-      "item": "productivetrees:cultivated_pear_stripped_log"
+      "item": "productivetrees:balsam_fir_stripped_log"
     },
     {
-      "item": "productivetrees:cultivated_pear_stripped_wood"
+      "item": "productivetrees:balsam_fir_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:iroko_log"
+      "item": "productivetrees:clove_log"
     },
     {
-      "item": "productivetrees:iroko_wood"
+      "item": "productivetrees:clove_wood"
     },
     {
-      "item": "productivetrees:iroko_stripped_log"
+      "item": "productivetrees:clove_stripped_log"
     },
     {
-      "item": "productivetrees:iroko_stripped_wood"
+      "item": "productivetrees:clove_stripped_wood"
     }
   ],
   "result": {

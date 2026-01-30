@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "twilightforest:canopy_log"
-    },
-    {
-      "item": "twilightforest:canopy_wood"
-    },
-    {
-      "item": "twilightforest:stripped_canopy_log"
-    },
-    {
-      "item": "twilightforest:stripped_canopy_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "minecraft:wooden_axe",
     "count": 1

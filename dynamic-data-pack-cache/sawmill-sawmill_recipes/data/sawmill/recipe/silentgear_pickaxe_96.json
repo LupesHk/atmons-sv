@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "productivetrees:black_cherry_log"
     },
     {
-      "item": "undergarden:wigglewood_wood"
+      "item": "productivetrees:black_cherry_wood"
     },
     {
-      "item": "undergarden:stripped_wigglewood_log"
+      "item": "productivetrees:black_cherry_stripped_log"
     },
     {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "productivetrees:black_cherry_stripped_wood"
     }
   ],
   "result": {

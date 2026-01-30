@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:zebrano_planks"
+    "item": "productivetrees:sandalwood_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

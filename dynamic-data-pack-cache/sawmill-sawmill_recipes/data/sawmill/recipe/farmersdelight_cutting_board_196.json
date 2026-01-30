@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:salak_log"
+      "item": "twilightforest:mangrove_log"
     },
     {
-      "item": "productivetrees:salak_wood"
+      "item": "twilightforest:mangrove_wood"
     },
     {
-      "item": "productivetrees:salak_stripped_log"
+      "item": "twilightforest:stripped_mangrove_log"
     },
     {
-      "item": "productivetrees:salak_stripped_wood"
+      "item": "twilightforest:stripped_mangrove_wood"
     }
   ],
   "result": {

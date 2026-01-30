@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:silver_fir_log"
+    },
+    {
+      "item": "productivetrees:silver_fir_wood"
+    },
+    {
+      "item": "productivetrees:silver_fir_stripped_log"
+    },
+    {
+      "item": "productivetrees:silver_fir_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:pickaxe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

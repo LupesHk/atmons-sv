@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:canopy_planks"
+    "item": "minecraft:birch_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

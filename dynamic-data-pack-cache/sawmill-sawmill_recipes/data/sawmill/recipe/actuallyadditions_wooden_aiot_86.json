@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:lemon_log"
+      "item": "minecraft:crimson_stem"
     },
     {
-      "item": "productivetrees:lemon_wood"
+      "item": "minecraft:crimson_hyphae"
     },
     {
-      "item": "productivetrees:lemon_stripped_log"
+      "item": "minecraft:stripped_crimson_stem"
     },
     {
-      "item": "productivetrees:lemon_stripped_wood"
+      "item": "minecraft:stripped_crimson_hyphae"
     }
   ],
   "result": {

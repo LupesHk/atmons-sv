@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:oak_log"
+      "item": "productivetrees:breadfruit_log"
     },
     {
-      "item": "minecraft:oak_wood"
+      "item": "productivetrees:breadfruit_wood"
     },
     {
-      "item": "minecraft:stripped_oak_log"
+      "item": "productivetrees:breadfruit_stripped_log"
     },
     {
-      "item": "minecraft:stripped_oak_wood"
+      "item": "productivetrees:breadfruit_stripped_wood"
     }
   ],
   "result": {

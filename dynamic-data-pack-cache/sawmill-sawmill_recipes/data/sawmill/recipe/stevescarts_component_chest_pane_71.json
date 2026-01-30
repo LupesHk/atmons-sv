@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:star_anise_planks"
+    "item": "productivetrees:grandidiers_baobab_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

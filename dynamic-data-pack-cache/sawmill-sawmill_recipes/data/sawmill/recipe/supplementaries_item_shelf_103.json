@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sand_pear_planks"
+    "item": "productivetrees:key_lime_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

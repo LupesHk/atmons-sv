@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:spruce_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "minecraft:spruce_wood"
-    },
-    {
-      "item": "minecraft:stripped_spruce_log"
-    },
-    {
-      "item": "minecraft:stripped_spruce_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

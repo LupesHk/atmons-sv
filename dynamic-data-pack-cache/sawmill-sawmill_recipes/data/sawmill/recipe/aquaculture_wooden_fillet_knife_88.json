@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pomelo_log"
+      "item": "productivetrees:persimmon_log"
     },
     {
-      "item": "productivetrees:pomelo_wood"
+      "item": "productivetrees:persimmon_wood"
     },
     {
-      "item": "productivetrees:pomelo_stripped_log"
+      "item": "productivetrees:persimmon_stripped_log"
     },
     {
-      "item": "productivetrees:pomelo_stripped_wood"
+      "item": "productivetrees:persimmon_stripped_wood"
     }
   ],
   "result": {

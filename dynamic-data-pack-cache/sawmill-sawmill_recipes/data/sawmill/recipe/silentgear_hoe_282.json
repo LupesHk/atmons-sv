@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "minecraft:spruce_log"
     },
     {
-      "item": "deeperdarker:echo_wood"
+      "item": "minecraft:spruce_wood"
     },
     {
-      "item": "deeperdarker:stripped_echo_log"
+      "item": "minecraft:stripped_spruce_log"
     },
     {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "minecraft:stripped_spruce_wood"
     }
   ],
   "result": {

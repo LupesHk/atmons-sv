@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:canopy_log"
+      "item": "twilightforest:mining_log"
     },
     {
-      "item": "twilightforest:canopy_wood"
+      "item": "twilightforest:mining_wood"
     },
     {
-      "item": "twilightforest:stripped_canopy_log"
+      "item": "twilightforest:stripped_mining_log"
     },
     {
-      "item": "twilightforest:stripped_canopy_wood"
+      "item": "twilightforest:stripped_mining_wood"
     }
   ],
   "result": {

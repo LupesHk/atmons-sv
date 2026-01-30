@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:purple_spiral_log"
+      "item": "productivetrees:cinnamon_log"
     },
     {
-      "item": "productivetrees:purple_spiral_wood"
+      "item": "productivetrees:cinnamon_wood"
     },
     {
-      "item": "productivetrees:purple_spiral_stripped_log"
+      "item": "productivetrees:cinnamon_stripped_log"
     },
     {
-      "item": "productivetrees:purple_spiral_stripped_wood"
+      "item": "productivetrees:cinnamon_stripped_wood"
     }
   ],
   "result": {

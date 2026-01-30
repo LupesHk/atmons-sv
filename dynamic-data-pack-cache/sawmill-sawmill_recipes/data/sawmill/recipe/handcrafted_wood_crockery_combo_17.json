@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:socotra_dragon_planks"
+    "item": "productivetrees:sugar_maple_planks"
   },
   "result": {
     "id": "handcrafted:wood_crockery_combo",

@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:blue_mahoe_log"
+    },
+    {
+      "item": "productivetrees:blue_mahoe_wood"
+    },
+    {
+      "item": "productivetrees:blue_mahoe_stripped_log"
+    },
+    {
+      "item": "productivetrees:blue_mahoe_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chest",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

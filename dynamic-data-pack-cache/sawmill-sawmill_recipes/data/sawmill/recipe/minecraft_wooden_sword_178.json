@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pink_ivory_log"
+      "item": "productivetrees:lime_log"
     },
     {
-      "item": "productivetrees:pink_ivory_wood"
+      "item": "productivetrees:lime_wood"
     },
     {
-      "item": "productivetrees:pink_ivory_stripped_log"
+      "item": "productivetrees:lime_stripped_log"
     },
     {
-      "item": "productivetrees:pink_ivory_stripped_wood"
+      "item": "productivetrees:lime_stripped_wood"
     }
   ],
   "result": {

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:brazil_nut_log"
+    },
+    {
+      "item": "productivetrees:brazil_nut_wood"
+    },
+    {
+      "item": "productivetrees:brazil_nut_stripped_log"
+    },
+    {
+      "item": "productivetrees:brazil_nut_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:pickaxe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

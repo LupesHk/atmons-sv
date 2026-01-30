@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:copoazu_planks"
+    "item": "productivetrees:sweetgum_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sugar_maple_log"
+      "item": "eternal_starlight:jinglestem_log"
     },
     {
-      "item": "productivetrees:sugar_maple_wood"
+      "item": "eternal_starlight:jinglestem_wood"
     },
     {
-      "item": "productivetrees:sugar_maple_stripped_log"
+      "item": "eternal_starlight:stripped_jinglestem_log"
     },
     {
-      "item": "productivetrees:sugar_maple_stripped_wood"
+      "item": "eternal_starlight:stripped_jinglestem_wood"
     }
   ],
   "result": {

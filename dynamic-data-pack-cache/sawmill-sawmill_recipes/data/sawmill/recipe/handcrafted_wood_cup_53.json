@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:kapok_planks"
+    "item": "eternal_starlight:banyin_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:beliy_naliv_apple_log"
+      "item": "undergarden:grongle_log"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_wood"
+      "item": "undergarden:grongle_wood"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_stripped_log"
+      "item": "undergarden:stripped_grongle_log"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
+      "item": "undergarden:stripped_grongle_wood"
     }
   ],
   "result": {

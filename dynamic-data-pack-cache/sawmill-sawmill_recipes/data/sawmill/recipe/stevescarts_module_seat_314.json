@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:mango_log"
+      "item": "productivetrees:purple_blackthorn_log"
     },
     {
-      "item": "productivetrees:mango_wood"
+      "item": "productivetrees:purple_blackthorn_wood"
     },
     {
-      "item": "productivetrees:mango_stripped_log"
+      "item": "productivetrees:purple_blackthorn_stripped_log"
     },
     {
-      "item": "productivetrees:mango_stripped_wood"
+      "item": "productivetrees:purple_blackthorn_stripped_wood"
     }
   ],
   "result": {

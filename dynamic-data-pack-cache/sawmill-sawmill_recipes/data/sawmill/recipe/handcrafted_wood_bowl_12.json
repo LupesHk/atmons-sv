@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:elderberry_log"
+      "item": "minecraft:jungle_log"
     },
     {
-      "item": "productivetrees:elderberry_wood"
+      "item": "minecraft:jungle_wood"
     },
     {
-      "item": "productivetrees:elderberry_stripped_log"
+      "item": "minecraft:stripped_jungle_log"
     },
     {
-      "item": "productivetrees:elderberry_stripped_wood"
+      "item": "minecraft:stripped_jungle_wood"
     }
   ],
   "result": {

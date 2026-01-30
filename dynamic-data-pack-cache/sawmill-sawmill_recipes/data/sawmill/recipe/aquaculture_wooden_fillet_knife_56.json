@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "cobblemon:saccharine_log"
+      "item": "eternal_starlight:jinglestem_log"
     },
     {
-      "item": "cobblemon:saccharine_wood"
+      "item": "eternal_starlight:jinglestem_wood"
     },
     {
-      "item": "cobblemon:stripped_saccharine_log"
+      "item": "eternal_starlight:stripped_jinglestem_log"
     },
     {
-      "item": "cobblemon:stripped_saccharine_wood"
+      "item": "eternal_starlight:stripped_jinglestem_wood"
     }
   ],
   "result": {

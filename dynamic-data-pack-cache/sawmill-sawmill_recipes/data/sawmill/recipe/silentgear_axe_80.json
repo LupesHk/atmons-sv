@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:oak_log"
+      "item": "productivetrees:great_sallow_log"
     },
     {
-      "item": "minecraft:oak_wood"
+      "item": "productivetrees:great_sallow_wood"
     },
     {
-      "item": "minecraft:stripped_oak_log"
+      "item": "productivetrees:great_sallow_stripped_log"
     },
     {
-      "item": "minecraft:stripped_oak_wood"
+      "item": "productivetrees:great_sallow_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:twilight_oak_log"
+      "item": "productivetrees:foggy_blast_log"
     },
     {
-      "item": "twilightforest:twilight_oak_wood"
+      "item": "productivetrees:foggy_blast_wood"
     },
     {
-      "item": "twilightforest:stripped_twilight_oak_log"
+      "item": "productivetrees:foggy_blast_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_twilight_oak_wood"
+      "item": "productivetrees:foggy_blast_stripped_wood"
     }
   ],
   "result": {

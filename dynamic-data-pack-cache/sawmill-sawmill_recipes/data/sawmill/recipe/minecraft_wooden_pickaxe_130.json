@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:time_log"
+      "item": "minecraft:mangrove_log"
     },
     {
-      "item": "twilightforest:time_wood"
+      "item": "minecraft:mangrove_wood"
     },
     {
-      "item": "twilightforest:stripped_time_log"
+      "item": "minecraft:stripped_mangrove_log"
     },
     {
-      "item": "twilightforest:stripped_time_wood"
+      "item": "minecraft:stripped_mangrove_wood"
     }
   ],
   "result": {

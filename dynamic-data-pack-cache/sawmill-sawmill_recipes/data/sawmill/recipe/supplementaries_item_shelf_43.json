@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "cobblemon:apricorn_planks"
+    "item": "minecraft:crimson_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

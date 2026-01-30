@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:plantain_planks"
+    "item": "silentgear:netherwood_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

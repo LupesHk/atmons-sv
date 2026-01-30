@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:torreya_planks"
+    "item": "minecraft:cherry_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

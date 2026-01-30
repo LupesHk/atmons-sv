@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:water_wonder_log"
+      "item": "productivetrees:wenge_log"
     },
     {
-      "item": "productivetrees:water_wonder_wood"
+      "item": "productivetrees:wenge_wood"
     },
     {
-      "item": "productivetrees:water_wonder_stripped_log"
+      "item": "productivetrees:wenge_stripped_log"
     },
     {
-      "item": "productivetrees:water_wonder_stripped_wood"
+      "item": "productivetrees:wenge_stripped_wood"
     }
   ],
   "result": {

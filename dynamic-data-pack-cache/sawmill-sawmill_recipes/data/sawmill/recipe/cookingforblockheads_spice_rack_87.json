@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:time_planks"
+    "item": "productivetrees:tuscarora_crepe_myrtle_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

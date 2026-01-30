@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pink_ivory_log"
+      "item": "productivetrees:butternut_log"
     },
     {
-      "item": "productivetrees:pink_ivory_wood"
+      "item": "productivetrees:butternut_wood"
     },
     {
-      "item": "productivetrees:pink_ivory_stripped_log"
+      "item": "productivetrees:butternut_stripped_log"
     },
     {
-      "item": "productivetrees:pink_ivory_stripped_wood"
+      "item": "productivetrees:butternut_stripped_wood"
     }
   ],
   "result": {

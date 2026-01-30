@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:olive_log"
+    },
+    {
+      "item": "productivetrees:olive_wood"
+    },
+    {
+      "item": "productivetrees:olive_stripped_log"
+    },
+    {
+      "item": "productivetrees:olive_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:canopy_planks"
+    "item": "deeperdarker:bloom_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

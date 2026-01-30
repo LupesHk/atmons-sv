@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:ipe_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "productivetrees:ipe_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "productivetrees:ipe_stripped_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "productivetrees:ipe_stripped_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {

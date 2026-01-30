@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:carob_log"
-    },
-    {
-      "item": "productivetrees:carob_wood"
-    },
-    {
-      "item": "productivetrees:carob_stripped_log"
-    },
-    {
-      "item": "productivetrees:carob_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "stevescarts:module_seat",
     "count": 1

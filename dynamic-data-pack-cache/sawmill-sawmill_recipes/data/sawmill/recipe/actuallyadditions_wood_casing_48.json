@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:golden_delicious_apple_log"
+      "item": "minecraft:warped_stem"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_wood"
+      "item": "minecraft:warped_hyphae"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_stripped_log"
+      "item": "minecraft:stripped_warped_stem"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_stripped_wood"
+      "item": "minecraft:stripped_warped_hyphae"
     }
   ],
   "result": {

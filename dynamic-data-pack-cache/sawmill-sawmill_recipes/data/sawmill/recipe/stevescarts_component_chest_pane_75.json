@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:dark_oak_planks"
+    "item": "cobblemon:apricorn_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

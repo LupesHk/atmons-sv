@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:whitebeam_planks"
+    "item": "productivetrees:western_hemlock_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:scarlet_log"
+      "item": "productivetrees:alder_log"
     },
     {
-      "item": "eternal_starlight:scarlet_wood"
+      "item": "productivetrees:alder_wood"
     },
     {
-      "item": "eternal_starlight:stripped_scarlet_log"
+      "item": "productivetrees:alder_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_scarlet_wood"
+      "item": "productivetrees:alder_stripped_wood"
     }
   ],
   "result": {

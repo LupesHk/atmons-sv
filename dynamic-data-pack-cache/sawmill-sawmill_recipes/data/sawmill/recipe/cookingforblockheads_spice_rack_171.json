@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "deeperdarker:bloom_planks"
+    "item": "undergarden:wigglewood_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:soul_log"
+      "item": "productivetrees:blue_yonder_log"
     },
     {
-      "item": "allthemodium:stripped_soul_log"
+      "item": "productivetrees:blue_yonder_wood"
+    },
+    {
+      "item": "productivetrees:blue_yonder_stripped_log"
+    },
+    {
+      "item": "productivetrees:blue_yonder_stripped_wood"
     }
   ],
   "result": {

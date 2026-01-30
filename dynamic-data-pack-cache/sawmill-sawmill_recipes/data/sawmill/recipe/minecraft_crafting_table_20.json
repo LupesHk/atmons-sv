@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "cobblemon:apricorn_log"
+      "item": "minecraft:dark_oak_log"
     },
     {
-      "item": "cobblemon:apricorn_wood"
+      "item": "minecraft:dark_oak_wood"
     },
     {
-      "item": "cobblemon:stripped_apricorn_log"
+      "item": "minecraft:stripped_dark_oak_log"
     },
     {
-      "item": "cobblemon:stripped_apricorn_wood"
+      "item": "minecraft:stripped_dark_oak_wood"
     }
   ],
   "result": {

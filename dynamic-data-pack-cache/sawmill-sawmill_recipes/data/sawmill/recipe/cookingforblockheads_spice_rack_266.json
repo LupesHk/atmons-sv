@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:blackthorn_log"
+      "item": "productivetrees:sequoia_log"
     },
     {
-      "item": "productivetrees:blackthorn_wood"
+      "item": "productivetrees:sequoia_wood"
     },
     {
-      "item": "productivetrees:blackthorn_stripped_log"
+      "item": "productivetrees:sequoia_stripped_log"
     },
     {
-      "item": "productivetrees:blackthorn_stripped_wood"
+      "item": "productivetrees:sequoia_stripped_wood"
     }
   ],
   "result": {

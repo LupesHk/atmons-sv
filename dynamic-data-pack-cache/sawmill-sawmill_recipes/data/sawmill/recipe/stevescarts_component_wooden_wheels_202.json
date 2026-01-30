@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:red_crepe_myrtle_log"
-    },
-    {
-      "item": "productivetrees:red_crepe_myrtle_wood"
-    },
-    {
-      "item": "productivetrees:red_crepe_myrtle_stripped_log"
-    },
-    {
-      "item": "productivetrees:red_crepe_myrtle_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "stevescarts:component_wooden_wheels",
     "count": 1

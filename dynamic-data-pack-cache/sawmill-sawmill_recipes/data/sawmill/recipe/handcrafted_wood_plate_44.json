@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:grapefruit_log"
+      "item": "minecraft:mangrove_log"
     },
     {
-      "item": "productivetrees:grapefruit_wood"
+      "item": "minecraft:mangrove_wood"
     },
     {
-      "item": "productivetrees:grapefruit_stripped_log"
+      "item": "minecraft:stripped_mangrove_log"
     },
     {
-      "item": "productivetrees:grapefruit_stripped_wood"
+      "item": "minecraft:stripped_mangrove_wood"
     }
   ],
   "result": {

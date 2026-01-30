@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cocobolo_log"
+      "item": "productivetrees:water_wonder_log"
     },
     {
-      "item": "productivetrees:cocobolo_wood"
+      "item": "productivetrees:water_wonder_wood"
     },
     {
-      "item": "productivetrees:cocobolo_stripped_log"
+      "item": "productivetrees:water_wonder_stripped_log"
     },
     {
-      "item": "productivetrees:cocobolo_stripped_wood"
+      "item": "productivetrees:water_wonder_stripped_wood"
     }
   ],
   "result": {

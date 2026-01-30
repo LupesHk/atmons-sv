@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:star_anise_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:star_anise_wood"
-    },
-    {
-      "item": "productivetrees:star_anise_stripped_log"
-    },
-    {
-      "item": "productivetrees:star_anise_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

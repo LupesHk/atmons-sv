@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:night_fuchsia_planks"
+    "item": "productivetrees:cempedak_planks"
   },
   "result": {
     "id": "handcrafted:wood_crockery_combo",

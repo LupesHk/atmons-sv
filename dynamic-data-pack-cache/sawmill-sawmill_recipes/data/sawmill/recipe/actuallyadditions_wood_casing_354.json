@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pandanus_log"
+      "item": "productivetrees:wenge_log"
     },
     {
-      "item": "productivetrees:pandanus_wood"
+      "item": "productivetrees:wenge_wood"
     },
     {
-      "item": "productivetrees:pandanus_stripped_log"
+      "item": "productivetrees:wenge_stripped_log"
     },
     {
-      "item": "productivetrees:pandanus_stripped_wood"
+      "item": "productivetrees:wenge_stripped_wood"
     }
   ],
   "result": {

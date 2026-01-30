@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:crimson_stem"
+      "item": "minecraft:acacia_log"
     },
     {
-      "item": "minecraft:crimson_hyphae"
+      "item": "minecraft:acacia_wood"
     },
     {
-      "item": "minecraft:stripped_crimson_stem"
+      "item": "minecraft:stripped_acacia_log"
     },
     {
-      "item": "minecraft:stripped_crimson_hyphae"
+      "item": "minecraft:stripped_acacia_wood"
     }
   ],
   "result": {

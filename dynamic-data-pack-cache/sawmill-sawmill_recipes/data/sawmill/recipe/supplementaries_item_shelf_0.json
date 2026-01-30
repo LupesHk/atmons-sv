@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:red_crepe_myrtle_log"
+      "item": "minecraft:birch_log"
     },
     {
-      "item": "productivetrees:red_crepe_myrtle_wood"
+      "item": "minecraft:birch_wood"
     },
     {
-      "item": "productivetrees:red_crepe_myrtle_stripped_log"
+      "item": "minecraft:stripped_birch_log"
     },
     {
-      "item": "productivetrees:red_crepe_myrtle_stripped_wood"
+      "item": "minecraft:stripped_birch_wood"
     }
   ],
   "result": {

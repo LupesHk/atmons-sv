@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:kapok_log"
+      "item": "productivetrees:beech_log"
     },
     {
-      "item": "productivetrees:kapok_wood"
+      "item": "productivetrees:beech_wood"
     },
     {
-      "item": "productivetrees:kapok_stripped_log"
+      "item": "productivetrees:beech_stripped_log"
     },
     {
-      "item": "productivetrees:kapok_stripped_wood"
+      "item": "productivetrees:beech_stripped_wood"
     }
   ],
   "result": {

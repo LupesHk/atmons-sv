@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:copoazu_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:copoazu_wood"
-    },
-    {
-      "item": "productivetrees:copoazu_stripped_log"
-    },
-    {
-      "item": "productivetrees:copoazu_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "handcrafted:wood_cup",
-    "count": 8
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:dark_oak_log"
+      "item": "productivetrees:sparkle_cherry_log"
     },
     {
-      "item": "minecraft:dark_oak_wood"
+      "item": "productivetrees:sparkle_cherry_wood"
     },
     {
-      "item": "minecraft:stripped_dark_oak_log"
+      "item": "productivetrees:sparkle_cherry_stripped_log"
     },
     {
-      "item": "minecraft:stripped_dark_oak_wood"
+      "item": "productivetrees:sparkle_cherry_stripped_wood"
     }
   ],
   "result": {

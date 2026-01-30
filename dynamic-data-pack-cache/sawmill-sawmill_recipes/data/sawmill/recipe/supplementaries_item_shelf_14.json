@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:canopy_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "twilightforest:canopy_wood"
-    },
-    {
-      "item": "twilightforest:stripped_canopy_log"
-    },
-    {
-      "item": "twilightforest:stripped_canopy_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

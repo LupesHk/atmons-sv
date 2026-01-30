@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:lawson_cypress_planks"
+    "item": "productivetrees:pandanus_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

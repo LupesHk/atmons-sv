@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:purple_blackthorn_log"
+      "item": "minecraft:warped_stem"
     },
     {
-      "item": "productivetrees:purple_blackthorn_wood"
+      "item": "minecraft:warped_hyphae"
     },
     {
-      "item": "productivetrees:purple_blackthorn_stripped_log"
+      "item": "minecraft:stripped_warped_stem"
     },
     {
-      "item": "productivetrees:purple_blackthorn_stripped_wood"
+      "item": "minecraft:stripped_warped_hyphae"
     }
   ],
   "result": {

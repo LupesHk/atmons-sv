@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "cobblemon:saccharine_log"
+      "item": "twilightforest:time_log"
     },
     {
-      "item": "cobblemon:saccharine_wood"
+      "item": "twilightforest:time_wood"
     },
     {
-      "item": "cobblemon:stripped_saccharine_log"
+      "item": "twilightforest:stripped_time_log"
     },
     {
-      "item": "cobblemon:stripped_saccharine_wood"
+      "item": "twilightforest:stripped_time_wood"
     }
   ],
   "result": {

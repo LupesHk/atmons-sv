@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cashew_log"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "productivetrees:cashew_wood"
+      "item": "twilightforest:transformation_wood"
     },
     {
-      "item": "productivetrees:cashew_stripped_log"
+      "item": "twilightforest:stripped_transformation_log"
     },
     {
-      "item": "productivetrees:cashew_stripped_wood"
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {

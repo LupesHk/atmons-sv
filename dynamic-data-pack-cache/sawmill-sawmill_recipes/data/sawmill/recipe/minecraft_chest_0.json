@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "minecraft:logs"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:finger_lime_log"
+    },
+    {
+      "item": "productivetrees:finger_lime_wood"
+    },
+    {
+      "item": "productivetrees:finger_lime_stripped_log"
+    },
+    {
+      "item": "productivetrees:finger_lime_stripped_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:chest",
     "count": 1

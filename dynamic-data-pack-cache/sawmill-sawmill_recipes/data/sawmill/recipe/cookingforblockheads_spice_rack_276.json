@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "silentgear:netherwood_log"
+      "item": "productivetrees:satsuma_log"
     },
     {
-      "item": "silentgear:netherwood_wood"
+      "item": "productivetrees:satsuma_wood"
     },
     {
-      "item": "silentgear:stripped_netherwood_log"
+      "item": "productivetrees:satsuma_stripped_log"
     },
     {
-      "item": "silentgear:stripped_netherwood_wood"
+      "item": "productivetrees:satsuma_stripped_wood"
     }
   ],
   "result": {
     "id": "cookingforblockheads:spice_rack",
-    "count": 3
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:iroko_planks"
+    "item": "productivetrees:sweet_crabapple_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

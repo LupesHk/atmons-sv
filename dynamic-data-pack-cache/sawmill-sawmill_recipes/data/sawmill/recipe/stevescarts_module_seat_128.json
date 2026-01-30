@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:old_fustic_log"
+      "item": "undergarden:wigglewood_log"
     },
     {
-      "item": "productivetrees:old_fustic_wood"
+      "item": "undergarden:wigglewood_wood"
     },
     {
-      "item": "productivetrees:old_fustic_stripped_log"
+      "item": "undergarden:stripped_wigglewood_log"
     },
     {
-      "item": "productivetrees:old_fustic_stripped_wood"
+      "item": "undergarden:stripped_wigglewood_wood"
     }
   ],
   "result": {

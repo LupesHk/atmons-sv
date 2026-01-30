@@ -1,13 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "forbidden_arcanus:fungyss_stem"
-    },
-    {
-      "item": "forbidden_arcanus:fungyss_hyphae"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "silentgear:sword",
     "count": 1

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:red_crepe_myrtle_planks"
+    "item": "productivetrees:monkey_puzzle_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

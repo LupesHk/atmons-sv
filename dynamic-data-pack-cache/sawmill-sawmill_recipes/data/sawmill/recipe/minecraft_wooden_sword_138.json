@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rippling_willow_log"
+      "item": "productivetrees:sugar_maple_log"
     },
     {
-      "item": "productivetrees:rippling_willow_wood"
+      "item": "productivetrees:sugar_maple_wood"
     },
     {
-      "item": "productivetrees:rippling_willow_stripped_log"
+      "item": "productivetrees:sugar_maple_stripped_log"
     },
     {
-      "item": "productivetrees:rippling_willow_stripped_wood"
+      "item": "productivetrees:sugar_maple_stripped_wood"
     }
   ],
   "result": {

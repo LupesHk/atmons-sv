@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cashew_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:cashew_wood"
-    },
-    {
-      "item": "productivetrees:cashew_stripped_log"
-    },
-    {
-      "item": "productivetrees:cashew_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

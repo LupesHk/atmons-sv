@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:great_sallow_planks"
+    "item": "twilightforest:mining_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:grapefruit_log"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "productivetrees:grapefruit_wood"
+      "item": "twilightforest:transformation_wood"
     },
     {
-      "item": "productivetrees:grapefruit_stripped_log"
+      "item": "twilightforest:stripped_transformation_log"
     },
     {
-      "item": "productivetrees:grapefruit_stripped_wood"
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:great_sallow_log"
+      "item": "productivetrees:sugar_maple_log"
     },
     {
-      "item": "productivetrees:great_sallow_wood"
+      "item": "productivetrees:sugar_maple_wood"
     },
     {
-      "item": "productivetrees:great_sallow_stripped_log"
+      "item": "productivetrees:sugar_maple_stripped_log"
     },
     {
-      "item": "productivetrees:great_sallow_stripped_wood"
+      "item": "productivetrees:sugar_maple_stripped_wood"
     }
   ],
   "result": {

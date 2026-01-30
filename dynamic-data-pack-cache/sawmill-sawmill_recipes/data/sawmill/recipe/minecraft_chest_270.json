@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sand_pear_log"
+    },
+    {
+      "item": "productivetrees:sand_pear_wood"
+    },
+    {
+      "item": "productivetrees:sand_pear_stripped_log"
+    },
+    {
+      "item": "productivetrees:sand_pear_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chest",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

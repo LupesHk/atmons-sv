@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "productivetrees:sand_pear_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "productivetrees:sand_pear_wood"
+    },
+    {
+      "item": "productivetrees:sand_pear_stripped_log"
+    },
+    {
+      "item": "productivetrees:sand_pear_stripped_wood"
     }
   ],
   "result": {

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sequoia_planks"
+    "item": "forbidden_arcanus:fungyss_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:aspen_log"
+      "item": "productivetrees:tangerine_log"
     },
     {
-      "item": "productivetrees:aspen_wood"
+      "item": "productivetrees:tangerine_wood"
     },
     {
-      "item": "productivetrees:aspen_stripped_log"
+      "item": "productivetrees:tangerine_stripped_log"
     },
     {
-      "item": "productivetrees:aspen_stripped_wood"
+      "item": "productivetrees:tangerine_stripped_wood"
     }
   ],
   "result": {

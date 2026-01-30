@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:aspen_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:aspen_wood"
-    },
-    {
-      "item": "productivetrees:aspen_stripped_log"
-    },
-    {
-      "item": "productivetrees:aspen_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

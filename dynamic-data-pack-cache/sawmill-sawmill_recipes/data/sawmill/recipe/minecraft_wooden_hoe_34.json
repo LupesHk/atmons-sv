@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sweet_chestnut_log"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "productivetrees:sweet_chestnut_wood"
+      "item": "twilightforest:canopy_wood"
     },
     {
-      "item": "productivetrees:sweet_chestnut_stripped_log"
+      "item": "twilightforest:stripped_canopy_log"
     },
     {
-      "item": "productivetrees:sweet_chestnut_stripped_wood"
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {

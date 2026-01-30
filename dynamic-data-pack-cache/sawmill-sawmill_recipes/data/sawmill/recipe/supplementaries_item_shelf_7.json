@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:nutmeg_planks"
+    "item": "twilightforest:mining_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

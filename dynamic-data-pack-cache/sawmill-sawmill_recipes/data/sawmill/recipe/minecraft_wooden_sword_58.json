@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:lunar_log"
+      "item": "minecraft:acacia_log"
     },
     {
-      "item": "eternal_starlight:lunar_wood"
+      "item": "minecraft:acacia_wood"
     },
     {
-      "item": "eternal_starlight:stripped_lunar_log"
+      "item": "minecraft:stripped_acacia_log"
     },
     {
-      "item": "eternal_starlight:stripped_lunar_wood"
+      "item": "minecraft:stripped_acacia_wood"
     }
   ],
   "result": {

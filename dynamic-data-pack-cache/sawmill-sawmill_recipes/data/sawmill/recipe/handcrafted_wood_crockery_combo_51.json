@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:jungle_planks"
+    "item": "minecraft:dark_oak_planks"
   },
   "result": {
     "id": "handcrafted:wood_crockery_combo",

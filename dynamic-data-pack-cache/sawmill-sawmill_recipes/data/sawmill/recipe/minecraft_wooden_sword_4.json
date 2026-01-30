@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:aurum_log"
+      "item": "minecraft:birch_log"
     },
     {
-      "item": "forbidden_arcanus:aurum_wood"
+      "item": "minecraft:birch_wood"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_log"
+      "item": "minecraft:stripped_birch_log"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_wood"
+      "item": "minecraft:stripped_birch_wood"
     }
   ],
   "result": {

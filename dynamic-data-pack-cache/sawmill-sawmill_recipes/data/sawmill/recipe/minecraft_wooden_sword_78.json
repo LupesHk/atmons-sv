@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:ceylon_ebony_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "productivetrees:ceylon_ebony_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "productivetrees:ceylon_ebony_stripped_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "productivetrees:ceylon_ebony_stripped_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

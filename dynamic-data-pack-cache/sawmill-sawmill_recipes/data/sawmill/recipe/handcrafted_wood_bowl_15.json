@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:great_sallow_planks"
+    "item": "productivetrees:time_traveller_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

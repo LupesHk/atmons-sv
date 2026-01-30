@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:wild_cherry_planks"
+    "item": "productivetrees:white_willow_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

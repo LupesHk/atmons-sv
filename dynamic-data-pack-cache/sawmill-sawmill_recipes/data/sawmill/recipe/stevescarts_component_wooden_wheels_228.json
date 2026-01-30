@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brazil_nut_log"
+      "item": "twilightforest:mining_log"
     },
     {
-      "item": "productivetrees:brazil_nut_wood"
+      "item": "twilightforest:mining_wood"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_log"
+      "item": "twilightforest:stripped_mining_log"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_wood"
+      "item": "twilightforest:stripped_mining_wood"
     }
   ],
   "result": {

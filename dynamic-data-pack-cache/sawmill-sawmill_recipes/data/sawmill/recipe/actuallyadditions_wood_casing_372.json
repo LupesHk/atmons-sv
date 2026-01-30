@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:nectarine_log"
+      "item": "productivetrees:star_anise_log"
     },
     {
-      "item": "productivetrees:nectarine_wood"
+      "item": "productivetrees:star_anise_wood"
     },
     {
-      "item": "productivetrees:nectarine_stripped_log"
+      "item": "productivetrees:star_anise_stripped_log"
     },
     {
-      "item": "productivetrees:nectarine_stripped_wood"
+      "item": "productivetrees:star_anise_stripped_wood"
     }
   ],
   "result": {

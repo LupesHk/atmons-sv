@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:persimmon_log"
+      "item": "minecraft:oak_log"
     },
     {
-      "item": "productivetrees:persimmon_wood"
+      "item": "minecraft:oak_wood"
     },
     {
-      "item": "productivetrees:persimmon_stripped_log"
+      "item": "minecraft:stripped_oak_log"
     },
     {
-      "item": "productivetrees:persimmon_stripped_wood"
+      "item": "minecraft:stripped_oak_wood"
     }
   ],
   "result": {

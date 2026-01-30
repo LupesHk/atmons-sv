@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:northland_log"
+      "item": "productivetrees:flowering_crabapple_log"
     },
     {
-      "item": "eternal_starlight:northland_wood"
+      "item": "productivetrees:flowering_crabapple_wood"
     },
     {
-      "item": "eternal_starlight:stripped_northland_log"
+      "item": "productivetrees:flowering_crabapple_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_northland_wood"
+      "item": "productivetrees:flowering_crabapple_stripped_wood"
     }
   ],
   "result": {

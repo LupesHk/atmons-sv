@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:grongle_log"
+      "item": "productivetrees:blackthorn_log"
     },
     {
-      "item": "undergarden:grongle_wood"
+      "item": "productivetrees:blackthorn_wood"
     },
     {
-      "item": "undergarden:stripped_grongle_log"
+      "item": "productivetrees:blackthorn_stripped_log"
     },
     {
-      "item": "undergarden:stripped_grongle_wood"
+      "item": "productivetrees:blackthorn_stripped_wood"
     }
   ],
   "result": {

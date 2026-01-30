@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:holly_planks"
+    "item": "productivetrees:time_traveller_planks"
   },
   "result": {
     "id": "handcrafted:wood_crockery_combo",

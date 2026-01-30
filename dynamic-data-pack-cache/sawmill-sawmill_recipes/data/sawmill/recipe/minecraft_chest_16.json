@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:logwood_log"
+    },
+    {
+      "item": "productivetrees:logwood_wood"
+    },
+    {
+      "item": "productivetrees:logwood_stripped_log"
+    },
+    {
+      "item": "productivetrees:logwood_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chest",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

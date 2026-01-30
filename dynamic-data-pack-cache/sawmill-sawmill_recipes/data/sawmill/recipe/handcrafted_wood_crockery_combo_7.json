@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:nutmeg_planks"
+    "item": "productivetrees:balsam_fir_planks"
   },
   "result": {
     "id": "handcrafted:wood_crockery_combo",

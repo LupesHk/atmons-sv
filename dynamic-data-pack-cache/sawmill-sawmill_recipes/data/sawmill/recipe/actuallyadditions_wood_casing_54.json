@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:flickering_sun_log"
+      "item": "cobblemon:saccharine_log"
     },
     {
-      "item": "productivetrees:flickering_sun_wood"
+      "item": "cobblemon:saccharine_wood"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_log"
+      "item": "cobblemon:stripped_saccharine_log"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_wood"
+      "item": "cobblemon:stripped_saccharine_wood"
     }
   ],
   "result": {

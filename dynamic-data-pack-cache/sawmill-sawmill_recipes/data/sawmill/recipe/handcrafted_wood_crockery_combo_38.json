@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:avocado_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:avocado_wood"
-    },
-    {
-      "item": "productivetrees:avocado_stripped_log"
-    },
-    {
-      "item": "productivetrees:avocado_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "handcrafted:wood_crockery_combo",
-    "count": 4
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

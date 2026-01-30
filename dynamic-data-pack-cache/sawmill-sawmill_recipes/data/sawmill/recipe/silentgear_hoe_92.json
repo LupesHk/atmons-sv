@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:socotra_dragon_log"
+      "item": "productivetrees:padauk_log"
     },
     {
-      "item": "productivetrees:socotra_dragon_wood"
+      "item": "productivetrees:padauk_wood"
     },
     {
-      "item": "productivetrees:socotra_dragon_stripped_log"
+      "item": "productivetrees:padauk_stripped_log"
     },
     {
-      "item": "productivetrees:socotra_dragon_stripped_wood"
+      "item": "productivetrees:padauk_stripped_wood"
     }
   ],
   "result": {
