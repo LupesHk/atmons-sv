@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:persimmon_log"
+    },
+    {
+      "item": "productivetrees:persimmon_wood"
+    },
+    {
+      "item": "productivetrees:persimmon_stripped_log"
+    },
+    {
+      "item": "productivetrees:persimmon_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

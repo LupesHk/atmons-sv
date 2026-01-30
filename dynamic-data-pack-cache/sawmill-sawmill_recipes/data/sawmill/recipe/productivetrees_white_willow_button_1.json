@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:white_willow_planks"
+  },
+  "result": {
+    "id": "productivetrees:white_willow_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

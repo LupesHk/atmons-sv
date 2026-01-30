@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
+  "result": {
+    "id": "ars_nouveau:archwood_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

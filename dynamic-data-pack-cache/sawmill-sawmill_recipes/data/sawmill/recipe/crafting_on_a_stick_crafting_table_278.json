@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sour_cherry_log"
+    },
+    {
+      "item": "productivetrees:sour_cherry_wood"
+    },
+    {
+      "item": "productivetrees:sour_cherry_stripped_log"
+    },
+    {
+      "item": "productivetrees:sour_cherry_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "crafting_on_a_stick:crafting_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

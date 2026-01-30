@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:granny_smith_apple_stripped_log"
+  },
+  "result": {
+    "id": "productivetrees:granny_smith_apple_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:sequoia_log"
+  },
+  "result": {
+    "id": "productivetrees:sequoia_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

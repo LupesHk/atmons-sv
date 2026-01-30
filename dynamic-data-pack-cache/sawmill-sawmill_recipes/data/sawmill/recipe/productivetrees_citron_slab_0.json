@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:citron_log"
+    },
+    {
+      "item": "productivetrees:citron_wood"
+    },
+    {
+      "item": "productivetrees:citron_stripped_log"
+    },
+    {
+      "item": "productivetrees:citron_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:citron_slab",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

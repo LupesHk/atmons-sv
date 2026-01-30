@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:boxwood_planks"
+  },
+  "result": {
+    "id": "productivetrees:boxwood_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

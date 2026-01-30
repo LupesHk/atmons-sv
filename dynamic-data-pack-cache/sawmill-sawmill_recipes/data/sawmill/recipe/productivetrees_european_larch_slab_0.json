@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:european_larch_log"
+    },
+    {
+      "item": "productivetrees:european_larch_wood"
+    },
+    {
+      "item": "productivetrees:european_larch_stripped_log"
+    },
+    {
+      "item": "productivetrees:european_larch_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:european_larch_slab",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

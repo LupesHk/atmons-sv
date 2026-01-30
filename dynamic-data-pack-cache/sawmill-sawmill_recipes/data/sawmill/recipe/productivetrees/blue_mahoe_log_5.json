@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:blue_mahoe_wood"
+  },
+  "result": {
+    "id": "productivetrees:blue_mahoe_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

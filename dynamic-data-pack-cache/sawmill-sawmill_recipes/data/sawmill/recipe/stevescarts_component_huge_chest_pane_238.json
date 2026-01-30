@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "eternal_starlight:northland_log"
+    },
+    {
+      "item": "eternal_starlight:northland_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_northland_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_northland_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_huge_chest_pane",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

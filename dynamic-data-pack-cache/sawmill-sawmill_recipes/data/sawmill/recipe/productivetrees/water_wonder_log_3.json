@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:water_wonder_wood"
+  },
+  "result": {
+    "id": "productivetrees:water_wonder_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

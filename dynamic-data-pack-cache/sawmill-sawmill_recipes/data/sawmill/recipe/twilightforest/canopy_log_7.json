@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "twilightforest:stripped_canopy_log"
+  },
+  "result": {
+    "id": "twilightforest:stripped_canopy_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

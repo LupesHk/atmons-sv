@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "undergarden:grongle_log"
+    },
+    {
+      "item": "undergarden:grongle_wood"
+    },
+    {
+      "item": "undergarden:stripped_grongle_log"
+    },
+    {
+      "item": "undergarden:stripped_grongle_wood"
+    }
+  ],
+  "result": {
+    "id": "crafting_on_a_stick:crafting_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

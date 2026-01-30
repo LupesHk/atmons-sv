@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:avocado_log"
+    },
+    {
+      "item": "productivetrees:avocado_wood"
+    },
+    {
+      "item": "productivetrees:avocado_stripped_log"
+    },
+    {
+      "item": "productivetrees:avocado_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "oritech:machine_core_1",
+    "count": 1
+  },
+  "ingredient_count": 3,
+  "type": "sawmill:woodcutting"
+}

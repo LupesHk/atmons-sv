@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:yew_log"
+    },
+    {
+      "item": "productivetrees:yew_wood"
+    },
+    {
+      "item": "productivetrees:yew_stripped_log"
+    },
+    {
+      "item": "productivetrees:yew_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:crafting_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

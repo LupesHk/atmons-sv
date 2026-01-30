@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:carob_log"
+  },
+  "result": {
+    "id": "productivetrees:carob_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

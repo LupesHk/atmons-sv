@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:socotra_dragon_planks"
+  },
+  "result": {
+    "id": "productivetrees:socotra_dragon_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

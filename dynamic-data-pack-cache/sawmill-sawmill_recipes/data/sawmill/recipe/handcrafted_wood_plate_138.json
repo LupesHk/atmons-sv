@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
+  "result": {
+    "id": "handcrafted:wood_plate",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

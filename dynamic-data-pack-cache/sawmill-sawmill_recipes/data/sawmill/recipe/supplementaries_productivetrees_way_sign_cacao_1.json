@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:cacao_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_cacao",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

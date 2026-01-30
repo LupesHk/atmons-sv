@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:douglas_fir_log"
+    },
+    {
+      "item": "productivetrees:douglas_fir_wood"
+    },
+    {
+      "item": "productivetrees:douglas_fir_stripped_log"
+    },
+    {
+      "item": "productivetrees:douglas_fir_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:douglas_fir_trapdoor",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

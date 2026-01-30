@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:firecracker_log"
+    },
+    {
+      "item": "productivetrees:firecracker_wood"
+    },
+    {
+      "item": "productivetrees:firecracker_stripped_log"
+    },
+    {
+      "item": "productivetrees:firecracker_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

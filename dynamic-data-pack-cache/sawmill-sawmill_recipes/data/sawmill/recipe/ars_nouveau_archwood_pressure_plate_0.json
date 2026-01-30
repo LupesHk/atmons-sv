@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
+  "result": {
+    "id": "ars_nouveau:archwood_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

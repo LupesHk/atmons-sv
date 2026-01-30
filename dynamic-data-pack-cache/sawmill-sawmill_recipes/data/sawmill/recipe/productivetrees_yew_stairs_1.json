@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:yew_planks"
+  },
+  "result": {
+    "id": "productivetrees:yew_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

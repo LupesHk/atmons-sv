@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:lemon_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_lemon",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

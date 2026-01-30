@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:pecan_log"
+    },
+    {
+      "item": "productivetrees:pecan_wood"
+    },
+    {
+      "item": "productivetrees:pecan_stripped_log"
+    },
+    {
+      "item": "productivetrees:pecan_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:pecan_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

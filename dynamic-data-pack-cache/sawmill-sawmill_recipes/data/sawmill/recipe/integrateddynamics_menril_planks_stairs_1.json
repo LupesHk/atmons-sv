@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "integrateddynamics:menril_planks"
+  },
+  "result": {
+    "id": "integrateddynamics:menril_planks_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

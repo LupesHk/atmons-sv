@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:plum_log"
+    },
+    {
+      "item": "productivetrees:plum_wood"
+    },
+    {
+      "item": "productivetrees:plum_stripped_log"
+    },
+    {
+      "item": "productivetrees:plum_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:axe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

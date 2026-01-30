@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:black_ember_log"
+    },
+    {
+      "item": "productivetrees:black_ember_wood"
+    },
+    {
+      "item": "productivetrees:black_ember_stripped_log"
+    },
+    {
+      "item": "productivetrees:black_ember_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_plate",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

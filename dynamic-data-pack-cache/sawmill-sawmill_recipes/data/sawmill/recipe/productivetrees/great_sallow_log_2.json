@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:great_sallow_log"
+  },
+  "result": {
+    "id": "productivetrees:great_sallow_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

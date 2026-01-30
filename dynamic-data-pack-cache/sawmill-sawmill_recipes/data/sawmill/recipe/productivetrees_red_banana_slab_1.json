@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:red_banana_planks"
+  },
+  "result": {
+    "id": "productivetrees:red_banana_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

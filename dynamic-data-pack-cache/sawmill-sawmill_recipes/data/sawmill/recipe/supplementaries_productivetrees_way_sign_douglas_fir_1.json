@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:douglas_fir_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_douglas_fir",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

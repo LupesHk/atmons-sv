@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:cocobolo_log"
+    },
+    {
+      "item": "productivetrees:cocobolo_wood"
+    },
+    {
+      "item": "productivetrees:cocobolo_stripped_log"
+    },
+    {
+      "item": "productivetrees:cocobolo_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "cookingforblockheads:fruit_basket",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

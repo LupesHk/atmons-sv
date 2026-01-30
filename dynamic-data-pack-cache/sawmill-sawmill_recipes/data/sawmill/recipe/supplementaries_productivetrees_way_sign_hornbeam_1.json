@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:hornbeam_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_hornbeam",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

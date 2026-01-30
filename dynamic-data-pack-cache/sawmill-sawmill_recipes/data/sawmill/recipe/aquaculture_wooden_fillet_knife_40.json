@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:flowering_crabapple_log"
+    },
+    {
+      "item": "productivetrees:flowering_crabapple_wood"
+    },
+    {
+      "item": "productivetrees:flowering_crabapple_stripped_log"
+    },
+    {
+      "item": "productivetrees:flowering_crabapple_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "aquaculture:wooden_fillet_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

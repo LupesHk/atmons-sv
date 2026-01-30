@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:ginkgo_log"
+  },
+  "result": {
+    "id": "productivetrees:ginkgo_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

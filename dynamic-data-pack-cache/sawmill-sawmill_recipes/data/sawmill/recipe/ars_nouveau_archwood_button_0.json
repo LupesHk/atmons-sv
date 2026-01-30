@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
+  "result": {
+    "id": "ars_nouveau:archwood_button",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

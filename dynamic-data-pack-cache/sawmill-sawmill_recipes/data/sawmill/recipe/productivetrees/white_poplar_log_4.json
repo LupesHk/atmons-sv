@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:white_poplar_wood"
+  },
+  "result": {
+    "id": "productivetrees:white_poplar_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

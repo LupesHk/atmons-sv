@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:walnut_stripped_log"
+  },
+  "result": {
+    "id": "productivetrees:walnut_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

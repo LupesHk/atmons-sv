@@ -1,0 +1,8 @@
+{
+	"server": {
+		"banned_block_entities": [],
+		"banned_items": [],
+		"banned_entities": [],
+		"remove_recipes_by": []
+	}
+}

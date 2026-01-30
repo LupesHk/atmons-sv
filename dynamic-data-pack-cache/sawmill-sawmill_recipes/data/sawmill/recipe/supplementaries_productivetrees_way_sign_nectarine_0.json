@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:nectarine_log"
+    },
+    {
+      "item": "productivetrees:nectarine_wood"
+    },
+    {
+      "item": "productivetrees:nectarine_stripped_log"
+    },
+    {
+      "item": "productivetrees:nectarine_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_nectarine",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

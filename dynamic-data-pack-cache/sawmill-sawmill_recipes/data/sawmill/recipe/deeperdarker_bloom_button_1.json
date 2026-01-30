@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "deeperdarker:bloom_planks"
+  },
+  "result": {
+    "id": "deeperdarker:bloom_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

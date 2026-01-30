@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:star_anise_log"
+    },
+    {
+      "item": "productivetrees:star_anise_wood"
+    },
+    {
+      "item": "productivetrees:star_anise_stripped_log"
+    },
+    {
+      "item": "productivetrees:star_anise_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "actuallyadditions:crafter_on_a_stick",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

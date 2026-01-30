@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:avocado_planks"
+  },
+  "result": {
+    "id": "productivetrees:avocado_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

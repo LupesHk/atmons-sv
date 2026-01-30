@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "twilightforest:mining_wood"
+  },
+  "result": {
+    "id": "twilightforest:mining_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

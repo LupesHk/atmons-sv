@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:tangerine_log"
+    },
+    {
+      "item": "productivetrees:tangerine_wood"
+    },
+    {
+      "item": "productivetrees:tangerine_stripped_log"
+    },
+    {
+      "item": "productivetrees:tangerine_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:cutting_board",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

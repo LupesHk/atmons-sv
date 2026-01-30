@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:foggy_blast_log"
+    },
+    {
+      "item": "productivetrees:foggy_blast_wood"
+    },
+    {
+      "item": "productivetrees:foggy_blast_stripped_log"
+    },
+    {
+      "item": "productivetrees:foggy_blast_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "actuallyadditions:wood_casing",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

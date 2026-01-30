@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:pistachio_log"
+    },
+    {
+      "item": "productivetrees:pistachio_wood"
+    },
+    {
+      "item": "productivetrees:pistachio_stripped_log"
+    },
+    {
+      "item": "productivetrees:pistachio_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

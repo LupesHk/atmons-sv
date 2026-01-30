@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "aether:skyroot_planks"
+  },
+  "result": {
+    "id": "aether:skyroot_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

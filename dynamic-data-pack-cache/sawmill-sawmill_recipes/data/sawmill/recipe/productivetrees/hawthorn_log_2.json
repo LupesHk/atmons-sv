@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:hawthorn_log"
+  },
+  "result": {
+    "id": "productivetrees:hawthorn_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

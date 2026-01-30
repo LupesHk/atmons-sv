@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:lime_log"
+    },
+    {
+      "item": "productivetrees:lime_wood"
+    },
+    {
+      "item": "productivetrees:lime_stripped_log"
+    },
+    {
+      "item": "productivetrees:lime_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

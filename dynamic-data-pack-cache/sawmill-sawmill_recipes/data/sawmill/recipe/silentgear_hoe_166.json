@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:white_poplar_log"
+    },
+    {
+      "item": "productivetrees:white_poplar_wood"
+    },
+    {
+      "item": "productivetrees:white_poplar_stripped_log"
+    },
+    {
+      "item": "productivetrees:white_poplar_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

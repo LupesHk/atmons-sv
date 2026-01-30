@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:aquilaria_log"
+  },
+  "result": {
+    "id": "productivetrees:aquilaria_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

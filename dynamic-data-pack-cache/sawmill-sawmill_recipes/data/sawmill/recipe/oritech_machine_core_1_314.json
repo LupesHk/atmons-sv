@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:rainbow_gum_log"
+    },
+    {
+      "item": "productivetrees:rainbow_gum_wood"
+    },
+    {
+      "item": "productivetrees:rainbow_gum_stripped_log"
+    },
+    {
+      "item": "productivetrees:rainbow_gum_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "oritech:machine_core_1",
+    "count": 1
+  },
+  "ingredient_count": 3,
+  "type": "sawmill:woodcutting"
+}

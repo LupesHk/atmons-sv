@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "eternal_starlight:banyin_planks"
+  },
+  "result": {
+    "id": "eternal_starlight:banyin_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

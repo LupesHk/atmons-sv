@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:cedar_log"
+    },
+    {
+      "item": "productivetrees:cedar_wood"
+    },
+    {
+      "item": "productivetrees:cedar_stripped_log"
+    },
+    {
+      "item": "productivetrees:cedar_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_cedar",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

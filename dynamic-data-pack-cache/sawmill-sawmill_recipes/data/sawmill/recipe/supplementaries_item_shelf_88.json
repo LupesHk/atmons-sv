@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
+  "result": {
+    "id": "supplementaries:item_shelf",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}

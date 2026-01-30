@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:warped_planks"
+  },
+  "result": {
+    "id": "sophisticatedstorage:warped_storage_connector",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

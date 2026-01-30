@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:star_anise_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_star_anise",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

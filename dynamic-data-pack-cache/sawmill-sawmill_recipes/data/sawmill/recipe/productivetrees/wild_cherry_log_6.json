@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:wild_cherry_stripped_wood"
+  },
+  "result": {
+    "id": "productivetrees:wild_cherry_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:silver_fir_planks"
+  },
+  "result": {
+    "id": "productivetrees:silver_fir_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

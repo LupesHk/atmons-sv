@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "eternal_starlight:scarlet_log"
+    },
+    {
+      "item": "eternal_starlight:scarlet_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_scarlet_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_scarlet_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_cup",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

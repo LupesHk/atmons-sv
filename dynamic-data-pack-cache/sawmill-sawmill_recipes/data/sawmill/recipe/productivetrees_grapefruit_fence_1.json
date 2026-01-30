@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:grapefruit_planks"
+  },
+  "result": {
+    "id": "productivetrees:grapefruit_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

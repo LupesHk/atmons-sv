@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:beliy_naliv_apple_planks"
+  },
+  "result": {
+    "id": "productivetrees:beliy_naliv_apple_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

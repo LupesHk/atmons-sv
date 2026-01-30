@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:cacao_planks"
+  },
+  "result": {
+    "id": "productivetrees:cacao_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

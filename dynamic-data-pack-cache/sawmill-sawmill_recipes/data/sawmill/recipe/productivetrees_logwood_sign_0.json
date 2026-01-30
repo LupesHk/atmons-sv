@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:logwood_log"
+    },
+    {
+      "item": "productivetrees:logwood_wood"
+    },
+    {
+      "item": "productivetrees:logwood_stripped_log"
+    },
+    {
+      "item": "productivetrees:logwood_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:logwood_sign",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

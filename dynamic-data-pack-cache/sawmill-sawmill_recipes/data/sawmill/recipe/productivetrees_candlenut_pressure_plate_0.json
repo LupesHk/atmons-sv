@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:candlenut_log"
+    },
+    {
+      "item": "productivetrees:candlenut_wood"
+    },
+    {
+      "item": "productivetrees:candlenut_stripped_log"
+    },
+    {
+      "item": "productivetrees:candlenut_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:candlenut_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "naturesaura:ancient_bark"
+  },
+  "result": {
+    "id": "naturesaura:ancient_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

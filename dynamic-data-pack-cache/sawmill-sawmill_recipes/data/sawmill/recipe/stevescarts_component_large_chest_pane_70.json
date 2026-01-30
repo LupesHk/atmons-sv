@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:star_anise_log"
+    },
+    {
+      "item": "productivetrees:star_anise_wood"
+    },
+    {
+      "item": "productivetrees:star_anise_stripped_log"
+    },
+    {
+      "item": "productivetrees:star_anise_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

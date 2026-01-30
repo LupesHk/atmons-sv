@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:prairie_crabapple_log"
+  },
+  "result": {
+    "id": "productivetrees:prairie_crabapple_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

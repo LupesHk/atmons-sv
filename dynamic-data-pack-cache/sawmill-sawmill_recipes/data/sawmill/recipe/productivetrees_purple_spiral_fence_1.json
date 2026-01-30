@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:purple_spiral_planks"
+  },
+  "result": {
+    "id": "productivetrees:purple_spiral_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:monkey_puzzle_log"
+    },
+    {
+      "item": "productivetrees:monkey_puzzle_wood"
+    },
+    {
+      "item": "productivetrees:monkey_puzzle_stripped_log"
+    },
+    {
+      "item": "productivetrees:monkey_puzzle_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_wooden_wheels",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

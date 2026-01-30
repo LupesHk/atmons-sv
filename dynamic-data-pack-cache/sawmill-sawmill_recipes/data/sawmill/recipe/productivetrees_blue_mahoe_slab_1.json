@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:blue_mahoe_planks"
+  },
+  "result": {
+    "id": "productivetrees:blue_mahoe_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

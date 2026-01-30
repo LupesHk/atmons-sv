@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:peach_log"
+  },
+  "result": {
+    "id": "productivetrees:peach_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

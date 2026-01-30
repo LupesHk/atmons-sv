@@ -1,0 +1,12 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
+  "result": {
+    "id": "oritech:machine_core_1",
+    "count": 1
+  },
+  "ingredient_count": 6,
+  "type": "sawmill:woodcutting"
+}

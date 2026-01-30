@@ -1,0 +1,17 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:stripped_demonic_log"
+    }
+  ],
+  "result": {
+    "id": "oritech:machine_core_1",
+    "count": 1
+  },
+  "ingredient_count": 3,
+  "type": "sawmill:woodcutting"
+}

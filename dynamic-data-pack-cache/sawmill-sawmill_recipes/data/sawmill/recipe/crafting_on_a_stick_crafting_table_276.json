@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:lawson_cypress_log"
+    },
+    {
+      "item": "productivetrees:lawson_cypress_wood"
+    },
+    {
+      "item": "productivetrees:lawson_cypress_stripped_log"
+    },
+    {
+      "item": "productivetrees:lawson_cypress_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "crafting_on_a_stick:crafting_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:brazilwood_planks"
+  },
+  "result": {
+    "id": "productivetrees:brazilwood_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

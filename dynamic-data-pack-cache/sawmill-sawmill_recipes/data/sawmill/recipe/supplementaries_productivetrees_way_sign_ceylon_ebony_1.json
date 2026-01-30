@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:ceylon_ebony_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_ceylon_ebony",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

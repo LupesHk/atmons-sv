@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:socotra_dragon_log"
+    },
+    {
+      "item": "productivetrees:socotra_dragon_wood"
+    },
+    {
+      "item": "productivetrees:socotra_dragon_stripped_log"
+    },
+    {
+      "item": "productivetrees:socotra_dragon_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

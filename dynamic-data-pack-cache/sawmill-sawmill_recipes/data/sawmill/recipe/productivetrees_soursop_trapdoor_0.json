@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:soursop_log"
+    },
+    {
+      "item": "productivetrees:soursop_wood"
+    },
+    {
+      "item": "productivetrees:soursop_stripped_log"
+    },
+    {
+      "item": "productivetrees:soursop_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:soursop_trapdoor",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

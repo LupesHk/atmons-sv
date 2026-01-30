@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:rowan_log"
+    },
+    {
+      "item": "productivetrees:rowan_wood"
+    },
+    {
+      "item": "productivetrees:rowan_stripped_log"
+    },
+    {
+      "item": "productivetrees:rowan_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:rowan_stairs",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

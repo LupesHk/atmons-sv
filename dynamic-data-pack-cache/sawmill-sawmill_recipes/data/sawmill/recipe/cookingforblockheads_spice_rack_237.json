@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "eternal_starlight:lunar_planks"
+  },
+  "result": {
+    "id": "cookingforblockheads:spice_rack",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "eternal_starlight:torreya_wood"
+  },
+  "result": {
+    "id": "eternal_starlight:stripped_torreya_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

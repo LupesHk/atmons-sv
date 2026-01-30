@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:monkey_puzzle_log"
+    },
+    {
+      "item": "productivetrees:monkey_puzzle_wood"
+    },
+    {
+      "item": "productivetrees:monkey_puzzle_stripped_log"
+    },
+    {
+      "item": "productivetrees:monkey_puzzle_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

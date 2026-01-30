@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:wenge_log"
+  },
+  "result": {
+    "id": "productivetrees:wenge_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

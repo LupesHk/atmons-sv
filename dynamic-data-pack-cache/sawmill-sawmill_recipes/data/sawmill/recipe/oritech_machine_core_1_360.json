@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:slimy_delight_log"
+    },
+    {
+      "item": "productivetrees:slimy_delight_wood"
+    },
+    {
+      "item": "productivetrees:slimy_delight_stripped_log"
+    },
+    {
+      "item": "productivetrees:slimy_delight_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "oritech:machine_core_1",
+    "count": 1
+  },
+  "ingredient_count": 3,
+  "type": "sawmill:woodcutting"
+}

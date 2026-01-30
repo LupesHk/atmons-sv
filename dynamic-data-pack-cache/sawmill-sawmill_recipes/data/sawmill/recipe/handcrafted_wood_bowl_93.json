@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "cataclysm:chorus_planks"
+  },
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

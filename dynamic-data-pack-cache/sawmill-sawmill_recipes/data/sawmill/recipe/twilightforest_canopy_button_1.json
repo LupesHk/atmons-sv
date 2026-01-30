@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "twilightforest:canopy_planks"
+  },
+  "result": {
+    "id": "twilightforest:canopy_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

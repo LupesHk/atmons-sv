@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:crimson_planks"
+  },
+  "result": {
+    "id": "minecraft:crimson_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:tuscarora_crepe_myrtle_log"
+    },
+    {
+      "item": "productivetrees:tuscarora_crepe_myrtle_wood"
+    },
+    {
+      "item": "productivetrees:tuscarora_crepe_myrtle_stripped_log"
+    },
+    {
+      "item": "productivetrees:tuscarora_crepe_myrtle_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:tuscarora_crepe_myrtle_fence",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}

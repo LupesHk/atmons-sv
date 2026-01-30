@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:cultivated_pear_planks"
+  },
+  "result": {
+    "id": "productivetrees:cultivated_pear_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

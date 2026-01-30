@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "undergarden:grongle_log"
+  },
+  "result": {
+    "id": "undergarden:grongle_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:slimy_delight_wood"
+  },
+  "result": {
+    "id": "productivetrees:slimy_delight_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

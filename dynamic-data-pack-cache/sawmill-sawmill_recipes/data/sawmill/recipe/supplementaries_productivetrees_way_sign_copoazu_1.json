@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:copoazu_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_copoazu",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

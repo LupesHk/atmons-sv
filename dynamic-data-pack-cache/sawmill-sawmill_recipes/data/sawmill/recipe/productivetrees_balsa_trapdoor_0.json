@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:balsa_log"
+    },
+    {
+      "item": "productivetrees:balsa_wood"
+    },
+    {
+      "item": "productivetrees:balsa_stripped_log"
+    },
+    {
+      "item": "productivetrees:balsa_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:balsa_trapdoor",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:old_fustic_log"
+  },
+  "result": {
+    "id": "productivetrees:old_fustic_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

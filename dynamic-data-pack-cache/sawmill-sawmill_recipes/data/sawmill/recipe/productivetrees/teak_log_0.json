@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:teak_log"
+  },
+  "result": {
+    "id": "productivetrees:teak_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:mango_log"
+    },
+    {
+      "item": "productivetrees:mango_wood"
+    },
+    {
+      "item": "productivetrees:mango_stripped_log"
+    },
+    {
+      "item": "productivetrees:mango_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_mango",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

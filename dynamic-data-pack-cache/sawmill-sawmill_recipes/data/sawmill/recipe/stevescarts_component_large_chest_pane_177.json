@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:jackfruit_planks"
+  },
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

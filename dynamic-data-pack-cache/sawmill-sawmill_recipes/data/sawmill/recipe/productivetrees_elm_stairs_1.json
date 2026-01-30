@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:elm_planks"
+  },
+  "result": {
+    "id": "productivetrees:elm_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

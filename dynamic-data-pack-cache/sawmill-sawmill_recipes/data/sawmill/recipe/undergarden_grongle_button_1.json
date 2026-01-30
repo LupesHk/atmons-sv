@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "undergarden:grongle_planks"
+  },
+  "result": {
+    "id": "undergarden:grongle_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

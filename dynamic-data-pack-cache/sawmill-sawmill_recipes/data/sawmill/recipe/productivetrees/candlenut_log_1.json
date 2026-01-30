@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:candlenut_log"
+  },
+  "result": {
+    "id": "productivetrees:candlenut_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

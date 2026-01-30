@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "undergarden:smogstem_wood"
+  },
+  "result": {
+    "id": "undergarden:stripped_smogstem_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,20 @@
+{
+  "values": [
+    "#c:is_dry",
+    "#c:is_birch_forest",
+    "#c:is_dead",
+    "#c:is_dense_vegetation",
+    "#c:is_floral",
+    "#c:is_forest",
+    "#c:is_jungle",
+    "#c:is_magical",
+    "#c:is_old_growth",
+    "#c:is_plains",
+    "#c:is_plateau",
+    "#c:is_sandy",
+    "#c:is_sparse_vegetation",
+    "#c:is_taiga",
+    "#c:is_wasteland",
+    "#c:is_windswept"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:orange_log"
+    },
+    {
+      "item": "productivetrees:orange_wood"
+    },
+    {
+      "item": "productivetrees:orange_stripped_log"
+    },
+    {
+      "item": "productivetrees:orange_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

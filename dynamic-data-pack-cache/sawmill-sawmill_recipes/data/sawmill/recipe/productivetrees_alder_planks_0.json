@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:alder_log"
+    },
+    {
+      "item": "productivetrees:alder_wood"
+    },
+    {
+      "item": "productivetrees:alder_stripped_log"
+    },
+    {
+      "item": "productivetrees:alder_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:alder_planks",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

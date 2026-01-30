@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:nutmeg_log"
+    },
+    {
+      "item": "productivetrees:nutmeg_wood"
+    },
+    {
+      "item": "productivetrees:nutmeg_stripped_log"
+    },
+    {
+      "item": "productivetrees:nutmeg_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

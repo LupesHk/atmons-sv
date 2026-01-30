@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:persimmon_log"
+    },
+    {
+      "item": "productivetrees:persimmon_wood"
+    },
+    {
+      "item": "productivetrees:persimmon_stripped_log"
+    },
+    {
+      "item": "productivetrees:persimmon_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "oritech:machine_core_1",
+    "count": 1
+  },
+  "ingredient_count": 3,
+  "type": "sawmill:woodcutting"
+}

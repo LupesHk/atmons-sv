@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:teak_log"
+    },
+    {
+      "item": "productivetrees:teak_wood"
+    },
+    {
+      "item": "productivetrees:teak_stripped_log"
+    },
+    {
+      "item": "productivetrees:teak_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:mahogany_log"
+    },
+    {
+      "item": "productivetrees:mahogany_wood"
+    },
+    {
+      "item": "productivetrees:mahogany_stripped_log"
+    },
+    {
+      "item": "productivetrees:mahogany_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

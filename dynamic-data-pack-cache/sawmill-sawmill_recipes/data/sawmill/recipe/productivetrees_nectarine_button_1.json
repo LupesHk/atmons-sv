@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:nectarine_planks"
+  },
+  "result": {
+    "id": "productivetrees:nectarine_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

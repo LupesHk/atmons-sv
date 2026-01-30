@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:pistachio_wood"
+  },
+  "result": {
+    "id": "productivetrees:pistachio_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

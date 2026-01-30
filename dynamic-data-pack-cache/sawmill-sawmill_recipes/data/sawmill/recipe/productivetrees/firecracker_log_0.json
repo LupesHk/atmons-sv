@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:firecracker_log"
+  },
+  "result": {
+    "id": "productivetrees:firecracker_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

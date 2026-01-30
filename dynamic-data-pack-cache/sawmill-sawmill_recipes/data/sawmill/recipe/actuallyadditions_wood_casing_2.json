@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:elm_log"
+    },
+    {
+      "item": "productivetrees:elm_wood"
+    },
+    {
+      "item": "productivetrees:elm_stripped_log"
+    },
+    {
+      "item": "productivetrees:elm_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "actuallyadditions:wood_casing",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

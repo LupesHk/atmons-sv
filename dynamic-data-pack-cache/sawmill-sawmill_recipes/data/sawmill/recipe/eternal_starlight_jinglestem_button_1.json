@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "eternal_starlight:jinglestem_planks"
+  },
+  "result": {
+    "id": "eternal_starlight:jinglestem_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

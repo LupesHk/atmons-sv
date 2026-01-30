@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "twilightforest:dark_wood"
+  },
+  "result": {
+    "id": "twilightforest:stripped_dark_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

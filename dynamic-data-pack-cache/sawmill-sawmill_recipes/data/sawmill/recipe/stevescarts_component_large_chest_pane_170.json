@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:kumquat_log"
+    },
+    {
+      "item": "productivetrees:kumquat_wood"
+    },
+    {
+      "item": "productivetrees:kumquat_stripped_log"
+    },
+    {
+      "item": "productivetrees:kumquat_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

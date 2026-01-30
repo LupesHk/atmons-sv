@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:white_poplar_log"
+    },
+    {
+      "item": "productivetrees:white_poplar_wood"
+    },
+    {
+      "item": "productivetrees:white_poplar_stripped_log"
+    },
+    {
+      "item": "productivetrees:white_poplar_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "actuallyadditions:wood_casing",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

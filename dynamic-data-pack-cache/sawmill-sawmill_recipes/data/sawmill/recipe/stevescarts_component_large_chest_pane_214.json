@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:cacao_log"
+    },
+    {
+      "item": "productivetrees:cacao_wood"
+    },
+    {
+      "item": "productivetrees:cacao_stripped_log"
+    },
+    {
+      "item": "productivetrees:cacao_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

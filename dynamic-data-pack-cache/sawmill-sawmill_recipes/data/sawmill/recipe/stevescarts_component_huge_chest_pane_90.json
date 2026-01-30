@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:flickering_sun_log"
+    },
+    {
+      "item": "productivetrees:flickering_sun_wood"
+    },
+    {
+      "item": "productivetrees:flickering_sun_stripped_log"
+    },
+    {
+      "item": "productivetrees:flickering_sun_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_huge_chest_pane",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

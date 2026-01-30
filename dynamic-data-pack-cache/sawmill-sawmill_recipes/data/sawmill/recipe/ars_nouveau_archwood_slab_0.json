@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
+  "result": {
+    "id": "ars_nouveau:archwood_slab",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

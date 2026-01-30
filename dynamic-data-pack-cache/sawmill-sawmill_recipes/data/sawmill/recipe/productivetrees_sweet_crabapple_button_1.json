@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:sweet_crabapple_planks"
+  },
+  "result": {
+    "id": "productivetrees:sweet_crabapple_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

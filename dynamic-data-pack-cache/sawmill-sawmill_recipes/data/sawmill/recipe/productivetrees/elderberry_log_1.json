@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:elderberry_log"
+  },
+  "result": {
+    "id": "productivetrees:elderberry_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

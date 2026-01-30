@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "eternal_starlight:scarlet_log"
+    },
+    {
+      "item": "eternal_starlight:scarlet_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_scarlet_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_scarlet_wood"
+    }
+  ],
+  "result": {
+    "id": "eternal_starlight:scarlet_button",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

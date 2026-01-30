@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "twilightforest:time_planks"
+  },
+  "result": {
+    "id": "twilightforest:time_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

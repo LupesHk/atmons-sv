@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:dogwood_log"
+    },
+    {
+      "item": "productivetrees:dogwood_wood"
+    },
+    {
+      "item": "productivetrees:dogwood_stripped_log"
+    },
+    {
+      "item": "productivetrees:dogwood_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_plate",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "undergarden:wigglewood_log"
+    },
+    {
+      "item": "undergarden:wigglewood_wood"
+    },
+    {
+      "item": "undergarden:stripped_wigglewood_log"
+    },
+    {
+      "item": "undergarden:stripped_wigglewood_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_crockery_combo",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

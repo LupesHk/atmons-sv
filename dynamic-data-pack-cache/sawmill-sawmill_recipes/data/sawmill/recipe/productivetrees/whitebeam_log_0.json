@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:whitebeam_log"
+  },
+  "result": {
+    "id": "productivetrees:whitebeam_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

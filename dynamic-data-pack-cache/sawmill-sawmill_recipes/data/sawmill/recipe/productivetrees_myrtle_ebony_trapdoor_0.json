@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:myrtle_ebony_log"
+    },
+    {
+      "item": "productivetrees:myrtle_ebony_wood"
+    },
+    {
+      "item": "productivetrees:myrtle_ebony_stripped_log"
+    },
+    {
+      "item": "productivetrees:myrtle_ebony_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:myrtle_ebony_trapdoor",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

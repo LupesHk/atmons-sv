@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:hornbeam_log"
+    },
+    {
+      "item": "productivetrees:hornbeam_wood"
+    },
+    {
+      "item": "productivetrees:hornbeam_stripped_log"
+    },
+    {
+      "item": "productivetrees:hornbeam_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:module_seat",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

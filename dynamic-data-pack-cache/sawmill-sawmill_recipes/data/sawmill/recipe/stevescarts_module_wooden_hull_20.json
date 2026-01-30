@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:foggy_blast_log"
+    },
+    {
+      "item": "productivetrees:foggy_blast_wood"
+    },
+    {
+      "item": "productivetrees:foggy_blast_stripped_log"
+    },
+    {
+      "item": "productivetrees:foggy_blast_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:module_wooden_hull",
+    "count": 1
+  },
+  "ingredient_count": 3,
+  "type": "sawmill:woodcutting"
+}

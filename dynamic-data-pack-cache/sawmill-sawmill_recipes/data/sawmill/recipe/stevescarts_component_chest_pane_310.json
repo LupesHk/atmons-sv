@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:papaya_log"
+    },
+    {
+      "item": "productivetrees:papaya_wood"
+    },
+    {
+      "item": "productivetrees:papaya_stripped_log"
+    },
+    {
+      "item": "productivetrees:papaya_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

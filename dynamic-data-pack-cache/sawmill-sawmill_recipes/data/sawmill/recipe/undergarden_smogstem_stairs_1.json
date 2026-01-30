@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "undergarden:smogstem_planks"
+  },
+  "result": {
+    "id": "undergarden:smogstem_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

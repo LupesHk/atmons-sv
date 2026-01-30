@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:persimmon_log"
+  },
+  "result": {
+    "id": "productivetrees:persimmon_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

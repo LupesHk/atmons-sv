@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:whitebeam_planks"
+  },
+  "result": {
+    "id": "productivetrees:whitebeam_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

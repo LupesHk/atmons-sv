@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:cinnamon_wood"
+  },
+  "result": {
+    "id": "productivetrees:cinnamon_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

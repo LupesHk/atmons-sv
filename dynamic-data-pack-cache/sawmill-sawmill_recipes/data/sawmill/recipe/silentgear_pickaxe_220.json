@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
+  "result": {
+    "id": "silentgear:pickaxe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

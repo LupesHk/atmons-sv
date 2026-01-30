@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:rippling_willow_log"
+  },
+  "result": {
+    "id": "productivetrees:rippling_willow_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

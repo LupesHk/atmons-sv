@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "cobblemon:apricorn_wood"
+  },
+  "result": {
+    "id": "cobblemon:apricorn_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:rubber_tree_planks"
+  },
+  "result": {
+    "id": "productivetrees:rubber_tree_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

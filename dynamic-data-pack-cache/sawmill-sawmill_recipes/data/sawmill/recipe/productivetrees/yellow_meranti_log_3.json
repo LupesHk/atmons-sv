@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:yellow_meranti_wood"
+  },
+  "result": {
+    "id": "productivetrees:yellow_meranti_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

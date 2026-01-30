@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:butternut_log"
+    },
+    {
+      "item": "productivetrees:butternut_wood"
+    },
+    {
+      "item": "productivetrees:butternut_stripped_log"
+    },
+    {
+      "item": "productivetrees:butternut_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

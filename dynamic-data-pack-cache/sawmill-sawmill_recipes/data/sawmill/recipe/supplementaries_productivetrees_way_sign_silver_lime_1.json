@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:silver_lime_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_silver_lime",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

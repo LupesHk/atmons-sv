@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:walnut_log"
+    },
+    {
+      "item": "productivetrees:walnut_wood"
+    },
+    {
+      "item": "productivetrees:walnut_stripped_log"
+    },
+    {
+      "item": "productivetrees:walnut_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:pandanus_planks"
+  },
+  "result": {
+    "id": "productivetrees:pandanus_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

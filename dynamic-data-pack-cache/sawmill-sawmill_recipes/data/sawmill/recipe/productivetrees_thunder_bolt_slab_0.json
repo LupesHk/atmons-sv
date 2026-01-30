@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:thunder_bolt_log"
+    },
+    {
+      "item": "productivetrees:thunder_bolt_wood"
+    },
+    {
+      "item": "productivetrees:thunder_bolt_stripped_log"
+    },
+    {
+      "item": "productivetrees:thunder_bolt_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:thunder_bolt_slab",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

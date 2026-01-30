@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "forbidden_arcanus:aurum_log"
+    },
+    {
+      "item": "forbidden_arcanus:aurum_wood"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_aurum_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_aurum_wood"
+    }
+  ],
+  "result": {
+    "id": "mekanismtools:wood_paxel",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

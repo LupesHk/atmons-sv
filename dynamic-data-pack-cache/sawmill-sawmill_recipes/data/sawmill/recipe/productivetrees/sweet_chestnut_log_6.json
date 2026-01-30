@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:sweet_chestnut_stripped_wood"
+  },
+  "result": {
+    "id": "productivetrees:sweet_chestnut_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

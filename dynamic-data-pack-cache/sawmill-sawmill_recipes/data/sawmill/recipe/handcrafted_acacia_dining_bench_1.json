@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:acacia_planks"
+  },
+  "result": {
+    "id": "handcrafted:acacia_dining_bench",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

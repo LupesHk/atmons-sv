@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:brazilwood_log"
+    },
+    {
+      "item": "productivetrees:brazilwood_wood"
+    },
+    {
+      "item": "productivetrees:brazilwood_stripped_log"
+    },
+    {
+      "item": "productivetrees:brazilwood_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_brazilwood",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

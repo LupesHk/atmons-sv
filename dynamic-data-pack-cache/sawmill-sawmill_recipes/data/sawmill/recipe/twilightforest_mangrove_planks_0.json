@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "twilightforest:mangrove_log"
+    },
+    {
+      "item": "twilightforest:mangrove_wood"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_log"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_wood"
+    }
+  ],
+  "result": {
+    "id": "twilightforest:mangrove_planks",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

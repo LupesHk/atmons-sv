@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:black_ember_log"
+  },
+  "result": {
+    "id": "productivetrees:black_ember_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

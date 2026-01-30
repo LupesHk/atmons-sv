@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:brazil_nut_log"
+  },
+  "result": {
+    "id": "productivetrees:brazil_nut_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

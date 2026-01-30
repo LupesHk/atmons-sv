@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:salak_log"
+    },
+    {
+      "item": "productivetrees:salak_wood"
+    },
+    {
+      "item": "productivetrees:salak_stripped_log"
+    },
+    {
+      "item": "productivetrees:salak_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:salak_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

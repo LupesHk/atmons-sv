@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:purple_blackthorn_wood"
+  },
+  "result": {
+    "id": "productivetrees:purple_blackthorn_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

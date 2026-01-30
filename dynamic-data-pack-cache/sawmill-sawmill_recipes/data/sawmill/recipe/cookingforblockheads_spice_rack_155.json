@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:key_lime_planks"
+  },
+  "result": {
+    "id": "cookingforblockheads:spice_rack",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

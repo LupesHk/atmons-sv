@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:satsuma_wood"
+  },
+  "result": {
+    "id": "productivetrees:satsuma_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

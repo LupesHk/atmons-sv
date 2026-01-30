@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "twilightforest:dark_log"
+    },
+    {
+      "item": "twilightforest:dark_wood"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    },
+    {
+      "item": "twilightforest:stripped_dark_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_shovel",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

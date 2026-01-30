@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:balsa_planks"
+  },
+  "result": {
+    "id": "productivetrees:balsa_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

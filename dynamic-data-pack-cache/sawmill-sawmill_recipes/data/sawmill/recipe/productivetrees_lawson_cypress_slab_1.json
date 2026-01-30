@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:lawson_cypress_planks"
+  },
+  "result": {
+    "id": "productivetrees:lawson_cypress_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

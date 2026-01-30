@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:clove_log"
+    },
+    {
+      "item": "productivetrees:clove_wood"
+    },
+    {
+      "item": "productivetrees:clove_stripped_log"
+    },
+    {
+      "item": "productivetrees:clove_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

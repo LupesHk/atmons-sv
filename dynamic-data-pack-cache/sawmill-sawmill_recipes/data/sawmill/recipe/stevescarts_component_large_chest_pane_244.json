@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sweetgum_log"
+    },
+    {
+      "item": "productivetrees:sweetgum_wood"
+    },
+    {
+      "item": "productivetrees:sweetgum_stripped_log"
+    },
+    {
+      "item": "productivetrees:sweetgum_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

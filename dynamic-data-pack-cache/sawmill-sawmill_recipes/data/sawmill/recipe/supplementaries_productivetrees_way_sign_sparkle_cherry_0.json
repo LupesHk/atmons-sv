@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sparkle_cherry_log"
+    },
+    {
+      "item": "productivetrees:sparkle_cherry_wood"
+    },
+    {
+      "item": "productivetrees:sparkle_cherry_stripped_log"
+    },
+    {
+      "item": "productivetrees:sparkle_cherry_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_sparkle_cherry",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

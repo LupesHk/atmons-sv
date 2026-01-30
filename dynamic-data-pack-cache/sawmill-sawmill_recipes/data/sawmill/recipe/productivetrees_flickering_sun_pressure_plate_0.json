@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:flickering_sun_log"
+    },
+    {
+      "item": "productivetrees:flickering_sun_wood"
+    },
+    {
+      "item": "productivetrees:flickering_sun_stripped_log"
+    },
+    {
+      "item": "productivetrees:flickering_sun_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:flickering_sun_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}
