@@ -1,17 +1,12 @@
 @echo off
-title Servidor ATM10 - Sync Git + Playit
+title Servidor ATMONS - by Lupes.
 
-REM [ALTERADO] garante que duplo clique rode na pasta certa
 cd /d "%~dp0"
 
-REM ===========================
-REM CONFIG
-REM ===========================
-REM [ALTERADO] antes era git portable: SET "GIT=%~dp0git\bin\git.exe"
 SET "GIT=git"
 SET "BRANCH=main"
 
-SET "REPO_CLEAN=https://github.com/LupesHk/atm10sv"
+SET "REPO_CLEAN=https://github.com/LupesHk/atmons-sv"
 SET "GIT_TOKEN="
 SET "REPO_TOKEN="
 
@@ -23,19 +18,13 @@ SET "ZIP_NAME=world.zip"
 SET "NEOFORGE_VERSION=21.1.219"
 SET "JAVA_CMD=java @user_jvm_args.txt @libraries\net\neoforged\neoforge\%NEOFORGE_VERSION%\win_args.txt nogui"
 
-REM ===========================
-REM CARREGAR TOKENS DO ARQUIVO
-REM ===========================
 if exist "password.env" (
-    echo Carregando tokens de password.env...
+    echo Carregando tokens...
     for /f "usebackq tokens=1,2 delims==" %%a in ("password.env") do (
         set "%%a=%%b"
     )
 ) else (
     echo ERRO: Arquivo password.env nao encontrado!
-    echo Crie o arquivo password.env com:
-    echo GIT_TOKEN=seu_token_github
-    echo PLAYIT_SECRET=seu_secret_playit
     pause
     exit /b 1
 )
@@ -52,15 +41,11 @@ if "%PLAYIT_SECRET%"=="" (
     exit /b 1
 )
 
-SET "REPO_TOKEN=https://%GIT_TOKEN%@github.com/LupesHk/atm10sv"
+SET "REPO_TOKEN=https://%GIT_TOKEN%@github.com/LupesHk/atmons-sv"
 
-REM Configurar usuario do Git (se já não configurou)
 "%GIT%" config --global user.name "LucasHk" >nul 2>&1
 "%GIT%" config --global user.email "lucasgamesbrasil.124@gmail.com" >nul 2>&1
 
-REM ===========================
-REM PERGUNTA DO COMMIT
-REM ===========================
 echo.
 echo ================================
 echo Deseja puxar o commit mais recente?
@@ -86,7 +71,6 @@ if "%PULL_RECENTE%"=="N" (
 REM ===========================
 echo Verificando git...
 REM ===========================
-REM [ALTERADO] antes era if not exist "%GIT%" ...
 where git >nul 2>&1
 if %errorlevel% neq 0 (
     echo ERRO: git nao encontrado no PATH.
@@ -155,9 +139,6 @@ if %errorlevel% neq 0 (
     )
 )
 
-REM ===========================
-REM SINCRONIZANDO REPO
-REM ===========================
 echo.
 echo ================================
 echo SINCRONIZANDO COM GITHUB
@@ -205,9 +186,9 @@ if exist "whats\bot.js" (
     echo Bot WhatsApp nao encontrado.
 )
 
-REM ===========================
+echo ===========================
 echo INICIANDO SERVIDOR...
-REM ===========================
+echo ===========================
 %JAVA_CMD%
 
 echo SERVIDOR FOI FECHADO.
@@ -232,9 +213,6 @@ echo ============================
 echo BACKUP SERA INICIADO AGORA.
 echo ============================
 
-REM ================================
-REM PERGUNTA DE DESLIGAMENTO (10s)
-REM ================================
 echo.
 echo Deseja desligar o PC ao final do backup? (S/N)
 choice /T 10 /D S /M "Se nao responder, sera considerado SIM: "
@@ -289,14 +267,8 @@ echo.
 echo ============================
 echo BACKUP COMPLETO!
 echo ============================
-echo 1. Backup COMPLETO sincronizado com GitHub
-echo 2. World compactado em: %ZIP_NAME%
-echo 3. Repositorio na pasta raiz do servidor
 echo.
 
-REM ===========================
-REM DESLIGAMENTO
-REM ===========================
 if "%DESLIGAR%"=="S" (
     echo Desligando em 30 segundos...
     shutdown /s /t 30
