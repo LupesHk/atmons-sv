@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:hazel_log"
+      "item": "productivetrees:balsa_log"
     },
     {
-      "item": "productivetrees:hazel_wood"
+      "item": "productivetrees:balsa_wood"
     },
     {
-      "item": "productivetrees:hazel_stripped_log"
+      "item": "productivetrees:balsa_stripped_log"
     },
     {
-      "item": "productivetrees:hazel_stripped_wood"
+      "item": "productivetrees:balsa_stripped_wood"
     }
   ],
   "result": {

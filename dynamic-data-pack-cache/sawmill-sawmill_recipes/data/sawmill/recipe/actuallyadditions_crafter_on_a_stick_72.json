@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:moonlight_magic_crepe_myrtle_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "productivetrees:moonlight_magic_crepe_myrtle_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

@@ -1,11 +1,22 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:white_poplar_log"
+    },
+    {
+      "item": "productivetrees:white_poplar_wood"
+    },
+    {
+      "item": "productivetrees:white_poplar_stripped_log"
+    },
+    {
+      "item": "productivetrees:white_poplar_stripped_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

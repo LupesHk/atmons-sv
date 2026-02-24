@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:western_hemlock_planks"
+    "item": "productivetrees:granny_smith_apple_planks"
   },
   "result": {
     "id": "minecraft:bowl",

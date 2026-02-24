@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "twilightforest:twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:twilight_oak_wood"
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_wood"
+    }
+  ],
   "result": {
     "id": "mekanismtools:wood_paxel",
     "count": 1

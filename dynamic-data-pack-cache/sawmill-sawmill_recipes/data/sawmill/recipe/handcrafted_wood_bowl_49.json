@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sour_cherry_planks"
+    "item": "productivetrees:lawson_cypress_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

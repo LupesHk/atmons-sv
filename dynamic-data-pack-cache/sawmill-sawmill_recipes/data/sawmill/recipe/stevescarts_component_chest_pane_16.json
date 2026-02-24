@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pandanus_log"
+      "item": "productivetrees:grandidiers_baobab_log"
     },
     {
-      "item": "productivetrees:pandanus_wood"
+      "item": "productivetrees:grandidiers_baobab_wood"
     },
     {
-      "item": "productivetrees:pandanus_stripped_log"
+      "item": "productivetrees:grandidiers_baobab_stripped_log"
     },
     {
-      "item": "productivetrees:pandanus_stripped_wood"
+      "item": "productivetrees:grandidiers_baobab_stripped_wood"
     }
   ],
   "result": {

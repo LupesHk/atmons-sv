@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:scarlet_planks"
+    "item": "productivetrees:ash_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

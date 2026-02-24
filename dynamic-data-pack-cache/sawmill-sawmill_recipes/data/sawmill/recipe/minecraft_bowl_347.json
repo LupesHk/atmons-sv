@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "allthemodium:demonic_planks"
+    "item": "productivetrees:cave_dweller_planks"
   },
   "result": {
     "id": "minecraft:bowl",

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "twilightforest:twilight_oak_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "twilightforest:twilight_oak_wood"
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_wood"
     }
   ],
   "result": {

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "ars_nouveau:archwood_planks"
+    "item": "productivetrees:purple_crepe_myrtle_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

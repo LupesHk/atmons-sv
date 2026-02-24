@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:canopy_planks"
+    "item": "productivetrees:red_delicious_apple_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

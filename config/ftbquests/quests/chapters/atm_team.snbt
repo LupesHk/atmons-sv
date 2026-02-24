@@ -8,23 +8,9 @@
 	}
 	id: "36E3076EA6D0B753"
 	order_index: 2
-	quest_links: [
-		{
-			id: "25AA7BC93FB0E7F6"
-			linked_quest: "6BFE3D64D2FB19C6"
-			x: -2.5d
-			y: -3.0d
-		}
-		{
-			id: "4C74D5EAF7C051D1"
-			linked_quest: "699EDB11C7C12923"
-			x: -2.5d
-			y: -1.5d
-		}
-	]
+	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["6BFE3D64D2FB19C6"]
 			id: "56A11740B93819D4"
 			tasks: [{
 				id: "741274E84BCE1593"
@@ -35,10 +21,7 @@
 			y: -3.0d
 		}
 		{
-			dependencies: [
-				"48254318628B60F7"
-				"699EDB11C7C12923"
-			]
+			dependencies: ["48254318628B60F7"]
 			id: "73CE51862BA4F68B"
 			tasks: [{
 				id: "557F1EFF7A590012"
@@ -49,7 +32,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["699EDB11C7C12923"]
 			id: "1E1CF820CF7E88C9"
 			tasks: [{
 				id: "2122ABCCCF430D52"
@@ -60,7 +42,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["699EDB11C7C12923"]
 			id: "5A7E0848E16A5453"
 			tasks: [{
 				id: "54EAA80BCC4FFC4B"
@@ -71,7 +52,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["699EDB11C7C12923"]
 			id: "54530BFB46624C51"
 			tasks: [{
 				id: "166C4D410E68C20B"
@@ -126,7 +106,6 @@
 			y: 4.5d
 		}
 		{
-			dependencies: ["699EDB11C7C12923"]
 			id: "1D236A72F7EC11AE"
 			tasks: [{
 				id: "4447EB7D64497733"
@@ -205,7 +184,6 @@
 			y: -1.5d
 		}
 		{
-			dependencies: ["699EDB11C7C12923"]
 			id: "670756F02FD8179F"
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_team_allthemods_all_wandering"

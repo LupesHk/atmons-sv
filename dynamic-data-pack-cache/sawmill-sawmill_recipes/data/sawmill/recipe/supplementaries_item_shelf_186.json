@@ -1,22 +1,11 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:flowering_crabapple_log"
-    },
-    {
-      "item": "productivetrees:flowering_crabapple_wood"
-    },
-    {
-      "item": "productivetrees:flowering_crabapple_stripped_log"
-    },
-    {
-      "item": "productivetrees:flowering_crabapple_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "supplementaries:item_shelf",
-    "count": 6
+    "count": 3
   },
   "type": "sawmill:woodcutting"
 }

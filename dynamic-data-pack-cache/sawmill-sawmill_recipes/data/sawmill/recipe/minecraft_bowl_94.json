@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "cobblemon:apricorn_log"
+      "item": "undergarden:wigglewood_log"
     },
     {
-      "item": "cobblemon:apricorn_wood"
+      "item": "undergarden:wigglewood_wood"
     },
     {
-      "item": "cobblemon:stripped_apricorn_log"
+      "item": "undergarden:stripped_wigglewood_log"
     },
     {
-      "item": "cobblemon:stripped_apricorn_wood"
+      "item": "undergarden:stripped_wigglewood_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

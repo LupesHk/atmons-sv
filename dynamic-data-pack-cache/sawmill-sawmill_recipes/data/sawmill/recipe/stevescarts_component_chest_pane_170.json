@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:nutmeg_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:nutmeg_wood"
-    },
-    {
-      "item": "productivetrees:nutmeg_stripped_log"
-    },
-    {
-      "item": "productivetrees:nutmeg_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "stevescarts:component_chest_pane",
-    "count": 10
+    "count": 7
   },
   "type": "sawmill:woodcutting"
 }

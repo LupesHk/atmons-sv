@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:transformation_log"
+      "item": "productivetrees:ceylon_ebony_log"
     },
     {
-      "item": "twilightforest:transformation_wood"
+      "item": "productivetrees:ceylon_ebony_wood"
     },
     {
-      "item": "twilightforest:stripped_transformation_log"
+      "item": "productivetrees:ceylon_ebony_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_transformation_wood"
+      "item": "productivetrees:ceylon_ebony_stripped_wood"
     }
   ],
   "result": {

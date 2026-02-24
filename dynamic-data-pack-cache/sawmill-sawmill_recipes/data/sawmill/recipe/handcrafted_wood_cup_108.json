@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:satsuma_log"
-    },
-    {
-      "item": "productivetrees:satsuma_wood"
-    },
-    {
-      "item": "productivetrees:satsuma_stripped_log"
-    },
-    {
-      "item": "productivetrees:satsuma_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "handcrafted:wood_cup",
     "count": 8

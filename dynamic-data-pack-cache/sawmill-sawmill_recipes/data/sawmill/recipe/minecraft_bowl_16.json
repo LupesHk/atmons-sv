@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:loblolly_pine_log"
+      "item": "productivetrees:key_lime_log"
     },
     {
-      "item": "productivetrees:loblolly_pine_wood"
+      "item": "productivetrees:key_lime_wood"
     },
     {
-      "item": "productivetrees:loblolly_pine_stripped_log"
+      "item": "productivetrees:key_lime_stripped_log"
     },
     {
-      "item": "productivetrees:loblolly_pine_stripped_wood"
+      "item": "productivetrees:key_lime_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

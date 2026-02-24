@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:nutmeg_log"
+    },
+    {
+      "item": "productivetrees:nutmeg_wood"
+    },
+    {
+      "item": "productivetrees:nutmeg_stripped_log"
+    },
+    {
+      "item": "productivetrees:nutmeg_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

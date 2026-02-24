@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:papaya_log"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "productivetrees:papaya_wood"
+      "item": "aether:skyroot_wood"
     },
     {
-      "item": "productivetrees:papaya_stripped_log"
+      "item": "aether:stripped_skyroot_log"
     },
     {
-      "item": "productivetrees:papaya_stripped_wood"
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:jinglestem_log"
+      "item": "twilightforest:mining_log"
     },
     {
-      "item": "eternal_starlight:jinglestem_wood"
+      "item": "twilightforest:mining_wood"
     },
     {
-      "item": "eternal_starlight:stripped_jinglestem_log"
+      "item": "twilightforest:stripped_mining_log"
     },
     {
-      "item": "eternal_starlight:stripped_jinglestem_wood"
+      "item": "twilightforest:stripped_mining_wood"
     }
   ],
   "result": {

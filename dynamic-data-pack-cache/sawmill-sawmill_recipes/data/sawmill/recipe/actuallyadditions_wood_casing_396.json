@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yew_log"
+      "item": "productivetrees:tangerine_log"
     },
     {
-      "item": "productivetrees:yew_wood"
+      "item": "productivetrees:tangerine_wood"
     },
     {
-      "item": "productivetrees:yew_stripped_log"
+      "item": "productivetrees:tangerine_stripped_log"
     },
     {
-      "item": "productivetrees:yew_stripped_wood"
+      "item": "productivetrees:tangerine_stripped_wood"
     }
   ],
   "result": {

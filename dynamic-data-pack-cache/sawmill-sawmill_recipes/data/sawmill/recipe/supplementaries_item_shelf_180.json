@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:wenge_log"
+      "item": "eternal_starlight:jinglestem_log"
     },
     {
-      "item": "productivetrees:wenge_wood"
+      "item": "eternal_starlight:jinglestem_wood"
     },
     {
-      "item": "productivetrees:wenge_stripped_log"
+      "item": "eternal_starlight:stripped_jinglestem_log"
     },
     {
-      "item": "productivetrees:wenge_stripped_wood"
+      "item": "eternal_starlight:stripped_jinglestem_wood"
     }
   ],
   "result": {

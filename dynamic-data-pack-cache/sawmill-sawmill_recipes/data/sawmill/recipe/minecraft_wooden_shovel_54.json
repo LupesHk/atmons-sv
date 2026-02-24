@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:myrtle_ebony_log"
+      "item": "productivetrees:cultivated_pear_log"
     },
     {
-      "item": "productivetrees:myrtle_ebony_wood"
+      "item": "productivetrees:cultivated_pear_wood"
     },
     {
-      "item": "productivetrees:myrtle_ebony_stripped_log"
+      "item": "productivetrees:cultivated_pear_stripped_log"
     },
     {
-      "item": "productivetrees:myrtle_ebony_stripped_wood"
+      "item": "productivetrees:cultivated_pear_stripped_wood"
     }
   ],
   "result": {

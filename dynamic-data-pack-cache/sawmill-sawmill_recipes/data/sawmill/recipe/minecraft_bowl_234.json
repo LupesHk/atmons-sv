@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:torreya_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "eternal_starlight:torreya_wood"
-    },
-    {
-      "item": "eternal_starlight:stripped_torreya_log"
-    },
-    {
-      "item": "eternal_starlight:stripped_torreya_wood"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

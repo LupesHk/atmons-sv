@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:elderberry_planks"
+    "item": "forbidden_arcanus:fungyss_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

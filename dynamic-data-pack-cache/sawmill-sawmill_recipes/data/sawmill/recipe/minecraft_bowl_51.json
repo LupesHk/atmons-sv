@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:red_banana_planks"
+    "item": "twilightforest:dark_planks"
   },
   "result": {
     "id": "minecraft:bowl",

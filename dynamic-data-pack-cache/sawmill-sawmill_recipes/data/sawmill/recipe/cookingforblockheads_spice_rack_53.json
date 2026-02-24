@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:mango_planks"
+    "item": "productivetrees:balsam_fir_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

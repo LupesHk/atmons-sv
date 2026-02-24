@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:spruce_planks"
+    "item": "productivetrees:aquilaria_planks"
   },
   "result": {
     "id": "handcrafted:wood_crockery_combo",

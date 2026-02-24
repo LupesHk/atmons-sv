@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rippling_willow_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "productivetrees:rippling_willow_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "productivetrees:rippling_willow_stripped_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "productivetrees:rippling_willow_stripped_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

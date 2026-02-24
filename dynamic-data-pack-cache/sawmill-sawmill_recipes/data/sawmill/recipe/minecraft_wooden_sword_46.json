@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:black_ember_log"
+      "item": "productivetrees:yellow_meranti_log"
     },
     {
-      "item": "productivetrees:black_ember_wood"
+      "item": "productivetrees:yellow_meranti_wood"
     },
     {
-      "item": "productivetrees:black_ember_stripped_log"
+      "item": "productivetrees:yellow_meranti_stripped_log"
     },
     {
-      "item": "productivetrees:black_ember_stripped_wood"
+      "item": "productivetrees:yellow_meranti_stripped_wood"
     }
   ],
   "result": {

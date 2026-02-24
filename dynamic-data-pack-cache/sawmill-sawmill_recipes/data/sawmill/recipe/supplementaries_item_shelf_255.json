@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:black_locust_planks"
+    "item": "productivetrees:sugar_apple_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

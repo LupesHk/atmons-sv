@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "undergarden:grongle_planks"
+    "item": "productivetrees:rose_gum_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:juniper_planks"
+    "item": "productivetrees:purple_ipe_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:douglas_fir_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:douglas_fir_wood"
+    },
+    {
+      "item": "productivetrees:douglas_fir_stripped_log"
+    },
+    {
+      "item": "productivetrees:douglas_fir_stripped_wood"
     }
   ],
   "result": {
     "id": "stevescarts:component_chest_pane",
-    "count": 7
+    "count": 10
   },
   "type": "sawmill:woodcutting"
 }

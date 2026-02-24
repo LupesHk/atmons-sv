@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:grongle_log"
+      "item": "twilightforest:time_log"
     },
     {
-      "item": "undergarden:grongle_wood"
+      "item": "twilightforest:time_wood"
     },
     {
-      "item": "undergarden:stripped_grongle_log"
+      "item": "twilightforest:stripped_time_log"
     },
     {
-      "item": "undergarden:stripped_grongle_wood"
+      "item": "twilightforest:stripped_time_wood"
     }
   ],
   "result": {

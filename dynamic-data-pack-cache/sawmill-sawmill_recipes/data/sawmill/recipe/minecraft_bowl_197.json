@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:mining_planks"
+    "item": "productivetrees:zebrano_planks"
   },
   "result": {
     "id": "minecraft:bowl",

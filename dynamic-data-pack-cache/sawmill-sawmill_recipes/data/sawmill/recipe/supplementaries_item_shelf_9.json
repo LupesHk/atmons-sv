@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:rose_gum_planks"
+    "item": "productivetrees:lime_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

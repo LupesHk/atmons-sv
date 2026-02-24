@@ -2,22 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rowan_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:rowan_wood"
-    },
-    {
-      "item": "productivetrees:rowan_stripped_log"
-    },
-    {
-      "item": "productivetrees:rowan_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "stevescarts:module_wooden_hull",
     "count": 1
   },
-  "ingredient_count": 3,
+  "ingredient_count": 5,
   "type": "sawmill:woodcutting"
 }

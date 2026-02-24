@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:elderberry_log"
+      "item": "productivetrees:white_willow_log"
     },
     {
-      "item": "productivetrees:elderberry_wood"
+      "item": "productivetrees:white_willow_wood"
     },
     {
-      "item": "productivetrees:elderberry_stripped_log"
+      "item": "productivetrees:white_willow_stripped_log"
     },
     {
-      "item": "productivetrees:elderberry_stripped_wood"
+      "item": "productivetrees:white_willow_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cedar_log"
+      "item": "productivetrees:purpleheart_log"
     },
     {
-      "item": "productivetrees:cedar_wood"
+      "item": "productivetrees:purpleheart_wood"
     },
     {
-      "item": "productivetrees:cedar_stripped_log"
+      "item": "productivetrees:purpleheart_stripped_log"
     },
     {
-      "item": "productivetrees:cedar_stripped_wood"
+      "item": "productivetrees:purpleheart_stripped_wood"
     }
   ],
   "result": {

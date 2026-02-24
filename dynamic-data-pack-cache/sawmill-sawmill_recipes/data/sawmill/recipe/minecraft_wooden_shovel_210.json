@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "productivetrees:slimy_delight_log"
     },
     {
-      "item": "deeperdarker:echo_wood"
+      "item": "productivetrees:slimy_delight_wood"
     },
     {
-      "item": "deeperdarker:stripped_echo_log"
+      "item": "productivetrees:slimy_delight_stripped_log"
     },
     {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "productivetrees:slimy_delight_stripped_wood"
     }
   ],
   "result": {

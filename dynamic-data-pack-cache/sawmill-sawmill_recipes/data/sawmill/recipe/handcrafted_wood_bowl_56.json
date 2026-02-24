@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:torreya_log"
+      "item": "productivetrees:sugar_apple_log"
     },
     {
-      "item": "eternal_starlight:torreya_wood"
+      "item": "productivetrees:sugar_apple_wood"
     },
     {
-      "item": "eternal_starlight:stripped_torreya_log"
+      "item": "productivetrees:sugar_apple_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_torreya_wood"
+      "item": "productivetrees:sugar_apple_stripped_wood"
     }
   ],
   "result": {

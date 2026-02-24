@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:blue_yonder_planks"
+    "item": "minecraft:dark_oak_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

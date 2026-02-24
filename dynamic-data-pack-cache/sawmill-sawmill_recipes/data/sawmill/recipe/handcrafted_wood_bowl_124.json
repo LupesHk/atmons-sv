@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:candlenut_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "productivetrees:candlenut_wood"
-    },
-    {
-      "item": "productivetrees:candlenut_stripped_log"
-    },
-    {
-      "item": "productivetrees:candlenut_stripped_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

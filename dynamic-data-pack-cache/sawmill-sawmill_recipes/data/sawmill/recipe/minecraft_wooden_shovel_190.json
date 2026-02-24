@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:clove_log"
-    },
-    {
-      "item": "productivetrees:clove_wood"
-    },
-    {
-      "item": "productivetrees:clove_stripped_log"
-    },
-    {
-      "item": "productivetrees:clove_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "minecraft:wooden_shovel",
     "count": 1

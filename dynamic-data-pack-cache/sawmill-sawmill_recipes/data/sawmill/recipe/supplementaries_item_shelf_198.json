@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:coconut_log"
+      "item": "eternal_starlight:torreya_log"
     },
     {
-      "item": "productivetrees:coconut_wood"
+      "item": "eternal_starlight:torreya_wood"
     },
     {
-      "item": "productivetrees:coconut_stripped_log"
+      "item": "eternal_starlight:stripped_torreya_log"
     },
     {
-      "item": "productivetrees:coconut_stripped_wood"
+      "item": "eternal_starlight:stripped_torreya_wood"
     }
   ],
   "result": {

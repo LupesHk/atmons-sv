@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "aether:skyroot_planks"
+    "item": "eternal_starlight:scarlet_planks"
   },
   "result": {
     "id": "minecraft:bowl",

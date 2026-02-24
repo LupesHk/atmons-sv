@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:dark_log"
+      "item": "productivetrees:almond_log"
     },
     {
-      "item": "twilightforest:dark_wood"
+      "item": "productivetrees:almond_wood"
     },
     {
-      "item": "twilightforest:stripped_dark_log"
+      "item": "productivetrees:almond_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_dark_wood"
+      "item": "productivetrees:almond_stripped_wood"
     }
   ],
   "result": {

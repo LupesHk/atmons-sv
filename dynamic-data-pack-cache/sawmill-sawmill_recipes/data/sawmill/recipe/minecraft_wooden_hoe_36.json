@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brazilwood_log"
+      "item": "productivetrees:yellow_meranti_log"
     },
     {
-      "item": "productivetrees:brazilwood_wood"
+      "item": "productivetrees:yellow_meranti_wood"
     },
     {
-      "item": "productivetrees:brazilwood_stripped_log"
+      "item": "productivetrees:yellow_meranti_stripped_log"
     },
     {
-      "item": "productivetrees:brazilwood_stripped_wood"
+      "item": "productivetrees:yellow_meranti_stripped_wood"
     }
   ],
   "result": {

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:birch_planks"
+    "item": "productivetrees:cedar_planks"
   },
   "result": {
     "id": "minecraft:bowl",

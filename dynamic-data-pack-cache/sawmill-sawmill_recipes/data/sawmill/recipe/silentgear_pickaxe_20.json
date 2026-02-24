@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "productivetrees:citron_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "productivetrees:citron_wood"
+    },
+    {
+      "item": "productivetrees:citron_stripped_log"
+    },
+    {
+      "item": "productivetrees:citron_stripped_wood"
     }
   ],
   "result": {

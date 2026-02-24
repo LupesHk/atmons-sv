@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cinnamon_log"
+      "item": "twilightforest:time_log"
     },
     {
-      "item": "productivetrees:cinnamon_wood"
+      "item": "twilightforest:time_wood"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_log"
+      "item": "twilightforest:stripped_time_log"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_wood"
+      "item": "twilightforest:stripped_time_wood"
     }
   ],
   "result": {

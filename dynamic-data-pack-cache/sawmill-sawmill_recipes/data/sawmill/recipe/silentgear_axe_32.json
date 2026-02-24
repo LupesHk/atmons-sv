@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "cobblemon:saccharine_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "cobblemon:saccharine_wood"
+    },
+    {
+      "item": "cobblemon:stripped_saccharine_log"
+    },
+    {
+      "item": "cobblemon:stripped_saccharine_wood"
     }
   ],
   "result": {

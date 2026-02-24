@@ -2,16 +2,22 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "productivetrees:cashew_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "productivetrees:cashew_wood"
+    },
+    {
+      "item": "productivetrees:cashew_stripped_log"
+    },
+    {
+      "item": "productivetrees:cashew_stripped_wood"
     }
   ],
   "result": {
     "id": "stevescarts:module_wooden_hull",
     "count": 1
   },
-  "ingredient_count": 5,
+  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

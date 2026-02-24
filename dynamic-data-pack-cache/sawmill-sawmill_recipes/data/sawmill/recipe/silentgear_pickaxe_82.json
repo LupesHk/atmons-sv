@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:asai_palm_log"
+      "item": "productivetrees:cacao_log"
     },
     {
-      "item": "productivetrees:asai_palm_wood"
+      "item": "productivetrees:cacao_wood"
     },
     {
-      "item": "productivetrees:asai_palm_stripped_log"
+      "item": "productivetrees:cacao_stripped_log"
     },
     {
-      "item": "productivetrees:asai_palm_stripped_wood"
+      "item": "productivetrees:cacao_stripped_wood"
     }
   ],
   "result": {

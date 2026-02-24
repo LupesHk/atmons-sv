@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "cobblemon:apricorn_planks"
+    "item": "undergarden:wigglewood_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 1
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

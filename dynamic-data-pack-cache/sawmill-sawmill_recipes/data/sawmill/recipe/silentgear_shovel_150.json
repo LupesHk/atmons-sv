@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:breadfruit_log"
+      "item": "eternal_starlight:cradlewood_log"
     },
     {
-      "item": "productivetrees:breadfruit_wood"
+      "item": "eternal_starlight:cradlewood_wood"
     },
     {
-      "item": "productivetrees:breadfruit_stripped_log"
+      "item": "eternal_starlight:stripped_cradlewood_log"
     },
     {
-      "item": "productivetrees:breadfruit_stripped_wood"
+      "item": "eternal_starlight:stripped_cradlewood_wood"
     }
   ],
   "result": {

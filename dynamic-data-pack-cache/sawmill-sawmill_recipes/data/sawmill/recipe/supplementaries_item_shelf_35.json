@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:ipe_planks"
+    "item": "cataclysm:chorus_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

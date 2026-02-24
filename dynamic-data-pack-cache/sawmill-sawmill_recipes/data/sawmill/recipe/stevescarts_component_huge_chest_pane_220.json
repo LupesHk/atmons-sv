@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:balsa_log"
+    },
+    {
+      "item": "productivetrees:balsa_wood"
+    },
+    {
+      "item": "productivetrees:balsa_stripped_log"
+    },
+    {
+      "item": "productivetrees:balsa_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_huge_chest_pane",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

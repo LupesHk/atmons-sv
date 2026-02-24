@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sour_cherry_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:sour_cherry_wood"
-    },
-    {
-      "item": "productivetrees:sour_cherry_stripped_log"
-    },
-    {
-      "item": "productivetrees:sour_cherry_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:dogwood_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:dogwood_wood"
-    },
-    {
-      "item": "productivetrees:dogwood_stripped_log"
-    },
-    {
-      "item": "productivetrees:dogwood_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

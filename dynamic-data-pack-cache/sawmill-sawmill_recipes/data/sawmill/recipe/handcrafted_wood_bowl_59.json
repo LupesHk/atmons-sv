@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:western_hemlock_planks"
+    "item": "productivetrees:cultivated_pear_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

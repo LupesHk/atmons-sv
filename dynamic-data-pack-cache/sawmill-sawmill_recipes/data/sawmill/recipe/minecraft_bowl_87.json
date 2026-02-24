@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "integrateddynamics:menril_planks"
+    "item": "productivetrees:rippling_willow_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 1
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

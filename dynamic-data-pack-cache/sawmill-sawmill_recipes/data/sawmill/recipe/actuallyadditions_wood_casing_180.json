@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:almond_log"
+      "item": "eternal_starlight:jinglestem_log"
     },
     {
-      "item": "productivetrees:almond_wood"
+      "item": "eternal_starlight:jinglestem_wood"
     },
     {
-      "item": "productivetrees:almond_stripped_log"
+      "item": "eternal_starlight:stripped_jinglestem_log"
     },
     {
-      "item": "productivetrees:almond_stripped_wood"
+      "item": "eternal_starlight:stripped_jinglestem_wood"
     }
   ],
   "result": {

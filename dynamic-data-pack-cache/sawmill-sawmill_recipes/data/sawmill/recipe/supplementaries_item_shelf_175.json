@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "aether:skyroot_planks"
+    "item": "productivetrees:sand_pear_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:banyin_planks"
+    "item": "twilightforest:canopy_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

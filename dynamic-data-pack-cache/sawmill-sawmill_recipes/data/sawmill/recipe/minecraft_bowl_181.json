@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:plantain_planks"
+    "item": "productivetrees:persimmon_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

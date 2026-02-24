@@ -2,16 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "twilightforest:time_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "twilightforest:time_wood"
+    },
+    {
+      "item": "twilightforest:stripped_time_log"
+    },
+    {
+      "item": "twilightforest:stripped_time_wood"
     }
   ],
   "result": {
     "id": "minecraft:crafting_table",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

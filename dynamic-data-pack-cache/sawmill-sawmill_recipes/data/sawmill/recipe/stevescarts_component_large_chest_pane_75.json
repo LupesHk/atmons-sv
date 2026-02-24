@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "forbidden_arcanus:aurum_planks"
+    "item": "productivetrees:kapok_planks"
   },
   "result": {
     "id": "stevescarts:component_large_chest_pane",

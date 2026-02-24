@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "productivetrees:black_locust_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "productivetrees:black_locust_wood"
+    },
+    {
+      "item": "productivetrees:black_locust_stripped_log"
+    },
+    {
+      "item": "productivetrees:black_locust_stripped_wood"
     }
   ],
   "result": {

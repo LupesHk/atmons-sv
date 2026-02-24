@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:canopy_log"
+      "item": "undergarden:wigglewood_log"
     },
     {
-      "item": "twilightforest:canopy_wood"
+      "item": "undergarden:wigglewood_wood"
     },
     {
-      "item": "twilightforest:stripped_canopy_log"
+      "item": "undergarden:stripped_wigglewood_log"
     },
     {
-      "item": "twilightforest:stripped_canopy_wood"
+      "item": "undergarden:stripped_wigglewood_wood"
     }
   ],
   "result": {

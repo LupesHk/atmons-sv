@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sand_pear_log"
+      "item": "productivetrees:lawson_cypress_log"
     },
     {
-      "item": "productivetrees:sand_pear_wood"
+      "item": "productivetrees:lawson_cypress_wood"
     },
     {
-      "item": "productivetrees:sand_pear_stripped_log"
+      "item": "productivetrees:lawson_cypress_stripped_log"
     },
     {
-      "item": "productivetrees:sand_pear_stripped_wood"
+      "item": "productivetrees:lawson_cypress_stripped_wood"
     }
   ],
   "result": {

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:cherry_plum_planks"
+    "item": "productivetrees:tuscarora_crepe_myrtle_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

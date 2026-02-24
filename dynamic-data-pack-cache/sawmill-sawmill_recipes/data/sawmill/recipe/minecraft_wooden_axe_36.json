@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:flowering_crabapple_log"
-    },
-    {
-      "item": "productivetrees:flowering_crabapple_wood"
-    },
-    {
-      "item": "productivetrees:flowering_crabapple_stripped_log"
-    },
-    {
-      "item": "productivetrees:flowering_crabapple_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "minecraft:wooden_axe",
     "count": 1

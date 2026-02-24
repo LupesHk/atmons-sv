@@ -1,0 +1,17 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    }
+  ],
+  "result": {
+    "id": "actuallyadditions:wooden_aiot",
+    "count": 1
+  },
+  "ingredient_count": 6,
+  "type": "sawmill:woodcutting"
+}

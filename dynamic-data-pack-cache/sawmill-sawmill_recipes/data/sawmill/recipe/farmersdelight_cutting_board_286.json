@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:salak_log"
+      "item": "productivetrees:buddhas_hand_log"
     },
     {
-      "item": "productivetrees:salak_wood"
+      "item": "productivetrees:buddhas_hand_wood"
     },
     {
-      "item": "productivetrees:salak_stripped_log"
+      "item": "productivetrees:buddhas_hand_stripped_log"
     },
     {
-      "item": "productivetrees:salak_stripped_wood"
+      "item": "productivetrees:buddhas_hand_stripped_wood"
     }
   ],
   "result": {

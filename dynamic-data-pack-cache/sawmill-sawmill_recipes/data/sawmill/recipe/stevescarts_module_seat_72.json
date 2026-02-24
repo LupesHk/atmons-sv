@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:cradlewood_log"
+      "item": "undergarden:smogstem_log"
     },
     {
-      "item": "eternal_starlight:cradlewood_wood"
+      "item": "undergarden:smogstem_wood"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_log"
+      "item": "undergarden:stripped_smogstem_log"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_wood"
+      "item": "undergarden:stripped_smogstem_wood"
     }
   ],
   "result": {

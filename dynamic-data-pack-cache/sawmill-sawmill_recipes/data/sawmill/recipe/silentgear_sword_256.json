@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "twilightforest:canopy_log"
+    },
+    {
+      "item": "twilightforest:canopy_wood"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_log"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:sword",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:socotra_dragon_log"
+      "item": "productivetrees:sequoia_log"
     },
     {
-      "item": "productivetrees:socotra_dragon_wood"
+      "item": "productivetrees:sequoia_wood"
     },
     {
-      "item": "productivetrees:socotra_dragon_stripped_log"
+      "item": "productivetrees:sequoia_stripped_log"
     },
     {
-      "item": "productivetrees:socotra_dragon_stripped_wood"
+      "item": "productivetrees:sequoia_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:asai_palm_log"
+      "item": "productivetrees:time_traveller_log"
     },
     {
-      "item": "productivetrees:asai_palm_wood"
+      "item": "productivetrees:time_traveller_wood"
     },
     {
-      "item": "productivetrees:asai_palm_stripped_log"
+      "item": "productivetrees:time_traveller_stripped_log"
     },
     {
-      "item": "productivetrees:asai_palm_stripped_wood"
+      "item": "productivetrees:time_traveller_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

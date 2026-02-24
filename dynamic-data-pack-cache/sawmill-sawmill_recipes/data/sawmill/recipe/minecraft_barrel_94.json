@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:avocado_log"
-    },
-    {
-      "item": "productivetrees:avocado_wood"
-    },
-    {
-      "item": "productivetrees:avocado_stripped_log"
-    },
-    {
-      "item": "productivetrees:avocado_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "minecraft:barrel",
     "count": 1

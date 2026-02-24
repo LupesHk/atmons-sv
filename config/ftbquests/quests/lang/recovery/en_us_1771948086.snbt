@@ -1,0 +1,8 @@
+{
+	"chapters/evolution.snbt": {
+		quest.093D21D44BE4D923.title: {
+			new: "Finding &cSun Stones"
+			old: "Finding &cFire Stones"
+		}
+	}
+}

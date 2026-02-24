@@ -2,16 +2,22 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "minecraft:mangrove_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "minecraft:mangrove_wood"
+    },
+    {
+      "item": "minecraft:stripped_mangrove_log"
+    },
+    {
+      "item": "minecraft:stripped_mangrove_wood"
     }
   ],
   "result": {
     "id": "oritech:machine_core_1",
     "count": 1
   },
-  "ingredient_count": 6,
+  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

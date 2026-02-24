@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "silentgear:netherwood_planks"
+    "item": "productivetrees:white_ipe_planks"
   },
   "result": {
     "id": "minecraft:bowl",

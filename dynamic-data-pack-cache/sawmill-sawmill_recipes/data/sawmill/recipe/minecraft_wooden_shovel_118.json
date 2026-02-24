@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:beliy_naliv_apple_log"
+      "item": "minecraft:dark_oak_log"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_wood"
+      "item": "minecraft:dark_oak_wood"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_stripped_log"
+      "item": "minecraft:stripped_dark_oak_log"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
+      "item": "minecraft:stripped_dark_oak_wood"
     }
   ],
   "result": {

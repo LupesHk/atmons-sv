@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:night_fuchsia_planks"
+    "item": "productivetrees:salak_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

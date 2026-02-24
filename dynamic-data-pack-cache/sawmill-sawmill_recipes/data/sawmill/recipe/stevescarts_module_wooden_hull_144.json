@@ -2,22 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:tangerine_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:tangerine_wood"
-    },
-    {
-      "item": "productivetrees:tangerine_stripped_log"
-    },
-    {
-      "item": "productivetrees:tangerine_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "stevescarts:module_wooden_hull",
     "count": 1
   },
-  "ingredient_count": 3,
+  "ingredient_count": 5,
   "type": "sawmill:woodcutting"
 }

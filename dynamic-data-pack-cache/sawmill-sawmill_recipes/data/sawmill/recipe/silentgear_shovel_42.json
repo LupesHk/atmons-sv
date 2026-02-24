@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:night_fuchsia_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "productivetrees:night_fuchsia_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "productivetrees:night_fuchsia_stripped_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "productivetrees:night_fuchsia_stripped_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

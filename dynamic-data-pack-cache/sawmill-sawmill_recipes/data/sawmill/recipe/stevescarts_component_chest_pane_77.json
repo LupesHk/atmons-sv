@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:torreya_planks"
+    "item": "productivetrees:pomelo_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

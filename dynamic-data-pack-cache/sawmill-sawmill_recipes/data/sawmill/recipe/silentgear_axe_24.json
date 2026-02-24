@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:thunder_bolt_log"
+      "item": "productivetrees:coconut_log"
     },
     {
-      "item": "productivetrees:thunder_bolt_wood"
+      "item": "productivetrees:coconut_wood"
     },
     {
-      "item": "productivetrees:thunder_bolt_stripped_log"
+      "item": "productivetrees:coconut_stripped_log"
     },
     {
-      "item": "productivetrees:thunder_bolt_stripped_wood"
+      "item": "productivetrees:coconut_stripped_wood"
     }
   ],
   "result": {

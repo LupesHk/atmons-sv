@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "undergarden:wigglewood_planks"
+    "item": "productivetrees:peach_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

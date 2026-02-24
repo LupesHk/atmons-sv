@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:buddhas_hand_planks"
+    "item": "productivetrees:pink_ivory_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:wenge_log"
+      "item": "productivetrees:cacao_log"
     },
     {
-      "item": "productivetrees:wenge_wood"
+      "item": "productivetrees:cacao_wood"
     },
     {
-      "item": "productivetrees:wenge_stripped_log"
+      "item": "productivetrees:cacao_stripped_log"
     },
     {
-      "item": "productivetrees:wenge_stripped_wood"
+      "item": "productivetrees:cacao_stripped_wood"
     }
   ],
   "result": {

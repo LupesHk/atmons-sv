@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:twilight_oak_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "twilightforest:twilight_oak_wood"
-    },
-    {
-      "item": "twilightforest:stripped_twilight_oak_log"
-    },
-    {
-      "item": "twilightforest:stripped_twilight_oak_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

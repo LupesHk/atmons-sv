@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:cinnamon_log"
+    },
+    {
+      "item": "productivetrees:cinnamon_wood"
+    },
+    {
+      "item": "productivetrees:cinnamon_stripped_log"
+    },
+    {
+      "item": "productivetrees:cinnamon_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:axe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

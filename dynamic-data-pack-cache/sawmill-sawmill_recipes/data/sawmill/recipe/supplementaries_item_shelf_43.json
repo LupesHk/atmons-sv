@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sour_cherry_planks"
+    "item": "eternal_starlight:northland_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:sorting_log"
+      "item": "productivetrees:black_cherry_log"
     },
     {
-      "item": "twilightforest:sorting_wood"
+      "item": "productivetrees:black_cherry_wood"
     },
     {
-      "item": "twilightforest:stripped_sorting_log"
+      "item": "productivetrees:black_cherry_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_sorting_wood"
+      "item": "productivetrees:black_cherry_stripped_wood"
     }
   ],
   "result": {

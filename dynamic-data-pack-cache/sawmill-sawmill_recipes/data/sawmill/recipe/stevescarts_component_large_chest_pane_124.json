@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:sorting_log"
+      "item": "minecraft:birch_log"
     },
     {
-      "item": "twilightforest:sorting_wood"
+      "item": "minecraft:birch_wood"
     },
     {
-      "item": "twilightforest:stripped_sorting_log"
+      "item": "minecraft:stripped_birch_log"
     },
     {
-      "item": "twilightforest:stripped_sorting_wood"
+      "item": "minecraft:stripped_birch_wood"
     }
   ],
   "result": {

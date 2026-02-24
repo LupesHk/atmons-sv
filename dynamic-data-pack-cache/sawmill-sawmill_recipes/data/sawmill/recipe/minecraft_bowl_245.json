@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:asai_palm_planks"
+    "item": "productivetrees:time_traveller_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

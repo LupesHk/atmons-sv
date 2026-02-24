@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:bull_pine_planks"
+    "item": "productivetrees:firecracker_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sequoia_log"
+      "item": "productivetrees:balsam_fir_log"
     },
     {
-      "item": "productivetrees:sequoia_wood"
+      "item": "productivetrees:balsam_fir_wood"
     },
     {
-      "item": "productivetrees:sequoia_stripped_log"
+      "item": "productivetrees:balsam_fir_stripped_log"
     },
     {
-      "item": "productivetrees:sequoia_stripped_wood"
+      "item": "productivetrees:balsam_fir_stripped_wood"
     }
   ],
   "result": {

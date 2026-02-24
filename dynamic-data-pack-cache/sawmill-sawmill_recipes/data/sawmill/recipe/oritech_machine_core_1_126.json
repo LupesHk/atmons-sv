@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sandalwood_log"
+      "item": "minecraft:warped_stem"
     },
     {
-      "item": "productivetrees:sandalwood_wood"
+      "item": "minecraft:warped_hyphae"
     },
     {
-      "item": "productivetrees:sandalwood_stripped_log"
+      "item": "minecraft:stripped_warped_stem"
     },
     {
-      "item": "productivetrees:sandalwood_stripped_wood"
+      "item": "minecraft:stripped_warped_hyphae"
     }
   ],
   "result": {

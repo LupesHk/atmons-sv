@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "deeperdarker:bloom_planks"
+    "item": "productivetrees:key_lime_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

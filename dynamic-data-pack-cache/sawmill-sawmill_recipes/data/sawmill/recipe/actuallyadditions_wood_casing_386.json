@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:persimmon_log"
+      "item": "productivetrees:great_sallow_log"
     },
     {
-      "item": "productivetrees:persimmon_wood"
+      "item": "productivetrees:great_sallow_wood"
     },
     {
-      "item": "productivetrees:persimmon_stripped_log"
+      "item": "productivetrees:great_sallow_stripped_log"
     },
     {
-      "item": "productivetrees:persimmon_stripped_wood"
+      "item": "productivetrees:great_sallow_stripped_wood"
     }
   ],
   "result": {

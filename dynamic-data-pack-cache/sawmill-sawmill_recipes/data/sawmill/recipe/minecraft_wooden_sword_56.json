@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:torreya_log"
+      "item": "productivetrees:cacao_log"
     },
     {
-      "item": "eternal_starlight:torreya_wood"
+      "item": "productivetrees:cacao_wood"
     },
     {
-      "item": "eternal_starlight:stripped_torreya_log"
+      "item": "productivetrees:cacao_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_torreya_wood"
+      "item": "productivetrees:cacao_stripped_wood"
     }
   ],
   "result": {

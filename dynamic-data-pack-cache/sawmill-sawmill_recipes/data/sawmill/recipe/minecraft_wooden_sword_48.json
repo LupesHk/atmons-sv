@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:wild_cherry_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "productivetrees:wild_cherry_wood"
-    },
-    {
-      "item": "productivetrees:wild_cherry_stripped_log"
-    },
-    {
-      "item": "productivetrees:wild_cherry_stripped_wood"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

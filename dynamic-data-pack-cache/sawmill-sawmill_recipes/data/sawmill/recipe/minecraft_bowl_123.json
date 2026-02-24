@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:blackthorn_planks"
+    "item": "productivetrees:ash_planks"
   },
   "result": {
     "id": "minecraft:bowl",

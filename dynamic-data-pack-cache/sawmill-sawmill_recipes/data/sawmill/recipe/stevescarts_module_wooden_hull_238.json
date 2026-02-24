@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:swamp_gum_log"
+      "item": "productivetrees:cacao_log"
     },
     {
-      "item": "productivetrees:swamp_gum_wood"
+      "item": "productivetrees:cacao_wood"
     },
     {
-      "item": "productivetrees:swamp_gum_stripped_log"
+      "item": "productivetrees:cacao_stripped_log"
     },
     {
-      "item": "productivetrees:swamp_gum_stripped_wood"
+      "item": "productivetrees:cacao_stripped_wood"
     }
   ],
   "result": {

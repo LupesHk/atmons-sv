@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:white_poplar_planks"
+    "item": "twilightforest:mining_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

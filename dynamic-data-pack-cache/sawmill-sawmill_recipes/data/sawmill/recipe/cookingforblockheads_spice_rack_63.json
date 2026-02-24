@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:acacia_planks"
+    "item": "eternal_starlight:northland_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

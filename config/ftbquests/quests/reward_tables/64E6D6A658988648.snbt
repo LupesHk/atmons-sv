@@ -87,7 +87,7 @@
 		{ id: "6BC61CD7E23C094D", item: { count: 1, id: "mysticalagriculture:crimson_iron_seeds" } }
 		{ id: "25A2437EE679B267", item: { count: 1, id: "mysticalagriculture:redstone_alloy_seeds" } }
 		{ id: "31E80459C7053AB4", item: { count: 1, id: "mysticalagriculture:steeleaf_seeds" } }
-		{ id: "6E90E338772DF6B8", item: { count: 1, id: "mysticalagriculture:xychorium_gem_seeds" } }
+		{ id: "6E90E338772DF6B8", item: { components: { "ftbquests:missing_item": "mysticalagriculture:xychorium_gem_seeds" }, count: 1, id: "ftbquests:missing_item" } }
 		{ id: "2E18B3D90551AE42", item: { count: 1, id: "mysticalagriculture:copper_alloy_seeds" } }
 		{ id: "5CE46A464C05F4F9", item: { count: 1, id: "mysticalagriculture:conductive_alloy_seeds" } }
 		{ id: "005D7D46B0012AE0", item: { count: 1, id: "mysticalagriculture:ironwood_seeds" } }

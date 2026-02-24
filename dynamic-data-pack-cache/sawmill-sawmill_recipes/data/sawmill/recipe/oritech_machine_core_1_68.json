@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:avocado_log"
+      "item": "productivetrees:apricot_log"
     },
     {
-      "item": "productivetrees:avocado_wood"
+      "item": "productivetrees:apricot_wood"
     },
     {
-      "item": "productivetrees:avocado_stripped_log"
+      "item": "productivetrees:apricot_stripped_log"
     },
     {
-      "item": "productivetrees:avocado_stripped_wood"
+      "item": "productivetrees:apricot_stripped_wood"
     }
   ],
   "result": {

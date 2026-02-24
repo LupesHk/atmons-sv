@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:plum_log"
+      "item": "productivetrees:logwood_log"
     },
     {
-      "item": "productivetrees:plum_wood"
+      "item": "productivetrees:logwood_wood"
     },
     {
-      "item": "productivetrees:plum_stripped_log"
+      "item": "productivetrees:logwood_stripped_log"
     },
     {
-      "item": "productivetrees:plum_stripped_wood"
+      "item": "productivetrees:logwood_stripped_wood"
     }
   ],
   "result": {

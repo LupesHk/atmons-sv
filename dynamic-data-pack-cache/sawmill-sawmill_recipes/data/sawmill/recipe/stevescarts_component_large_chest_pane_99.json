@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:satsuma_planks"
+    "item": "productivetrees:buddhas_hand_planks"
   },
   "result": {
     "id": "stevescarts:component_large_chest_pane",

@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brown_amber_log"
+      "item": "productivetrees:blue_mahoe_log"
     },
     {
-      "item": "productivetrees:brown_amber_wood"
+      "item": "productivetrees:blue_mahoe_wood"
     },
     {
-      "item": "productivetrees:brown_amber_stripped_log"
+      "item": "productivetrees:blue_mahoe_stripped_log"
     },
     {
-      "item": "productivetrees:brown_amber_stripped_wood"
+      "item": "productivetrees:blue_mahoe_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

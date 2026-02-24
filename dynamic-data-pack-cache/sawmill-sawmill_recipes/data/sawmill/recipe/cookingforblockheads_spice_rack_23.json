@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:flowering_crabapple_planks"
+    "item": "minecraft:dark_oak_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

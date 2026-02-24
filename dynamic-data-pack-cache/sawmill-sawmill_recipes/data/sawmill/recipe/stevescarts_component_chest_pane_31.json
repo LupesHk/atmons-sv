@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:thunder_bolt_planks"
+    "item": "productivetrees:granny_smith_apple_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

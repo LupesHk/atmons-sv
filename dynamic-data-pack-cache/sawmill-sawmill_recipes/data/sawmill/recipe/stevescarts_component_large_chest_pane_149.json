@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:balsa_planks"
+    "item": "productivetrees:logwood_planks"
   },
   "result": {
     "id": "stevescarts:component_large_chest_pane",

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:prairie_crabapple_planks"
+    "item": "productivetrees:hawthorn_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

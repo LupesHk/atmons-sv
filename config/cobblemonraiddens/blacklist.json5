@@ -5,6 +5,8 @@
 	"abilities": [
 		"wonderguard"
 	],
+	// List of blacklisted held items for the player in raid battles.
+	"held_items": [],
 	// List of blacklisted moves for the player in raid battles.
 	"moves": [
 		"bestow",

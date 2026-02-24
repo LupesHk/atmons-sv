@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:black_ember_log"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "productivetrees:black_ember_wood"
+      "item": "twilightforest:canopy_wood"
     },
     {
-      "item": "productivetrees:black_ember_stripped_log"
+      "item": "twilightforest:stripped_canopy_log"
     },
     {
-      "item": "productivetrees:black_ember_stripped_wood"
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {

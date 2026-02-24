@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:wenge_planks"
+    "item": "eternal_starlight:jinglestem_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

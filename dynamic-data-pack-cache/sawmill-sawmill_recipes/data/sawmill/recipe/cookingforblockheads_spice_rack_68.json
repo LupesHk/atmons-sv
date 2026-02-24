@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:avocado_log"
+    },
+    {
+      "item": "productivetrees:avocado_wood"
+    },
+    {
+      "item": "productivetrees:avocado_stripped_log"
+    },
+    {
+      "item": "productivetrees:avocado_stripped_wood"
+    }
+  ],
   "result": {
     "id": "cookingforblockheads:spice_rack",
     "count": 4

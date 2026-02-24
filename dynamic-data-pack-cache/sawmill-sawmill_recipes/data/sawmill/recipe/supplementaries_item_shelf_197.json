@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sweet_crabapple_planks"
+    "item": "productivetrees:wild_cherry_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

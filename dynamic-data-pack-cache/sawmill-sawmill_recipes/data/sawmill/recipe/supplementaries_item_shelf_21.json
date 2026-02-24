@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "undergarden:grongle_planks"
+    "item": "productivetrees:grandidiers_baobab_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:balsa_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:balsa_wood"
-    },
-    {
-      "item": "productivetrees:balsa_stripped_log"
-    },
-    {
-      "item": "productivetrees:balsa_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

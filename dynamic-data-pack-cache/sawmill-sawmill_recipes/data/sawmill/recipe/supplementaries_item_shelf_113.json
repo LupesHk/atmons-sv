@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:jungle_planks"
+    "item": "twilightforest:time_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

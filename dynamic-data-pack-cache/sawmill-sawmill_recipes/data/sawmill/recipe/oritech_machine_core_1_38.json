@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:aurum_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "forbidden_arcanus:aurum_wood"
-    },
-    {
-      "item": "forbidden_arcanus:stripped_aurum_log"
-    },
-    {
-      "item": "forbidden_arcanus:stripped_aurum_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

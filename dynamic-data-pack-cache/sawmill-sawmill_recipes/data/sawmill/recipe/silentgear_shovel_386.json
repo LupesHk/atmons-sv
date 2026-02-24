@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:brazilwood_log"
+    },
+    {
+      "item": "productivetrees:brazilwood_wood"
+    },
+    {
+      "item": "productivetrees:brazilwood_stripped_log"
+    },
+    {
+      "item": "productivetrees:brazilwood_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:shovel",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

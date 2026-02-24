@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sandalwood_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:sandalwood_wood"
-    },
-    {
-      "item": "productivetrees:sandalwood_stripped_log"
-    },
-    {
-      "item": "productivetrees:sandalwood_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

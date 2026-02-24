@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yellow_meranti_log"
+      "item": "productivetrees:copper_beech_log"
     },
     {
-      "item": "productivetrees:yellow_meranti_wood"
+      "item": "productivetrees:copper_beech_wood"
     },
     {
-      "item": "productivetrees:yellow_meranti_stripped_log"
+      "item": "productivetrees:copper_beech_stripped_log"
     },
     {
-      "item": "productivetrees:yellow_meranti_stripped_wood"
+      "item": "productivetrees:copper_beech_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

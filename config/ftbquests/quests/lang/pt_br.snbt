@@ -368,6 +368,8 @@
 	quest.0338E3A881A6DD98.quest_desc: ["&6Remédio&r é feito Fundindo uma Raiz Grande. \\n\\nÉ um Item que pode ser dado a um &cPokemon&r dentro ou fora da Batalha para restaurar Vida (não em troca de &dAmizade&r). \\n\\nVocê pode Criar com ele para fazer &6Remédios&r ainda melhores!"]
 	quest.0338E3A881A6DD98.title: "&6Remédio"
 	quest.0342248394E40B6A.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
+	quest.0346A5856EBC22FB.quest_desc: ["Ele aumentará seu Limite de Nível, mas apenas até o 31. \\n\\nSeu Item de Assinatura é a &9Concha de Náutilo&r."]
+	quest.0346A5856EBC22FB.title: "&aLíder de Ginásio Wake"
 	quest.034A9FBCA6D79BB6.quest_desc: ["O Pylon Colheitadeira precisa de uma Enxada para funcionar.\\n\\n(Enxadas que não quebram funcionarão para sempre, enxadas que quebram precisarão ser substituídas)."]
 	quest.034AB493E1EC2E63.quest_desc: [
 		"Os Núcleos da Matriz Montadora são o que determinam a capacidade de padrões, trabalhos de crafting e a velocidade do multibloco."
@@ -851,8 +853,8 @@
 	quest.092BB595F75D5536.quest_desc: ["Bem-vindo ao &6&lForbidden \\& Arcanus&r!\\n\\nPara começar este Mod, precisaremos começar a minerar no subsolo... bem no fundo do subsolo.\\n\\nComo no Nível Y 1 e abaixo."]
 	quest.092BB595F75D5536.quest_subtitle: "Hora de Forjar!"
 	quest.092BB595F75D5536.title: "&6&lForbidden \\& Arcanus"
-	quest.093D21D44BE4D923.quest_desc: ["Savanas, Ermos (Badlands) e Cavernas Exuberantes são onde você deve procurar por &cPedras do Sol&r. \\n\\nSe isso não for suficiente, você também pode encontrá-las em Desertos."]
-	quest.093D21D44BE4D923.title: "Encontrando &cPedras do Fogo"
+	quest.093D21D44BE4D923.quest_desc: ["Savanas, Ermos e Cavernas Exuberantes são onde você deve procurar por &cPedras do Sol&r. \\n\\nSe isso não for suficiente, você também pode encontrá-las em Desertos."]
+	quest.093D21D44BE4D923.title: "Encontrando &cPedras do Sol"
 	quest.0945EC53626F58E6.quest_desc: ["Além de itens e fluidos, o &3Refined Storage&r também pode ser usado para armazenar &aQuímicos&r, graças ao mod Refined Storage - Mekanism Integration.\\n\\nVocê também pode armazenar &4Energia&r, &5Fonte&r e &9Almas&r, graças ao mod Refined Types."]
 	quest.0945EC53626F58E6.title: "&5Outras Peças de Armazenamento"
 	quest.0947B4ED95B0267E.quest_desc: ["Reveste um item e ferramentas.\\n\\nA netherita é um ótimo material de revestimento."]
@@ -896,6 +898,8 @@
 	quest.09936F8FCEA72C5C.title: "&aCart Assembler"
 	quest.09955CF85F579E0F.quest_desc: ["Você vai conseguir isso eventualmente, é literalmente o Bloco mais abundante em &2&lMinecraft&r."]
 	quest.09955CF85F579E0F.title: "&fBlocos de Pedra"
+	quest.099B7F8D13868CCD.quest_desc: ["Ela aumentará seu Limite de Nível para 20. \\nSeu Item de Assinatura é a &cLente Ampla&r."]
+	quest.099B7F8D13868CCD.title: "&7Comandante Mars"
 	quest.099C2A9B9CA138F8.quest_desc: ["&6Míticos&r são alguns dos melhores que podemos obter! \\n\\n&6Míticos&r são encontrados apenas no &lNível de Mundo: &6Cume&r e no &lNível de Mundo: &4Pináculo&r, onde são mais comuns. \\n\\n&6Pérolas Forjadas por Deuses&r são feitas usando &eItens&r &6Míticos&r em uma &c&lMesa de Desmanche&r."]
 	quest.099C2A9B9CA138F8.quest_subtitle: "&6Mítico"
 	quest.099C2A9B9CA138F8.title: "&6Pérola Forjada por Deuses"
@@ -1096,6 +1100,8 @@
 	]
 	quest.0BD6365534BF04D5.quest_subtitle: "Quem você vai chamar?"
 	quest.0BD6365534BF04D5.title: "&aFascínio de Ihagan"
+	quest.0BD70EAB43DBD003.quest_desc: ["Ele aumentará seu Nível novamente! Só que desta vez para 39. \\n\\nSeu Item de Assinatura agora é uma &bPedra da Alvorada&r."]
+	quest.0BD70EAB43DBD003.title: "&6Treinador Pokemon Cedric"
 	quest.0BD908937BC6E97B.quest_subtitle: "Kapok + Rosewood"
 	quest.0BE2E7C9454058C3.quest_desc: [
 		"Parte do belo &d&lPrado Floral&r é uma &dCerejeira&r muito mais velha e maior que as outras.\\n\\nAs &6A&8b&6e&8l&6h&8a&6s&r parecem ter gostado dessas &dÁrvores&r e montaram mini &eColmeias&r ao lado delas, cheias de seus filhotes!"
@@ -1292,6 +1298,8 @@
 	quest.0E716B90E60C486B.quest_desc: ["Às vezes, a melhor maneira de lutar, não é lutar... é fugir!\\n\\nCom o &4Colar do Pânico&r, ao ser atingido, você receberá o Efeito de Velocidade por um curto período. Tempo suficiente para fugir!"]
 	quest.0E716B90E60C486B.quest_subtitle: "Colar"
 	quest.0E716B90E60C486B.title: "&4Colar do Pânico&r"
+	quest.0E7C79861D18D885.quest_desc: ["&4&oBrilliant Diamond and Shining Pearl&r é a campanha para a Região de Sinnoh. \\n\\nComece-a como qualquer outra &4&oSérie&r. Encontre um &4Associado de Treinador&r em Vilas ou Gerando aleatoriamente quando você segura seu &4Cartão de Treinador&r na mão, se ele não tiver uma &4&oSérie&r. \\n\\nNegocie com ele para começar a &4&oSérie BDSP&r. \\n\\nVocê precisará passar por esta &4&oSérie&r para desbloquear outras &4&oSéries&r, incluindo a &4Série&r &6&oATM&r!"]
+	quest.0E7C79861D18D885.title: "&4&oBrilliant Diamond and Shining Pearl"
 	quest.0E809747193ED3A9.quest_desc: ["O terceiro Tier &5MEGA&r de Componente de Armazenamento, fornecendo &e16777216&f (16384k) bytes de armazenamento."]
 	quest.0E809747193ED3A9.quest_subtitle: "x4^2"
 	quest.0E809747193ED3A9.title: "&5Componente de Armazenamento de 16M"
@@ -1541,6 +1549,8 @@
 	quest.11D57C768032E3F7.title: "&eMelhoria de Ímã Avançado"
 	quest.11E957CDEFA0CAAB.quest_desc: ["Bem-vindo ao &5&lThe Beyond&r!\\n\\nNão há nada aqui!\\n\\nVocê pode querer um Angel Block."]
 	quest.11E957CDEFA0CAAB.title: "&5&lThe Beyond"
+	quest.11EBB510A604026A.quest_desc: ["Esta revanche aumentará seu Limite de Nível para 49. \\n\\nSeu Item de Assinatura desta vez é um &9Fragmento de Eco&r. Isso não é barato, Cyrus!"]
+	quest.11EBB510A604026A.title: "&7Revanche do Chefe da Equipe Galáctica Cyrus"
 	quest.120572510F525930.quest_desc: [
 		"A &6&lPlanta de Evaporação Térmico&r é um Multiblock que pega &9Água&r, e usa &6Calor&r para transformá-la em &eSalmoura&r. Ela também usará &6Calor&r para transformar &eSalmoura&r em &6Lítio Líquido&r!\\n\\nPara começar, você precisará de muitos &6Blocos de Evaporação Térmica&r. A base é 4x4 e sempre 4x4 de &6Blocos de Evaporação Térmica&r.\\n\\nAs Paredes precisam ter pelo menos 3 Blocos de altura e no máximo 18. O interior e o topo devem estar ocos como a maioria dos Multiblocks. A &9Água &fe a &eSalmoura&r precisam ser mantidas em algum lugar.\\n\\nDentro das Paredes (não nos cantos) podemos colocar nossas &6Válvulas &fe nosso &6Controlador&r! O &6Controlador&r é como acessamos a INTERFACE da &6&lPlanta de Evaporação Térmico&r. Lá podemos ver o &6Calor&r que ela tem. Precisaremos apenas de 1 &6Controlador&r.\\n\\n&6Válvulas&r são como movemos &9Água &fe &eSalmoura&f para dentro, &eSalmoura &fe &6Lítio Líquido&r para fora, e opcionalmente &6Calor&r para dentro! Você não precisará configurar as &6Válvulas&r, apenas os &bTubos &fe &6Condutores&r precisam ser configurados.\\n\\nA camada superior da &6&lPlanta&r não pode ter os cantos preenchidos com &6Blocos de Evaporação Térmica&r. Você pode adicionar &e&l&oGeradores Solares Avançados&r nos cantos da camada superior, se quiser mais &6Calor&r!"
 		"{@pagebreak}"
@@ -1743,6 +1753,8 @@
 	quest.13F68CA518CD287C.quest_desc: ["&3Diesel&r pode ser usado para fazer mais Querosene ou para fazer Lubrificante."]
 	quest.13F68CA518CD287C.quest_subtitle: "Pobre Sel"
 	quest.13F68CA518CD287C.title: "Diesel"
+	quest.13FDC88F09F96D0F.quest_desc: ["Ainda continua? Sim... você precisará de uma revanche com todos eles novamente. \\n\\n&3Aaron&r aumentará para 81. \\n\\n&3Bertha&r para 83. \\n\\n&3Flint&r para 85. \\n\\n&3Lucian&r para 88."]
+	quest.13FDC88F09F96D0F.title: "Hora da revanche de novo!"
 	quest.1403D677CF2815C3.quest_desc: ["A &5&lMesa de Reforja&r faz tudo que a &9&lSimples&r faz, mas melhor! \\n\\nEla pode nos dar &eAfixos&r &5Épicos&r e &6Míticos&r, juntamente com os anteriores!"]
 	quest.1403D677CF2815C3.title: "&5&lMesa de Reforja&r (Melhor)"
 	quest.1404BB8956D5F8C7.quest_desc: ["Afeta a capacidade de uma abelha de trabalhar em condições climáticas severas. Existem 3 níveis disso: &aNenhum&r, &dChuva&r, &cQualquer&r. &cQualquer&r é o que estamos procurando. Você poderia amarrar a abelha a uma cerca durante uma tempestade, se quisesse, mas vamos lá, isso é só crueldade.\\n\\nEu ofereço uma solução mais fácil. Pesca. Isso mesmo, você pode pescar abelhas. Abelhas de Água ou Prismarina naturalmente vêm com a habilidade de tolerar qualquer condição climática. Podemos aproveitar isso!"]
@@ -2098,6 +2110,8 @@
 	]
 	quest.17B18040EFA37F86.quest_subtitle: "Alimente uma Abelha Radioativa com uma Pastilha de Polônio"
 	quest.17B18040EFA37F86.title: "&fAbelha Radioativa Contaminada"
+	quest.17BDF307F3DC0E12.quest_desc: ["Ainda estamos trabalhando na receita. \\n\\nDeixamos o Capítulo visível apenas para você saber que ele ainda será adicionado ao AllTheMons. "]
+	quest.17BDF307F3DC0E12.title: "Ainda não está pronto!"
 	quest.17C2C8F64B4AE6EE.quest_desc: [
 		"&2Habitantes&r são as Vacas do &2&lUndergarden&r. \\nEles são Passivos e droparão Couro e Carne de Habitante na morte. \\n\\nGraças a Deus eles não podem ser ordenhados, não quero nenhum leite que esses &2Habitantes&r fazem."
 		"{image:atm:textures/questpics/undergarden/undergarden_dweller.png width:100 height:100 align:center}"
@@ -2160,6 +2174,8 @@
 		"{image:atm:textures/questpics/logistics/meka_pipe.png width:200 height:50 align:center}"
 	]
 	quest.1834B5C1F8435D7A.quest_subtitle: "Fluidos"
+	quest.183E4F5F940CBDEA.quest_desc: ["Também não aumentará seu Limite de Nível. \\n\\nSeu Item é uma &6Lente de Zoom&r."]
+	quest.183E4F5F940CBDEA.title: "&7Comandante Saturn"
 	quest.183F6A790EC006B8.quest_desc: ["Os &bCaules Floridos&r não são como Árvores, são mais como se o Chorus e o Bambu tivessem um bebê. \\n\\nEles aparecem dentro das &bCavernas Floridas&r e precisam de outros &bCaules Floridos&r para se manterem de pé! Esta é a única maneira de encontrá-los. \\n\\nVocê ainda pode Descascá-los ou fazer Tábuas com eles. As Tábuas têm uma &bcor Azul Clara&r, e tudo o que você fizer com elas também terá!"]
 	quest.183F6A790EC006B8.title: "&bMadeira Florida"
 	quest.1843C79133DFB024.quest_desc: ["O Gerador mais poderoso e eficiente, o Gerador de Estrela do Nether. Adivinhe o que ele usa para gerar Energia!"]
@@ -2370,6 +2386,8 @@
 		"{image:atm:textures/questpics/eternal/starlight_yeti.png width:100 height:100 align:center}"
 	]
 	quest.1AB17923F87AE264.title: "Yetis"
+	quest.1AB8BB655AFA79E4.quest_desc: ["Ele aumentará seu Limite de Nível para 63. \\n\\nSeu Item de Assinatura é uma &cPedra do Fogo&r."]
+	quest.1AB8BB655AFA79E4.title: "&3Elite dos Quatro Flint"
 	quest.1ABD22AA58E093A6.quest_desc: ["Apenas as melhores das melhores &5Máquinas&r precisarão dos melhores Materiais. \\n\\nUse &d&lItens Supremos&r para fazer estas &5Máquinas&r e mais! \\n\\nSim, você vai querer estas &5Máquinas&r, elas valem o tempo e os Materiais!"]
 	quest.1ABD22AA58E093A6.title: "Algumas das melhores &5Máquinas&r!"
 	quest.1ABEC7DE47BD6286.quest_desc: ["&5Caixotes do End&r são &5Baús do End&r que podem ser usados para transportar itens.\\n\\n&5Oculares do End&r são versões portáteis dos &5Caixotes do End&r."]
@@ -2775,6 +2793,8 @@
 	]
 	quest.2077D64428E9C067.quest_subtitle: "Isso tem um uso além de criar cabos."
 	quest.2077D64428E9C067.title: "&eEsqueci de Mencionar"
+	quest.207D96D22A9B97F1.quest_desc: ["De volta para vingança, agora eles aumentarão seu Nível para 42. \\n\\nSeu Item de Assinatura é uma &4Carga de Fogo&r."]
+	quest.207D96D22A9B97F1.title: "&7Revanche da Comandante Mars"
 	quest.2086C73688C8BA51.quest_subtitle: "Alimente uma Abelha de Lava com um Balde de Ácido Sulfúrico"
 	quest.2086C73688C8BA51.title: "&fAbelha de Ácido Sulfúrico"
 	quest.208F759905CF7744.quest_desc: [
@@ -2917,6 +2937,8 @@
 	quest.21D8B88155648EA6.title: "&l&5Máquinas"
 	quest.21EA29A8C7F950CE.quest_desc: ["&bDiamantes&r, o pilar do &2Minecraft&r, e aparentemente das fornalhas aprimoradas...\\n \\nEstas funcionam ainda mais rápido, levando apenas 80 tiques ou 4 segundos para fundir itens. Isso é mais rápido que um Alto-forno! \\n \\nElas são criadas apenas por &eFornalhas de Ouro&r e podem ser transformadas em &3Fornalhas de Cristal&r ou &aFornalhas de Esmeralda&r."]
 	quest.21EA29A8C7F950CE.title: "&bFornalha de Diamante"
+	quest.21EE03301BEFB449.quest_desc: ["Ela aumentará seu Limite de Nível para 22. \\n\\nSeu Item de Assinatura é a &7Lente de Alcance&r."]
+	quest.21EE03301BEFB449.title: "&7Comandante Jupiter"
 	quest.21F3379C904BFD50.quest_desc: ["O &6Aquecedor Resistivo&r também gerará &6Calor&r, mas em vez de usaressas Barras ustível de Fornalha, ele usará &aEnergia&r! \\n\\nAo alimentá-lo com &aEnergia&r, podemos escolher quanto &6Calor&r ele produzirá. \\n\\nQuanto mais &6Calor&r ele produz, mais &aEnergia&r ele consome! \\n\\nO &6Calor&r máximo é 9.999.999 e alguma coisa."]
 	quest.21F3379C904BFD50.title: "&6Aquecedor Resistivo"
 	quest.21F4CFF171246537.quest_subtitle: "Tier: &b4"
@@ -3090,6 +3112,8 @@
 	]
 	quest.23DE60E57136C207.quest_desc: ["O armazenamento de Energia infinito mais fácil, precisando apenas de 4 &3Baterias de Energia&r (de &3&lID&r) e uma &6&lEstrela&r! \\n\\nVocê precisará energizar todas elas com... bem, tanta Energia quanto o &2&lMinecraft&r pode suportar... Literalmente o limite de inteiros!"]
 	quest.23DE60E57136C207.title: "&5&lBateria de Energia &3Criativa"
+	quest.23F5D39BCBCD7D42.quest_desc: ["Ela aumentará você do 59 para o 61. \\n\\nSeu Item de Assinatura é &5Areia Macia&r."]
+	quest.23F5D39BCBCD7D42.title: "&3Elite dos Quatro Bertha"
 	quest.23F691FC053F2319.quest_desc: ["A Interface de Disco permite que você pegue itens e fluidos de um disco e os coloque nos discos de outra Grade."]
 	quest.23F691FC053F2319.quest_subtitle: "Chega de Manipulação!"
 	quest.23FDFA44A162023A.quest_desc: ["A &6Bancada de Trabalho do Engenheiro&r é um Bloco necessário para muitas Criações e Melhorias. \\n\\nPodemos usá-la com &9Plantas&r para Criar Itens especiais que não podemos Criar em outro lugar. Coloque as &9Plantas&r no Slot Esquerdo, e nossos &eItens de Criação&r nos Slots Direitos.\\n\\nOu podemos jogar nossas Ferramentas nela, para adicionar Melhorias a elas, como o Revólver ou a Broca de Mineração! \\n\\nAlém disso, quando você adiciona &eItens&r e &9Plantas&r, pode vê-los no próprio &6Bloco&r, bem legal!"]
@@ -3332,6 +3356,8 @@
 		"{image:atm:textures/questpics/basic_power/wireless_ui.png width:125 height:150 align:center}"
 	]
 	quest.27A4FA38992448A0.title: "Carregamento sem Fio"
+	quest.27ACBFA9D014D2A6.quest_desc: ["&aVolkner&r aumentará seu Limite de Nível até o 55. \\n\\nSeu Item de Assinatura é a &aPedra do Trovão&r."]
+	quest.27ACBFA9D014D2A6.title: "&aLíder de Ginásio Volkner"
 	quest.27B5D0329DD92126.quest_desc: ["Sopa... feita de Abelhas? Parece meio desumano... \\n\\nComer/Beber isso lhe dará o Efeito Energizado por um tempo e dá uma chance de dar Sorte! \\n\\nTambém há uma chance de Levitação, Queda Lenta, Veneno e Paralisia. \\n\\nE falando em Paralisia, você pode fazer Poções Paralisantes usando a Sopa."]
 	quest.27E8ED4B5F8127F9.quest_subtitle: "Nível: &b4"
 	quest.27E951F4F4F6F847.quest_desc: ["Semelhante ao &aThorn Pendant&r, só que um pouco mais quente. Não, espere, muito mais quente! \\n\\nO &cPingente de Chama (Flame Pendant)&r tem uma chance de atear fogo em seus atacantes! Quando eles estão em chamas, o &cPingente&r também lhe dará Resistência ao Fogo."]
@@ -4815,6 +4841,8 @@
 	quest.3A03852E282DAA4D.quest_desc: ["O &#ED8055Eletrolisador&r é capaz de fornecer pulsos de energia suficientes para que o material se quebre em recursos mais fundamentais."]
 	quest.3A03852E282DAA4D.title: "&5Eletrolisador"
 	quest.3A0C8BCE197A448B.quest_desc: ["O &#827AFFEstireno-Butadieno&r pode ser misturado com &#9683F7Pó Pequeno de Chumbo&r ou &#FEA8FFPó Pequeno de Cromo&r para obter &#A1A1A1Borracha de Estireno-Butadieno&r."]
+	quest.3A12B03FE9C9D925.quest_desc: ["Finalmente você está cara a cara com a &5Campeã&f, &5Cynthia&r! \\n\\nSe você derrotá-la, seu Limite de Nível subirá para 69. \\n\\nSeu Item de Assinatura é uma &3Escama de Prisma&r."]
+	quest.3A12B03FE9C9D925.title: "&5Campeã Cynthia"
 	quest.3A1D07AED2A841E4.quest_desc: ["Derrete itens automaticamente na Mochila."]
 	quest.3A1D07AED2A841E4.quest_subtitle: "Automático"
 	quest.3A1D07AED2A841E4.title: "&eAprimoramento de Auto-Fusão"
@@ -5111,6 +5139,8 @@
 	quest.3D63868AC4393EBC.quest_desc: ["Uma abelha que dá Fluido de XP do &2Just Dire Things&r."]
 	quest.3D63868AC4393EBC.quest_subtitle: "Lápis + Esmeralda"
 	quest.3D63868AC4393EBC.title: "&fAbelha de Experiência"
+	quest.3D63B8A64B561A71.quest_desc: ["Ele aumentará seu Limite de Nível para 36. \\n\\nSeu Item de Assinatura desta vez é o &dEviolite&r. \\n\\nVocê precisará lutar com ele 3 vezes. Não apenas lutar, mas também vencer!"]
+	quest.3D63B8A64B561A71.title: "&6Treinador Pokemon Cedric"
 	quest.3D7480E4F9063E93.quest_subtitle: "Madeira + Suor"
 	quest.3D7480E4F9063E93.title: "&fAbelha Fazendeira"
 	quest.3D755073C56274BE.quest_desc: ["Jogue um Item de Lente na frente do Reconstructor Atômico e quando ele ativar, se transformará em uma Lente de &cC&eo&al&bo&3r&r. \\n\\nJogue uma Lente de &cC&eo&al&bo&3r&r na frente dele, e quando ele ativar, fará uma Lente de &cDetonação&r. \\n\\nContinue fazendo isso até obter a Lente da &3Morte Certa&r."]
@@ -5716,6 +5746,8 @@
 	quest.450EDE68EC992A5A.quest_desc: ["Interfaces &cleem&r o que quer que estejam olhando. Você pode pensar nisso como uma &bAE2&r Storage Bus.\\n\\nNão sabe o que é isso? Aqui vai um exemplo: Um baú com 100 Cobblestones tem uma interface conectada a ele, isso significa que sua rede ID tem 100 Cobblestones no sistema, bem simples, certo?"]
 	quest.450EDE68EC992A5A.quest_subtitle: "Interfaces Têm GUIs!"
 	quest.4510FD92BACF00FF.quest_subtitle: "Ameixa + Castanha-doce"
+	quest.45135F112E05F9B5.quest_desc: ["A &4&oSérie&r ainda não acabou! Você precisará de uma revanche com a &3Elite dos Quatro&r e a &5Campeã Cynthia&r. \\n\\nSeus Itens de Assinatura e padrão permanecem os mesmos. \\n\\nDerrotar &3Aaron&r aumentará seu Nível para 71. \\n&3Bertha&r para 73. \\n\\n&3Flint&r para 75. \\n\\n&3Lucian&r para 78. \\n\\nE a &5Campeã Cynthia&r para 79."]
+	quest.45135F112E05F9B5.title: "Revanche da &3Elite dos Quatro&r e &5Campeã&r"
 	quest.45161821C221EF0B.quest_desc: ["Assim que tivermos essas 15 &4Estante de Livro Infernais&r ao redor da nossa &5Mesa de Encantamento&r, teremos &a45 Eterna&r e &c30% Quanta&r na nossa &5Mesa&r. \\n\\nEsta é a quantidade perfeita para &d&lInfundir&r nossas &4Estante de Livro Infernais&r! \\n\\nAs &4Estantes Infernais Infundidas&r dão &a5 Eterna&r com um máximo de &a60 Eterna&r, junto com &c5% Quanta&r. \\n\\nElas podem ser Fabricadas com outros Itens para fazer diferentes &7Estantes de Livros&r, para as que queremos, precisaremos de 12 &4Estantes Infernais Infundidas&r! \\n\\nClaro, como sou muuuito generoso, você só precisará coletar 8!"]
 	quest.45161821C221EF0B.title: "&4Estantes Infernais Infundidas"
 	quest.45268A619787288F.title: "&eMochila de Ouro"
@@ -6045,6 +6077,8 @@
 	quest.4967CD7D2701C594.title: "&6&lProductive Bees"
 	quest.4975A8FD77155647.quest_desc: ["&nForte&r \\n\\n&aInseto&r \\n&cFogo&r \\n&9Voador&r \\n&bGelo&r \\n\\n&nVulnerável&r \\n\\n&4Lutador&r \\n&2Grama&r \\n&6Terra&r \\n&7Aço&r \\n&bÁgua&r"]
 	quest.4975A8FD77155647.title: "&6Pedra"
+	quest.4975ADE2D75353CA.quest_desc: ["Ele não aumentará seu Limite de Nível. \\n\\nSeu Item de Assinatura é o &7Revestimento de Metal&r."]
+	quest.4975ADE2D75353CA.title: "&aLíder de Ginásio Byron"
 	quest.49772923B8AF0F1F.title: "&bParte de Armazenamento de Fluido de 1048kB"
 	quest.49776AC58E535E6A.quest_subtitle: "Feito no Reprocessador"
 	quest.49776AC58E535E6A.title: "&fAbelha de Inanite"
@@ -6658,6 +6692,8 @@
 	quest.506F20AF8E857559.quest_desc: ["O Dínamo Cinético é um Gerador que usa momento para criar Energia! \\n\\nPara começar a criar Energia, você precisará de uma Roda d'Água ou Moinho de Vento acoplado ao lado com o buraco gigante! \\n\\nO Dínamo Cinético não tem um armazenamento interno de Energia, mas fornece Energia para Blocos conectados como Conectores ou Acumuladores."]
 	quest.506F20AF8E857559.title: "Energia de coisas em movimento!"
 	quest.508A8366219175FE.quest_desc: ["A Ferramenta de Configuração é usada para travar Gavetas para que elas se lembrem do item que têm dentro.\\n\\nIsso pode ser útil sempre que você configurar um sistema para empurrar e puxar de Gavetas. A Gaveta travada não substituirá o item que foi travado nela!"]
+	quest.508CCA2DDD8602AA.quest_desc: ["Ele aumentará seu Limite de Nível para 16. \\n\\nSeu Item de Assinatura é a &eRocha Lisa&r."]
+	quest.508CCA2DDD8602AA.title: "&aLíder de Ginásio Roark"
 	quest.50A286C268F38E09.quest_desc: ["Nesta página de Missão, dediquei muito tempo colorindo os textos para tentar ajudar você, o Jogador, a entender a que estou me referindo. Só para perceber que pode ser ainda mais confuso, então aqui está uma Legenda! \\n\\n&5Roxo&r é qualquer Trem ou Locomotiva, tanto Locomotivas Elétricas quanto a Vapor e Vagões acoplados. \\n&6Dourado&r é qualquer Trilho e Ferrovia, inclui Trilhos especiais, mas não Kits de Trilhos. \\n&cVermelho Claro&r representa qualquer Kit de Trilhos. \\n&4Vermelho Escuro&r é para Pés de Cabra. \\n&3Ciano&r é apenas para a Locomotiva a Vapor. \\n&eAmarelo&r é apenas para a Locomotiva Elétrica. \\n&9Azul&r é para a Perfuratriz de Túnel. \\n&7Cinza&r é para Carrinhos de Mina e Vagões especiais."]
 	quest.50A286C268F38E09.title: "Legenda de Cores"
 	quest.50A32AC6EDBC5854.quest_desc: ["Comida por si só pode ser bem chata, mas fica muito melhor quando você tem um acompanhamento com seu prato! Mais especificamente, um (a) &6Anel de Cebola&r!\\n\\nAo usar o &6Anel de Cebola&r, tudo que você comer lhe dará um leve efeito de Pressa."]
@@ -6720,6 +6756,8 @@
 	quest.5160D62F07A642A7.quest_subtitle: "Rowan + Beech"
 	quest.516289A040EE9FDC.quest_subtitle: "Cristalino + Neon Cuckoo"
 	quest.516289A040EE9FDC.title: "&fAbelha de Menril"
+	quest.5169625567DC3B75.quest_desc: ["Ele aumentará seu Limite de Nível para 30. \\n\\nSeu Item de Assinatura é a &bPedra da Eternidade&r."]
+	quest.5169625567DC3B75.title: "&6Treinador Pokemon Cedric"
 	quest.516AC1F0E0BCAE55.quest_desc: ["Tubos Congelados são dropados por Freezes na Forja de Golem. \\n\\nEles podem ser arremessados como Poções para ferir quem for atingido."]
 	quest.516E66BE01EE5B31.quest_desc: ["&8Tomos de Armamento&r darão &5Encantamentos&r para Espadas e Machados. \\n\\nPrincipalmente aqueles que ajudam a Matar coisas! Como &5Afiação &fe &5Aspecto Flamejante&r. \\n&8Tomos de Arquearia&r darão &5Encantamentos&r para Armas de longo alcance, o Arco e a Besta. \\n\\n&5Perfuração&f, &5Força&f, e &5Repulsão&r!"]
 	quest.516E66BE01EE5B31.title: "&8Tomos de Armas"
@@ -7022,6 +7060,8 @@
 	quest.544893F746387EC8.quest_desc: ["Agora com &cRedstone&r ganhamos acesso à &cEnergia&r! \\n\\nQuase todas as Máquinas no &c&lMinecraft com Mods&r precisam de &cEnergia&r. A maioria está na forma de FE (Forge Energy). \\n\\nAlgumas estão em formas semelhantes como AE, estas podem funcionar com FE ou serem traduzidas para AE. Outros Mods usam sua própria forma de Energia que é exclusiva deles."]
 	quest.544893F746387EC8.title: "&cEnergia"
 	quest.5466CB622A637DCD.quest_desc: ["A Fruta Abissal tecnicamente pode aparecer em qualquer corpo d'água, mas é a única que vive nos Rios Cintilantes. \\n\\nEla cresce como Kelp do chão para cima, mas também funciona como Glowberries, pois a Fruta cresce e pode ser coletada dela."]
+	quest.54729932639621E3.quest_desc: ["Ela não aumentará seu Limite de Nível. \\n\\nSeu Item de Assinatura é o &0Cinto Preto&r, ela deve ser boa no Karatê!"]
+	quest.54729932639621E3.title: "&aLíder de Ginásio Maylene"
 	quest.54735C5FCD2077B3.quest_desc: ["&aMystical Agriculture&r é um mod de geração de recursos que permite cultivar uma grande variedade de recursos vanilla e de mods usando &aSementes&r."]
 	quest.54735C5FCD2077B3.title: "&aMystical Agriculture!"
 	quest.5480C9F72052ECAD.quest_desc: ["Combate é uma parte importante de todo &2&lMinecraft&r de Sobrevivência. \\n\\nSe você quer dificuldades ou não, tudo importa para o seu Combate. \\n\\n&5Encantamento&r é inteiramente diferente (e melhor) com Mods como &5&lApotheosis&r mudando a forma como fazemos isso. Além de outros Mods adicionando ainda mais &5Encantamentos&r. \\n\\nAlguns Mods dão pequenas &6&lRelíquias&r ou &3&lArtefatos&r que você pode Vestir e Segurar para obter Efeitos! "]
@@ -7089,6 +7129,8 @@
 	quest.553ADA7040B652CD.quest_desc: ["A &4&lBroca de Mineração&r, &2&lSerra Elétrica&r e o &b&lLançador Químico&r normalmente armazenam 1.000mB ou o equivalente a 1 Balde de &bFluido&r. \\n\\nNormalmente não significa sempre! Com o Tanque Grande, eles agora podem armazenar 2.000mB ou o equivalente a 2 Baldes. \\n\\nNão parece muito, mas confie em mim, é."]
 	quest.553C44F85E508DE3.quest_desc: ["Este é único, pois não é usado para apenas 1 Roteador, mas para múltiplos. \\n\\nSe você quer que múltiplos Roteadores funcionem ao mesmo tempo, então cada um precisa de uma Melhoria de Sincronização. \\n\\nPrecisará ser ajustado em sua própria GUI."]
 	quest.554F47A0AF7506EC.quest_subtitle: "59.049 Pedras do End"
+	quest.55519316D85D116B.quest_desc: ["Ele também não aumentará seu Limite de Nível. Por que estamos lutando com esses caras! \\n\\nAh sim, nós temos que lutar. \\n\\nSeu Item de Assinatura é uma Carga de Vento."]
+	quest.55519316D85D116B.title: "&7Revanche do Comandante Saturn"
 	quest.5560F303C452E110.quest_desc: ["O Extrusor empurra blocos e entidades, mas por que não empurrar um pouco mais! \\n\\nAs entidades, não os blocos."]
 	quest.5563BD4934297522.quest_desc: ["Quando você possuir uma &bAbelha de Diamante&r, cruze-a com a &2Abelha de Slime&r para criar uma &aAbelha de Esmeralda!"]
 	quest.5563BD4934297522.quest_subtitle: "Abelha de Diamante + Abelha de Slime"
@@ -7105,6 +7147,8 @@
 	quest.5585130028BB8298.title: "&d&lRevólver"
 	quest.55882C10292B6A3D.quest_subtitle: "Alimente uma Abelha Cristalina com um Bloco da Prosperidade"
 	quest.55882C10292B6A3D.title: "&fAbelha da Prosperidade"
+	quest.5596F9B74231AB62.quest_desc: ["Esse cara de novo? O que ele tem, uma queda por você? \\n\\nEle aumentará seu Limite de Nível para 57. \\n\\nSeu Item de Assinatura agora é uma Pedra Brilhante."]
+	quest.5596F9B74231AB62.title: "&6Treinador Pokemon Cedric"
 	quest.55A9EB63F4964FCF.quest_subtitle: "&f7 &cde Dano de Ataque"
 	quest.55B9B9C3AA01D323.quest_desc: [
 		"Entre os enormes &5Cristais Brilhantes&r no &5&lDesfiladeiro de Cristal&r, há um &5Cristal&r na forma de uma &dFlor&r. \\n\\nÉ lindo, quase hipnotizante. Me dá vontade de cultivar um Jardim de &dFlores&r lindas, mas sei que nenhuma dessas &dFlores&r chegará perto de quão deslumbrante a &dFlor&r de &5Cristal&r é... \\n\\nDe qualquer forma, você encontrará muitos &5Cristais de Mel&r, &6Mel&r e, o mais importante, &5Flores Cristalinas&r!"
@@ -7256,6 +7300,8 @@
 	quest.57A7A5C79389A96A.title: "&6&lCreate&r"
 	quest.57ACD83205988834.quest_subtitle: "Ouro + Ender"
 	quest.57ACD83205988834.title: "&fAbelha de Platina"
+	quest.57B314DBCE27B06E.quest_desc: ["Ela aumentará seu Limite de Nível para 37. \\n\\nHer Signature Item is an &aOlho de Ender&r."]
+	quest.57B314DBCE27B06E.title: "&aLíder de Ginásio Fantina"
 	quest.57BB2CC6D9D2AE87.quest_desc: ["Isto é o que você realmente precisa para ter &eAfixos&r perfeitos. \\n\\nPrimeiro você precisa da &6&lMesa&r, uma Ferramenta e &6Símbolos do Aprimoramento&r. \\n\\nAssim que tiver tudo isso, o mundo é todo seu! Você pode rerrolar &eAfixos&r, escolher um &eAfixo&r específico ou melhorar &eAfixos&r já existentes!"]
 	quest.57BB2CC6D9D2AE87.title: "&6&lMesa de Aprimoramento"
 	quest.57C4A0BAE739E903.quest_desc: ["A Câmara de Dissolução é usada para criar máquinas mais avançadas.\\n\\nVocê precisará colocar um certo fluido nela junto com os itens necessários para o que está criando. Verifique o JEI."]
@@ -7955,8 +8001,12 @@
 	quest.607D592CE102C82E.title: "Ferramentas de Knightmetal"
 	quest.607D9B53C632DEDE.quest_desc: ["As &bVálvulas de Cano&r ajudam a classificar e parar o fluxo de &bFluido&r! \\n\\nQuando usadas com &bCanos de Fluido&r, elas farão com que o &bFluido&r vá apenas na direção das setas na &bVálvula de Cano&r. \\n\\nVocê também pode enviar um &4Sinal de Redstone&r para ela, o que interromperá completamente o fluxo de &bFluido&r!"]
 	quest.607D9B53C632DEDE.title: "&bVálvula de Cano"
+	quest.607E5EBE3696CC26.quest_desc: ["Não mudará seu Limite de Nível. \\n\\nSeu Item de Assinatura é um &eGirassol&r."]
+	quest.607E5EBE3696CC26.title: "&aLíder de Ginásio Gardenia"
 	quest.60850E717C747A78.quest_desc: ["Você já passou 3 meses estudando &oCódigo Galáctico&r para finalmente entender a linguagem da &5Mesa de Encantamento&r só para descobrir que era um monte de besteira? \\n\\nNão? \\n\\nEu também não, mas as &9Pistas de Encantamento&r são seu tradutor real para isso! \\n\\nCada &9Pista de Encantamento&r lhe dirá 1 &5Encantamento&r antes de você realmente usá-lo."]
 	quest.60850E717C747A78.title: "&3Pistas de Encantamento"
+	quest.6092335560810B6F.quest_desc: ["Agora estamos na &3Elite dos Quatro&r! Assim que derrotarmos esses caras, poderemos enfrentar a &5Campeã&r! \\n\\nO primeiro aumentará seu Limite de Nível para 59. \\n\\nSeu Item de Assinatura é o &3Pó de Prata&r."]
+	quest.6092335560810B6F.title: "&3Elite dos Quatro Aaron"
 	quest.6092490EC9008A05.quest_desc: ["O &4Destruidor&r é uma interface que quebrará automaticamente o bloco ao qual está conectado.\\n\\nVocê também pode configurá-lo para uma lista de permissão de blocos, o que é útil para automatizar certos processos, como fazer Casings no &6Create.&r"]
 	quest.6092490EC9008A05.quest_subtitle: "Quebrando Blocos!"
 	quest.609CA1ACFA981BD5.quest_desc: ["O &cKit de Roteamento&r é usado com os bilhetes de passagem."]
@@ -7983,6 +8033,8 @@
 		"{image:atm:textures/questpics/eternal/starlight_scarlet.png width:200 height:100 align:center}"
 	]
 	quest.60FDCA2FDFE74056.title: "Floresta Escarlate"
+	quest.6106D2F6CEFFFC82.quest_desc: ["Ela aumentará seu Limite de Nível para 43. \\n\\nSeu Item de Assinatura é a &bPedra de Gelo&r."]
+	quest.6106D2F6CEFFFC82.title: "&aLíder de Ginásio Candice"
 	quest.610F9E9D0B5131C7.quest_desc: ["O &6Amuleto da Manutenção I&r impedirá que você perca os itens em sua mão principal e secundária, bem como qualquer armadura que esteja usando quando morrer."]
 	quest.610F9E9D0B5131C7.title: "&6Amuleto da Manutenção I"
 	quest.6112956E19017D2D.quest_desc: ["Cabos Lógicos são diferentes de outros &e&lPipez&r ou &5&lcanos Meka&r. Os outros Canos agem como funis, os itens se movem de 1 Inventário, para dentro do Cano, e então para o 2º Inventário. Cabos Lógicos simplesmente pulam o intermediário, o que também pula muito lag. \\n\\nEles são apenas para conectar Importadores e Interfaces."]
@@ -8203,6 +8255,8 @@
 	quest.640D6ADA17709D3A.quest_subtitle: "Yellow Meranti + Kapok"
 	quest.64141B720662B652.quest_desc: ["Bem-vindo ao &6&lRelics&r! \\n \\nO mod &6Relics&r é semelhante ao Artifacts, você obtém muitos itens únicos e poderosos por todos os Mundos. \\n \\nEles têm muitas Habilidades diferentes que são obtidas e aprimoradas através da &6Janela de Pesquisa&r (segure shift na relíquia). Lá você pode trocar &aXP da Vanilla&r para rolar novamente as estatísticas de suas habilidades, ver seu &eXP de Relíquia&r atual, ganho ao usar as &6Relíquias&r, e subir o nível de suas habilidades! \\n \\nPara usar as Habilidades das &6Relíquias&r, o padrão é Alt Esquerdo."]
 	quest.64141B720662B652.title: "&l&6Relics"
+	quest.6431628BFD0A9386.quest_desc: ["Ele aumentará você para o 66. \\n\\n&dSementes Psíquicas&r são seus Itens de Assinatura."]
+	quest.6431628BFD0A9386.title: "&3Elite dos Quatro Lucian"
 	quest.6431A384DDFBF439.quest_desc: [
 		"A &bFerramenta de Rede&f é uma ferramenta importante em todo o AE2, usada para exibir vários detalhes de uma rede na tela, como o consumo geral de energia e o armazenamento."
 		""
@@ -8593,6 +8647,8 @@
 	quest.69B7DE2283B4EE6C.quest_desc: ["A &bUnidade de Co-processamento de Criação&f ajuda a acelerar os trabalhos de criação, permitindo que os provedores de padrões enviem itens para seus dispositivos conectados mais rapidamente ou trabalhem simultaneamente para fazer vários ingredientes necessários.\\n\\nA unidade de co-processamento base do AE2 fornece uma 'thread' de co-processador para auxiliar nisso, enquanto a unidade de co-processamento de &dMEGA Células&f fornece 4 threads em um único bloco."]
 	quest.69B7DE2283B4EE6C.quest_subtitle: "Baixe mais núcleos de CPU"
 	quest.69B7DE2283B4EE6C.title: "&eUnidade de CO-Processamento de Fabricação"
+	quest.69EAC857B2CCB045.quest_desc: ["Derrotá-los aumentará seu Limite de Nível para 48. \\n\\nSeu Item de Assinatura é uma &dBola de Fumaça&r."]
+	quest.69EAC857B2CCB045.title: "&7Comandante Mars e Jupiter"
 	quest.69EE22CB4FF1E591.quest_desc: ["&aEngenhocas&r são muito difíceis de entender, mas basicamente é a arte de combinar diferentes Blocos e &6Máquinas&r em um sistema móvel. \\n\\nVocê precisará de &6Máquinas&r para realmente mover a &aEngenhoca&r, como &aChassi Linear&r, você precisará das &6Máquinas&r que você quer que funcionem, como &6Brocas&r, e você precisará de &aCola&r para manter tudo junto! \\n\\nUma vez que tudo esteja &aColado&r, deve se mover quando &dForça Rotacional&r for fornecida à &6Máquina&r móvel da &aEngenhoca&r."]
 	quest.69EE22CB4FF1E591.title: "&a&lEngenhocas"
 	quest.69F63F3B48E4344E.quest_subtitle: "Tier: &63"
@@ -9219,6 +9275,8 @@
 	quest.715F9F7107374299.title: "Cristal de Relé de Energia Wyvern"
 	quest.71667FFC8011525C.quest_subtitle: "Magmática + Cortadeira de Folhas"
 	quest.71667FFC8011525C.title: "&fAbelha de Carvão"
+	quest.716F9AA2E9011F06.quest_desc: ["Ele não aumentará seu Limite de Nível. \\n\\nSeu Item de Assinatura é um &eRelógio&r!"]
+	quest.716F9AA2E9011F06.title: "&7Chefe da Equipe Galáctica Cyrus"
 	quest.716FF64ACF896D50.quest_desc: ["A &cArdósia Resinada&r substitui a &3Pedra de Sculk&r nas &cColunas Nubladas&r. \\n\\nFunciona exatamente como a &3Pedra de Sculk&r, só que mais Marrom."]
 	quest.716FF64ACF896D50.title: "&cArdósia Resinada"
 	quest.71766BD7321FCB13.quest_desc: ["Ótimo, outro &c&lInfusor Químico&r! \\n\\nCombine o &aÓxido de Urânio&r e o &7Ácido Fluorídrico&r para criar &aHexafluoreto de Urânio&r. \\n\\nAgora podemos processar o &aHexafluoreto de Urânio&r em uma &5&lCentrífuga Isotópica&r para finalmente obter nosso belo &2Combustível Fóssil&r."]
@@ -10361,6 +10419,8 @@
 	quest.7F0F7111552F95A9.title: "Controlando seu &5Trem"
 	quest.7F11ABFB2E21B7E4.quest_desc: ["Armadura é uma parte muito importante do &l&2Minecraft&r, é o que te protege de danos. \\n\\nPeças diferentes de Armadura dão diferentes Pontos de Armadura. Estes são o que determinam a eficácia da sua Armadura, quanto mais, melhor!\\n\\nA maioria das armaduras pode ser alterada para mais decoração com Acabamentos de Armadura, use uma peça de Armadura com um Acabamento de Armadura e um Item para colorir para mudar a aparência!"]
 	quest.7F11ABFB2E21B7E4.title: "&l&bArmadura Básica&r"
+	quest.7F124EAE153EFE7F.quest_desc: ["Agora temos a última Batalha da &4&oSérie&r. Apenas uma última Batalha com a &5Campeã Cynthia&r. \\n\\nEla não aumentará seu Limite de Nível, em vez disso, finalizará a &4&oSérie&r. Então, você poderá começar uma nova! Como a do &6&oATM&r."]
+	quest.7F124EAE153EFE7F.title: "&4&oSérie&r Finalizada"
 	quest.7F187E291C3D5BA7.quest_desc: ["O Descarregador de Fluidos é exatamente o oposto do Carregador de Fluidos. Em vez de estar sobre o &6Trilho&r, ele está sob. Em vez de dar água às &3Locomotivas a Vapor&r, ele pega a água delas. Não sei por que você iria querer fazer isso, mas você pode!"]
 	quest.7F187E291C3D5BA7.title: "Descarregador de Fluidos"
 	quest.7F2D696AC9F4C4E4.quest_desc: ["'&bEspelho, Espelho&r meu, como volto ao meu Ponto de Renascimento das minhas viagens?' \\n \\n'Depois de definir o &bEspelho Mágico&r para uma Cama clicando com o botão direito nele, você pode segurar o botão direito para o &bEspelho Mágico&r te teleportar de volta para sua cama!' \\n \\n'Obrigado, &bEspelho&r!'"]

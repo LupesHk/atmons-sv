@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:time_traveller_log"
+      "item": "productivetrees:plum_log"
     },
     {
-      "item": "productivetrees:time_traveller_wood"
+      "item": "productivetrees:plum_wood"
     },
     {
-      "item": "productivetrees:time_traveller_stripped_log"
+      "item": "productivetrees:plum_stripped_log"
     },
     {
-      "item": "productivetrees:time_traveller_stripped_wood"
+      "item": "productivetrees:plum_stripped_wood"
     }
   ],
   "result": {

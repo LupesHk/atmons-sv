@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:soul_tree_log"
+      "item": "productivetrees:cacao_log"
     },
     {
-      "item": "productivetrees:soul_tree_wood"
+      "item": "productivetrees:cacao_wood"
     },
     {
-      "item": "productivetrees:soul_tree_stripped_log"
+      "item": "productivetrees:cacao_stripped_log"
     },
     {
-      "item": "productivetrees:soul_tree_stripped_wood"
+      "item": "productivetrees:cacao_stripped_wood"
     }
   ],
   "result": {

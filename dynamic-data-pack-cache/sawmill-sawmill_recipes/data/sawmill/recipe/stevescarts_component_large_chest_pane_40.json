@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:douglas_fir_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:douglas_fir_wood"
+    },
+    {
+      "item": "productivetrees:douglas_fir_stripped_log"
+    },
+    {
+      "item": "productivetrees:douglas_fir_stripped_wood"
     }
   ],
   "result": {

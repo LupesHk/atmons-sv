@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:apricot_planks"
+    "item": "productivetrees:persimmon_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

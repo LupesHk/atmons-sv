@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "aether:skyroot_log"
+      "item": "productivetrees:sand_pear_log"
     },
     {
-      "item": "aether:skyroot_wood"
+      "item": "productivetrees:sand_pear_wood"
     },
     {
-      "item": "aether:stripped_skyroot_log"
+      "item": "productivetrees:sand_pear_stripped_log"
     },
     {
-      "item": "aether:stripped_skyroot_wood"
+      "item": "productivetrees:sand_pear_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yew_log"
+      "item": "productivetrees:purple_spiral_log"
     },
     {
-      "item": "productivetrees:yew_wood"
+      "item": "productivetrees:purple_spiral_wood"
     },
     {
-      "item": "productivetrees:yew_stripped_log"
+      "item": "productivetrees:purple_spiral_stripped_log"
     },
     {
-      "item": "productivetrees:yew_stripped_wood"
+      "item": "productivetrees:purple_spiral_stripped_wood"
     }
   ],
   "result": {

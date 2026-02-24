@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:alder_log"
+    },
+    {
+      "item": "productivetrees:alder_wood"
+    },
+    {
+      "item": "productivetrees:alder_stripped_log"
+    },
+    {
+      "item": "productivetrees:alder_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "mekanismtools:wood_paxel",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

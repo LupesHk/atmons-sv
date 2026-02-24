@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "undergarden:wigglewood_wood"
-    },
-    {
-      "item": "undergarden:stripped_wigglewood_log"
-    },
-    {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "cookingforblockheads:fruit_basket",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

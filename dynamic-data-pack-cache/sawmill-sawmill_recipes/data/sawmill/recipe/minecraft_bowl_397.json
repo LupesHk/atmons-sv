@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sweet_chestnut_planks"
+    "item": "twilightforest:transformation_planks"
   },
   "result": {
     "id": "minecraft:bowl",

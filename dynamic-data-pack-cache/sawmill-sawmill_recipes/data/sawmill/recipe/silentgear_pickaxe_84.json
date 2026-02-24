@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:northland_log"
+      "item": "productivetrees:cave_dweller_log"
     },
     {
-      "item": "eternal_starlight:northland_wood"
+      "item": "productivetrees:cave_dweller_wood"
     },
     {
-      "item": "eternal_starlight:stripped_northland_log"
+      "item": "productivetrees:cave_dweller_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_northland_wood"
+      "item": "productivetrees:cave_dweller_stripped_wood"
     }
   ],
   "result": {

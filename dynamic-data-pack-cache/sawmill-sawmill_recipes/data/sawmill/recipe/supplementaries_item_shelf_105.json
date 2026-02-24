@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:sorting_planks"
+    "item": "productivetrees:cedar_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

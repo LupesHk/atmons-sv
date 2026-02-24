@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:dark_planks"
+    "item": "productivetrees:plum_planks"
   },
   "result": {
     "id": "stevescarts:component_large_chest_pane",

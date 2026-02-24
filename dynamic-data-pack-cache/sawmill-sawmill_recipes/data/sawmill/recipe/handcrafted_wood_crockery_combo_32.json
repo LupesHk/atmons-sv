@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:banyin_log"
+      "item": "minecraft:spruce_log"
     },
     {
-      "item": "eternal_starlight:banyin_wood"
+      "item": "minecraft:spruce_wood"
     },
     {
-      "item": "eternal_starlight:stripped_banyin_log"
+      "item": "minecraft:stripped_spruce_log"
     },
     {
-      "item": "eternal_starlight:stripped_banyin_wood"
+      "item": "minecraft:stripped_spruce_wood"
     }
   ],
   "result": {

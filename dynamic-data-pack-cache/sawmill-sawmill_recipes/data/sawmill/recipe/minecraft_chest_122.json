@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "aether:skyroot_log"
+      "item": "eternal_starlight:scarlet_log"
     },
     {
-      "item": "aether:skyroot_wood"
+      "item": "eternal_starlight:scarlet_wood"
     },
     {
-      "item": "aether:stripped_skyroot_log"
+      "item": "eternal_starlight:stripped_scarlet_log"
     },
     {
-      "item": "aether:stripped_skyroot_wood"
+      "item": "eternal_starlight:stripped_scarlet_wood"
     }
   ],
   "result": {

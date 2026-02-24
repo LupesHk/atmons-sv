@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:salak_log"
+      "item": "productivetrees:sparkle_cherry_log"
     },
     {
-      "item": "productivetrees:salak_wood"
+      "item": "productivetrees:sparkle_cherry_wood"
     },
     {
-      "item": "productivetrees:salak_stripped_log"
+      "item": "productivetrees:sparkle_cherry_stripped_log"
     },
     {
-      "item": "productivetrees:salak_stripped_wood"
+      "item": "productivetrees:sparkle_cherry_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

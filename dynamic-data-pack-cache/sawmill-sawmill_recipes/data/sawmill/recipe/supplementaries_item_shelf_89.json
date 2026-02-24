@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:canopy_planks"
+    "item": "productivetrees:brown_amber_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

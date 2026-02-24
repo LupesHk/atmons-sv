@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "productivetrees:carob_log"
     },
     {
-      "item": "deeperdarker:echo_wood"
+      "item": "productivetrees:carob_wood"
     },
     {
-      "item": "deeperdarker:stripped_echo_log"
+      "item": "productivetrees:carob_stripped_log"
     },
     {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "productivetrees:carob_stripped_wood"
     }
   ],
   "result": {

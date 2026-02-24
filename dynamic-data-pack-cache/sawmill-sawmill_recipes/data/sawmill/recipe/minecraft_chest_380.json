@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:flickering_sun_log"
+      "item": "productivetrees:cherry_plum_log"
     },
     {
-      "item": "productivetrees:flickering_sun_wood"
+      "item": "productivetrees:cherry_plum_wood"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_log"
+      "item": "productivetrees:cherry_plum_stripped_log"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_wood"
+      "item": "productivetrees:cherry_plum_stripped_wood"
     }
   ],
   "result": {

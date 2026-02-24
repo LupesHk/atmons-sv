@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:juniper_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "productivetrees:juniper_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "productivetrees:juniper_stripped_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "productivetrees:juniper_stripped_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

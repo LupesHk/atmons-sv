@@ -2,16 +2,22 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:grandidiers_baobab_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:grandidiers_baobab_wood"
+    },
+    {
+      "item": "productivetrees:grandidiers_baobab_stripped_log"
+    },
+    {
+      "item": "productivetrees:grandidiers_baobab_stripped_wood"
     }
   ],
   "result": {
     "id": "actuallyadditions:wooden_aiot",
     "count": 1
   },
-  "ingredient_count": 6,
+  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

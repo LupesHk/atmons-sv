@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:dark_log"
+      "item": "productivetrees:sandalwood_log"
     },
     {
-      "item": "twilightforest:dark_wood"
+      "item": "productivetrees:sandalwood_wood"
     },
     {
-      "item": "twilightforest:stripped_dark_log"
+      "item": "productivetrees:sandalwood_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_dark_wood"
+      "item": "productivetrees:sandalwood_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

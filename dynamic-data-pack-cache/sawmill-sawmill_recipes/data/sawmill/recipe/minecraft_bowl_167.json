@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:elderberry_planks"
+    "item": "productivetrees:ginkgo_planks"
   },
   "result": {
     "id": "minecraft:bowl",

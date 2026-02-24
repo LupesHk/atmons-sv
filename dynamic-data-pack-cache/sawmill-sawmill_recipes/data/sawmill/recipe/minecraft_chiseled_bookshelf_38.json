@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:time_traveller_log"
+      "item": "minecraft:dark_oak_log"
     },
     {
-      "item": "productivetrees:time_traveller_wood"
+      "item": "minecraft:dark_oak_wood"
     },
     {
-      "item": "productivetrees:time_traveller_stripped_log"
+      "item": "minecraft:stripped_dark_oak_log"
     },
     {
-      "item": "productivetrees:time_traveller_stripped_wood"
+      "item": "minecraft:stripped_dark_oak_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:logwood_log"
+      "item": "productivetrees:cashew_log"
     },
     {
-      "item": "productivetrees:logwood_wood"
+      "item": "productivetrees:cashew_wood"
     },
     {
-      "item": "productivetrees:logwood_stripped_log"
+      "item": "productivetrees:cashew_stripped_log"
     },
     {
-      "item": "productivetrees:logwood_stripped_wood"
+      "item": "productivetrees:cashew_stripped_wood"
     }
   ],
   "result": {

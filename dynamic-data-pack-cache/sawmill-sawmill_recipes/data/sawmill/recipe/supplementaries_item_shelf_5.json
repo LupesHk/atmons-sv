@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:slimy_delight_planks"
+    "item": "productivetrees:aquilaria_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

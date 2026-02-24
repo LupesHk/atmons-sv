@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:firecracker_planks"
+    "item": "productivetrees:almond_planks"
   },
   "result": {
     "id": "minecraft:bowl",

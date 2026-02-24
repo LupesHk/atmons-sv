@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:jungle_log"
+      "item": "twilightforest:mining_log"
     },
     {
-      "item": "minecraft:jungle_wood"
+      "item": "twilightforest:mining_wood"
     },
     {
-      "item": "minecraft:stripped_jungle_log"
+      "item": "twilightforest:stripped_mining_log"
     },
     {
-      "item": "minecraft:stripped_jungle_wood"
+      "item": "twilightforest:stripped_mining_wood"
     }
   ],
   "result": {

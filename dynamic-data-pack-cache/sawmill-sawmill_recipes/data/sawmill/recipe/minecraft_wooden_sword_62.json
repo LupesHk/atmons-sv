@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:asai_palm_log"
-    },
-    {
-      "item": "productivetrees:asai_palm_wood"
-    },
-    {
-      "item": "productivetrees:asai_palm_stripped_log"
-    },
-    {
-      "item": "productivetrees:asai_palm_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "minecraft:wooden_sword",
     "count": 1

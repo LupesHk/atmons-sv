@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:cork_oak_planks"
+    "item": "productivetrees:tuscarora_crepe_myrtle_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

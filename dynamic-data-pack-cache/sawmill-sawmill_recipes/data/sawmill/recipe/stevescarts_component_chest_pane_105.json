@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:twilight_oak_planks"
+    "item": "productivetrees:cedar_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:lemon_log"
+      "item": "twilightforest:mining_log"
     },
     {
-      "item": "productivetrees:lemon_wood"
+      "item": "twilightforest:mining_wood"
     },
     {
-      "item": "productivetrees:lemon_stripped_log"
+      "item": "twilightforest:stripped_mining_log"
     },
     {
-      "item": "productivetrees:lemon_stripped_wood"
+      "item": "twilightforest:stripped_mining_wood"
     }
   ],
   "result": {

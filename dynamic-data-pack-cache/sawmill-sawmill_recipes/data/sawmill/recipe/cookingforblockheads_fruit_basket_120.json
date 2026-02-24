@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sandalwood_log"
+      "item": "productivetrees:black_cherry_log"
     },
     {
-      "item": "productivetrees:sandalwood_wood"
+      "item": "productivetrees:black_cherry_wood"
     },
     {
-      "item": "productivetrees:sandalwood_stripped_log"
+      "item": "productivetrees:black_cherry_stripped_log"
     },
     {
-      "item": "productivetrees:sandalwood_stripped_wood"
+      "item": "productivetrees:black_cherry_stripped_wood"
     }
   ],
   "result": {

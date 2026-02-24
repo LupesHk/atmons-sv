@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:lawson_cypress_log"
+      "item": "productivetrees:osage_orange_log"
     },
     {
-      "item": "productivetrees:lawson_cypress_wood"
+      "item": "productivetrees:osage_orange_wood"
     },
     {
-      "item": "productivetrees:lawson_cypress_stripped_log"
+      "item": "productivetrees:osage_orange_stripped_log"
     },
     {
-      "item": "productivetrees:lawson_cypress_stripped_wood"
+      "item": "productivetrees:osage_orange_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:olive_log"
+      "item": "minecraft:jungle_log"
     },
     {
-      "item": "productivetrees:olive_wood"
+      "item": "minecraft:jungle_wood"
     },
     {
-      "item": "productivetrees:olive_stripped_log"
+      "item": "minecraft:stripped_jungle_log"
     },
     {
-      "item": "productivetrees:olive_stripped_wood"
+      "item": "minecraft:stripped_jungle_wood"
     }
   ],
   "result": {

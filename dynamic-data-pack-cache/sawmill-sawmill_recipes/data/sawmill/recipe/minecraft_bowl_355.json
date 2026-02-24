@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:teak_planks"
+    "item": "productivetrees:foggy_blast_planks"
   },
   "result": {
     "id": "minecraft:bowl",

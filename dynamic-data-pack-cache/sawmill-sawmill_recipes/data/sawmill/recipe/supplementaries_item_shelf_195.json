@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:kapok_planks"
+    "item": "productivetrees:red_banana_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

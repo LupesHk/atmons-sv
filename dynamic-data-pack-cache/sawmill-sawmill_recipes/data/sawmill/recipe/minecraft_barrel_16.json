@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "deeperdarker:echo_wood"
-    },
-    {
-      "item": "deeperdarker:stripped_echo_log"
-    },
-    {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

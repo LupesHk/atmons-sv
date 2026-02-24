@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:transformation_log"
+      "item": "productivetrees:key_lime_log"
     },
     {
-      "item": "twilightforest:transformation_wood"
+      "item": "productivetrees:key_lime_wood"
     },
     {
-      "item": "twilightforest:stripped_transformation_log"
+      "item": "productivetrees:key_lime_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_transformation_wood"
+      "item": "productivetrees:key_lime_stripped_wood"
     }
   ],
   "result": {

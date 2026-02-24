@@ -9,7 +9,7 @@
 		{ id: "3BA576079500B36F", item: { count: 1, id: "mysticalagriculture:coral_seeds" } }
 		{ id: "3C4764A1D39D6963", item: { count: 1, id: "mysticalagriculture:dye_seeds" } }
 		{ id: "3A0C8840DD2748F2", item: { count: 1, id: "mysticalagriculture:coal_seeds" } }
-		{ id: "4921F014662A9E59", item: { count: 1, id: "mysticalagriculture:kivi_seeds" } }
+		{ id: "4921F014662A9E59", item: { components: { "ftbquests:missing_item": "mysticalagriculture:kivi_seeds" }, count: 1, id: "ftbquests:missing_item" } }
 		{ id: "5CE26CA796BAC137", item: { count: 1, id: "mysticalagriculture:silicon_seeds" } }
 		{ id: "75AC6846E4485845", item: { count: 1, id: "mysticalagriculture:amethyst_seeds" } }
 		{ id: "0CA9CF89C2FED967", item: { count: 1, id: "mysticalagriculture:sulfur_seeds" } }

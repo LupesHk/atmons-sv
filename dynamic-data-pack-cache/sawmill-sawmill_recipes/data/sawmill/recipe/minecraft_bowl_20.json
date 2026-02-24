@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:night_fuchsia_log"
+      "item": "productivetrees:bull_pine_log"
     },
     {
-      "item": "productivetrees:night_fuchsia_wood"
+      "item": "productivetrees:bull_pine_wood"
     },
     {
-      "item": "productivetrees:night_fuchsia_stripped_log"
+      "item": "productivetrees:bull_pine_stripped_log"
     },
     {
-      "item": "productivetrees:night_fuchsia_stripped_wood"
+      "item": "productivetrees:bull_pine_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

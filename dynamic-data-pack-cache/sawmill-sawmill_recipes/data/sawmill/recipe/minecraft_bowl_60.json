@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cinnamon_log"
+      "item": "productivetrees:iroko_log"
     },
     {
-      "item": "productivetrees:cinnamon_wood"
+      "item": "productivetrees:iroko_wood"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_log"
+      "item": "productivetrees:iroko_stripped_log"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_wood"
+      "item": "productivetrees:iroko_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,10 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

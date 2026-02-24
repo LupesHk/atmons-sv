@@ -2,21 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:golden_delicious_apple_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_wood"
-    },
-    {
-      "item": "productivetrees:golden_delicious_apple_stripped_log"
-    },
-    {
-      "item": "productivetrees:golden_delicious_apple_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "minecraft:barrel",
     "count": 1
   },
+  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sycamore_fig_log"
+      "item": "productivetrees:prairie_crabapple_log"
     },
     {
-      "item": "productivetrees:sycamore_fig_wood"
+      "item": "productivetrees:prairie_crabapple_wood"
     },
     {
-      "item": "productivetrees:sycamore_fig_stripped_log"
+      "item": "productivetrees:prairie_crabapple_stripped_log"
     },
     {
-      "item": "productivetrees:sycamore_fig_stripped_wood"
+      "item": "productivetrees:prairie_crabapple_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:acacia_log"
+      "item": "productivetrees:white_poplar_log"
     },
     {
-      "item": "minecraft:acacia_wood"
+      "item": "productivetrees:white_poplar_wood"
     },
     {
-      "item": "minecraft:stripped_acacia_log"
+      "item": "productivetrees:white_poplar_stripped_log"
     },
     {
-      "item": "minecraft:stripped_acacia_wood"
+      "item": "productivetrees:white_poplar_stripped_wood"
     }
   ],
   "result": {

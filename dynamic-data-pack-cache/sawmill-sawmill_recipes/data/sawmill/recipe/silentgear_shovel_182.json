@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:mangrove_log"
+      "item": "productivetrees:persimmon_log"
     },
     {
-      "item": "twilightforest:mangrove_wood"
+      "item": "productivetrees:persimmon_wood"
     },
     {
-      "item": "twilightforest:stripped_mangrove_log"
+      "item": "productivetrees:persimmon_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_mangrove_wood"
+      "item": "productivetrees:persimmon_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cave_dweller_log"
+      "item": "minecraft:jungle_log"
     },
     {
-      "item": "productivetrees:cave_dweller_wood"
+      "item": "minecraft:jungle_wood"
     },
     {
-      "item": "productivetrees:cave_dweller_stripped_log"
+      "item": "minecraft:stripped_jungle_log"
     },
     {
-      "item": "productivetrees:cave_dweller_stripped_wood"
+      "item": "minecraft:stripped_jungle_wood"
     }
   ],
   "result": {

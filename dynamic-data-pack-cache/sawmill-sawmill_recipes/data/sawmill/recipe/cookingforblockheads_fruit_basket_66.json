@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:mango_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "productivetrees:mango_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "productivetrees:mango_stripped_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "productivetrees:mango_stripped_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

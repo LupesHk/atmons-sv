@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:spruce_log"
+      "item": "cobblemon:apricorn_log"
     },
     {
-      "item": "minecraft:spruce_wood"
+      "item": "cobblemon:apricorn_wood"
     },
     {
-      "item": "minecraft:stripped_spruce_log"
+      "item": "cobblemon:stripped_apricorn_log"
     },
     {
-      "item": "minecraft:stripped_spruce_wood"
+      "item": "cobblemon:stripped_apricorn_wood"
     }
   ],
   "result": {

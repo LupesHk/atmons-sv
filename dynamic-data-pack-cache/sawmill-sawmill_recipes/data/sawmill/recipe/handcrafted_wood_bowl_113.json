@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:jackfruit_planks"
+    "item": "productivetrees:black_locust_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

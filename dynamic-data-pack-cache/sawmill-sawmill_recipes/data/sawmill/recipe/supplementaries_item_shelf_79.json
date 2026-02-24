@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sweetgum_planks"
+    "item": "productivetrees:kapok_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:banana_log"
+      "item": "productivetrees:kapok_log"
     },
     {
-      "item": "productivetrees:banana_wood"
+      "item": "productivetrees:kapok_wood"
     },
     {
-      "item": "productivetrees:banana_stripped_log"
+      "item": "productivetrees:kapok_stripped_log"
     },
     {
-      "item": "productivetrees:banana_stripped_wood"
+      "item": "productivetrees:kapok_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:banyin_log"
+      "item": "productivetrees:grapefruit_log"
     },
     {
-      "item": "eternal_starlight:banyin_wood"
+      "item": "productivetrees:grapefruit_wood"
     },
     {
-      "item": "eternal_starlight:stripped_banyin_log"
+      "item": "productivetrees:grapefruit_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_banyin_wood"
+      "item": "productivetrees:grapefruit_stripped_wood"
     }
   ],
   "result": {

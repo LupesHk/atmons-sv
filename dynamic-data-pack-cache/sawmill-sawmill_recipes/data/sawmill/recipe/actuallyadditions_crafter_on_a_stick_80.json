@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cinnamon_log"
+      "item": "productivetrees:avocado_log"
     },
     {
-      "item": "productivetrees:cinnamon_wood"
+      "item": "productivetrees:avocado_wood"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_log"
+      "item": "productivetrees:avocado_stripped_log"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_wood"
+      "item": "productivetrees:avocado_stripped_wood"
     }
   ],
   "result": {

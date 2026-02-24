@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brown_amber_log"
+      "item": "productivetrees:socotra_dragon_log"
     },
     {
-      "item": "productivetrees:brown_amber_wood"
+      "item": "productivetrees:socotra_dragon_wood"
     },
     {
-      "item": "productivetrees:brown_amber_stripped_log"
+      "item": "productivetrees:socotra_dragon_stripped_log"
     },
     {
-      "item": "productivetrees:brown_amber_stripped_wood"
+      "item": "productivetrees:socotra_dragon_stripped_wood"
     }
   ],
   "result": {

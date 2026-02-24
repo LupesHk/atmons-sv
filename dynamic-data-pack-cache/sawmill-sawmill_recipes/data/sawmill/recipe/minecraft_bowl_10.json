@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:ipe_log"
+      "item": "productivetrees:sweetgum_log"
     },
     {
-      "item": "productivetrees:ipe_wood"
+      "item": "productivetrees:sweetgum_wood"
     },
     {
-      "item": "productivetrees:ipe_stripped_log"
+      "item": "productivetrees:sweetgum_stripped_log"
     },
     {
-      "item": "productivetrees:ipe_stripped_wood"
+      "item": "productivetrees:sweetgum_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

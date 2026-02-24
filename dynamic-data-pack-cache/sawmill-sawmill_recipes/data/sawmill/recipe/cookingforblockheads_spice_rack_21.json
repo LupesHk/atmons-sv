@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:oak_planks"
+    "item": "integrateddynamics:menril_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

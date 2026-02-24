@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:granny_smith_apple_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:granny_smith_apple_wood"
-    },
-    {
-      "item": "productivetrees:granny_smith_apple_stripped_log"
-    },
-    {
-      "item": "productivetrees:granny_smith_apple_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

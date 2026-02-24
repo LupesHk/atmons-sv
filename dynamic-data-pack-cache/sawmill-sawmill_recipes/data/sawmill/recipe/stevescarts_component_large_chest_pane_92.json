@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:alder_log"
+      "item": "productivetrees:white_poplar_log"
     },
     {
-      "item": "productivetrees:alder_wood"
+      "item": "productivetrees:white_poplar_wood"
     },
     {
-      "item": "productivetrees:alder_stripped_log"
+      "item": "productivetrees:white_poplar_stripped_log"
     },
     {
-      "item": "productivetrees:alder_stripped_wood"
+      "item": "productivetrees:white_poplar_stripped_wood"
     }
   ],
   "result": {

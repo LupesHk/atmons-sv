@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:silver_lime_log"
+    },
+    {
+      "item": "productivetrees:silver_lime_wood"
+    },
+    {
+      "item": "productivetrees:silver_lime_stripped_log"
+    },
+    {
+      "item": "productivetrees:silver_lime_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

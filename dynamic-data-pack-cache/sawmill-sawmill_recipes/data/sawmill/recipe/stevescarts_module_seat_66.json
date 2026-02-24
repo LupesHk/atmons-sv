@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:cacao_log"
-    },
-    {
-      "item": "productivetrees:cacao_wood"
-    },
-    {
-      "item": "productivetrees:cacao_stripped_log"
-    },
-    {
-      "item": "productivetrees:cacao_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "stevescarts:module_seat",
     "count": 1

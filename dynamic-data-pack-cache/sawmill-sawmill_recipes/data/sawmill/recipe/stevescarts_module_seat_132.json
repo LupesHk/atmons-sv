@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:pink_ipe_log"
-    },
-    {
-      "item": "productivetrees:pink_ipe_wood"
-    },
-    {
-      "item": "productivetrees:pink_ipe_stripped_log"
-    },
-    {
-      "item": "productivetrees:pink_ipe_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "stevescarts:module_seat",
     "count": 1

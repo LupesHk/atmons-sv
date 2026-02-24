@@ -1,0 +1,6 @@
+#The number of ticks between breeding/egg laying attempts in a pasture. This value is divided by the number of rbeedable pokemon pairs in the pasture. The value is affected by the pasture_block_update_ticks Cobblemon config.
+# Default: 12000
+# Range: > 40
+breedingCooldown = 12000
+#Replace vanilla animal spawns with mons for maximum immersional damage
+replaceAnimalSpawn = true

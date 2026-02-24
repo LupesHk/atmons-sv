@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:swamp_gum_planks"
+    "item": "productivetrees:thunder_bolt_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:beech_planks"
+    "item": "productivetrees:night_fuchsia_planks"
   },
   "result": {
     "id": "minecraft:bowl",

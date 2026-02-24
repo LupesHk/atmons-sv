@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "productivetrees:carob_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "productivetrees:carob_wood"
+    },
+    {
+      "item": "productivetrees:carob_stripped_log"
+    },
+    {
+      "item": "productivetrees:carob_stripped_wood"
     }
   ],
   "result": {

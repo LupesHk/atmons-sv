@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:time_traveller_log"
+      "item": "productivetrees:almond_log"
     },
     {
-      "item": "productivetrees:time_traveller_wood"
+      "item": "productivetrees:almond_wood"
     },
     {
-      "item": "productivetrees:time_traveller_stripped_log"
+      "item": "productivetrees:almond_stripped_log"
     },
     {
-      "item": "productivetrees:time_traveller_stripped_wood"
+      "item": "productivetrees:almond_stripped_wood"
     }
   ],
   "result": {

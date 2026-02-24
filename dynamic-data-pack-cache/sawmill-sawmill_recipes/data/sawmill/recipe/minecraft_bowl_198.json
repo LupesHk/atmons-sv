@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:slimy_delight_log"
+      "item": "productivetrees:red_banana_log"
     },
     {
-      "item": "productivetrees:slimy_delight_wood"
+      "item": "productivetrees:red_banana_wood"
     },
     {
-      "item": "productivetrees:slimy_delight_stripped_log"
+      "item": "productivetrees:red_banana_stripped_log"
     },
     {
-      "item": "productivetrees:slimy_delight_stripped_wood"
+      "item": "productivetrees:red_banana_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

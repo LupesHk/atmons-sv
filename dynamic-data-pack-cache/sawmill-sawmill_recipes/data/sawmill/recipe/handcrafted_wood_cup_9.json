@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:nectarine_planks"
+    "item": "productivetrees:swamp_gum_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

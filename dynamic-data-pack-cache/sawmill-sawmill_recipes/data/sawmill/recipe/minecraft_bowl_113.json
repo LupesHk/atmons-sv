@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "deeperdarker:echo_planks"
+    "item": "twilightforest:time_planks"
   },
   "result": {
     "id": "minecraft:bowl",

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:avocado_planks"
+    "item": "productivetrees:rosewood_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

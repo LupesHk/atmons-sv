@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:cave_dweller_planks"
+    "item": "productivetrees:mandarin_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rose_gum_log"
+      "item": "eternal_starlight:torreya_log"
     },
     {
-      "item": "productivetrees:rose_gum_wood"
+      "item": "eternal_starlight:torreya_wood"
     },
     {
-      "item": "productivetrees:rose_gum_stripped_log"
+      "item": "eternal_starlight:stripped_torreya_log"
     },
     {
-      "item": "productivetrees:rose_gum_stripped_wood"
+      "item": "eternal_starlight:stripped_torreya_wood"
     }
   ],
   "result": {

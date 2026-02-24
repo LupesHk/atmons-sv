@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sand_pear_planks"
+    "item": "silentgear:netherwood_planks"
   },
   "result": {
     "id": "minecraft:bowl",

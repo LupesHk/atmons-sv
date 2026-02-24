@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:holly_planks"
+    "item": "productivetrees:aquilaria_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

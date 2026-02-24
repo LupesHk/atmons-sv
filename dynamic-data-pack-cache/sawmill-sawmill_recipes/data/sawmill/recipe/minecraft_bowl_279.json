@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:lunar_planks"
+    "item": "productivetrees:black_ember_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

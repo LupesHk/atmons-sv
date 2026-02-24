@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:torreya_log"
+      "item": "minecraft:oak_log"
     },
     {
-      "item": "eternal_starlight:torreya_wood"
+      "item": "minecraft:oak_wood"
     },
     {
-      "item": "eternal_starlight:stripped_torreya_log"
+      "item": "minecraft:stripped_oak_log"
     },
     {
-      "item": "eternal_starlight:stripped_torreya_wood"
+      "item": "minecraft:stripped_oak_wood"
     }
   ],
   "result": {

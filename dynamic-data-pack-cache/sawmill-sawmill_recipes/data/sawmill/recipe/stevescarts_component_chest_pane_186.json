@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:copper_beech_log"
+    },
+    {
+      "item": "productivetrees:copper_beech_wood"
+    },
+    {
+      "item": "productivetrees:copper_beech_stripped_log"
+    },
+    {
+      "item": "productivetrees:copper_beech_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

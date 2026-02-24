@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:yew_planks"
+    "item": "productivetrees:purple_spiral_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

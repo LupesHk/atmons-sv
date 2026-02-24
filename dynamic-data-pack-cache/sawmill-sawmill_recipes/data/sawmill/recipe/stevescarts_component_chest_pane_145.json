@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:rowan_planks"
+    "item": "minecraft:jungle_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:papaya_log"
-    },
-    {
-      "item": "productivetrees:papaya_wood"
-    },
-    {
-      "item": "productivetrees:papaya_stripped_log"
-    },
-    {
-      "item": "productivetrees:papaya_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "stevescarts:component_wooden_wheels",
     "count": 1

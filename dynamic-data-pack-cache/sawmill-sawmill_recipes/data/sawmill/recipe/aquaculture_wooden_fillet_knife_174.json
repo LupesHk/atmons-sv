@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:allspice_log"
+      "item": "twilightforest:mining_log"
     },
     {
-      "item": "productivetrees:allspice_wood"
+      "item": "twilightforest:mining_wood"
     },
     {
-      "item": "productivetrees:allspice_stripped_log"
+      "item": "twilightforest:stripped_mining_log"
     },
     {
-      "item": "productivetrees:allspice_stripped_wood"
+      "item": "twilightforest:stripped_mining_wood"
     }
   ],
   "result": {

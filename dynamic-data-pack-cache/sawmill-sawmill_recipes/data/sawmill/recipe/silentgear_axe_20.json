@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sand_pear_log"
+      "item": "productivetrees:bull_pine_log"
     },
     {
-      "item": "productivetrees:sand_pear_wood"
+      "item": "productivetrees:bull_pine_wood"
     },
     {
-      "item": "productivetrees:sand_pear_stripped_log"
+      "item": "productivetrees:bull_pine_stripped_log"
     },
     {
-      "item": "productivetrees:sand_pear_stripped_wood"
+      "item": "productivetrees:bull_pine_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "silentgear:netherwood_log"
+      "item": "minecraft:cherry_log"
     },
     {
-      "item": "silentgear:netherwood_wood"
+      "item": "minecraft:cherry_wood"
     },
     {
-      "item": "silentgear:stripped_netherwood_log"
+      "item": "minecraft:stripped_cherry_log"
     },
     {
-      "item": "silentgear:stripped_netherwood_wood"
+      "item": "minecraft:stripped_cherry_wood"
     }
   ],
   "result": {

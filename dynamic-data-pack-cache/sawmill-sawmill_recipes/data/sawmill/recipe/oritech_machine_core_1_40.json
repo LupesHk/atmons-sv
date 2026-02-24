@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:torreya_log"
+      "item": "twilightforest:twilight_oak_log"
     },
     {
-      "item": "eternal_starlight:torreya_wood"
+      "item": "twilightforest:twilight_oak_wood"
     },
     {
-      "item": "eternal_starlight:stripped_torreya_log"
+      "item": "twilightforest:stripped_twilight_oak_log"
     },
     {
-      "item": "eternal_starlight:stripped_torreya_wood"
+      "item": "twilightforest:stripped_twilight_oak_wood"
     }
   ],
   "result": {

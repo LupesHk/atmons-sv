@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brazil_nut_log"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "productivetrees:brazil_nut_wood"
+      "item": "silentgear:netherwood_wood"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_log"
+      "item": "silentgear:stripped_netherwood_log"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_wood"
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {

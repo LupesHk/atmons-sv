@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:satsuma_log"
+      "item": "productivetrees:pink_ipe_log"
     },
     {
-      "item": "productivetrees:satsuma_wood"
+      "item": "productivetrees:pink_ipe_wood"
     },
     {
-      "item": "productivetrees:satsuma_stripped_log"
+      "item": "productivetrees:pink_ipe_stripped_log"
     },
     {
-      "item": "productivetrees:satsuma_stripped_wood"
+      "item": "productivetrees:pink_ipe_stripped_wood"
     }
   ],
   "result": {

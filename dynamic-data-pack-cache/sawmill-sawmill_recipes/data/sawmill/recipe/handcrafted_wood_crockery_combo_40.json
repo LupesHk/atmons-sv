@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:pink_ipe_log"
+    },
+    {
+      "item": "productivetrees:pink_ipe_wood"
+    },
+    {
+      "item": "productivetrees:pink_ipe_stripped_log"
+    },
+    {
+      "item": "productivetrees:pink_ipe_stripped_wood"
+    }
+  ],
   "result": {
     "id": "handcrafted:wood_crockery_combo",
     "count": 4

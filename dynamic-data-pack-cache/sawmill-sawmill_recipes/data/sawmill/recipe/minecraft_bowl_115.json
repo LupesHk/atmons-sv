@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:cherry_planks"
+    "item": "productivetrees:black_locust_planks"
   },
   "result": {
     "id": "minecraft:bowl",

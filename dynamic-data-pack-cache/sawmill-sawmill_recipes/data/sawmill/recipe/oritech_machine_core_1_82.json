@@ -2,22 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:beliy_naliv_apple_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_wood"
-    },
-    {
-      "item": "productivetrees:beliy_naliv_apple_stripped_log"
-    },
-    {
-      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "oritech:machine_core_1",
     "count": 1
   },
-  "ingredient_count": 3,
+  "ingredient_count": 6,
   "type": "sawmill:woodcutting"
 }

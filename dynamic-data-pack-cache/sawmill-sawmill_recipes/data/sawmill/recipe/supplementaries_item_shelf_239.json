@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:pink_ipe_planks"
+    "item": "deeperdarker:echo_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

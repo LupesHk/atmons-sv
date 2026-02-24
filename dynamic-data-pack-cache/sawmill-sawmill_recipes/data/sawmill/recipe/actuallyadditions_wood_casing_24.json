@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sparkle_cherry_log"
+      "item": "productivetrees:coconut_log"
     },
     {
-      "item": "productivetrees:sparkle_cherry_wood"
+      "item": "productivetrees:coconut_wood"
     },
     {
-      "item": "productivetrees:sparkle_cherry_stripped_log"
+      "item": "productivetrees:coconut_stripped_log"
     },
     {
-      "item": "productivetrees:sparkle_cherry_stripped_wood"
+      "item": "productivetrees:coconut_stripped_wood"
     }
   ],
   "result": {

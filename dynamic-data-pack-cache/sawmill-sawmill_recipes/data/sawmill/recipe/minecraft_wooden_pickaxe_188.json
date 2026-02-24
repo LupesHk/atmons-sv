@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "silentgear:netherwood_log"
+      "item": "forbidden_arcanus:aurum_log"
     },
     {
-      "item": "silentgear:netherwood_wood"
+      "item": "forbidden_arcanus:aurum_wood"
     },
     {
-      "item": "silentgear:stripped_netherwood_log"
+      "item": "forbidden_arcanus:stripped_aurum_log"
     },
     {
-      "item": "silentgear:stripped_netherwood_wood"
+      "item": "forbidden_arcanus:stripped_aurum_wood"
     }
   ],
   "result": {

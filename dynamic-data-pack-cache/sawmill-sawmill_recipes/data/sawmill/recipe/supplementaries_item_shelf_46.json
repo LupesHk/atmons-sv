@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:time_traveller_log"
+      "item": "productivetrees:lawson_cypress_log"
     },
     {
-      "item": "productivetrees:time_traveller_wood"
+      "item": "productivetrees:lawson_cypress_wood"
     },
     {
-      "item": "productivetrees:time_traveller_stripped_log"
+      "item": "productivetrees:lawson_cypress_stripped_log"
     },
     {
-      "item": "productivetrees:time_traveller_stripped_wood"
+      "item": "productivetrees:lawson_cypress_stripped_wood"
     }
   ],
   "result": {

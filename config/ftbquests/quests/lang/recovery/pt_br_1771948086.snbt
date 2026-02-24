@@ -1,0 +1,12 @@
+{
+	"chapters/evolution.snbt": {
+		quest.093D21D44BE4D923.title: {
+			new: "Encontrando &cPedras do Sol"
+			old: "Encontrando &cPedras do Fogo"
+		}
+		quest.093D21D44BE4D923.quest_desc: {
+			new: ["Savanas, Ermos e Cavernas Exuberantes são onde você deve procurar por &cPedras do Sol&r. \\n\\nSe isso não for suficiente, você também pode encontrá-las em Desertos."]
+			old: ["Savanas, Ermos (Badlands) e Cavernas Exuberantes são onde você deve procurar por &cPedras do Sol&r. \\n\\nSe isso não for suficiente, você também pode encontrá-las em Desertos."]
+		}
+	}
+}

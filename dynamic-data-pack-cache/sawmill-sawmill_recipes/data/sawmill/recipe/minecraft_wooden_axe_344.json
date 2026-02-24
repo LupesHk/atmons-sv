@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:apricot_log"
+    },
+    {
+      "item": "productivetrees:apricot_wood"
+    },
+    {
+      "item": "productivetrees:apricot_stripped_log"
+    },
+    {
+      "item": "productivetrees:apricot_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

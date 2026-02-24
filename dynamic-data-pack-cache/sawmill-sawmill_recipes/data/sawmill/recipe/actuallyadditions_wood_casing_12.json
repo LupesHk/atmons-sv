@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:soul_tree_log"
+      "item": "productivetrees:sweetgum_log"
     },
     {
-      "item": "productivetrees:soul_tree_wood"
+      "item": "productivetrees:sweetgum_wood"
     },
     {
-      "item": "productivetrees:soul_tree_stripped_log"
+      "item": "productivetrees:sweetgum_stripped_log"
     },
     {
-      "item": "productivetrees:soul_tree_stripped_wood"
+      "item": "productivetrees:sweetgum_stripped_wood"
     }
   ],
   "result": {

@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:satsuma_log"
+      "item": "productivetrees:sugar_apple_log"
     },
     {
-      "item": "productivetrees:satsuma_wood"
+      "item": "productivetrees:sugar_apple_wood"
     },
     {
-      "item": "productivetrees:satsuma_stripped_log"
+      "item": "productivetrees:sugar_apple_stripped_log"
     },
     {
-      "item": "productivetrees:satsuma_stripped_wood"
+      "item": "productivetrees:sugar_apple_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

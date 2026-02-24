@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:wenge_log"
+      "item": "productivetrees:sweet_crabapple_log"
     },
     {
-      "item": "productivetrees:wenge_wood"
+      "item": "productivetrees:sweet_crabapple_wood"
     },
     {
-      "item": "productivetrees:wenge_stripped_log"
+      "item": "productivetrees:sweet_crabapple_stripped_log"
     },
     {
-      "item": "productivetrees:wenge_stripped_wood"
+      "item": "productivetrees:sweet_crabapple_stripped_wood"
     }
   ],
   "result": {

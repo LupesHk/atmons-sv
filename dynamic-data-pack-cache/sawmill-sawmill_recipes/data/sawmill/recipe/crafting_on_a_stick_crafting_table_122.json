@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rowan_log"
+      "item": "minecraft:acacia_log"
     },
     {
-      "item": "productivetrees:rowan_wood"
+      "item": "minecraft:acacia_wood"
     },
     {
-      "item": "productivetrees:rowan_stripped_log"
+      "item": "minecraft:stripped_acacia_log"
     },
     {
-      "item": "productivetrees:rowan_stripped_wood"
+      "item": "minecraft:stripped_acacia_wood"
     }
   ],
   "result": {

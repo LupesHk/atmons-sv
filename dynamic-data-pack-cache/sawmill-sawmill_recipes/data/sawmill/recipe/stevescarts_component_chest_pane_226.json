@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:peach_log"
+    },
+    {
+      "item": "productivetrees:peach_wood"
+    },
+    {
+      "item": "productivetrees:peach_stripped_log"
+    },
+    {
+      "item": "productivetrees:peach_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

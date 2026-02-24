@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cocobolo_log"
+      "item": "cobblemon:apricorn_log"
     },
     {
-      "item": "productivetrees:cocobolo_wood"
+      "item": "cobblemon:apricorn_wood"
     },
     {
-      "item": "productivetrees:cocobolo_stripped_log"
+      "item": "cobblemon:stripped_apricorn_log"
     },
     {
-      "item": "productivetrees:cocobolo_stripped_wood"
+      "item": "cobblemon:stripped_apricorn_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

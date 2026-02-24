@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:satsuma_log"
+      "item": "minecraft:oak_log"
     },
     {
-      "item": "productivetrees:satsuma_wood"
+      "item": "minecraft:oak_wood"
     },
     {
-      "item": "productivetrees:satsuma_stripped_log"
+      "item": "minecraft:stripped_oak_log"
     },
     {
-      "item": "productivetrees:satsuma_stripped_wood"
+      "item": "minecraft:stripped_oak_wood"
     }
   ],
   "result": {

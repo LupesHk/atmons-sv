@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:mandarin_planks"
+    "item": "productivetrees:plum_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

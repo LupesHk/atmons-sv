@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:transformation_log"
+      "item": "productivetrees:holly_log"
     },
     {
-      "item": "twilightforest:transformation_wood"
+      "item": "productivetrees:holly_wood"
     },
     {
-      "item": "twilightforest:stripped_transformation_log"
+      "item": "productivetrees:holly_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_transformation_wood"
+      "item": "productivetrees:holly_stripped_wood"
     }
   ],
   "result": {

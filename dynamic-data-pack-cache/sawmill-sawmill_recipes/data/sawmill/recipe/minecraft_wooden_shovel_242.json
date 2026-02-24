@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cashew_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "productivetrees:cashew_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "productivetrees:cashew_stripped_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "productivetrees:cashew_stripped_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

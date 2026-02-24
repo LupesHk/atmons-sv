@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:mango_planks"
+    "item": "productivetrees:blackthorn_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

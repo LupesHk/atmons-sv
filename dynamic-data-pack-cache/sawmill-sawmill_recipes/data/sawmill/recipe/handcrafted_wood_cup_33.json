@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:dark_planks"
+    "item": "minecraft:spruce_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

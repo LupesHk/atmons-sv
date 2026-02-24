@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cedar_log"
+      "item": "productivetrees:black_cherry_log"
     },
     {
-      "item": "productivetrees:cedar_wood"
+      "item": "productivetrees:black_cherry_wood"
     },
     {
-      "item": "productivetrees:cedar_stripped_log"
+      "item": "productivetrees:black_cherry_stripped_log"
     },
     {
-      "item": "productivetrees:cedar_stripped_wood"
+      "item": "productivetrees:black_cherry_stripped_wood"
     }
   ],
   "result": {

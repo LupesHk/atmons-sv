@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:hornbeam_planks"
+    "item": "productivetrees:soursop_planks"
   },
   "result": {
     "id": "stevescarts:component_large_chest_pane",

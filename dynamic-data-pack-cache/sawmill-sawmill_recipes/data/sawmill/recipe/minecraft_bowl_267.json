@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:canopy_planks"
+    "item": "productivetrees:elderberry_planks"
   },
   "result": {
     "id": "minecraft:bowl",

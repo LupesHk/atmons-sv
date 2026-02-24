@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:golden_delicious_apple_log"
+      "item": "productivetrees:allspice_log"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_wood"
+      "item": "productivetrees:allspice_wood"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_stripped_log"
+      "item": "productivetrees:allspice_stripped_log"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_stripped_wood"
+      "item": "productivetrees:allspice_stripped_wood"
     }
   ],
   "result": {

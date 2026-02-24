@@ -360,6 +360,8 @@
 	quest.0338E3A881A6DD98.quest_desc: ["&6Remedy&r is made from Smelting a Big Root. \\n\\nIt is an Item that can be Fed to a &cPokemon&r in or out of Battle to restore Health (not at the exchange for &dFriendship&r). \\n\\nYou can Craft with it to make even better &6Remedies&r!"]
 	quest.0338E3A881A6DD98.title: "&6Remedy"
 	quest.0342248394E40B6A.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.0346A5856EBC22FB.quest_desc: ["He will raise your Level Cap, just only up to 31. \\n\\nHis Signature Item is the &9Nautilus Shell&r."]
+	quest.0346A5856EBC22FB.title: "&aGym Leader Wake"
 	quest.034A9FBCA6D79BB6.quest_desc: ["The Harvester Pylon needs a Hoe to work. \\n\\n(Hoes that can't break will work forever, Hoes that can will need to be replaced)."]
 	quest.034AB493E1EC2E63.quest_desc: [
 		"The Assembler Matrix Cores are what determine the pattern capacity, crafting jobs, and speed of the multiblock."
@@ -827,7 +829,7 @@
 	quest.092BB595F75D5536.quest_desc: ["Welcome to &6&lForbidden \\& Arcanus&r! \\n\\nTo start this Mod we'll need to start Mining underground... deep underground. \\n\\nLike Y Level 1 and below. "]
 	quest.092BB595F75D5536.title: "&6&lForbidden \\& Arcanus"
 	quest.093D21D44BE4D923.quest_desc: ["Savannahs, Badlands, and Lush Caves are where you should look for &cSun Stones&r. \\n\\nIf that isn't enough you might find them in Deserts too."]
-	quest.093D21D44BE4D923.title: "Finding &cFire Stones"
+	quest.093D21D44BE4D923.title: "Finding &cSun Stones"
 	quest.0947B4ED95B0267E.quest_desc: ["Coats an items and tools.\\n\\nNetherite makes a great coating material."]
 	quest.0947B4ED95B0267E.quest_subtitle: "Totally not just for Netherite"
 	quest.09485B63483B7A15.quest_desc: [
@@ -868,6 +870,8 @@
 	quest.09936F8FCEA72C5C.title: "&aCart Assembler"
 	quest.09955CF85F579E0F.quest_desc: ["You'll get this eventually, it's quite literally the most abundant Block in &2&lMinecraft&r."]
 	quest.09955CF85F579E0F.title: "Stone Blocks"
+	quest.099B7F8D13868CCD.quest_desc: ["She will increase your Level Cap to 20. \\nHer Signature Item is the &cWide Lens&r."]
+	quest.099B7F8D13868CCD.title: "&7Commander Mars"
 	quest.099C2A9B9CA138F8.quest_desc: ["&6Mythic&r are some of the greatest we can get! \\n\\n&6Mythics&r are found only in &lWorld Tier: &6Summit&r and in &lWorld Tier: &4Pinnacle&r, where they are most common. \\n\\n&6Godforged Pearls&r are made from using &6Mythic&r &eItems&r in a &c&lSalvaging Table&r."]
 	quest.099C2A9B9CA138F8.quest_subtitle: "&6Mythic"
 	quest.099C2A9B9CA138F8.title: "&6Godforged Pearl"
@@ -1066,6 +1070,8 @@
 	]
 	quest.0BD6365534BF04D5.quest_subtitle: "Who you gonna call?"
 	quest.0BD6365534BF04D5.title: "&aIhagan's Enthrallment"
+	quest.0BD70EAB43DBD003.quest_desc: ["He will raise your Level again! Just this time to 39. \\n\\nHis Signature Item now is a &bDawn Stone&r."]
+	quest.0BD70EAB43DBD003.title: "&6Pokemon Trainer Cedric"
 	quest.0BD908937BC6E97B.quest_subtitle: "Kapok + Rosewood"
 	quest.0BE2E7C9454058C3.quest_desc: [
 		"Part of the beautiful &d&lFloral Meadow&r is a &dCherry Tree&r much older and bigger than the rest. \\n\\nThe &6B&8e&6e&8s&r have seemed to take a liking to these &dTrees&r and have set up mini &eHives&r next to them full of their young!"
@@ -1251,6 +1257,8 @@
 	quest.0E716B90E60C486B.quest_desc: ["Some times the best way to fight, is not to fight.. it's to run away! \\n\\nWith the &4Panic Necklace&r, when hit you will get Speed Effect for a small time. Just enough time to get away!"]
 	quest.0E716B90E60C486B.quest_subtitle: "Necklace"
 	quest.0E716B90E60C486B.title: "&4Panic Necklace&r"
+	quest.0E7C79861D18D885.quest_desc: ["&4&oBrilliant Diamond and Shining Pearl&r is the campaign for the Sinnoh Region. \\n\\nStart it like any other &4&oSeries&r. Find a &4Trainer Associate&r either by Villages or randomly Spawning when you hold out your &4Trainer Card&r in your Hand if it doesn't have a &4&oSeries&r. \\n\\nTrade with him to start the &4&oBDSP Series&r. \\n\\nYou'll need to get through this &4&oSeries&r in order to unlock other &4&oSeries&r, including the &6&oATM &4Series&r!"]
+	quest.0E7C79861D18D885.title: "&4&oBrilliant Diamond and Shining Pearl"
 	quest.0E809747193ED3A9.quest_desc: ["The third MEGA tier of storage component, providing &e16777216&f (16384k) bytes of storage."]
 	quest.0E809747193ED3A9.quest_subtitle: "x4^2"
 	quest.0E809747193ED3A9.title: "16M Storage Component"
@@ -1488,6 +1496,8 @@
 	quest.11D57C768032E3F7.title: "&eAdvanced Magnet Upgrade"
 	quest.11E957CDEFA0CAAB.quest_desc: ["Welcome to &5&lThe Beyond&r! \\n\\nThere's nothing here! \\n\\nYou might want an Angel Block."]
 	quest.11E957CDEFA0CAAB.title: "&5&lThe Beyond"
+	quest.11EBB510A604026A.quest_desc: ["This rematch will raise your Level Cap to 49. \\n\\nHis Signature Item this time is an &9Echo Shard&r. That's not cheap Cyrus!"]
+	quest.11EBB510A604026A.title: "&7Team Galactic Boss Cyrus Rematch"
 	quest.120572510F525930.quest_desc: [
 		"The &6&lThermal Evaporation Plant&r is a Multiblock that takes &9Water&r, and uses &6Heat&r to make it into &eBrine&r. It will also use &6Heat&r to make &eBrine&r into &6Liquid Lithium&r! \\n\\nTo start you'll need a lotta &6Thermal Evaporation Blocks&r. The base is 4x4 and only ever 4x4 of &6Thermal Evaporation Blocks&r. \\n\\nThe Walls need to be atleast 3 Blocks tall and a max of 18. The inside and top must be hollow like most Multiblocks. The &9Water &fand &eBrine&r needs to be held somewhere. \\n\\nWithin the Walls (not the corners) we can put our &6Valves &fand &6Controller&r! The &6Controller&r is how we access the &6&lThermal Evaporation Plant's&r GUI. There we can see the &6Heat&r that is has. We'll only need 1 &6Controller&r. \\n\\n&6Valves&r are how we move &9Water &fand &eBrine&f in, &eBrine &fand &6Liquid Lithium&r out, and optionally &6Heat&r in! You won't need to configure the &6Valves&r, only the &bPipes &fand &6Conductors&r need to be configured. \\n\\nThe top layer of the &6&lPlant&r can't have the corners filled in with &6Thermal Evaporation Blocks&r. You can add &e&l&oAdvanced Solar Generators&r on the corners of the top layer though if you want more &6Heat&r!"
 		"{@pagebreak}"
@@ -1679,6 +1689,8 @@
 	quest.13F68CA518CD287C.quest_desc: ["&3Diesel&r can be used to make more Kerosene or to make Lubricant."]
 	quest.13F68CA518CD287C.quest_subtitle: "Poor Sel"
 	quest.13F68CA518CD287C.title: "Diesel"
+	quest.13FDC88F09F96D0F.quest_desc: ["It keeps going? Yeah... you'll need to rematch them all again. \\n\\n&3Aaron&r will raise it to 81. \\n\\n&3Bertha&r to 83. \\n\\n&3Flint&r to 85. \\n\\n&3Lucian&r to 88."]
+	quest.13FDC88F09F96D0F.title: "Rematch time again!"
 	quest.1403D677CF2815C3.quest_desc: ["The &5&lReforging Table&r does everything the &9&lSimple&r one will do, but better! \\n\\nIt can give us &5Epic&r and &6Mythic &eAffixes&r along with our previous ones!"]
 	quest.1403D677CF2815C3.title: "(Better) &5&lReforging Table&r"
 	quest.1404BB8956D5F8C7.quest_desc: ["Affects the ability of a bee to work under harsh weather conditions. There are 3 levels of this: &aNone&r, &dRain&r, &cAny&r. &cAny&r is what we are after. You could leash the bee to a fence during a thunderstorm if you wanted to, but come on, that's just cruel.\\n\\nI offer you an easier solution. Fishing. That's right, you can fish for bees. Water or Prismarine Bees naturally come with the ability to tolerate any weather conditions. We can make use of this!"]
@@ -2012,6 +2024,8 @@
 	]
 	quest.17B18040EFA37F86.quest_subtitle: "Feed a Polonium Pellet to a Radioactive Bee"
 	quest.17B18040EFA37F86.title: "Wasted Radioactive Bee"
+	quest.17BDF307F3DC0E12.quest_desc: ["We're still working on the recipe. \\n\\nWe have the Chapter up just so you know it is still planned to be put into AllTheMons. "]
+	quest.17BDF307F3DC0E12.title: "Not finished yet!"
 	quest.17C2C8F64B4AE6EE.quest_desc: [
 		"&2Dwellers&r are the Cows of &2&lUndergarden&r. \\nThey are Passive and will drop Leather and Dweller Meat on death. \\n\\nThank God they can't be milked, I don't want any milk these &2Dwellers&r make."
 		"{image:atm:textures/questpics/undergarden/undergarden_dweller.png width:100 height:100 align:center}"
@@ -2074,6 +2088,8 @@
 		"{image:atm:textures/questpics/logistics/meka_pipe.png width:200 height:50 align:center}"
 	]
 	quest.1834B5C1F8435D7A.quest_subtitle: "Fluids"
+	quest.183E4F5F940CBDEA.quest_desc: ["Also won't raise your Level Cap. \\n\\nHis Item is a &6Zoom Lens&r."]
+	quest.183E4F5F940CBDEA.title: "&7Commander Saturn"
 	quest.183F6A790EC006B8.quest_desc: ["&bBlooming Stems&r aren't like Trees, they're more like if Chorus and Bamboo had a baby. \\n\\nThey spawn within the &bBlooming Caverns&r and need other &bBlooming Stems&r to keep up! This is the only way to find them. \\n\\nYou can still Strip them or make Planks out of them. The Planks have a &bLight Blue color&r to them, and so will whatever you make out of them!"]
 	quest.183F6A790EC006B8.title: "&bBlooming Wood"
 	quest.1843C79133DFB024.quest_desc: ["The most powerful and efficient Generator, the Netherstar Generator. Take a guess what it uses to make Energy!"]
@@ -2273,6 +2289,8 @@
 		"{image:atm:textures/questpics/eternal/starlight_yeti.png width:100 height:100 align:center}"
 	]
 	quest.1AB17923F87AE264.title: "Yetis"
+	quest.1AB8BB655AFA79E4.quest_desc: ["He will raise your Level Cap to 63. \\n\\nHis Signature Item is a &cFire Stone&r."]
+	quest.1AB8BB655AFA79E4.title: "&3Elite Four Flint"
 	quest.1ABD22AA58E093A6.quest_desc: ["Only the best of the best &5Machines&r, will need the best Materials. \\n\\nUse &d&lUltimate&r &eItems&r to make these &5Machines&r and more! \\n\\nYes, you'll want these &5Machines&r, they are worth the time and Materials!"]
 	quest.1ABD22AA58E093A6.title: "Some of the best &5Machines&r!"
 	quest.1ABEC7DE47BD6286.quest_desc: ["&5Ender Crates&r are &5Ender Chests&r that can be used to transport items.\\n\\n&5Ender Oculars&r are handheld versions of &5Ender Crates&r."]
@@ -2660,6 +2678,8 @@
 	]
 	quest.2077D64428E9C067.quest_subtitle: "This has a use outside of crafting cables."
 	quest.2077D64428E9C067.title: "Forgot to Mention"
+	quest.207D96D22A9B97F1.quest_desc: ["Back for revenge, now they'll raise your Level to 42. \\n\\nHis Signature Item is a &4Fire Charge&r."]
+	quest.207D96D22A9B97F1.title: "&7Commander Mars Rematch"
 	quest.2086C73688C8BA51.quest_subtitle: "Feed a Bucket of Sulfuric Acid to Lava Bee"
 	quest.2086C73688C8BA51.title: "Sulfuric Acid Bee"
 	quest.208F759905CF7744.quest_desc: [
@@ -2800,6 +2820,8 @@
 	quest.21D8B88155648EA6.title: "&l&5Machines"
 	quest.21EA29A8C7F950CE.quest_desc: ["&bDiamonds&r the staple of &2Minecraft&r, and of upgraded Furnaces apparently...\\n \\nThese work even faster only taking 80 Ticks or 4 Seconds to smelt items. That's even faster than a Blast Furnace! \\n \\nThese are only crafted by &eGold Furnaces&r and can be crafted into &3Crystal&r or &aEmerald Furnaces&r."]
 	quest.21EA29A8C7F950CE.title: "&bDiamond Furnace"
+	quest.21EE03301BEFB449.quest_desc: ["She will raise your Level Cap to 22. \\n\\nHer Signature Item is the &7Scope Lens&r."]
+	quest.21EE03301BEFB449.title: "&7Commander Jupiter"
 	quest.21F3379C904BFD50.quest_desc: ["The &6Resistive Heater&r will also generate &6Heat&r, but instead of using Furnace Fuel, it will use &aEnergy&r! \\n\\nBy feeding it &aEnergy&r, we can choose however much &6Heat&r it will make. \\n\\nThe more &6Heat&r it makes, the more &aEnergy&r it takes! \\n\\nThe max &6Heat&r is 9,999,999 something."]
 	quest.21F3379C904BFD50.title: "&6Resistive Heater"
 	quest.21F4CFF171246537.quest_subtitle: "Tier: &b4"
@@ -2960,6 +2982,8 @@
 	]
 	quest.23DE60E57136C207.quest_desc: ["The easiest infinite Energy storage, only needing 4 &3Energy Batteries&r (from &3&lID&r) and a &6&lStar&r! \\n\\nYou'll need to energize them all with... well as much Energy as &2&lMinecraft&r can handle... Quite literally the integer limit!"]
 	quest.23DE60E57136C207.title: "&5&lCreative &3Energy Battery"
+	quest.23F5D39BCBCD7D42.quest_desc: ["She will raise you from 59 to 61. \\n\\nHer Signature Item is &5Soft Sand&r."]
+	quest.23F5D39BCBCD7D42.title: "&3Elite Four Bertha"
 	quest.23FDFA44A162023A.quest_desc: ["The &6Engineer's Workbench&r is a necessary Block needed for many Crafts and Upgrades. \\n\\nWe can use it with &9Blueprints&r to Craft special Items that we can't Craft elsewhere. Put the &9Blueprints&r in the Left Slot, and our &eCrafting Items&r into the Right Slots.\\n\\nOr we can throw our Tools into it, to add Upgrades to them, like the Revolver or Mining Drill! \\n\\nAlso when you add &eItems&r and &9Blueprints&r you can see them on the &6Block&r itself, pretty cool!"]
 	quest.23FDFA44A162023A.title: "&6Engineer's Workbench"
 	quest.24042326B4632DD4.quest_desc: ["To start with Logistics craft a &3Logistics Core&r, I recommend reading the PNC:R Manual for a full tutorial on how to use these items."]
@@ -3191,6 +3215,8 @@
 		"{image:atm:textures/questpics/basic_power/wireless_ui.png width:125 height:150 align:center}"
 	]
 	quest.27A4FA38992448A0.title: "Wireless Charging"
+	quest.27ACBFA9D014D2A6.quest_desc: ["&aVolkner&r will raise your Level Cap all the way to 55. \\n\\nHis Signature Item is the &aThunder Stone&r."]
+	quest.27ACBFA9D014D2A6.title: "&aGym Leader Volkner"
 	quest.27B5D0329DD92126.quest_desc: ["Soup... made from Bees? Seems kinda inhumane... \\n\\nEating/Drinking this will give you Beenergized Effect for awhile and gives a chance at giving Luck! \\n\\nAlso a chance at Levitation, Slow Falling, Poison, and Paralized. \\n\\nAlso while talking about Paralized you can make Paralizing Potions using the Soup."]
 	quest.27E8ED4B5F8127F9.quest_subtitle: "Tier: &b4"
 	quest.27E951F4F4F6F847.quest_desc: ["Similar to &aThorn Pendant&r, just a little hotter. No wait way hotter! \\n\\nThe &cFlame Pendant&r has a chance to light your attackers on Fire! When they are lit on fire the &cPendant&r will also give you Fire Resistance."]
@@ -4628,6 +4654,8 @@
 	quest.39F9C825B03DA317.title: "&8Aerial Interface"
 	quest.3A03852E282DAA4D.quest_desc: ["The &#ED8055Electrolyzer&r is able to provide enough energy in bursts to material that they break down to more fundamental resources."]
 	quest.3A0C8BCE197A448B.quest_desc: ["&#827AFFStyrene-Butadiene&r can be mixed with either  &#9683F7Lead Tiny Dust&r or &#FEA8FFChromium Tiny Dust&r to get &#A1A1A1Styrene-Butadiene Rubber&r."]
+	quest.3A12B03FE9C9D925.quest_desc: ["Finally you're face to face with the &5Champion&f, &5Cynthia&r! \\n\\nIf you beat her your Level Cap will rise to 69. \\n\\nHer Signature Item is a &3Prism Scale&r."]
+	quest.3A12B03FE9C9D925.title: "&5Champion Cynthia"
 	quest.3A1D07AED2A841E4.quest_desc: ["Auto-smelt items in the Backpack."]
 	quest.3A1D07AED2A841E4.quest_subtitle: "Automatic"
 	quest.3A1D07AED2A841E4.title: "&eAuto-Smelting Upgrade"
@@ -4910,6 +4938,8 @@
 	quest.3D5F87F8E6B89C1B.quest_desc: ["The &7Furnator&r will burn items like coal and wood to produce FE."]
 	quest.3D63868AC4393EBC.quest_subtitle: "Lapis + Emerald"
 	quest.3D63868AC4393EBC.title: "Experience Bee"
+	quest.3D63B8A64B561A71.quest_desc: ["He will raise your Level Cap to 36. \\n\\nHis Signature Item this time is &dEviolite&r. \\n\\nYou'll need to Fight him 3 times. Not just Fight but also Win!"]
+	quest.3D63B8A64B561A71.title: "&6Pokemon Trainer Cedric"
 	quest.3D7480E4F9063E93.quest_subtitle: "Lumber + Sweat"
 	quest.3D7480E4F9063E93.title: "Rancher Bee"
 	quest.3D755073C56274BE.quest_desc: ["Drop a Lens Item infront of the Atomic Reconstructor and when it activates it'll transform into a Lens of &cC&eo&al&bo&3r&r. \\n\\nDrop a Lens of &cC&eo&al&bo&3r&r infront of it, and when it goes it will make a Lens of &cDetonation&r. \\n\\nKeep doing this until you get Lens of &3Certain Death&r."]
@@ -5482,6 +5512,8 @@
 	quest.450EDE68EC992A5A.quest_desc: ["Interfaces &cread&r whatever they're looking at. You can think of this like an &bAE2&r Storage Bus.\\n\\nYou don't know what that is? Well here's an example: A chest with 100 Cobblestone in it has an interface on it, this means your ID network has 100 Cobblestone in it's system, pretty simple, right?"]
 	quest.450EDE68EC992A5A.quest_subtitle: "Interfaces Have GUIs!"
 	quest.4510FD92BACF00FF.quest_subtitle: "Plum + Sweet Chestnut"
+	quest.45135F112E05F9B5.quest_desc: ["The &4&oSeries&r isn't done yet! You'll need to Rematch the &3Final Four&r and &5Champion Cynthia&r. \\n\\nTheir Signature Items and pattern stay the same. \\n\\nBeating &3Aaron&r will raise your Level to 71. \\n&3Bertha&r to 73. \\n\\n&3Flint&r to 75. \\n\\n&3Lucian&r to 78. \\n\\nAnd &5Champion Cynthia&r to 79."]
+	quest.45135F112E05F9B5.title: "&3Elite Four&r and &5Champion &rRematch"
 	quest.45161821C221EF0B.quest_desc: ["Once we get those 15 &4Hellshelves&r around our &5Enchantment Table&r, we'll have &a45 Eterna&r and &c30% Quanta&r in our &5Table&r. \\n\\nThis is the perfect amount to &d&lInfuse&r our &4Hellshelves&r! \\n\\n&4Infused Hellshelves&r give &a5 Eterna&r with a max of &a60 Eterna&r, along with &c5% Quanta&r. \\n\\nThese can be Crafted with other Items to make different &7Bookshelves&r, for the ones we want we'll need 12 &4Infused Hellshelves&r! \\n\\nOf course, with me being soooo generous, you'll only need to collect 8!"]
 	quest.45161821C221EF0B.title: "&4Infused Hellshelves"
 	quest.45268A619787288F.title: "&eGold Backpack"
@@ -5798,6 +5830,8 @@
 	quest.4967CD7D2701C594.title: "&6&lProductive Bees"
 	quest.4975A8FD77155647.quest_desc: ["&nStrong&r \\n\\n&aBug&r \\n&cFire&r \\n&9Flying&r \\n&bIce&r \\n\\n&nVunerable&r \\n\\n&4Fighting&r \\n&2Grass&r \\n&6Ground&r \\n&7Steel&r \\n&bWater&r"]
 	quest.4975A8FD77155647.title: "&6Rock"
+	quest.4975ADE2D75353CA.quest_desc: ["He won't raise your Level Cap. \\n\\nHis Signature Item is &7Metal Coat&r."]
+	quest.4975ADE2D75353CA.title: "&aGym Leader Byron"
 	quest.49776AC58E535E6A.quest_subtitle: "Made in Reprocessor"
 	quest.49776AC58E535E6A.title: "Inanite Bee"
 	quest.497AE687B7E95DE8.quest_desc: [
@@ -6389,6 +6423,8 @@
 	quest.506F20AF8E857559.quest_desc: ["The Kinetic Dynamo is a Generator which uses momentum to make Energy! \\n\\nTo start making Energy you'll need either a Waterwheel or Windmill attached to the side with the giant gaping hole in it! \\n\\nThe Kinetic Dynamo doesn't have an internal Energy storage, rather it provides Energy to connected Blocks like Connectors or Accumulators."]
 	quest.506F20AF8E857559.title: "Energy from moving things!"
 	quest.508A8366219175FE.quest_desc: ["The Configuration Tool is used to lock Drawers for them to remember the item it has inside.\\n\\nThis can be useful whenever you set up a system to push and pull from Drawers. The locked Drawer will not replace the item that was locked on it!"]
+	quest.508CCA2DDD8602AA.quest_desc: ["He will increase your Level Cap to 16. \\n\\nHis Signature Item is the &eSmooth Rock&r."]
+	quest.508CCA2DDD8602AA.title: "&aGym Leader Roark"
 	quest.50A286C268F38E09.quest_desc: ["With this Quest page I took a lot of time coloring the texts to try and help you the Player understand what I am referencing. Only for me to realize it might be even more confusing, so here's a Legend! \\n\\n&5Purple&r is any Train or Locomotive, so both Electric and Steam Locomotives and Carts attached. \\n&6Gold&r is any Tracks and Rails, includes special Rails but not Track Kits. \\n&cLight Red&r stands for any Track Kits. \\n&4Dark Red&r is for Crowbars. \\n&3Cyan&r is for the Steam Locomotive only. \\n&eYellow&r is for only the Electric Locomotive. \\n&9Blue&r is for the Tunnel Bore. \\n&7Grey&r is for Minecarts and special Carts."]
 	quest.50A286C268F38E09.title: "Color Legend"
 	quest.50A32AC6EDBC5854.quest_desc: ["Food by itself can get pretty boring, but it gets much better when you have a side with your dish! More specifically some (a) &6Onion Ring&r!\\n\\nWhen wearing the &6Onion Ring&r, everything you eat will give you slight Haste."]
@@ -6451,6 +6487,8 @@
 	quest.5160D62F07A642A7.quest_subtitle: "Rowan + Beech"
 	quest.516289A040EE9FDC.quest_subtitle: "Crystalline + Neon Cuckoo"
 	quest.516289A040EE9FDC.title: "Menril Bee"
+	quest.5169625567DC3B75.quest_desc: ["He will raise your Level Cap to 30. \\n\\nHis Signature Item is the &bEverstone&r."]
+	quest.5169625567DC3B75.title: "&6Pokemon Trainer Cedric"
 	quest.516AC1F0E0BCAE55.quest_desc: ["Frozen Tubes are dropped from Freezes in the Golem Forge. \\n\\nThey can be thrown like Potions to hurt whoever it hits."]
 	quest.516E66BE01EE5B31.quest_desc: ["&8Tomes of Weaponry&r will give &5Enchantments&r for Swords and Axes. \\n\\nMostly the ones that help with Killing things! Like &5Sharpness &fand &5Fire Aspect&r. \\n&8Tomes of Archery&r will give &5Enchantments&r for ranged Weapons, the Bow and Crossbow. \\n\\n&5Piercing&f, &5Power&f, and &5Knockback&r!"]
 	quest.516E66BE01EE5B31.title: "&8Weapon Tomes"
@@ -6742,6 +6780,8 @@
 	quest.544893F746387EC8.quest_desc: ["Now with &cRedstone&r we gain access to &cEnergy&r! \\n\\nJust about every Machine in &c&lModded Minecraft&r needs &cEnergy&r. Most is in the form of FE (Forge Energy). \\n\\nSome are in similar forms like AE, these can work with FE or be translated to AE. Other Mods use their own form of Energy which is unique to theirs."]
 	quest.544893F746387EC8.title: "&cPower"
 	quest.5466CB622A637DCD.quest_desc: ["Abyssal Fruit technically can spawn in any body of water but its the only one that lives within the Shimmer Rivers. \\n\\nIt grows like Kelp from the floor up, but also works like Glowberries as in Fruit grows and can be collected from it."]
+	quest.54729932639621E3.quest_desc: ["She won't raise your Level Cap. \\n\\nHer Signature Item is the &0Black Belt&r, she must be good with Karate!"]
+	quest.54729932639621E3.title: "&aGym Leader Maylene"
 	quest.54735C5FCD2077B3.quest_desc: ["&aMystical Agriculture&r is a resource generation mod that allows you to grow a large variety of vanilla and modded resources using &aSeeds&r."]
 	quest.54735C5FCD2077B3.title: "&aMystical Agriculture!"
 	quest.5480C9F72052ECAD.quest_desc: ["Combat is an important part of all Survival &2&lMinecraft&r. \\n\\nIf you want difficulties or not it all matters to your Combat. \\n\\n&5Enchanting&r is entirely different (and better) with Mods like &5&lApotheosis&r changing how we do it. Plus other Mods adding even more &5Enchantments&r. \\n\\nSome Mods give little &6&lRelics&r or &3&lArtifacts&r which you can Wear and Hold to get Effects! "]
@@ -6808,6 +6848,8 @@
 	quest.553ADA7040B652CD.quest_desc: ["The &4&lMining Drill&r, &2&lBuzzsaw&r, and &b&lChemical Thrower&r normally hold 1,000mB or 1 Bucket worth of &bFluid&r. \\n\\nNormally doesn't mean always! With the Large Tank they can now hold 2,000mB or 2 Buckets worth. \\n\\nIt doesn't sound like a lot but trust me it is."]
 	quest.553C44F85E508DE3.quest_desc: ["This one is unique as it's not used for just 1 Router but for multiple. \\n\\nIf you want mutliple Routers working at the same time then each needs a Sync Upgrade. \\n\\nWill need to be tuned in its own GUI."]
 	quest.554F47A0AF7506EC.quest_subtitle: "59,049 End Stone"
+	quest.55519316D85D116B.quest_desc: ["He also won't raise your Level Cap. Why are we even fighting these guys! \\n\\nOh yeah, we have to. \\n\\nHis Signature Item is a Wind Charge."]
+	quest.55519316D85D116B.title: "&7Commander Saturn Rematch"
 	quest.5560F303C452E110.quest_desc: ["The Extruder pushes blocks and entities by why not push it some more! \\n\\nThe entities not the blocks."]
 	quest.5563BD4934297522.quest_desc: ["Once you have a Diamond Bee, breed it with the Slimy Bee to create an Emerald Bee!"]
 	quest.5563BD4934297522.quest_subtitle: "Diamond Bee + Slimy Bee"
@@ -6824,6 +6866,8 @@
 	quest.5585130028BB8298.title: "&d&lRevolver"
 	quest.55882C10292B6A3D.quest_subtitle: "Feed a Crystalline Bee a Prosperity Block"
 	quest.55882C10292B6A3D.title: "ProsperiBee"
+	quest.5596F9B74231AB62.quest_desc: ["This guy again? What does he have a crush on you? \\n\\nHe will raise your Level Cap to 57. \\n\\nHis Signature Item now is a Shiny Stone."]
+	quest.5596F9B74231AB62.title: "&6Pokemon Trainer Cedric"
 	quest.55A9EB63F4964FCF.quest_subtitle: "&f7 &cAttack Damage"
 	quest.55B9B9C3AA01D323.quest_desc: [
 		"Amongst the massive &5Glistering Crystals&r in the &5&lCrystal Canyon&r lies a &5Crystal&r in the shape of a &dFlower&r. \\n\\nIt's gorgeous, mesmerizing almost. It makes me want to grow a Garden of beautiful &dFlowers&r but I know not one of those &dFlowers&r will ever come close to how stunning the &5Crystal&r &dFlower&r is... \\n\\nRegardless you'll find plenty of &5Honey Crystals&r, &6Honey&r, and most importantly &5Crystalline Flowers&r!"
@@ -6971,6 +7015,8 @@
 	quest.57A7A5C79389A96A.title: "&6&lCreate&r"
 	quest.57ACD83205988834.quest_subtitle: "Gold + Ender"
 	quest.57ACD83205988834.title: "Platinum Bee"
+	quest.57B314DBCE27B06E.quest_desc: ["She will raise your Level Cap to 37. \\n\\nHer Signature Item is an &aEye of Ender&r."]
+	quest.57B314DBCE27B06E.title: "&aGym Leader Fantina"
 	quest.57BB2CC6D9D2AE87.quest_desc: ["This is what you really need for perfect &eAffixes&r. \\n\\nFirst you need the &6&lTable&r, a Tool, and &6Sigils of Enhancement&r. \\n\\nOnce you have all those, the world is all yours! You can reroll &eAffixes&r, choose a specific &eAffix&r, or upgrade set &eAffixes&r!"]
 	quest.57BB2CC6D9D2AE87.title: "&6&lAugmenting Table"
 	quest.57C4A0BAE739E903.quest_desc: ["The Dissolution Chamber is used to craft more advanced machines.\\n\\nYou will need to put a certain fluid in it along with the items needed for what you are crafting. Check JEI."]
@@ -7643,8 +7689,12 @@
 	quest.607D592CE102C82E.title: "Knightmetal Tools"
 	quest.607D9B53C632DEDE.quest_desc: ["&bPipe Valves&r work at helping sort and stop &bFluid&r flow! \\n\\nWhen used with &bFluid Pipes&r, they will make it so the &bFluid&r only goes in direction with the arrows on the &bPipe Valve&r. \\n\\nYou can also send it a &4Redstone Signal&r to which it will completely stop &bFluid&r flow!"]
 	quest.607D9B53C632DEDE.title: "&bPipe Valve"
+	quest.607E5EBE3696CC26.quest_desc: ["Won't change your Level Cap. \\n\\nHis Signature Item is a &eSunflower&r."]
+	quest.607E5EBE3696CC26.title: "&aGym Leader Gardenia"
 	quest.60850E717C747A78.quest_desc: ["You ever spend 3 months studying &oGalatic Code&r to finally understand &5Enchantment Table&r language just for it to be gibberish? \\n\\nNo? \\n\\nMe either, but &9Enchanting Clues&r are your actual translator for it! \\n\\nEach &9Enchanting Clue&r will tell you 1 &5Enchantment&r before you actually use it."]
 	quest.60850E717C747A78.title: "&3Enchanting Clues"
+	quest.6092335560810B6F.quest_desc: ["Now we're at the &3Elite Four&r! Once we beat these guys we can take on the &5Champ&r! \\n\\nThe first will raise your Level Cap to 59. \\n\\nHis Signature Item is &3Silver Powder&r."]
+	quest.6092335560810B6F.title: "&3Elite Four Aaron"
 	quest.609CA1ACFA981BD5.quest_desc: ["The &cRouting Kit&r is used with the passing tickets."]
 	quest.609CA1ACFA981BD5.title: "&cTrack Kit&r Routing"
 	quest.609D03E335CF32E2.quest_subtitle: "Tier: &d6"
@@ -7669,6 +7719,8 @@
 		"{image:atm:textures/questpics/eternal/starlight_scarlet.png width:200 height:100 align:center}"
 	]
 	quest.60FDCA2FDFE74056.title: "Scarlet Forest"
+	quest.6106D2F6CEFFFC82.quest_desc: ["She will raise your Level Cap to 43. \\n\\nHer Signature Item is &bIce Stone&r."]
+	quest.6106D2F6CEFFFC82.title: "&aGym Leader Candice"
 	quest.610F9E9D0B5131C7.quest_desc: ["The &6Charm of Keeping I&r will prevent you from losing the items in your main hand and off-hand, as well as any armor you're wearing when you die."]
 	quest.610F9E9D0B5131C7.title: "&6Charm of Keeping I"
 	quest.6112956E19017D2D.quest_desc: ["Logic Cables are different from other &e&lPipez&r or &5&lMeka pipes&r. The other Pipes act as hoppers, the items move from 1 Inventory, into the Pipe, then into the 2nd Inventory. Logic Cables just skip the middle man which also skips a lotta lag. \\n\\nThey are just for connecting Importers and Interfaces."]
@@ -7886,6 +7938,8 @@
 	quest.640D6ADA17709D3A.quest_subtitle: "Yellow Meranti + Kapok"
 	quest.64141B720662B652.quest_desc: ["Welcome to &6&lRelics&r! \\n \\n&6Relics&r mod is similar to Artifacts, you get many unique and powerful items all throughout the Worlds. \\n \\nThey have many different Abilities which are obtained and upgraded through the &6Research Window&r (Hold shift on the relic). There you can exchange &aVanilla XP&r to reroll the stats on its abilites, see your current &eRelic XP&r, gained from using the &6Relics&r, and level up their abilities! \\n \\nTo use &6Relic&r Abilities default is Left Alt."]
 	quest.64141B720662B652.title: "&l&6Relics"
+	quest.6431628BFD0A9386.quest_desc: ["He will raise you to 66. \\n\\n&dPsychic Seeds&r are his Signature Items."]
+	quest.6431628BFD0A9386.title: "&3Elite Four Lucian"
 	quest.6431A384DDFBF439.quest_desc: [
 		"The &bNetwork Tool&f is an important tool throughout AE2, which is used to display various details of a network on-screen such as overall power consumption and storage. "
 		""
@@ -8259,6 +8313,8 @@
 	quest.69A517AB8A801939.title: "&l&8The Wither"
 	quest.69B7DE2283B4EE6C.quest_desc: ["The &bCrafting Co-Processing Unit&f helps speed up crafting jobs by allowing pattern providers to either send items out to their connected devices faster or to work concurrently to make multiple required ingredients.\\n\\nThe base AE2 co-processor provides one co-processor 'thread' to assist this, while the co-processing unit from &dMEGA Cells&f provides 4 threads in a single such block."]
 	quest.69B7DE2283B4EE6C.quest_subtitle: "Download more CPU cores"
+	quest.69EAC857B2CCB045.quest_desc: ["Beating them will raise your Level Cap to 48. \\n\\nTheir Signature Item is a &dSmoke Ball&r."]
+	quest.69EAC857B2CCB045.title: "&7Commander Mars and Jupiter"
 	quest.69EE22CB4FF1E591.quest_desc: ["&aContraptions&r are very difficult to understand but pretty much it is the art of combining different Blocks and &6Machines&r into one moving systems. \\n\\nYou'll need &6Machines&r to actually move the &aContraption&r like &aLinear Chasis&r, you'll need the &6Machines&r you want to work like &6Drills&r, and you'll need &aGlue&r to hold it all together! \\n\\nOnce it is all &aGlued&r it should move when &dRotational Power&r is given to the moving &6Machine&r of the &aContraption&r."]
 	quest.69EE22CB4FF1E591.title: "&a&lContraptions"
 	quest.69F63F3B48E4344E.quest_subtitle: "Tier: &63"
@@ -8847,6 +8903,8 @@
 	quest.715F9F7107374299.title: "Wyvern Energy Relay Crystal"
 	quest.71667FFC8011525C.quest_subtitle: "Magmatic + Leafcutter"
 	quest.71667FFC8011525C.title: "Coal Bee"
+	quest.716F9AA2E9011F06.quest_desc: ["He won't raise your Level Cap. \\n\\nHis Signature Item is a &eClock&r!"]
+	quest.716F9AA2E9011F06.title: "&7Team Galactic Boss Cyrus"
 	quest.716FF64ACF896D50.quest_desc: ["&cGloomslate&r replaces &3Sculk Stone&r in the &cOvercast Columns&r. \\n\\nIt works just like &3Sculk Stone&r, just more Brown."]
 	quest.716FF64ACF896D50.title: "&cGloomslate"
 	quest.71766BD7321FCB13.quest_desc: ["Great, another &c&lChemical Infuser&r! \\n\\nCombine the &aUranium Oxide&r and &7Hydrofluorite Acid&r to create &aUranium Hexafluoride&r. \\n\\nNow we can process the &aUranium Hexafluoride&r through an &5&lIsotopic Centrifuge&r to finally get our beautiful &2Fissile Fuel&r."]
@@ -9939,6 +9997,8 @@
 	quest.7F0F7111552F95A9.title: "Controlling your &5Train"
 	quest.7F11ABFB2E21B7E4.quest_desc: ["Armor is a very important part of &l&2Minecraft&r, it is what protects you from harm. \\n\\nDifferent pieces of Armor give different Armor Points. These are what determine the effectiveness for your Armor, the more the merrier!\\n\\nMost armor can be changed for more decoration with Armor Trims, use a piece of Armor with an Armor Trim, and an Item for coloring to change the look!"]
 	quest.7F11ABFB2E21B7E4.title: "&l&bBasic Armor&r"
+	quest.7F124EAE153EFE7F.quest_desc: ["Now we get the last Battle of the &4&oSeries&r. Just one last Battle with &5Champion Cynthia&r. \\n\\nShe won't raise your Level Cap, instead it will finish the &4&oSeries&r. Then, you can start a new one! Like the &6&oATM&r one."]
+	quest.7F124EAE153EFE7F.title: "Finished &4&oSeries"
 	quest.7F187E291C3D5BA7.quest_desc: ["The Fluid Unloader is the exact opposite of the Fluid Loader. Instead of being over the &6Track&r its under. Instead of giving &3Steam Locomotives&r water it takes their water. I don't know why you'd want to do that but you can!"]
 	quest.7F187E291C3D5BA7.title: "Fluid Unloader"
 	quest.7F2D696AC9F4C4E4.quest_desc: ["'&bMirror Mirror&r on the wall how do I get back to my Respawn Point from my travels?' \\n \\n'After setting the &bMagic Mirror&r to a Bed by right clicking with it, you can hold right click for the &bMagic Mirror&r to teleport you back to your bed!' \\n \\n'Thank you &bMirror&r!'"]
