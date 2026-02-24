@@ -69,5 +69,3 @@
 		ejectItemsOnInconsistentSimulationMovement = true
 		#If the version checker should be enabled.
 		versionChecker = false
-		#For how many ticks importers/exporters should fail to process before they can start sleeping.
-		inventoryUnchangedTickCount = 3

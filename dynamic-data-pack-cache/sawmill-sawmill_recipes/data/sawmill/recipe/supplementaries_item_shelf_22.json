@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "productivetrees:whitebeam_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "productivetrees:whitebeam_wood"
+    },
+    {
+      "item": "productivetrees:whitebeam_stripped_log"
+    },
+    {
+      "item": "productivetrees:whitebeam_stripped_wood"
     }
   ],
   "result": {

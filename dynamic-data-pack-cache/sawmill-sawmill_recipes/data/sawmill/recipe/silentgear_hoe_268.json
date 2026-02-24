@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sycamore_fig_log"
+      "item": "allthemodium:demonic_log"
     },
     {
-      "item": "productivetrees:sycamore_fig_wood"
-    },
-    {
-      "item": "productivetrees:sycamore_fig_stripped_log"
-    },
-    {
-      "item": "productivetrees:sycamore_fig_stripped_wood"
+      "item": "allthemodium:stripped_demonic_log"
     }
   ],
   "result": {

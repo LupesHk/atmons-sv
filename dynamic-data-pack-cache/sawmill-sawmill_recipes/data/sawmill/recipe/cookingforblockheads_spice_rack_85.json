@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:prairie_crabapple_planks"
+    "item": "productivetrees:foggy_blast_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

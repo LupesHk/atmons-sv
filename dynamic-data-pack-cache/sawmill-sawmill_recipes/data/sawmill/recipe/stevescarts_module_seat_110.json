@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:night_fuchsia_log"
-    },
-    {
-      "item": "productivetrees:night_fuchsia_wood"
-    },
-    {
-      "item": "productivetrees:night_fuchsia_stripped_log"
-    },
-    {
-      "item": "productivetrees:night_fuchsia_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "stevescarts:module_seat",
     "count": 1

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:time_planks"
+    "item": "eternal_starlight:banyin_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

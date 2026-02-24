@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:copper_beech_log"
+      "item": "minecraft:dark_oak_log"
     },
     {
-      "item": "productivetrees:copper_beech_wood"
+      "item": "minecraft:dark_oak_wood"
     },
     {
-      "item": "productivetrees:copper_beech_stripped_log"
+      "item": "minecraft:stripped_dark_oak_log"
     },
     {
-      "item": "productivetrees:copper_beech_stripped_wood"
+      "item": "minecraft:stripped_dark_oak_wood"
     }
   ],
   "result": {

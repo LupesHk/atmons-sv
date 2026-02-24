@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:brazilwood_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:brazilwood_wood"
+    },
+    {
+      "item": "productivetrees:brazilwood_stripped_log"
+    },
+    {
+      "item": "productivetrees:brazilwood_stripped_wood"
     }
   ],
   "result": {

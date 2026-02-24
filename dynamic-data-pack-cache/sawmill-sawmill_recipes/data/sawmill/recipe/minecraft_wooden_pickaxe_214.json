@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:european_larch_log"
+      "item": "productivetrees:peach_log"
     },
     {
-      "item": "productivetrees:european_larch_wood"
+      "item": "productivetrees:peach_wood"
     },
     {
-      "item": "productivetrees:european_larch_stripped_log"
+      "item": "productivetrees:peach_stripped_log"
     },
     {
-      "item": "productivetrees:european_larch_stripped_wood"
+      "item": "productivetrees:peach_stripped_wood"
     }
   ],
   "result": {

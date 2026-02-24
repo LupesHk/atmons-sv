@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:asai_palm_planks"
+    "item": "productivetrees:wild_cherry_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

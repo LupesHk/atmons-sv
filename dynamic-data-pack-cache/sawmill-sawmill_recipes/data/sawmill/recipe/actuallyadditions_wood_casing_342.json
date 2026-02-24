@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:crimson_stem"
+      "item": "allthemodium:demonic_log"
     },
     {
-      "item": "minecraft:crimson_hyphae"
-    },
-    {
-      "item": "minecraft:stripped_crimson_stem"
-    },
-    {
-      "item": "minecraft:stripped_crimson_hyphae"
+      "item": "allthemodium:stripped_demonic_log"
     }
   ],
   "result": {

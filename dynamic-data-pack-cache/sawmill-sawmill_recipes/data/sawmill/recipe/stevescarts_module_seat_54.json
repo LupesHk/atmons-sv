@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:slimy_delight_log"
+      "item": "minecraft:spruce_log"
     },
     {
-      "item": "productivetrees:slimy_delight_wood"
+      "item": "minecraft:spruce_wood"
     },
     {
-      "item": "productivetrees:slimy_delight_stripped_log"
+      "item": "minecraft:stripped_spruce_log"
     },
     {
-      "item": "productivetrees:slimy_delight_stripped_wood"
+      "item": "minecraft:stripped_spruce_wood"
     }
   ],
   "result": {

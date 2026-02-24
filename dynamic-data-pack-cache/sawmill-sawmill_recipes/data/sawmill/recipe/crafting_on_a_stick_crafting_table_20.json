@@ -2,21 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:dark_oak_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "minecraft:dark_oak_wood"
-    },
-    {
-      "item": "minecraft:stripped_dark_oak_log"
-    },
-    {
-      "item": "minecraft:stripped_dark_oak_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "crafting_on_a_stick:crafting_table",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

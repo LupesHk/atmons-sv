@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:purple_crepe_myrtle_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "productivetrees:purple_crepe_myrtle_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "productivetrees:purple_crepe_myrtle_stripped_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "productivetrees:purple_crepe_myrtle_stripped_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

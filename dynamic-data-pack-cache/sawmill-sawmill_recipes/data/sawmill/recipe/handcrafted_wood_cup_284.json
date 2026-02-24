@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:olive_log"
+    },
+    {
+      "item": "productivetrees:olive_wood"
+    },
+    {
+      "item": "productivetrees:olive_stripped_log"
+    },
+    {
+      "item": "productivetrees:olive_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_cup",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

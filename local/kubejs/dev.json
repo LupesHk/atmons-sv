@@ -18,6 +18,5 @@
   "strict_tags": false,
   "always_capture_errors": true,
   "reload_on_file_save": false,
-  "kubedex_sound": "entity.experience_orb.pickup",
-  "open_uri_format": "vscode"
+  "kubedex_sound": "entity.experience_orb.pickup"
 }

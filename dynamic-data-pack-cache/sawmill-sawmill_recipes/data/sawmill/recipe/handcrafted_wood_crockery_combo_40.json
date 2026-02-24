@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:time_traveller_log"
-    },
-    {
-      "item": "productivetrees:time_traveller_wood"
-    },
-    {
-      "item": "productivetrees:time_traveller_stripped_log"
-    },
-    {
-      "item": "productivetrees:time_traveller_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "handcrafted:wood_crockery_combo",
     "count": 4

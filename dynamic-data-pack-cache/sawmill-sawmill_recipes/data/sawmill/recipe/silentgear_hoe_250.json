@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:breadfruit_log"
+      "item": "productivetrees:white_willow_log"
     },
     {
-      "item": "productivetrees:breadfruit_wood"
+      "item": "productivetrees:white_willow_wood"
     },
     {
-      "item": "productivetrees:breadfruit_stripped_log"
+      "item": "productivetrees:white_willow_stripped_log"
     },
     {
-      "item": "productivetrees:breadfruit_stripped_wood"
+      "item": "productivetrees:white_willow_stripped_wood"
     }
   ],
   "result": {

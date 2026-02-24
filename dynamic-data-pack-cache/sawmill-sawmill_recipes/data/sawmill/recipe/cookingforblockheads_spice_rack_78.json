@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:slimy_delight_log"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "productivetrees:slimy_delight_wood"
+      "item": "twilightforest:canopy_wood"
     },
     {
-      "item": "productivetrees:slimy_delight_stripped_log"
+      "item": "twilightforest:stripped_canopy_log"
     },
     {
-      "item": "productivetrees:slimy_delight_stripped_wood"
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:birch_planks"
+    "item": "twilightforest:mining_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

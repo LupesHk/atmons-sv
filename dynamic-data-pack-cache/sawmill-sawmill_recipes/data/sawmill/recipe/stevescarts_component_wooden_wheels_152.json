@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:golden_delicious_apple_log"
+      "item": "productivetrees:sand_pear_log"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_wood"
+      "item": "productivetrees:sand_pear_wood"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_stripped_log"
+      "item": "productivetrees:sand_pear_stripped_log"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_stripped_wood"
+      "item": "productivetrees:sand_pear_stripped_wood"
     }
   ],
   "result": {

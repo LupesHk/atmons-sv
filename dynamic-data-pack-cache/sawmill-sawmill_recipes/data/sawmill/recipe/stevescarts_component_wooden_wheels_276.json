@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rowan_log"
+      "item": "eternal_starlight:lunar_log"
     },
     {
-      "item": "productivetrees:rowan_wood"
+      "item": "eternal_starlight:lunar_wood"
     },
     {
-      "item": "productivetrees:rowan_stripped_log"
+      "item": "eternal_starlight:stripped_lunar_log"
     },
     {
-      "item": "productivetrees:rowan_stripped_wood"
+      "item": "eternal_starlight:stripped_lunar_wood"
     }
   ],
   "result": {

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:flowering_crabapple_log"
+    },
+    {
+      "item": "productivetrees:flowering_crabapple_wood"
+    },
+    {
+      "item": "productivetrees:flowering_crabapple_stripped_log"
+    },
+    {
+      "item": "productivetrees:flowering_crabapple_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

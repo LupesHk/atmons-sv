@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "productivetrees:zebrano_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "productivetrees:zebrano_wood"
+    },
+    {
+      "item": "productivetrees:zebrano_stripped_log"
+    },
+    {
+      "item": "productivetrees:zebrano_stripped_wood"
     }
   ],
   "result": {

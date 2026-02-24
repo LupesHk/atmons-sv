@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:northland_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "eternal_starlight:northland_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "eternal_starlight:stripped_northland_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "eternal_starlight:stripped_northland_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {

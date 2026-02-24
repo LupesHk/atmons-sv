@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "productivetrees:soursop_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "productivetrees:soursop_wood"
+    },
+    {
+      "item": "productivetrees:soursop_stripped_log"
+    },
+    {
+      "item": "productivetrees:soursop_stripped_wood"
     }
   ],
   "result": {

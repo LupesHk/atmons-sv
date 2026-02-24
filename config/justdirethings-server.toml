@@ -21,7 +21,7 @@
 	#oreminer
 	oreminer = true
 	#orescanner
-	orescanner = true
+	orescanner = false
 	#lawnmower
 	lawnmower = true
 	#skysweeper
@@ -246,15 +246,15 @@
 	#The Forge Energy cost to use the Time wand. This value is multiplied by the acceleration amount. For example, when you go from 128 to 256, it will charge 256 x <this value> in FE cost.
 	# Default: 100
 	# Range: > 0
-	time_wand_rf_cost = 100
+	time_wand_rf_cost = 750
 	#The Time Fluid cost to use the time wand.  This value is multiplied by the acceleration amount. For example, when you go from 128 to 256, it will charge 256 x <this value> in Time Fluid.
 	# Default: 0.5
 	# Range: 0.0 ~ 1.7976931348623157E308
 	time_wand_fluid_cost = 0.5
 	#The maximum speed multiplier that can be applied using a Time Wand. This value should be a power of two.
-	time_wand_max_multiplier = 256
+	time_wand_max_multiplier = 128
 	#Can fake players use the Time Wand (Like in the clickers)?
-	time_wand_fake_player_allowed = true
+	time_wand_fake_player_allowed = false
 
 #Polymorphic Wand
 [polymorphic_wand]
@@ -322,7 +322,7 @@
 	# Range: 0.0 ~ 1.7976931348623157E308
 	paradox_energy_max = 100.0
 	#Use a more restrictive data filtering for mobs cloned by the paradox machine. When enabled, most modded mobs may not work very well.  When disabled, theres a small chance of item dupe bugs.  Recommended to leave this set to false, and add any mobs that allow dupes to the paradox machines deny entity tag.
-	paradox_restricted_mobs = false
+	paradox_restricted_mobs = true
 
 #Player Accessor
 [player_accessor]

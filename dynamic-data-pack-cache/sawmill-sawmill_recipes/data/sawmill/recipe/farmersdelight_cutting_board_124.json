@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:zebrano_log"
+      "item": "minecraft:warped_stem"
     },
     {
-      "item": "productivetrees:zebrano_wood"
+      "item": "minecraft:warped_hyphae"
     },
     {
-      "item": "productivetrees:zebrano_stripped_log"
+      "item": "minecraft:stripped_warped_stem"
     },
     {
-      "item": "productivetrees:zebrano_stripped_wood"
+      "item": "minecraft:stripped_warped_hyphae"
     }
   ],
   "result": {

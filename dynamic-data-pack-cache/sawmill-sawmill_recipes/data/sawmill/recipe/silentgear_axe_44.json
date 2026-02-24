@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:sparkle_cherry_log"
-    },
-    {
-      "item": "productivetrees:sparkle_cherry_wood"
-    },
-    {
-      "item": "productivetrees:sparkle_cherry_stripped_log"
-    },
-    {
-      "item": "productivetrees:sparkle_cherry_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "silentgear:axe",
     "count": 1

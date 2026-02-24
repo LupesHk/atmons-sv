@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:rose_gum_planks"
+    "item": "productivetrees:sparkle_cherry_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

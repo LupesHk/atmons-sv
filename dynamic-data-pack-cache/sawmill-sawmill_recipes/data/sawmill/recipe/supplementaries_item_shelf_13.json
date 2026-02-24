@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:logwood_planks"
+    "item": "productivetrees:star_anise_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

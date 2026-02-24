@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:banyin_log"
+      "item": "productivetrees:cinnamon_log"
     },
     {
-      "item": "eternal_starlight:banyin_wood"
+      "item": "productivetrees:cinnamon_wood"
     },
     {
-      "item": "eternal_starlight:stripped_banyin_log"
+      "item": "productivetrees:cinnamon_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_banyin_wood"
+      "item": "productivetrees:cinnamon_stripped_wood"
     }
   ],
   "result": {

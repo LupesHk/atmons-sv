@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:coconut_log"
+      "item": "productivetrees:cave_dweller_log"
     },
     {
-      "item": "productivetrees:coconut_wood"
+      "item": "productivetrees:cave_dweller_wood"
     },
     {
-      "item": "productivetrees:coconut_stripped_log"
+      "item": "productivetrees:cave_dweller_stripped_log"
     },
     {
-      "item": "productivetrees:coconut_stripped_wood"
+      "item": "productivetrees:cave_dweller_stripped_wood"
     }
   ],
   "result": {

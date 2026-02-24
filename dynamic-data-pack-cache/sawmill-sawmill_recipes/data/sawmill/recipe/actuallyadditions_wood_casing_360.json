@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:scarlet_log"
+      "item": "productivetrees:butternut_log"
     },
     {
-      "item": "eternal_starlight:scarlet_wood"
+      "item": "productivetrees:butternut_wood"
     },
     {
-      "item": "eternal_starlight:stripped_scarlet_log"
+      "item": "productivetrees:butternut_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_scarlet_wood"
+      "item": "productivetrees:butternut_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rubber_tree_log"
+      "item": "undergarden:smogstem_log"
     },
     {
-      "item": "productivetrees:rubber_tree_wood"
+      "item": "undergarden:smogstem_wood"
     },
     {
-      "item": "productivetrees:rubber_tree_stripped_log"
+      "item": "undergarden:stripped_smogstem_log"
     },
     {
-      "item": "productivetrees:rubber_tree_stripped_wood"
+      "item": "undergarden:stripped_smogstem_wood"
     }
   ],
   "result": {

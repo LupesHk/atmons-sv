@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:teak_log"
+      "item": "eternal_starlight:scarlet_log"
     },
     {
-      "item": "productivetrees:teak_wood"
+      "item": "eternal_starlight:scarlet_wood"
     },
     {
-      "item": "productivetrees:teak_stripped_log"
+      "item": "eternal_starlight:stripped_scarlet_log"
     },
     {
-      "item": "productivetrees:teak_stripped_wood"
+      "item": "eternal_starlight:stripped_scarlet_wood"
     }
   ],
   "result": {

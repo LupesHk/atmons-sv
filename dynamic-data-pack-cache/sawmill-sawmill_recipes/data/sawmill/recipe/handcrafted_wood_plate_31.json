@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "silentgear:netherwood_planks"
+    "item": "minecraft:bamboo_planks"
   },
   "result": {
     "id": "handcrafted:wood_plate",

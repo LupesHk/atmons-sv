@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:satsuma_planks"
+    "item": "productivetrees:jackfruit_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

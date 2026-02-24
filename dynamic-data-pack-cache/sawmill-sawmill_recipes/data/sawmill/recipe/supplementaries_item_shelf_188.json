@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:purpleheart_log"
+    },
+    {
+      "item": "productivetrees:purpleheart_wood"
+    },
+    {
+      "item": "productivetrees:purpleheart_stripped_log"
+    },
+    {
+      "item": "productivetrees:purpleheart_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:item_shelf",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:jackfruit_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:jackfruit_wood"
-    },
-    {
-      "item": "productivetrees:jackfruit_stripped_log"
-    },
-    {
-      "item": "productivetrees:jackfruit_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:peach_log"
-    },
-    {
-      "item": "productivetrees:peach_wood"
-    },
-    {
-      "item": "productivetrees:peach_stripped_log"
-    },
-    {
-      "item": "productivetrees:peach_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "minecraft:wooden_pickaxe",
     "count": 1

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:grandidiers_baobab_log"
+      "item": "productivetrees:cave_dweller_log"
     },
     {
-      "item": "productivetrees:grandidiers_baobab_wood"
+      "item": "productivetrees:cave_dweller_wood"
     },
     {
-      "item": "productivetrees:grandidiers_baobab_stripped_log"
+      "item": "productivetrees:cave_dweller_stripped_log"
     },
     {
-      "item": "productivetrees:grandidiers_baobab_stripped_wood"
+      "item": "productivetrees:cave_dweller_stripped_wood"
     }
   ],
   "result": {

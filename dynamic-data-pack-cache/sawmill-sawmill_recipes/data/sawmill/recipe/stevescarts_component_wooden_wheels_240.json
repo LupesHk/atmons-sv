@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:flickering_sun_log"
+      "item": "productivetrees:cave_dweller_log"
     },
     {
-      "item": "productivetrees:flickering_sun_wood"
+      "item": "productivetrees:cave_dweller_wood"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_log"
+      "item": "productivetrees:cave_dweller_stripped_log"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_wood"
+      "item": "productivetrees:cave_dweller_stripped_wood"
     }
   ],
   "result": {

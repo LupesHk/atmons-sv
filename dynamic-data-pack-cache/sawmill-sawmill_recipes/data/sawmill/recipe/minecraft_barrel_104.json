@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:star_anise_log"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_log"
     },
     {
-      "item": "productivetrees:star_anise_wood"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_wood"
     },
     {
-      "item": "productivetrees:star_anise_stripped_log"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_log"
     },
     {
-      "item": "productivetrees:star_anise_stripped_wood"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_wood"
     }
   ],
   "result": {

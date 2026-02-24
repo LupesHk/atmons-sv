@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:birch_log"
+      "item": "productivetrees:pandanus_log"
     },
     {
-      "item": "minecraft:birch_wood"
+      "item": "productivetrees:pandanus_wood"
     },
     {
-      "item": "minecraft:stripped_birch_log"
+      "item": "productivetrees:pandanus_stripped_log"
     },
     {
-      "item": "minecraft:stripped_birch_wood"
+      "item": "productivetrees:pandanus_stripped_wood"
     }
   ],
   "result": {

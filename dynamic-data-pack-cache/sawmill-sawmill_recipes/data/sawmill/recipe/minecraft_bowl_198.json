@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:slimy_delight_log"
+    },
+    {
+      "item": "productivetrees:slimy_delight_wood"
+    },
+    {
+      "item": "productivetrees:slimy_delight_stripped_log"
+    },
+    {
+      "item": "productivetrees:slimy_delight_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

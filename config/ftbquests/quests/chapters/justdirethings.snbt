@@ -7,14 +7,16 @@
 		id: "justdirethings:fuel_canister"
 	}
 	id: "4EAAE0CEB26378A6"
-	images: [{
-		height: 0.25d
-		image: "allthetweaks:item/atm_star"
-		rotation: 0.0d
-		width: 0.25d
-		x: -8.0d
-		y: -1.6964285714285694d
-	}]
+	images: [
+		{
+			height: 0.25d
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.25d
+			x: -8.0d
+			y: -1.6964285714285694d
+		}
+	]
 	order_index: 4
 	progression_mode: "flexible"
 	quest_links: [ ]

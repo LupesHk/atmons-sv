@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:white_willow_log"
+      "item": "eternal_starlight:banyin_log"
     },
     {
-      "item": "productivetrees:white_willow_wood"
+      "item": "eternal_starlight:banyin_wood"
     },
     {
-      "item": "productivetrees:white_willow_stripped_log"
+      "item": "eternal_starlight:stripped_banyin_log"
     },
     {
-      "item": "productivetrees:white_willow_stripped_wood"
+      "item": "eternal_starlight:stripped_banyin_wood"
     }
   ],
   "result": {

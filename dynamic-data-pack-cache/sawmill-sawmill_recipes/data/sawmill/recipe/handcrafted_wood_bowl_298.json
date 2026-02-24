@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sweet_chestnut_log"
+    },
+    {
+      "item": "productivetrees:sweet_chestnut_wood"
+    },
+    {
+      "item": "productivetrees:sweet_chestnut_stripped_log"
+    },
+    {
+      "item": "productivetrees:sweet_chestnut_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

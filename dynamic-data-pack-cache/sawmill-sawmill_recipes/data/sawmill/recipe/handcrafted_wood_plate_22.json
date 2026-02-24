@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:oak_log"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "minecraft:oak_wood"
+      "item": "silentgear:netherwood_wood"
     },
     {
-      "item": "minecraft:stripped_oak_log"
+      "item": "silentgear:stripped_netherwood_log"
     },
     {
-      "item": "minecraft:stripped_oak_wood"
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {

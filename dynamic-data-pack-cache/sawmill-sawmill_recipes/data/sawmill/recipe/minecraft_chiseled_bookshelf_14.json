@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "cobblemon:saccharine_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "cobblemon:saccharine_wood"
-    },
-    {
-      "item": "cobblemon:stripped_saccharine_log"
-    },
-    {
-      "item": "cobblemon:stripped_saccharine_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:ceylon_ebony_log"
+    },
+    {
+      "item": "productivetrees:ceylon_ebony_wood"
+    },
+    {
+      "item": "productivetrees:ceylon_ebony_stripped_log"
+    },
+    {
+      "item": "productivetrees:ceylon_ebony_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "aquaculture:wooden_fillet_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

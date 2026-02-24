@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:foggy_blast_log"
+      "item": "productivetrees:sycamore_fig_log"
     },
     {
-      "item": "productivetrees:foggy_blast_wood"
+      "item": "productivetrees:sycamore_fig_wood"
     },
     {
-      "item": "productivetrees:foggy_blast_stripped_log"
+      "item": "productivetrees:sycamore_fig_stripped_log"
     },
     {
-      "item": "productivetrees:foggy_blast_stripped_wood"
+      "item": "productivetrees:sycamore_fig_stripped_wood"
     }
   ],
   "result": {

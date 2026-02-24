@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:coconut_log"
+      "item": "productivetrees:kapok_log"
     },
     {
-      "item": "productivetrees:coconut_wood"
+      "item": "productivetrees:kapok_wood"
     },
     {
-      "item": "productivetrees:coconut_stripped_log"
+      "item": "productivetrees:kapok_stripped_log"
     },
     {
-      "item": "productivetrees:coconut_stripped_wood"
+      "item": "productivetrees:kapok_stripped_wood"
     }
   ],
   "result": {

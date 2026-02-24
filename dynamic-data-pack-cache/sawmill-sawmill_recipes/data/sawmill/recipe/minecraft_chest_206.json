@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pomelo_log"
+      "item": "productivetrees:grandidiers_baobab_log"
     },
     {
-      "item": "productivetrees:pomelo_wood"
+      "item": "productivetrees:grandidiers_baobab_wood"
     },
     {
-      "item": "productivetrees:pomelo_stripped_log"
+      "item": "productivetrees:grandidiers_baobab_stripped_log"
     },
     {
-      "item": "productivetrees:pomelo_stripped_wood"
+      "item": "productivetrees:grandidiers_baobab_stripped_wood"
     }
   ],
   "result": {

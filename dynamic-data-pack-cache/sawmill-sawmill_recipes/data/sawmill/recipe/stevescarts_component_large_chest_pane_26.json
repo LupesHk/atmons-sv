@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:black_locust_log"
+      "item": "twilightforest:time_log"
     },
     {
-      "item": "productivetrees:black_locust_wood"
+      "item": "twilightforest:time_wood"
     },
     {
-      "item": "productivetrees:black_locust_stripped_log"
+      "item": "twilightforest:stripped_time_log"
     },
     {
-      "item": "productivetrees:black_locust_stripped_wood"
+      "item": "twilightforest:stripped_time_wood"
     }
   ],
   "result": {

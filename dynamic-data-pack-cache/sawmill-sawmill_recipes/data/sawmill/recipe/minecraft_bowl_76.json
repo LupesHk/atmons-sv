@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:cherry_plum_log"
+    },
+    {
+      "item": "productivetrees:cherry_plum_wood"
+    },
+    {
+      "item": "productivetrees:cherry_plum_stripped_log"
+    },
+    {
+      "item": "productivetrees:cherry_plum_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:time_log"
+      "item": "eternal_starlight:torreya_log"
     },
     {
-      "item": "twilightforest:time_wood"
+      "item": "eternal_starlight:torreya_wood"
     },
     {
-      "item": "twilightforest:stripped_time_log"
+      "item": "eternal_starlight:stripped_torreya_log"
     },
     {
-      "item": "twilightforest:stripped_time_wood"
+      "item": "eternal_starlight:stripped_torreya_wood"
     }
   ],
   "result": {

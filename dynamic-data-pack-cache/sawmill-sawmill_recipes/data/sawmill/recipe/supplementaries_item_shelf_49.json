@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:red_maple_planks"
+    "item": "forbidden_arcanus:aurum_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

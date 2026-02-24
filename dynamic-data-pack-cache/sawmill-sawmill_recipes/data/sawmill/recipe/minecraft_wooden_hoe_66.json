@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:sorting_log"
+      "item": "productivetrees:western_hemlock_log"
     },
     {
-      "item": "twilightforest:sorting_wood"
+      "item": "productivetrees:western_hemlock_wood"
     },
     {
-      "item": "twilightforest:stripped_sorting_log"
+      "item": "productivetrees:western_hemlock_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_sorting_wood"
+      "item": "productivetrees:western_hemlock_stripped_wood"
     }
   ],
   "result": {

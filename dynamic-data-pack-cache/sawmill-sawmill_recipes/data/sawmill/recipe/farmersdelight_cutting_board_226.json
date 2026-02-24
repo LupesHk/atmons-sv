@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:copper_beech_log"
+      "item": "productivetrees:aspen_log"
     },
     {
-      "item": "productivetrees:copper_beech_wood"
+      "item": "productivetrees:aspen_wood"
     },
     {
-      "item": "productivetrees:copper_beech_stripped_log"
+      "item": "productivetrees:aspen_stripped_log"
     },
     {
-      "item": "productivetrees:copper_beech_stripped_wood"
+      "item": "productivetrees:aspen_stripped_wood"
     }
   ],
   "result": {

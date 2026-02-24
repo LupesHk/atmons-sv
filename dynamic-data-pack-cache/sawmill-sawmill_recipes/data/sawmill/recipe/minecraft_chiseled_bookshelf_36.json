@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:kumquat_log"
+      "item": "productivetrees:sparkle_cherry_log"
     },
     {
-      "item": "productivetrees:kumquat_wood"
+      "item": "productivetrees:sparkle_cherry_wood"
     },
     {
-      "item": "productivetrees:kumquat_stripped_log"
+      "item": "productivetrees:sparkle_cherry_stripped_log"
     },
     {
-      "item": "productivetrees:kumquat_stripped_wood"
+      "item": "productivetrees:sparkle_cherry_stripped_wood"
     }
   ],
   "result": {

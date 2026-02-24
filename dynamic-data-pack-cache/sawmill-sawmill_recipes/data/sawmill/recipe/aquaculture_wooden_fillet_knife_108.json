@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:clove_log"
+      "item": "productivetrees:monkey_puzzle_log"
     },
     {
-      "item": "productivetrees:clove_wood"
+      "item": "productivetrees:monkey_puzzle_wood"
     },
     {
-      "item": "productivetrees:clove_stripped_log"
+      "item": "productivetrees:monkey_puzzle_stripped_log"
     },
     {
-      "item": "productivetrees:clove_stripped_wood"
+      "item": "productivetrees:monkey_puzzle_stripped_wood"
     }
   ],
   "result": {

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:banyin_planks"
+    "item": "productivetrees:aspen_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

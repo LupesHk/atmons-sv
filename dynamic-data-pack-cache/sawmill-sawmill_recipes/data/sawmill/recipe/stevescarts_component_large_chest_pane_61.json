@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:dark_oak_planks"
+    "item": "productivetrees:wild_cherry_planks"
   },
   "result": {
     "id": "stevescarts:component_large_chest_pane",

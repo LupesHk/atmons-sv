@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:elm_log"
+      "item": "productivetrees:pistachio_log"
     },
     {
-      "item": "productivetrees:elm_wood"
+      "item": "productivetrees:pistachio_wood"
     },
     {
-      "item": "productivetrees:elm_stripped_log"
+      "item": "productivetrees:pistachio_stripped_log"
     },
     {
-      "item": "productivetrees:elm_stripped_wood"
+      "item": "productivetrees:pistachio_stripped_wood"
     }
   ],
   "result": {

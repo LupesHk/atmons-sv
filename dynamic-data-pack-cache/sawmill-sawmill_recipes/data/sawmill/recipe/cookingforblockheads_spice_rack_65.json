@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:socotra_dragon_planks"
+    "item": "productivetrees:black_cherry_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

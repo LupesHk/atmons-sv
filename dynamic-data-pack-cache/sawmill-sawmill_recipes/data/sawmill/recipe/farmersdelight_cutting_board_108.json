@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:cradlewood_log"
+      "item": "productivetrees:monkey_puzzle_log"
     },
     {
-      "item": "eternal_starlight:cradlewood_wood"
+      "item": "productivetrees:monkey_puzzle_wood"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_log"
+      "item": "productivetrees:monkey_puzzle_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_wood"
+      "item": "productivetrees:monkey_puzzle_stripped_wood"
     }
   ],
   "result": {

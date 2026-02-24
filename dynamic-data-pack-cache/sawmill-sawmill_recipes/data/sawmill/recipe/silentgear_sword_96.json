@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cacao_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:cacao_wood"
-    },
-    {
-      "item": "productivetrees:cacao_stripped_log"
-    },
-    {
-      "item": "productivetrees:cacao_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

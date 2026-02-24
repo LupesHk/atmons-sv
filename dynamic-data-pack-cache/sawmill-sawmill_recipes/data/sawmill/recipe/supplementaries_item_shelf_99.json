@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:rubber_tree_planks"
+    "item": "undergarden:smogstem_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

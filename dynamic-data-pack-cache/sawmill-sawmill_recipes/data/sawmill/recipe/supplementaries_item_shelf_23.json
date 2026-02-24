@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "allthemodium:demonic_planks"
+    "item": "productivetrees:whitebeam_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

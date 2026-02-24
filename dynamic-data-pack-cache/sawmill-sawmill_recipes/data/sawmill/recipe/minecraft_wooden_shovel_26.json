@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:black_locust_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:black_locust_wood"
-    },
-    {
-      "item": "productivetrees:black_locust_stripped_log"
-    },
-    {
-      "item": "productivetrees:black_locust_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {

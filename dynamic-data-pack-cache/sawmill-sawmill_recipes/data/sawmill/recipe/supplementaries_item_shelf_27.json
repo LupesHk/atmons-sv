@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:time_traveller_planks"
+    "item": "twilightforest:dark_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

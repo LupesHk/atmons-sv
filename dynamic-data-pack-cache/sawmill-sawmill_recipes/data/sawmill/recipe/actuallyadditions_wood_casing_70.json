@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:water_wonder_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "productivetrees:water_wonder_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "productivetrees:water_wonder_stripped_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "productivetrees:water_wonder_stripped_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {

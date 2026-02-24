@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:balsa_log"
+      "item": "productivetrees:blackthorn_log"
     },
     {
-      "item": "productivetrees:balsa_wood"
+      "item": "productivetrees:blackthorn_wood"
     },
     {
-      "item": "productivetrees:balsa_stripped_log"
+      "item": "productivetrees:blackthorn_stripped_log"
     },
     {
-      "item": "productivetrees:balsa_stripped_wood"
+      "item": "productivetrees:blackthorn_stripped_wood"
     }
   ],
   "result": {

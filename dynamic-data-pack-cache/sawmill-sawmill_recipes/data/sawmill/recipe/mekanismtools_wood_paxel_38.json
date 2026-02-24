@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cacao_log"
+      "item": "minecraft:acacia_log"
     },
     {
-      "item": "productivetrees:cacao_wood"
+      "item": "minecraft:acacia_wood"
     },
     {
-      "item": "productivetrees:cacao_stripped_log"
+      "item": "minecraft:stripped_acacia_log"
     },
     {
-      "item": "productivetrees:cacao_stripped_wood"
+      "item": "minecraft:stripped_acacia_wood"
     }
   ],
   "result": {

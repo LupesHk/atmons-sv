@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:brown_amber_log"
+    },
+    {
+      "item": "productivetrees:brown_amber_wood"
+    },
+    {
+      "item": "productivetrees:brown_amber_stripped_log"
+    },
+    {
+      "item": "productivetrees:brown_amber_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -2,10 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

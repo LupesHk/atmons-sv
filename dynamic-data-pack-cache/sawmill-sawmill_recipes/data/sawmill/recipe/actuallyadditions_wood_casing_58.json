@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:plantain_log"
+      "item": "productivetrees:beliy_naliv_apple_log"
     },
     {
-      "item": "productivetrees:plantain_wood"
+      "item": "productivetrees:beliy_naliv_apple_wood"
     },
     {
-      "item": "productivetrees:plantain_stripped_log"
+      "item": "productivetrees:beliy_naliv_apple_stripped_log"
     },
     {
-      "item": "productivetrees:plantain_stripped_wood"
+      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
     }
   ],
   "result": {

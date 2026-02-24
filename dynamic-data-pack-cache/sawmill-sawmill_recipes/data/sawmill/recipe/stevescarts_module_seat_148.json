@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:lawson_cypress_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "productivetrees:lawson_cypress_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "productivetrees:lawson_cypress_stripped_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "productivetrees:lawson_cypress_stripped_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {

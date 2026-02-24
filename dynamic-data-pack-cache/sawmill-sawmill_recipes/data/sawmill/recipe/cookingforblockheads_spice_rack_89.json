@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:northland_planks"
+    "item": "minecraft:bamboo_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

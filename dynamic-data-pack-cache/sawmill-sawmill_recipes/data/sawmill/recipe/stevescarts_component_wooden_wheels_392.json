@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rubber_tree_log"
+      "item": "productivetrees:great_sallow_log"
     },
     {
-      "item": "productivetrees:rubber_tree_wood"
+      "item": "productivetrees:great_sallow_wood"
     },
     {
-      "item": "productivetrees:rubber_tree_stripped_log"
+      "item": "productivetrees:great_sallow_stripped_log"
     },
     {
-      "item": "productivetrees:rubber_tree_stripped_wood"
+      "item": "productivetrees:great_sallow_stripped_wood"
     }
   ],
   "result": {

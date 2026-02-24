@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:jackfruit_planks"
+    "item": "naturesaura:ancient_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:slimy_delight_log"
+      "item": "productivetrees:mandarin_log"
     },
     {
-      "item": "productivetrees:slimy_delight_wood"
+      "item": "productivetrees:mandarin_wood"
     },
     {
-      "item": "productivetrees:slimy_delight_stripped_log"
+      "item": "productivetrees:mandarin_stripped_log"
     },
     {
-      "item": "productivetrees:slimy_delight_stripped_wood"
+      "item": "productivetrees:mandarin_stripped_wood"
     }
   ],
   "result": {

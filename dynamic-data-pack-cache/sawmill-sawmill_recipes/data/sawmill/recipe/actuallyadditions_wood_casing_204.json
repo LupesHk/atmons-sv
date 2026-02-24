@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sequoia_log"
+      "item": "productivetrees:grandidiers_baobab_log"
     },
     {
-      "item": "productivetrees:sequoia_wood"
+      "item": "productivetrees:grandidiers_baobab_wood"
     },
     {
-      "item": "productivetrees:sequoia_stripped_log"
+      "item": "productivetrees:grandidiers_baobab_stripped_log"
     },
     {
-      "item": "productivetrees:sequoia_stripped_wood"
+      "item": "productivetrees:grandidiers_baobab_stripped_wood"
     }
   ],
   "result": {

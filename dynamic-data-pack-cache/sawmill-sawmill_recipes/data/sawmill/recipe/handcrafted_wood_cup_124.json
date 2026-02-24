@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_log"
+    },
+    {
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_wood"
+    },
+    {
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_log"
+    },
+    {
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_cup",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

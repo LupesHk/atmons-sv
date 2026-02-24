@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "eternal_starlight:banyin_log"
     },
     {
-      "item": "undergarden:wigglewood_wood"
+      "item": "eternal_starlight:banyin_wood"
     },
     {
-      "item": "undergarden:stripped_wigglewood_log"
+      "item": "eternal_starlight:stripped_banyin_log"
     },
     {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "eternal_starlight:stripped_banyin_wood"
     }
   ],
   "result": {

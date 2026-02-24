@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:monkey_puzzle_log"
+      "item": "minecraft:birch_log"
     },
     {
-      "item": "productivetrees:monkey_puzzle_wood"
+      "item": "minecraft:birch_wood"
     },
     {
-      "item": "productivetrees:monkey_puzzle_stripped_log"
+      "item": "minecraft:stripped_birch_log"
     },
     {
-      "item": "productivetrees:monkey_puzzle_stripped_wood"
+      "item": "minecraft:stripped_birch_wood"
     }
   ],
   "result": {

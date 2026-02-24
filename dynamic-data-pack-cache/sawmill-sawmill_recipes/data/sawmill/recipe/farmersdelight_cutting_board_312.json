@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:soul_log"
+      "item": "eternal_starlight:banyin_log"
     },
     {
-      "item": "allthemodium:stripped_soul_log"
+      "item": "eternal_starlight:banyin_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_banyin_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_banyin_wood"
     }
   ],
   "result": {

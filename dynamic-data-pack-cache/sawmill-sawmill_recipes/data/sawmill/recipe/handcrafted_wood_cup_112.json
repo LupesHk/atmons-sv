@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:pecan_log"
+    },
+    {
+      "item": "productivetrees:pecan_wood"
+    },
+    {
+      "item": "productivetrees:pecan_stripped_log"
+    },
+    {
+      "item": "productivetrees:pecan_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_cup",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "productivetrees:sugar_apple_log"
     },
     {
-      "item": "undergarden:smogstem_wood"
+      "item": "productivetrees:sugar_apple_wood"
     },
     {
-      "item": "undergarden:stripped_smogstem_log"
+      "item": "productivetrees:sugar_apple_stripped_log"
     },
     {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "productivetrees:sugar_apple_stripped_wood"
     }
   ],
   "result": {

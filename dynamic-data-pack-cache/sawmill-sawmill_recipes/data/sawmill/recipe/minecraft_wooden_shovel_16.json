@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:ipe_log"
+      "item": "productivetrees:granny_smith_apple_log"
     },
     {
-      "item": "productivetrees:ipe_wood"
+      "item": "productivetrees:granny_smith_apple_wood"
     },
     {
-      "item": "productivetrees:ipe_stripped_log"
+      "item": "productivetrees:granny_smith_apple_stripped_log"
     },
     {
-      "item": "productivetrees:ipe_stripped_wood"
+      "item": "productivetrees:granny_smith_apple_stripped_wood"
     }
   ],
   "result": {

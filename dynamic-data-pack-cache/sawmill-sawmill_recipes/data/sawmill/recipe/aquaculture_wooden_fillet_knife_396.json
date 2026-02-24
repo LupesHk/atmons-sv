@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sweet_chestnut_log"
+    },
+    {
+      "item": "productivetrees:sweet_chestnut_wood"
+    },
+    {
+      "item": "productivetrees:sweet_chestnut_stripped_log"
+    },
+    {
+      "item": "productivetrees:sweet_chestnut_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "aquaculture:wooden_fillet_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

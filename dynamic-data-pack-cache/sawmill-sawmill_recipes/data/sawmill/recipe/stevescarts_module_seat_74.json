@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "productivetrees:western_hemlock_log"
     },
     {
-      "item": "deeperdarker:echo_wood"
+      "item": "productivetrees:western_hemlock_wood"
     },
     {
-      "item": "deeperdarker:stripped_echo_log"
+      "item": "productivetrees:western_hemlock_stripped_log"
     },
     {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "productivetrees:western_hemlock_stripped_wood"
     }
   ],
   "result": {

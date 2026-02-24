@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:dark_log"
+      "item": "minecraft:oak_log"
     },
     {
-      "item": "twilightforest:dark_wood"
+      "item": "minecraft:oak_wood"
     },
     {
-      "item": "twilightforest:stripped_dark_log"
+      "item": "minecraft:stripped_oak_log"
     },
     {
-      "item": "twilightforest:stripped_dark_wood"
+      "item": "minecraft:stripped_oak_wood"
     }
   ],
   "result": {

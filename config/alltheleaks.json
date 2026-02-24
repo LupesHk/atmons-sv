@@ -6,11 +6,5 @@
   "scoreboardDebug": false,
   "debugNativeImage": false,
   "disableEternalStarlightProgress": false,
-  "skipTickingUnloadedFluxNetworks": true,
-  "disableSearchTree": false,
-  "logIntervalInMinutes": 10,
-  "showSummaryOnDebugScreen": true,
-  "memoryUsageWarningPercentage": 90,
-  "debugChunkLoading": false,
-  "debugThreadsStuck": false
+  "skipTickingUnloadedFluxNetworks": true
 }

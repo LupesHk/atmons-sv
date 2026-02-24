@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:beech_log"
+    },
+    {
+      "item": "productivetrees:beech_wood"
+    },
+    {
+      "item": "productivetrees:beech_stripped_log"
+    },
+    {
+      "item": "productivetrees:beech_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

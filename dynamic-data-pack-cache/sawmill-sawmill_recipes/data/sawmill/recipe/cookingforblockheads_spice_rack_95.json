@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:teak_planks"
+    "item": "eternal_starlight:scarlet_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

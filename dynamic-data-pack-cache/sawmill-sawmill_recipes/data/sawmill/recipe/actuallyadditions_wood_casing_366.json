@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:persimmon_log"
-    },
-    {
-      "item": "productivetrees:persimmon_wood"
-    },
-    {
-      "item": "productivetrees:persimmon_stripped_log"
-    },
-    {
-      "item": "productivetrees:persimmon_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "actuallyadditions:wood_casing",
     "count": 1

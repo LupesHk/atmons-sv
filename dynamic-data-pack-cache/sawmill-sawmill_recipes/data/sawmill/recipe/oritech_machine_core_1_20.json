@@ -2,22 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sequoia_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:sequoia_wood"
-    },
-    {
-      "item": "productivetrees:sequoia_stripped_log"
-    },
-    {
-      "item": "productivetrees:sequoia_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "oritech:machine_core_1",
     "count": 1
   },
-  "ingredient_count": 3,
+  "ingredient_count": 6,
   "type": "sawmill:woodcutting"
 }

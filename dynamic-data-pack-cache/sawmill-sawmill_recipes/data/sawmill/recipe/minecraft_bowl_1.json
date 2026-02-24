@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "tag": "minecraft:planks"
+    "item": "productivetrees:greenheart_planks"
   },
   "result": {
     "id": "minecraft:bowl",

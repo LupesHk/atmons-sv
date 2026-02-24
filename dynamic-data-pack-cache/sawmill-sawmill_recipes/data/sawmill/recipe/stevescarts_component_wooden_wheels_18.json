@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:logwood_log"
+      "item": "productivetrees:wild_cherry_log"
     },
     {
-      "item": "productivetrees:logwood_wood"
+      "item": "productivetrees:wild_cherry_wood"
     },
     {
-      "item": "productivetrees:logwood_stripped_log"
+      "item": "productivetrees:wild_cherry_stripped_log"
     },
     {
-      "item": "productivetrees:logwood_stripped_wood"
+      "item": "productivetrees:wild_cherry_stripped_wood"
     }
   ],
   "result": {

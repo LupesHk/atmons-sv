@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "twilightforest:dark_log"
     },
     {
-      "item": "undergarden:wigglewood_wood"
+      "item": "twilightforest:dark_wood"
     },
     {
-      "item": "undergarden:stripped_wigglewood_log"
+      "item": "twilightforest:stripped_dark_log"
     },
     {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "twilightforest:stripped_dark_wood"
     }
   ],
   "result": {

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sugar_maple_planks"
+    "item": "productivetrees:grandidiers_baobab_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

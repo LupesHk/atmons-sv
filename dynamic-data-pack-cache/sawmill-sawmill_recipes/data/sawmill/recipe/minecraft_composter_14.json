@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:mangrove_log"
+      "item": "productivetrees:star_anise_log"
     },
     {
-      "item": "minecraft:mangrove_wood"
+      "item": "productivetrees:star_anise_wood"
     },
     {
-      "item": "minecraft:stripped_mangrove_log"
+      "item": "productivetrees:star_anise_stripped_log"
     },
     {
-      "item": "minecraft:stripped_mangrove_wood"
+      "item": "productivetrees:star_anise_stripped_wood"
     }
   ],
   "result": {

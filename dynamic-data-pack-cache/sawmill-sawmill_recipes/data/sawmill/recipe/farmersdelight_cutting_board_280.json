@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "productivetrees:brown_amber_log"
     },
     {
-      "item": "undergarden:smogstem_wood"
+      "item": "productivetrees:brown_amber_wood"
     },
     {
-      "item": "undergarden:stripped_smogstem_log"
+      "item": "productivetrees:brown_amber_stripped_log"
     },
     {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "productivetrees:brown_amber_stripped_wood"
     }
   ],
   "result": {

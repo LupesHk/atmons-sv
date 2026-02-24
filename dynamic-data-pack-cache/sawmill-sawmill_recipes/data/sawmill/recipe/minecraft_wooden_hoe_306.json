@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:allspice_log"
+      "item": "productivetrees:yellow_meranti_log"
     },
     {
-      "item": "productivetrees:allspice_wood"
+      "item": "productivetrees:yellow_meranti_wood"
     },
     {
-      "item": "productivetrees:allspice_stripped_log"
+      "item": "productivetrees:yellow_meranti_stripped_log"
     },
     {
-      "item": "productivetrees:allspice_stripped_wood"
+      "item": "productivetrees:yellow_meranti_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:mangrove_log"
+      "item": "productivetrees:slimy_delight_log"
     },
     {
-      "item": "twilightforest:mangrove_wood"
+      "item": "productivetrees:slimy_delight_wood"
     },
     {
-      "item": "twilightforest:stripped_mangrove_log"
+      "item": "productivetrees:slimy_delight_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_mangrove_wood"
+      "item": "productivetrees:slimy_delight_stripped_wood"
     }
   ],
   "result": {

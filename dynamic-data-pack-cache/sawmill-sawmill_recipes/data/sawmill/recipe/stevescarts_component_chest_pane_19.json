@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sycamore_fig_planks"
+    "item": "minecraft:cherry_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

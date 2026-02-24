@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:old_fustic_log"
+    },
+    {
+      "item": "productivetrees:old_fustic_wood"
+    },
+    {
+      "item": "productivetrees:old_fustic_stripped_log"
+    },
+    {
+      "item": "productivetrees:old_fustic_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

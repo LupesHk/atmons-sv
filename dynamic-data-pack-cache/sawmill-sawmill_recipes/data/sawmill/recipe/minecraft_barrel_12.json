@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:balsa_log"
+      "item": "productivetrees:monkey_puzzle_log"
     },
     {
-      "item": "productivetrees:balsa_wood"
+      "item": "productivetrees:monkey_puzzle_wood"
     },
     {
-      "item": "productivetrees:balsa_stripped_log"
+      "item": "productivetrees:monkey_puzzle_stripped_log"
     },
     {
-      "item": "productivetrees:balsa_stripped_wood"
+      "item": "productivetrees:monkey_puzzle_stripped_wood"
     }
   ],
   "result": {

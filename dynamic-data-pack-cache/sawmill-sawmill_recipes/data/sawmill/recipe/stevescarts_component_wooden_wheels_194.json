@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:dark_log"
+      "item": "twilightforest:mining_log"
     },
     {
-      "item": "twilightforest:dark_wood"
+      "item": "twilightforest:mining_wood"
     },
     {
-      "item": "twilightforest:stripped_dark_log"
+      "item": "twilightforest:stripped_mining_log"
     },
     {
-      "item": "twilightforest:stripped_dark_wood"
+      "item": "twilightforest:stripped_mining_wood"
     }
   ],
   "result": {

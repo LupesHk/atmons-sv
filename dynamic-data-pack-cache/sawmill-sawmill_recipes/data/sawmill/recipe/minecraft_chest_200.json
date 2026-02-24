@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:nectarine_log"
+    },
+    {
+      "item": "productivetrees:nectarine_wood"
+    },
+    {
+      "item": "productivetrees:nectarine_stripped_log"
+    },
+    {
+      "item": "productivetrees:nectarine_stripped_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:chest",
     "count": 1

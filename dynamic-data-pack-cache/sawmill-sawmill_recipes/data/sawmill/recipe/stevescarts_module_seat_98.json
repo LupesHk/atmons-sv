@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:padauk_log"
+      "item": "minecraft:acacia_log"
     },
     {
-      "item": "productivetrees:padauk_wood"
+      "item": "minecraft:acacia_wood"
     },
     {
-      "item": "productivetrees:padauk_stripped_log"
+      "item": "minecraft:stripped_acacia_log"
     },
     {
-      "item": "productivetrees:padauk_stripped_wood"
+      "item": "minecraft:stripped_acacia_wood"
     }
   ],
   "result": {

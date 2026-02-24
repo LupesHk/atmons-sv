@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:osage_orange_log"
+      "item": "cobblemon:apricorn_log"
     },
     {
-      "item": "productivetrees:osage_orange_wood"
+      "item": "cobblemon:apricorn_wood"
     },
     {
-      "item": "productivetrees:osage_orange_stripped_log"
+      "item": "cobblemon:stripped_apricorn_log"
     },
     {
-      "item": "productivetrees:osage_orange_stripped_wood"
+      "item": "cobblemon:stripped_apricorn_wood"
     }
   ],
   "result": {

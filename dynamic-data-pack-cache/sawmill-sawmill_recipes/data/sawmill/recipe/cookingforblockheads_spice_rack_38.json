@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:salak_log"
+      "item": "productivetrees:olive_log"
     },
     {
-      "item": "productivetrees:salak_wood"
+      "item": "productivetrees:olive_wood"
     },
     {
-      "item": "productivetrees:salak_stripped_log"
+      "item": "productivetrees:olive_stripped_log"
     },
     {
-      "item": "productivetrees:salak_stripped_wood"
+      "item": "productivetrees:olive_stripped_wood"
     }
   ],
   "result": {

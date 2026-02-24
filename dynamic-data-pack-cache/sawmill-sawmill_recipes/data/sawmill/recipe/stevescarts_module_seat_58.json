@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:northland_log"
+      "item": "productivetrees:wild_cherry_log"
     },
     {
-      "item": "eternal_starlight:northland_wood"
+      "item": "productivetrees:wild_cherry_wood"
     },
     {
-      "item": "eternal_starlight:stripped_northland_log"
+      "item": "productivetrees:wild_cherry_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_northland_wood"
+      "item": "productivetrees:wild_cherry_stripped_wood"
     }
   ],
   "result": {

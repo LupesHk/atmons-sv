@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:citron_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "productivetrees:citron_wood"
-    },
-    {
-      "item": "productivetrees:citron_stripped_log"
-    },
-    {
-      "item": "productivetrees:citron_stripped_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
+  "result": {
+    "id": "crafting_on_a_stick:crafting_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

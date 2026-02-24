@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sugar_maple_log"
+      "item": "twilightforest:twilight_oak_log"
     },
     {
-      "item": "productivetrees:sugar_maple_wood"
+      "item": "twilightforest:twilight_oak_wood"
     },
     {
-      "item": "productivetrees:sugar_maple_stripped_log"
+      "item": "twilightforest:stripped_twilight_oak_log"
     },
     {
-      "item": "productivetrees:sugar_maple_stripped_wood"
+      "item": "twilightforest:stripped_twilight_oak_wood"
     }
   ],
   "result": {

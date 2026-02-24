@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "minecraft:logs"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:greenheart_log"
+    },
+    {
+      "item": "productivetrees:greenheart_wood"
+    },
+    {
+      "item": "productivetrees:greenheart_stripped_log"
+    },
+    {
+      "item": "productivetrees:greenheart_stripped_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:bowl",
     "count": 6

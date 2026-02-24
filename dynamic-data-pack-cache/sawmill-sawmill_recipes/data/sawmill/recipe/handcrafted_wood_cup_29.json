@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "deeperdarker:bloom_planks"
+    "item": "forbidden_arcanus:fungyss_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

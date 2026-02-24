@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:nectarine_log"
+      "item": "productivetrees:greenheart_log"
     },
     {
-      "item": "productivetrees:nectarine_wood"
+      "item": "productivetrees:greenheart_wood"
     },
     {
-      "item": "productivetrees:nectarine_stripped_log"
+      "item": "productivetrees:greenheart_stripped_log"
     },
     {
-      "item": "productivetrees:nectarine_stripped_wood"
+      "item": "productivetrees:greenheart_stripped_wood"
     }
   ],
   "result": {

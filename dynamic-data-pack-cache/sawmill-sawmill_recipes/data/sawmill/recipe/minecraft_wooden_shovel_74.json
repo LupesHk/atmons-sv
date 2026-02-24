@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "cobblemon:apricorn_log"
+      "item": "productivetrees:asai_palm_log"
     },
     {
-      "item": "cobblemon:apricorn_wood"
+      "item": "productivetrees:asai_palm_wood"
     },
     {
-      "item": "cobblemon:stripped_apricorn_log"
+      "item": "productivetrees:asai_palm_stripped_log"
     },
     {
-      "item": "cobblemon:stripped_apricorn_wood"
+      "item": "productivetrees:asai_palm_stripped_wood"
     }
   ],
   "result": {

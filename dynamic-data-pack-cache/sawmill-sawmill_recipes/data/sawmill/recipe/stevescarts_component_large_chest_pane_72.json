@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:dogwood_log"
+      "item": "productivetrees:cacao_log"
     },
     {
-      "item": "productivetrees:dogwood_wood"
+      "item": "productivetrees:cacao_wood"
     },
     {
-      "item": "productivetrees:dogwood_stripped_log"
+      "item": "productivetrees:cacao_stripped_log"
     },
     {
-      "item": "productivetrees:dogwood_stripped_wood"
+      "item": "productivetrees:cacao_stripped_wood"
     }
   ],
   "result": {

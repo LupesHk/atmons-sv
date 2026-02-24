@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:transformation_log"
+      "item": "productivetrees:grandidiers_baobab_log"
     },
     {
-      "item": "twilightforest:transformation_wood"
+      "item": "productivetrees:grandidiers_baobab_wood"
     },
     {
-      "item": "twilightforest:stripped_transformation_log"
+      "item": "productivetrees:grandidiers_baobab_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_transformation_wood"
+      "item": "productivetrees:grandidiers_baobab_stripped_wood"
     }
   ],
   "result": {

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:coconut_log"
+    },
+    {
+      "item": "productivetrees:coconut_wood"
+    },
+    {
+      "item": "productivetrees:coconut_stripped_log"
+    },
+    {
+      "item": "productivetrees:coconut_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

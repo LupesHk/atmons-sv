@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "undergarden:wigglewood_wood"
-    },
-    {
-      "item": "undergarden:stripped_wigglewood_log"
-    },
-    {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

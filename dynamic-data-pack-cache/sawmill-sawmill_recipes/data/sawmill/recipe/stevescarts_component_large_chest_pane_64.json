@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:night_fuchsia_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:night_fuchsia_wood"
+    },
+    {
+      "item": "productivetrees:night_fuchsia_stripped_log"
+    },
+    {
+      "item": "productivetrees:night_fuchsia_stripped_wood"
     }
   ],
   "result": {

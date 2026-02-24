@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:grandidiers_baobab_planks"
+    "item": "productivetrees:sycamore_fig_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

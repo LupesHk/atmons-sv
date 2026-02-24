@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:blue_mahoe_planks"
+    "item": "productivetrees:grandidiers_baobab_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

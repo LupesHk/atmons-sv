@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:acacia_planks"
+    "item": "minecraft:dark_oak_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

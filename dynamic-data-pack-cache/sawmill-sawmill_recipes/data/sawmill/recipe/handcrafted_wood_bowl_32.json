@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:padauk_log"
+      "item": "productivetrees:aspen_log"
     },
     {
-      "item": "productivetrees:padauk_wood"
+      "item": "productivetrees:aspen_wood"
     },
     {
-      "item": "productivetrees:padauk_stripped_log"
+      "item": "productivetrees:aspen_stripped_log"
     },
     {
-      "item": "productivetrees:padauk_stripped_wood"
+      "item": "productivetrees:aspen_stripped_wood"
     }
   ],
   "result": {

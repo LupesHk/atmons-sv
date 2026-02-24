@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:beliy_naliv_apple_log"
+    },
+    {
+      "item": "productivetrees:beliy_naliv_apple_wood"
+    },
+    {
+      "item": "productivetrees:beliy_naliv_apple_stripped_log"
+    },
+    {
+      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "crafting_on_a_stick:crafting_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

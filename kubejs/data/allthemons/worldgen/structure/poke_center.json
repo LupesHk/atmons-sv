@@ -8,7 +8,7 @@
       "spawns": []
     }
   },
-  "terrain_adaptation": "beard_box",
+  "terrain_adaptation": "beard_thin",
   "start_pool": "allthemons:poke_center",
   "size": 4,
   "start_height": {

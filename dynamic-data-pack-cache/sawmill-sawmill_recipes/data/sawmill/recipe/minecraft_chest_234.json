@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "productivetrees:western_hemlock_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "productivetrees:western_hemlock_wood"
+    },
+    {
+      "item": "productivetrees:western_hemlock_stripped_log"
+    },
+    {
+      "item": "productivetrees:western_hemlock_stripped_wood"
     }
   ],
   "result": {

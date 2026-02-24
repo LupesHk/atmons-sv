@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:wild_cherry_planks"
+    "item": "allthemodium:demonic_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

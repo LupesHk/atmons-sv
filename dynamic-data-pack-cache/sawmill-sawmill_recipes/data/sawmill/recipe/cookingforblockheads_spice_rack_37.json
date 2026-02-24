@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:bamboo_planks"
+    "item": "productivetrees:wild_cherry_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

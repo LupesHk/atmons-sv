@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cashew_log"
+      "item": "productivetrees:great_sallow_log"
     },
     {
-      "item": "productivetrees:cashew_wood"
+      "item": "productivetrees:great_sallow_wood"
     },
     {
-      "item": "productivetrees:cashew_stripped_log"
+      "item": "productivetrees:great_sallow_stripped_log"
     },
     {
-      "item": "productivetrees:cashew_stripped_wood"
+      "item": "productivetrees:great_sallow_stripped_wood"
     }
   ],
   "result": {

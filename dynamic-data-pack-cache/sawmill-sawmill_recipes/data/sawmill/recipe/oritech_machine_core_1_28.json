@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sycamore_fig_log"
+      "item": "productivetrees:aspen_log"
     },
     {
-      "item": "productivetrees:sycamore_fig_wood"
+      "item": "productivetrees:aspen_wood"
     },
     {
-      "item": "productivetrees:sycamore_fig_stripped_log"
+      "item": "productivetrees:aspen_stripped_log"
     },
     {
-      "item": "productivetrees:sycamore_fig_stripped_wood"
+      "item": "productivetrees:aspen_stripped_wood"
     }
   ],
   "result": {

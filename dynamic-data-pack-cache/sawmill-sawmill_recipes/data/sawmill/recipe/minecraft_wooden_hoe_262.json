@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:prairie_crabapple_log"
+      "item": "minecraft:warped_stem"
     },
     {
-      "item": "productivetrees:prairie_crabapple_wood"
+      "item": "minecraft:warped_hyphae"
     },
     {
-      "item": "productivetrees:prairie_crabapple_stripped_log"
+      "item": "minecraft:stripped_warped_stem"
     },
     {
-      "item": "productivetrees:prairie_crabapple_stripped_wood"
+      "item": "minecraft:stripped_warped_hyphae"
     }
   ],
   "result": {

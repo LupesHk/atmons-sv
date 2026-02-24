@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:scarlet_planks"
+    "item": "productivetrees:wild_cherry_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

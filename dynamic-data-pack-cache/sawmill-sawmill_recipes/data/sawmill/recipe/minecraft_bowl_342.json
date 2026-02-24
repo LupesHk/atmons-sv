@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:wenge_log"
+    },
+    {
+      "item": "productivetrees:wenge_wood"
+    },
+    {
+      "item": "productivetrees:wenge_stripped_log"
+    },
+    {
+      "item": "productivetrees:wenge_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:coconut_log"
+    },
+    {
+      "item": "productivetrees:coconut_wood"
+    },
+    {
+      "item": "productivetrees:coconut_stripped_log"
+    },
+    {
+      "item": "productivetrees:coconut_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "aquaculture:wooden_fillet_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

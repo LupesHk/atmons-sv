@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:northland_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "eternal_starlight:northland_wood"
-    },
-    {
-      "item": "eternal_starlight:stripped_northland_log"
-    },
-    {
-      "item": "eternal_starlight:stripped_northland_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "cookingforblockheads:spice_rack",
-    "count": 4
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

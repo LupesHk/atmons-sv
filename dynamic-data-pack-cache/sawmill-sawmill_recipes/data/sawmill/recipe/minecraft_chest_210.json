@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:avocado_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "productivetrees:avocado_wood"
-    },
-    {
-      "item": "productivetrees:avocado_stripped_log"
-    },
-    {
-      "item": "productivetrees:avocado_stripped_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

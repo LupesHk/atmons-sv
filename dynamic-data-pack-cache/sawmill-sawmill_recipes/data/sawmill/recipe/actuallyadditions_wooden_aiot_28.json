@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:black_locust_log"
+      "item": "minecraft:mangrove_log"
     },
     {
-      "item": "productivetrees:black_locust_wood"
+      "item": "minecraft:mangrove_wood"
     },
     {
-      "item": "productivetrees:black_locust_stripped_log"
+      "item": "minecraft:stripped_mangrove_log"
     },
     {
-      "item": "productivetrees:black_locust_stripped_wood"
+      "item": "minecraft:stripped_mangrove_wood"
     }
   ],
   "result": {

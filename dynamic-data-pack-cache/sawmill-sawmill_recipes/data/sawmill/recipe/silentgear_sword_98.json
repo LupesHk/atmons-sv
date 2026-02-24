@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "deeperdarker:echo_log"
-    },
-    {
-      "item": "deeperdarker:echo_wood"
-    },
-    {
-      "item": "deeperdarker:stripped_echo_log"
-    },
-    {
-      "item": "deeperdarker:stripped_echo_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "silentgear:sword",
     "count": 1

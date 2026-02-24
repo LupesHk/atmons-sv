@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:hazel_log"
+    },
+    {
+      "item": "productivetrees:hazel_wood"
+    },
+    {
+      "item": "productivetrees:hazel_stripped_log"
+    },
+    {
+      "item": "productivetrees:hazel_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

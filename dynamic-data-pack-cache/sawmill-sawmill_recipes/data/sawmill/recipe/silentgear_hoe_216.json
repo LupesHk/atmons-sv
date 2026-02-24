@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:orange_log"
+      "item": "productivetrees:purple_crepe_myrtle_log"
     },
     {
-      "item": "productivetrees:orange_wood"
+      "item": "productivetrees:purple_crepe_myrtle_wood"
     },
     {
-      "item": "productivetrees:orange_stripped_log"
+      "item": "productivetrees:purple_crepe_myrtle_stripped_log"
     },
     {
-      "item": "productivetrees:orange_stripped_wood"
+      "item": "productivetrees:purple_crepe_myrtle_stripped_wood"
     }
   ],
   "result": {

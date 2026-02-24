@@ -25,9 +25,17 @@ ServerEvents.tags('block', allthemods => {
         ['@ae2', '@advancedae', '@extendedae', '@megacells', '@appflux', '@appmek']
     )
 
+    let denyTickAcceleration = ['@industrialforegoingsouls',"cobblemon:pasture"]
+
     // Just Dire Things
     allthemods.add('justdirethings:lawnmowerable', '#c:grass')
-    allthemods.add('justdirethings:tick_speed_deny', '@industrialforegoingsouls')
+    allthemods.add('justdirethings:tick_speed_deny', denyTickAcceleration)
+
+    // Tiab
+    allthemods.add('tiab:un_acceleratable', denyTickAcceleration)
+
+    // IF Souls
+    allthemods.add('industrialforegoingsouls:cant_accelerate', denyTickAcceleration)
 })
 
 ServerEvents.tags('fluid', allthemods => {
@@ -92,6 +100,12 @@ ServerEvents.tags('item', allthemods => {
 
     // Forbiden Arcanus Stellar Blacklist
     allthemods.add('forbidden_arcanus:modifier/eternal_incompatible', 'ars_additions:undying_charm')
+
+    // FTBChunks
+    allthemods.add("ftbchunks:right_click_whitelist",["#cobblemon:poke_balls"])
+
+
+    allthemods.add('c:gems/rose_quartz', 'create:rose_quartz')
 })
 
 ServerEvents.tags('entity_type', allthemods => {
@@ -119,7 +133,7 @@ ServerEvents.tags('entity_type', allthemods => {
     ])
 
     allthemods.add('allthemods:jank_blacklist', [
-        "@iceandfire",
+        '@iceandfire',
         'ars_nouveau:animated_block',
         'artifacts:mimic',
         'create:package',
@@ -127,14 +141,17 @@ ServerEvents.tags('entity_type', allthemods => {
         'twilightforest:hedge_spider',
         'twilightforest:swarm_spider',
         '#c:bosses',
-        "@occultism",
-        "@productivebees",
-        "forbidden_arcanus:corrupt_lost_soul",
-        "forbidden_arcanus:lost_soul",
-        "forbidden_arcanus:enchanted_lost_soul",
-        "@cobblemon"
+        '@occultism',
+        '@productivebees',
+        'forbidden_arcanus:corrupt_lost_soul',
+        'forbidden_arcanus:lost_soul',
+        'forbidden_arcanus:enchanted_lost_soul',
+        '@cobblemon',
+        '@rctmod',
+        'the_bumblezone:bee_queen'
     ])
 
+    allthemods.add('ars_nouveau:jar_blacklist', ["the_bumblezone:bee_queen","@cobblemon"])
     allthemods.add('apothic_spawners:blacklisted_from_spawners', '#allthemods:jank_blacklist')
     allthemods.add('enderio:soul_vial_blacklist', '#allthemods:jank_blacklist')
     allthemods.add('industrialforegoing:mob_duplicator_blacklist', '#allthemods:jank_blacklist')
@@ -146,7 +163,11 @@ ServerEvents.tags('entity_type', allthemods => {
     allthemods.add('enderio:spawner_blacklist', '#allthemods:jank_blacklist')
     allthemods.add('ars_additions:source_spawner_denylist', '#allthemods:jank_blacklist')
     allthemods.add('oritech:spawner_blacklist', '#allthemods:jank_blacklist')
-    
+    allthemods.add('ars_elemental:charm_blacklist', '#allthemods:jank_blacklist')
+    allthemods.add("justdirethings:creature_catcher_deny", ['@cobblemon', '@rctmod'])
+    allthemods.add("justdirethings:polymorphic_target_deny", ['@cobblemon', '@rctmod', '@cobbleloots'])
+    allthemods.add("c:capturing_not_supported", '@cobblemon')
+
 	allthemods.add("ftbchunks:entity_interact_whitelist",["rctmod:trainer","rctmod:trainer_association"])
 });
 
@@ -170,8 +191,8 @@ ServerEvents.tags('enchantment', allthemods => {
 
 ServerEvents.tags('block_entity_type', allthemods => {
     // Apoth Enchanting
-    allthemods.remove('packingtape:blacklist/problematic', ["extrastorage:block_16384k_fluid", "extrastorage:block_65536k_fluid", "extrastorage:block_262144k_fluid", "extrastorage:block_1048576k_fluid"]);
-    allthemods.remove('c:relocation_not_supported', ["cobblemon:campfire_pot"]);
+    allthemods.add('packingtape:blacklist/problematic', ["extrastorage:block_16384k_fluid", "extrastorage:block_65536k_fluid", "extrastorage:block_262144k_fluid", "extrastorage:block_1048576k_fluid"]);
+    allthemods.add('c:relocation_not_supported', ["cobblemon:campfire_pot", "simpletms:machine_tm"]);
 });
 
 ServerEvents.tags('item', allthemods => {
@@ -180,11 +201,13 @@ ServerEvents.tags('item', allthemods => {
 })
 
 ServerEvents.tags('block', allthemods => {
-  
+  allthemods.add('c:relocation_not_supported', ["cobblemon:campfire_pot", "simpletms:machine_tm"]);
 })
 
 ServerEvents.tags('worldgen/biome', allthemods => {
   allthemods.add('justdirethings:unstable_portal_fluid_viable', ["nullscape:crystal_peaks", "nullscape:shadowlands", "nullscape:void_barrens"]);
+  allthemods.remove('pneumaticcraft:has_surface_oil_lakes', ["#minecraft:is_overworld"]);
+  allthemods.add('pneumaticcraft:has_surface_oil_lakes', ["#c:is_beach"]);
 });
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.

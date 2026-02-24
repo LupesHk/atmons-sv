@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:monkey_puzzle_planks"
+    "item": "minecraft:birch_planks"
   },
   "result": {
     "id": "handcrafted:wood_crockery_combo",

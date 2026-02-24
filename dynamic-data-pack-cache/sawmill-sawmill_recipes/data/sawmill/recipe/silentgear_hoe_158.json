@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sweet_chestnut_log"
+      "item": "productivetrees:brown_amber_log"
     },
     {
-      "item": "productivetrees:sweet_chestnut_wood"
+      "item": "productivetrees:brown_amber_wood"
     },
     {
-      "item": "productivetrees:sweet_chestnut_stripped_log"
+      "item": "productivetrees:brown_amber_stripped_log"
     },
     {
-      "item": "productivetrees:sweet_chestnut_stripped_wood"
+      "item": "productivetrees:brown_amber_stripped_wood"
     }
   ],
   "result": {

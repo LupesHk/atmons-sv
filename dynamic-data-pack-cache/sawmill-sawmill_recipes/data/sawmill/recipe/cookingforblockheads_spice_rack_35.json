@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:myrtle_ebony_planks"
+    "item": "productivetrees:soul_tree_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:crimson_stem"
+      "item": "undergarden:grongle_log"
     },
     {
-      "item": "minecraft:crimson_hyphae"
+      "item": "undergarden:grongle_wood"
     },
     {
-      "item": "minecraft:stripped_crimson_stem"
+      "item": "undergarden:stripped_grongle_log"
     },
     {
-      "item": "minecraft:stripped_crimson_hyphae"
+      "item": "undergarden:stripped_grongle_wood"
     }
   ],
   "result": {

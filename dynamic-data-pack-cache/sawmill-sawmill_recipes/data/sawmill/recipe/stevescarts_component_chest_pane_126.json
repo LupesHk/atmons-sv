@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 7
+  },
+  "type": "sawmill:woodcutting"
+}

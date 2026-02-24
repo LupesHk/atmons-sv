@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:mangrove_log"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "twilightforest:mangrove_wood"
+      "item": "twilightforest:transformation_wood"
     },
     {
-      "item": "twilightforest:stripped_mangrove_log"
+      "item": "twilightforest:stripped_transformation_log"
     },
     {
-      "item": "twilightforest:stripped_mangrove_wood"
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {

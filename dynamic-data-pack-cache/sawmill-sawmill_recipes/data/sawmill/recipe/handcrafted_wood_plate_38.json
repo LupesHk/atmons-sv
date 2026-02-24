@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "minecraft:crimson_stem"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "minecraft:crimson_hyphae"
+    },
+    {
+      "item": "minecraft:stripped_crimson_stem"
+    },
+    {
+      "item": "minecraft:stripped_crimson_hyphae"
     }
   ],
   "result": {
     "id": "handcrafted:wood_plate",
-    "count": 4
+    "count": 8
   },
   "type": "sawmill:woodcutting"
 }

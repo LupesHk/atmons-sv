@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:oak_log"
+      "item": "productivetrees:thunder_bolt_log"
     },
     {
-      "item": "minecraft:oak_wood"
+      "item": "productivetrees:thunder_bolt_wood"
     },
     {
-      "item": "minecraft:stripped_oak_log"
+      "item": "productivetrees:thunder_bolt_stripped_log"
     },
     {
-      "item": "minecraft:stripped_oak_wood"
+      "item": "productivetrees:thunder_bolt_stripped_wood"
     }
   ],
   "result": {

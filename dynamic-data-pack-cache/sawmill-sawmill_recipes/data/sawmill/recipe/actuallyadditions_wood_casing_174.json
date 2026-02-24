@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:white_willow_log"
+      "item": "productivetrees:red_crepe_myrtle_log"
     },
     {
-      "item": "productivetrees:white_willow_wood"
+      "item": "productivetrees:red_crepe_myrtle_wood"
     },
     {
-      "item": "productivetrees:white_willow_stripped_log"
+      "item": "productivetrees:red_crepe_myrtle_stripped_log"
     },
     {
-      "item": "productivetrees:white_willow_stripped_wood"
+      "item": "productivetrees:red_crepe_myrtle_stripped_wood"
     }
   ],
   "result": {

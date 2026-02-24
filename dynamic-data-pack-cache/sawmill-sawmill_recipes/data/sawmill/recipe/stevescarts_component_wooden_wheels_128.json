@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:mandarin_log"
+      "item": "productivetrees:purpleheart_log"
     },
     {
-      "item": "productivetrees:mandarin_wood"
+      "item": "productivetrees:purpleheart_wood"
     },
     {
-      "item": "productivetrees:mandarin_stripped_log"
+      "item": "productivetrees:purpleheart_stripped_log"
     },
     {
-      "item": "productivetrees:mandarin_stripped_wood"
+      "item": "productivetrees:purpleheart_stripped_wood"
     }
   ],
   "result": {

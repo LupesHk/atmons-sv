@@ -17,8 +17,7 @@
 		# 
 		# Will also affect the bee's aggression range toward other mobs in the dimension.
 		#
-		# Default: 64
-		# Range: 1 ~ 200
+		#Range: 1 ~ 200
 		aggressionTriggerRadius = 64
 		#----------------------------
 		#
@@ -26,8 +25,7 @@
 		# angry bees will keep their effects for (speed, absorption, strength).
 		# Note: This is in ticks. 20 ticks = 1 second. And bee's normal anger will remain.
 		#
-		# Default: 1680
-		# Range: > 1
+		#Range: > 1
 		howLongWrathOfTheHiveLasts = 1680
 		#----------------------------
 		#
@@ -57,8 +55,7 @@
 		# makes them dash forward at you. Set this to higher for
 		# faster dash attacks from bees.
 		#
-		# Default: 2
-		# Range: > 1
+		#Range: > 1
 		speedBoostLevel = 2
 		#----------------------------
 		#
@@ -72,16 +69,14 @@
 		# if you set the absorption to a higher value like 2 or 3.
 		# If you set this to like 5 or something, bees may be invincible!
 		#
-		# Default: 1
-		# Range: > 1
+		#Range: > 1
 		absorptionBoostLevel = 1
 		#----------------------------
 		#
 		# How strong the bees attacks become. 
 		# (5 or higher will instant kill you without armor).
 		#
-		# Default: 1
-		# Range: > 1
+		#Range: > 1
 		strengthBoostLevel = 1
 
 ["Protection of the Hive Options"]
@@ -90,6 +85,5 @@
 	# How long entities will keep Protection of the Hive effect after feeding bees
 	# or Brood Blocks. Bees will attack anyone that damages someone with the effect.
 	#
-	# Default: 6000
-	# Range: > 1
+	#Range: > 1
 	howLongProtectionOfTheHiveLasts = 1680

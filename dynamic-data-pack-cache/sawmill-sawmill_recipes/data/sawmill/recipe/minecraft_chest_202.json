@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:olive_log"
+      "item": "productivetrees:cocobolo_log"
     },
     {
-      "item": "productivetrees:olive_wood"
+      "item": "productivetrees:cocobolo_wood"
     },
     {
-      "item": "productivetrees:olive_stripped_log"
+      "item": "productivetrees:cocobolo_stripped_log"
     },
     {
-      "item": "productivetrees:olive_stripped_wood"
+      "item": "productivetrees:cocobolo_stripped_wood"
     }
   ],
   "result": {

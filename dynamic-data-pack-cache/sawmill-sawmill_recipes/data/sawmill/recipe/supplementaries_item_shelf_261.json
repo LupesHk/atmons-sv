@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "undergarden:wigglewood_planks"
+  },
+  "result": {
+    "id": "supplementaries:item_shelf",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

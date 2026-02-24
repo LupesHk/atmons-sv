@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:bull_pine_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "productivetrees:bull_pine_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "productivetrees:bull_pine_stripped_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "productivetrees:bull_pine_stripped_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {

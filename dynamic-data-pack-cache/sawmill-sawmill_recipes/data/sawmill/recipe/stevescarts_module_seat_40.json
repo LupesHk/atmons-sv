@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "productivetrees:flowering_crabapple_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "productivetrees:flowering_crabapple_wood"
+    },
+    {
+      "item": "productivetrees:flowering_crabapple_stripped_log"
+    },
+    {
+      "item": "productivetrees:flowering_crabapple_stripped_wood"
     }
   ],
   "result": {

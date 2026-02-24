@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:greenheart_log"
+      "item": "productivetrees:allspice_log"
     },
     {
-      "item": "productivetrees:greenheart_wood"
+      "item": "productivetrees:allspice_wood"
     },
     {
-      "item": "productivetrees:greenheart_stripped_log"
+      "item": "productivetrees:allspice_stripped_log"
     },
     {
-      "item": "productivetrees:greenheart_stripped_wood"
+      "item": "productivetrees:allspice_stripped_wood"
     }
   ],
   "result": {

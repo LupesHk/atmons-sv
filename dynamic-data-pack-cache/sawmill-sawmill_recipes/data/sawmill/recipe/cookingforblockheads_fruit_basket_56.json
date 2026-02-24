@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yew_log"
+      "item": "productivetrees:buddhas_hand_log"
     },
     {
-      "item": "productivetrees:yew_wood"
+      "item": "productivetrees:buddhas_hand_wood"
     },
     {
-      "item": "productivetrees:yew_stripped_log"
+      "item": "productivetrees:buddhas_hand_stripped_log"
     },
     {
-      "item": "productivetrees:yew_stripped_wood"
+      "item": "productivetrees:buddhas_hand_stripped_wood"
     }
   ],
   "result": {

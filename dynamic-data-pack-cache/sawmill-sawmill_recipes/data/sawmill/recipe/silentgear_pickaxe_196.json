@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yellow_meranti_log"
+      "item": "eternal_starlight:banyin_log"
     },
     {
-      "item": "productivetrees:yellow_meranti_wood"
+      "item": "eternal_starlight:banyin_wood"
     },
     {
-      "item": "productivetrees:yellow_meranti_stripped_log"
+      "item": "eternal_starlight:stripped_banyin_log"
     },
     {
-      "item": "productivetrees:yellow_meranti_stripped_wood"
+      "item": "eternal_starlight:stripped_banyin_wood"
     }
   ],
   "result": {

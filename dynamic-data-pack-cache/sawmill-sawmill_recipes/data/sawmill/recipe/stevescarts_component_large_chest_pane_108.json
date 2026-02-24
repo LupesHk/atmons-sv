@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:pomelo_log"
+    },
+    {
+      "item": "productivetrees:pomelo_wood"
+    },
+    {
+      "item": "productivetrees:pomelo_stripped_log"
+    },
+    {
+      "item": "productivetrees:pomelo_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}
