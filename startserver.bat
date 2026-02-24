@@ -1,47 +1,35 @@
 @echo off
-title Servidor ATMONS - by Lupes.
+setlocal
 
-cd /d "%~dp0"
+set NEOFORGE_VERSION=21.1.219
 
 REM ===========================
 REM CONFIG
 REM ===========================
-SET "GIT=git"
-SET "BRANCH=main"
+set "GIT=git"
+set "BRANCH=main"
+set "REPO_CLEAN=https://github.com/LupesHk/atmons-sv"
+set "PLAYIT_EXE=playit.exe"
+set "ZIP_NAME=world.zip"
 
-SET "REPO_CLEAN=https://github.com/LupesHk/atmons-sv"
-SET "GIT_TOKEN="
-SET "REPO_TOKEN="
-
-SET "PLAYIT_EXE=playit.exe"
-SET "PLAYIT_SECRET="
-
-SET "ZIP_NAME=world.zip"
-
-SET "NEOFORGE_VERSION=21.1.219"
-SET "JAVA_CMD=java @user_jvm_args.txt @libraries\net\neoforged\neoforge\%NEOFORGE_VERSION%\win_args.txt nogui"
+REM Define Java igual ao batch simples (só define se não existir)
+if not defined ATM10_JAVA (
+    set ATM10_JAVA=java
+)
 
 REM ===========================
-REM CARREGAR TOKENS DO ARQUIVO
+REM CARREGAR TOKENS (igual ao batch simples)
 REM ===========================
 if exist "password.env" (
     echo Carregando tokens...
-    for /f "usebackq delims=" %%a in ("password.env") do (
-        for /f "tokens=1,* delims==" %%b in ("%%a") do (
-            set "%%b=%%c"
-        )
-    )
-) else (
-    echo ERRO: Arquivo password.env nao encontrado!
-    pause
-    exit /b 1
+    for /f "tokens=1,2 delims==" %%a in (password.env) do set "%%a=%%b"
 )
 
-SET "REPO_TOKEN=https://%GIT_TOKEN%@github.com/LupesHk/atmons-sv"
+set "REPO_TOKEN=https://%GIT_TOKEN%@github.com/LupesHk/atmons-sv"
 
-REM Configurar usuario do Git (se já não configurou)
-"%GIT%" config --global user.name "LucasHk" 2>nul
-"%GIT%" config --global user.email "lucasgamesbrasil.124@gmail.com" 2>nul
+REM Configurar Git
+"%GIT%" config --global user.name "LucasHk" >nul 2>&1
+"%GIT%" config --global user.email "lucasgamesbrasil.124@gmail.com" >nul 2>&1
 
 REM ===========================
 REM PERGUNTA DO COMMIT
@@ -49,11 +37,11 @@ REM ===========================
 echo.
 echo ================================
 echo Deseja puxar o commit mais recente?
-echo Se nao responder em 3 segundos, sera considerado SIM.
+echo Se nao responder em 5 segundos, sera considerado SIM.
 echo ================================
-choice /T 3 /D S /M "Puxar commit mais recente? (S/N): "
+choice /T 5 /D S /M "Puxar commit mais recente? (S/N): "
 
-if "%errorlevel%"=="2" (
+if %errorlevel%==2 (
     set "PULL_RECENTE=N"
 ) else (
     set "PULL_RECENTE=S"
@@ -70,108 +58,80 @@ if "%PULL_RECENTE%"=="N" (
 
 REM ===========================
 echo Verificando git...
-REM ===========================
 where git >nul 2>&1
-if not "%errorlevel%"=="0" (
-    echo ERRO: git nao encontrado no PATH.
-    echo Instale o Git (ou reinstale o GitHub Desktop marcando Add to PATH).
+if %errorlevel% neq 0 (
+    echo ERRO: git nao encontrado!
     pause
     exit /b 1
 )
+echo Git OK!
+
+echo Verificando Java...
+"%ATM10_JAVA%" -version 1>nul 2>nul || (
+    echo Java nao encontrado!
+    pause
+    exit /b 1
+)
+echo Java OK!
+echo.
 
 REM ===========================
 REM INICIALIZAR REPO SE NECESSARIO
 REM ===========================
 "%GIT%" rev-parse --git-dir >nul 2>&1
-if not "%errorlevel%"=="0" (
-    echo Repositorio Git nao encontrado na pasta raiz.
-    echo Inicializando novo repositorio...
-
+if %errorlevel% neq 0 (
+    echo Repositorio nao encontrado. Inicializando...
     "%GIT%" init
     "%GIT%" branch -M main
     "%GIT%" remote add origin "%REPO_TOKEN%"
-
+    
     if not exist ".gitignore" (
-        echo Criando .gitignore...
         (
-            echo # Arquivos sensiveis
             echo password.env
-            echo.
-            echo # Pastas temporarias
             echo logs/
             echo crash-reports/
             echo debug/
             echo world_backup_temp/
-            echo.
-            echo # Arquivos de sistema/desempenho
             echo *.log
-            echo hs_err_*.log
-            echo.
-            echo # Cache
-            echo .cache/
-            echo.
-            echo # Backups locais
             echo *.zip
-            echo backups/
-            echo.
-            echo # IDE/Editor
+            echo whats/
             echo .vscode/
             echo .idea/
             echo *.iml
-            echo.
-            echo # Sistema operacional
             echo Thumbs.db
             echo .DS_Store
-            echo desktop.ini
         ) > .gitignore
     )
-
-    echo Fazendo primeiro pull do GitHub...
+    
     "%GIT%" fetch origin
     "%GIT%" reset --hard origin/main
     "%GIT%" clean -fd -e password.env -e whats/
 ) else (
-    echo Repositorio Git encontrado.
-
-    REM Obter branch atual de forma segura
-    for /f "delims=" %%b in ('"%GIT%" branch --show-current 2^>nul') do set "CURRENT_BRANCH=%%b"
-    
+    echo Repositorio encontrado.
+    for /f "tokens=2" %%b in ('"%GIT%" branch --show-current 2^>nul') do set "CURRENT_BRANCH=%%b"
     if not defined CURRENT_BRANCH set "CURRENT_BRANCH=unknown"
-
-    if /I not "%CURRENT_BRANCH%"=="main" (
-        echo Mudando para branch main...
+    if not "%CURRENT_BRANCH%"=="main" (
         "%GIT%" checkout main 2>nul
-        if "%errorlevel%" neq 0 (
-            "%GIT%" checkout -b main
-        )
     )
 )
 
 REM ===========================
-REM SINCRONIZANDO REPO
+REM SINCRONIZANDO
 REM ===========================
 echo.
-echo ================================
-echo SINCRONIZANDO COM GITHUB
-echo ================================
+echo SINCRONIZANDO COM GITHUB...
 
 "%GIT%" remote set-url origin "%REPO_TOKEN%"
 
-REM Reset seguro mantendo arquivos importantes
 "%GIT%" fetch origin
 "%GIT%" reset --hard origin/main
 "%GIT%" clean -fd -e password.env -e whats/
 
 if "%PULL_RECENTE%"=="S" (
-    echo Fazendo pull da branch main...
     "%GIT%" pull origin %BRANCH% --rebase --autostash
 ) else (
     if defined COMMIT_HASH (
-        echo Fazendo fetch do commit especifico...
-        "%GIT%" fetch origin
         "%GIT%" checkout %COMMIT_HASH%
-    ) else (
-        echo AVISO: Commit hash nao definido. Pulando checkout.
     )
 )
 
@@ -181,9 +141,8 @@ echo.
 
 REM ===========================
 echo VERIFICANDO PLAYIT...
-REM ===========================
 tasklist /FI "IMAGENAME eq playit.exe" | find /I "playit.exe" >nul
-if "%errorlevel%"=="0" (
+if %errorlevel%==0 (
     echo Playit ja esta aberto.
 ) else (
     echo Iniciando Playit...
@@ -193,7 +152,6 @@ echo.
 
 REM ===========================
 echo AVISANDO WHATSAPP: SERVER ON
-REM ===========================
 if exist "whats\bot.js" (
     cd whats
     node bot.js on
@@ -205,11 +163,11 @@ if exist "whats\bot.js" (
 echo ===========================
 echo INICIANDO SERVIDOR...
 echo ===========================
-"%JAVA_CMD%"
+"%ATM10_JAVA%" @user_jvm_args.txt @libraries\net\neoforged\neoforge\%NEOFORGE_VERSION%\win_args.txt nogui
 
 echo SERVIDOR FOI FECHADO.
-echo Avisando WhatsApp: SERVER OFF
 
+echo AVISANDO WHATSAPP: SERVER OFF
 if exist "whats\bot.js" (
     cd whats
     node bot.js off
@@ -219,21 +177,19 @@ echo.
 
 :WAIT_JAVA
 tasklist | find /i "java.exe" >nul
-if "%errorlevel%"=="0" (
-    timeout /t 10 >nul
+if %errorlevel%==0 (
+    timeout /t 1 >nul
     goto WAIT_JAVA
 )
 
 echo.
-echo ============================
 echo BACKUP SERA INICIADO AGORA.
-echo ============================
 
 echo.
 echo Deseja desligar o PC ao final do backup? (S/N)
 choice /T 10 /D S /M "Se nao responder, sera considerado SIM: "
 
-if "%errorlevel%"=="2" (
+if %errorlevel%==2 (
     set "DESLIGAR=N"
 ) else (
     set "DESLIGAR=S"
@@ -243,22 +199,18 @@ echo Resposta final: %DESLIGAR%
 echo.
 
 REM ===========================
-echo COMMITANDO TUDO NO GIT...
-REM ===========================
-echo Preparando backup para GitHub...
+echo COMMITANDO TUDO...
 "%GIT%" remote set-url origin "%REPO_TOKEN%"
 
 "%GIT%" add -A
 
 "%GIT%" diff --cached --quiet
-if "%errorlevel%"=="0" (
-    echo Nenhuma mudanca detectada para commit.
+if %errorlevel% equ 0 (
+    echo Nenhuma mudanca para commit.
 ) else (
-    echo Criando commit com as mudancas...
-    "%GIT%" commit -m "Backup automatico completo - %date% %time%"
-    echo Enviando para GitHub...
+    "%GIT%" commit -m "Backup - %date% %time%"
     "%GIT%" push origin %BRANCH% --force
-    echo Backup completo enviado para GitHub!
+    echo Backup enviado!
 )
 
 "%GIT%" remote set-url origin "%REPO_CLEAN%"
@@ -266,24 +218,16 @@ echo.
 
 REM ===========================
 echo COMPACTANDO WORLD...
-REM ===========================
-IF EXIST "%ZIP_NAME%" del "%ZIP_NAME%"
+if exist "%ZIP_NAME%" del "%ZIP_NAME%"
 powershell -command "Compress-Archive -Path 'world' -DestinationPath '%ZIP_NAME%' -Force"
-echo World compactado em: %ZIP_NAME%
+echo World compactado: %ZIP_NAME%
 echo.
 
-REM ===========================
-echo LIMPEZA DE ARQUIVOS TEMPORARIOS
-REM ===========================
-if exist "world_backup_temp" (
-    rmdir /s /q "world_backup_temp"
-)
+if exist "world_backup_temp" rmdir /s /q "world_backup_temp" 2>nul
 
-echo.
 echo ============================
 echo BACKUP COMPLETO!
 echo ============================
-echo.
 
 if "%DESLIGAR%"=="S" (
     echo Desligando em 30 segundos...
@@ -291,3 +235,4 @@ if "%DESLIGAR%"=="S" (
 )
 
 pause
+endlocal
