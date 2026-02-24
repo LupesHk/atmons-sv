@@ -3,6 +3,9 @@ title Servidor ATMONS - by Lupes.
 
 cd /d "%~dp0"
 
+REM ===========================
+REM CONFIG
+REM ===========================
 SET "GIT=git"
 SET "BRANCH=main"
 
@@ -18,13 +21,19 @@ SET "ZIP_NAME=world.zip"
 SET "NEOFORGE_VERSION=21.1.219"
 SET "JAVA_CMD=java @user_jvm_args.txt @libraries\net\neoforged\neoforge\%NEOFORGE_VERSION%\win_args.txt nogui"
 
+REM ===========================
+REM CARREGAR TOKENS DO ARQUIVO
+REM ===========================
 if exist "password.env" (
-    echo Carregando tokens...
+    echo Carregando tokens de password.env...
     for /f "usebackq tokens=1,2 delims==" %%a in ("password.env") do (
         set "%%a=%%b"
     )
 ) else (
     echo ERRO: Arquivo password.env nao encontrado!
+    echo Crie o arquivo password.env com:
+    echo GIT_TOKEN=seu_token_github
+    echo PLAYIT_SECRET=seu_secret_playit
     pause
     exit /b 1
 )
@@ -43,9 +52,13 @@ if "%PLAYIT_SECRET%"=="" (
 
 SET "REPO_TOKEN=https://%GIT_TOKEN%@github.com/LupesHk/atmons-sv"
 
+REM Configurar usuario do Git (se já não configurou)
 "%GIT%" config --global user.name "LucasHk" >nul 2>&1
 "%GIT%" config --global user.email "lucasgamesbrasil.124@gmail.com" >nul 2>&1
 
+REM ===========================
+REM PERGUNTA DO COMMIT
+REM ===========================
 echo.
 echo ================================
 echo Deseja puxar o commit mais recente?
@@ -74,7 +87,7 @@ REM ===========================
 where git >nul 2>&1
 if %errorlevel% neq 0 (
     echo ERRO: git nao encontrado no PATH.
-    echo Abra o GitHub Desktop uma vez ou instale o Git (Add to PATH).
+    echo Instale o Git (ou reinstale o GitHub Desktop marcando Add to PATH).
     pause
     exit /b 1
 )
@@ -86,15 +99,15 @@ REM ===========================
 if %errorlevel% neq 0 (
     echo Repositorio Git nao encontrado na pasta raiz.
     echo Inicializando novo repositorio...
-    
+
     "%GIT%" init
     "%GIT%" branch -M main
     "%GIT%" remote add origin "%REPO_TOKEN%"
-    
+
     if not exist ".gitignore" (
         echo Criando .gitignore...
         (
-            echo # Arquivos sensíveis
+            echo # Arquivos sensiveis
             echo password.env
             echo.
             echo # Pastas temporarias
@@ -125,20 +138,26 @@ if %errorlevel% neq 0 (
             echo desktop.ini
         ) > .gitignore
     )
-    
+
     echo Fazendo primeiro pull do GitHub...
     "%GIT%" fetch origin
     "%GIT%" reset --hard origin/main
     "%GIT%" clean -fd -e password.env -e whats/
 ) else (
     echo Repositorio Git encontrado.
-    for /f "tokens=2" %%b in ('"%GIT%" branch --show-current 2^>nul') do set "CURRENT_BRANCH=%%b"
-    if "%CURRENT_BRANCH%" neq "main" (
+
+    REM [CORRIGIDO] tokens=2 quebrava. Aqui pega a branch inteira.
+    for /f "delims=" %%b in ('"%GIT%" branch --show-current 2^>nul') do set "CURRENT_BRANCH=%%b"
+
+    if /I not "%CURRENT_BRANCH%"=="main" (
         echo Mudando para branch main...
         "%GIT%" checkout main 2>nul || "%GIT%" checkout -b main
     )
 )
 
+REM ===========================
+REM SINCRONIZANDO REPO
+REM ===========================
 echo.
 echo ================================
 echo SINCRONIZANDO COM GITHUB
@@ -150,6 +169,7 @@ REM Reset seguro mantendo arquivos importantes
 "%GIT%" fetch origin
 "%GIT%" reset --hard origin/main
 "%GIT%" clean -fd -e password.env -e whats/
+
 if "%PULL_RECENTE%"=="S" (
     echo Fazendo pull da branch main...
     "%GIT%" pull origin %BRANCH% --rebase --autostash
@@ -232,10 +252,8 @@ REM ===========================
 echo Preparando backup para GitHub...
 "%GIT%" remote set-url origin "%REPO_TOKEN%"
 
-REM Adicionar TUDO exceto o que está no .gitignore
 "%GIT%" add -A
 
-REM Verificar se há mudanças
 "%GIT%" diff --cached --quiet
 if %errorlevel% equ 0 (
     echo Nenhuma mudanca detectada para commit.
