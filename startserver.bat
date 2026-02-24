@@ -25,27 +25,14 @@ REM ===========================
 REM CARREGAR TOKENS DO ARQUIVO
 REM ===========================
 if exist "password.env" (
-    echo Carregando tokens de password.env...
-    for /f "usebackq tokens=1,2 delims==" %%a in ("password.env") do (
-        set "%%a=%%b"
+    echo Carregando tokens...
+    for /f "usebackq delims=" %%a in ("password.env") do (
+        for /f "tokens=1,* delims==" %%b in ("%%a") do (
+            set "%%b=%%c"
+        )
     )
 ) else (
     echo ERRO: Arquivo password.env nao encontrado!
-    echo Crie o arquivo password.env com:
-    echo GIT_TOKEN=seu_token_github
-    echo PLAYIT_SECRET=seu_secret_playit
-    pause
-    exit /b 1
-)
-
-if "%GIT_TOKEN%"=="" (
-    echo ERRO: GIT_TOKEN nao encontrado em password.env!
-    pause
-    exit /b 1
-)
-
-if "%PLAYIT_SECRET%"=="" (
-    echo ERRO: PLAYIT_SECRET nao encontrado em password.env!
     pause
     exit /b 1
 )
@@ -53,8 +40,8 @@ if "%PLAYIT_SECRET%"=="" (
 SET "REPO_TOKEN=https://%GIT_TOKEN%@github.com/LupesHk/atmons-sv"
 
 REM Configurar usuario do Git (se já não configurou)
-"%GIT%" config --global user.name "LucasHk" >nul 2>&1
-"%GIT%" config --global user.email "lucasgamesbrasil.124@gmail.com" >nul 2>&1
+"%GIT%" config --global user.name "LucasHk" 2>nul
+"%GIT%" config --global user.email "lucasgamesbrasil.124@gmail.com" 2>nul
 
 REM ===========================
 REM PERGUNTA DO COMMIT
@@ -66,7 +53,7 @@ echo Se nao responder em 3 segundos, sera considerado SIM.
 echo ================================
 choice /T 3 /D S /M "Puxar commit mais recente? (S/N): "
 
-if %errorlevel%==2 (
+if "%errorlevel%"=="2" (
     set "PULL_RECENTE=N"
 ) else (
     set "PULL_RECENTE=S"
@@ -85,7 +72,7 @@ REM ===========================
 echo Verificando git...
 REM ===========================
 where git >nul 2>&1
-if %errorlevel% neq 0 (
+if not "%errorlevel%"=="0" (
     echo ERRO: git nao encontrado no PATH.
     echo Instale o Git (ou reinstale o GitHub Desktop marcando Add to PATH).
     pause
@@ -96,7 +83,7 @@ REM ===========================
 REM INICIALIZAR REPO SE NECESSARIO
 REM ===========================
 "%GIT%" rev-parse --git-dir >nul 2>&1
-if %errorlevel% neq 0 (
+if not "%errorlevel%"=="0" (
     echo Repositorio Git nao encontrado na pasta raiz.
     echo Inicializando novo repositorio...
 
@@ -146,12 +133,17 @@ if %errorlevel% neq 0 (
 ) else (
     echo Repositorio Git encontrado.
 
-    REM [CORRIGIDO] tokens=2 quebrava. Aqui pega a branch inteira.
+    REM Obter branch atual de forma segura
     for /f "delims=" %%b in ('"%GIT%" branch --show-current 2^>nul') do set "CURRENT_BRANCH=%%b"
+    
+    if not defined CURRENT_BRANCH set "CURRENT_BRANCH=unknown"
 
     if /I not "%CURRENT_BRANCH%"=="main" (
         echo Mudando para branch main...
-        "%GIT%" checkout main 2>nul || "%GIT%" checkout -b main
+        "%GIT%" checkout main 2>nul
+        if "%errorlevel%" neq 0 (
+            "%GIT%" checkout -b main
+        )
     )
 )
 
@@ -174,9 +166,13 @@ if "%PULL_RECENTE%"=="S" (
     echo Fazendo pull da branch main...
     "%GIT%" pull origin %BRANCH% --rebase --autostash
 ) else (
-    echo Fazendo fetch do commit especifico...
-    "%GIT%" fetch origin
-    "%GIT%" checkout %COMMIT_HASH%
+    if defined COMMIT_HASH (
+        echo Fazendo fetch do commit especifico...
+        "%GIT%" fetch origin
+        "%GIT%" checkout %COMMIT_HASH%
+    ) else (
+        echo AVISO: Commit hash nao definido. Pulando checkout.
+    )
 )
 
 "%GIT%" remote set-url origin "%REPO_CLEAN%"
@@ -187,7 +183,7 @@ REM ===========================
 echo VERIFICANDO PLAYIT...
 REM ===========================
 tasklist /FI "IMAGENAME eq playit.exe" | find /I "playit.exe" >nul
-if %errorlevel%==0 (
+if "%errorlevel%"=="0" (
     echo Playit ja esta aberto.
 ) else (
     echo Iniciando Playit...
@@ -209,7 +205,7 @@ if exist "whats\bot.js" (
 echo ===========================
 echo INICIANDO SERVIDOR...
 echo ===========================
-%JAVA_CMD%
+"%JAVA_CMD%"
 
 echo SERVIDOR FOI FECHADO.
 echo Avisando WhatsApp: SERVER OFF
@@ -223,7 +219,7 @@ echo.
 
 :WAIT_JAVA
 tasklist | find /i "java.exe" >nul
-if %errorlevel%==0 (
+if "%errorlevel%"=="0" (
     timeout /t 10 >nul
     goto WAIT_JAVA
 )
@@ -237,7 +233,7 @@ echo.
 echo Deseja desligar o PC ao final do backup? (S/N)
 choice /T 10 /D S /M "Se nao responder, sera considerado SIM: "
 
-if %errorlevel%==2 (
+if "%errorlevel%"=="2" (
     set "DESLIGAR=N"
 ) else (
     set "DESLIGAR=S"
@@ -255,7 +251,7 @@ echo Preparando backup para GitHub...
 "%GIT%" add -A
 
 "%GIT%" diff --cached --quiet
-if %errorlevel% equ 0 (
+if "%errorlevel%"=="0" (
     echo Nenhuma mudanca detectada para commit.
 ) else (
     echo Criando commit com as mudancas...
@@ -279,7 +275,9 @@ echo.
 REM ===========================
 echo LIMPEZA DE ARQUIVOS TEMPORARIOS
 REM ===========================
-if exist "world_backup_temp" rmdir /s /q "world_backup_temp" 2>nul
+if exist "world_backup_temp" (
+    rmdir /s /q "world_backup_temp"
+)
 
 echo.
 echo ============================
