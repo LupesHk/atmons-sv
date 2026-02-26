@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "twilightforest:mangrove_log"
-    },
-    {
-      "item": "twilightforest:mangrove_wood"
-    },
-    {
-      "item": "twilightforest:stripped_mangrove_log"
-    },
-    {
-      "item": "twilightforest:stripped_mangrove_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "minecraft:wooden_pickaxe",
     "count": 1

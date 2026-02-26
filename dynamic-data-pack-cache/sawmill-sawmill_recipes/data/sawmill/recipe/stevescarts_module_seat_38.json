@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:twilight_oak_log"
+      "item": "productivetrees:butternut_log"
     },
     {
-      "item": "twilightforest:twilight_oak_wood"
+      "item": "productivetrees:butternut_wood"
     },
     {
-      "item": "twilightforest:stripped_twilight_oak_log"
+      "item": "productivetrees:butternut_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_twilight_oak_wood"
+      "item": "productivetrees:butternut_stripped_wood"
     }
   ],
   "result": {

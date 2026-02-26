@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:wenge_log"
+      "item": "productivetrees:cork_oak_log"
     },
     {
-      "item": "productivetrees:wenge_wood"
+      "item": "productivetrees:cork_oak_wood"
     },
     {
-      "item": "productivetrees:wenge_stripped_log"
+      "item": "productivetrees:cork_oak_stripped_log"
     },
     {
-      "item": "productivetrees:wenge_stripped_wood"
+      "item": "productivetrees:cork_oak_stripped_wood"
     }
   ],
   "result": {

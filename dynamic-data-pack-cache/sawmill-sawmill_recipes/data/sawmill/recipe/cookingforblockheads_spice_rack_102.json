@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:balsa_log"
+      "item": "productivetrees:sweet_chestnut_log"
     },
     {
-      "item": "productivetrees:balsa_wood"
+      "item": "productivetrees:sweet_chestnut_wood"
     },
     {
-      "item": "productivetrees:balsa_stripped_log"
+      "item": "productivetrees:sweet_chestnut_stripped_log"
     },
     {
-      "item": "productivetrees:balsa_stripped_wood"
+      "item": "productivetrees:sweet_chestnut_stripped_wood"
     }
   ],
   "result": {

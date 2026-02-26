@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:tuscarora_crepe_myrtle_log"
+      "item": "productivetrees:great_sallow_log"
     },
     {
-      "item": "productivetrees:tuscarora_crepe_myrtle_wood"
+      "item": "productivetrees:great_sallow_wood"
     },
     {
-      "item": "productivetrees:tuscarora_crepe_myrtle_stripped_log"
+      "item": "productivetrees:great_sallow_stripped_log"
     },
     {
-      "item": "productivetrees:tuscarora_crepe_myrtle_stripped_wood"
+      "item": "productivetrees:great_sallow_stripped_wood"
     }
   ],
   "result": {

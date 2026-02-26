@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:red_delicious_apple_planks"
+    "item": "productivetrees:asai_palm_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

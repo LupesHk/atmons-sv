@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:purpleheart_log"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "productivetrees:purpleheart_wood"
+      "item": "aether:skyroot_wood"
     },
     {
-      "item": "productivetrees:purpleheart_stripped_log"
+      "item": "aether:stripped_skyroot_log"
     },
     {
-      "item": "productivetrees:purpleheart_stripped_wood"
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {

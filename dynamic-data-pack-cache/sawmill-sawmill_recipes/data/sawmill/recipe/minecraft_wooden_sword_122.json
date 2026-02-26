@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:warped_stem"
+      "item": "productivetrees:peach_log"
     },
     {
-      "item": "minecraft:warped_hyphae"
+      "item": "productivetrees:peach_wood"
     },
     {
-      "item": "minecraft:stripped_warped_stem"
+      "item": "productivetrees:peach_stripped_log"
     },
     {
-      "item": "minecraft:stripped_warped_hyphae"
+      "item": "productivetrees:peach_stripped_wood"
     }
   ],
   "result": {

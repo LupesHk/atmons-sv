@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "minecraft:crimson_stem"
-    },
-    {
-      "item": "minecraft:crimson_hyphae"
-    },
-    {
-      "item": "minecraft:stripped_crimson_stem"
-    },
-    {
-      "item": "minecraft:stripped_crimson_hyphae"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "silentgear:shovel",
     "count": 1

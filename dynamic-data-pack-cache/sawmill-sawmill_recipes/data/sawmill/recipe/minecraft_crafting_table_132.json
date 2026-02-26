@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:mining_log"
+      "item": "productivetrees:pistachio_log"
     },
     {
-      "item": "twilightforest:mining_wood"
+      "item": "productivetrees:pistachio_wood"
     },
     {
-      "item": "twilightforest:stripped_mining_log"
+      "item": "productivetrees:pistachio_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_mining_wood"
+      "item": "productivetrees:pistachio_stripped_wood"
     }
   ],
   "result": {

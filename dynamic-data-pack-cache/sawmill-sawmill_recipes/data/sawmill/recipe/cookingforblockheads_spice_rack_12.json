@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:mangrove_log"
+      "item": "eternal_starlight:torreya_log"
     },
     {
-      "item": "minecraft:mangrove_wood"
+      "item": "eternal_starlight:torreya_wood"
     },
     {
-      "item": "minecraft:stripped_mangrove_log"
+      "item": "eternal_starlight:stripped_torreya_log"
     },
     {
-      "item": "minecraft:stripped_mangrove_wood"
+      "item": "eternal_starlight:stripped_torreya_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:finger_lime_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "productivetrees:finger_lime_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "productivetrees:finger_lime_stripped_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "productivetrees:finger_lime_stripped_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {

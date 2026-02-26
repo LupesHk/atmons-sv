@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:time_traveller_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:time_traveller_wood"
-    },
-    {
-      "item": "productivetrees:time_traveller_stripped_log"
-    },
-    {
-      "item": "productivetrees:time_traveller_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:jinglestem_log"
+      "item": "eternal_starlight:banyin_log"
     },
     {
-      "item": "eternal_starlight:jinglestem_wood"
+      "item": "eternal_starlight:banyin_wood"
     },
     {
-      "item": "eternal_starlight:stripped_jinglestem_log"
+      "item": "eternal_starlight:stripped_banyin_log"
     },
     {
-      "item": "eternal_starlight:stripped_jinglestem_wood"
+      "item": "eternal_starlight:stripped_banyin_wood"
     }
   ],
   "result": {

@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "forbidden_arcanus:aurum_log"
-    },
-    {
-      "item": "forbidden_arcanus:aurum_wood"
-    },
-    {
-      "item": "forbidden_arcanus:stripped_aurum_log"
-    },
-    {
-      "item": "forbidden_arcanus:stripped_aurum_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "actuallyadditions:wood_casing",
     "count": 1

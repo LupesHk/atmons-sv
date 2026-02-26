@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "productivetrees:cashew_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "productivetrees:cashew_wood"
+    },
+    {
+      "item": "productivetrees:cashew_stripped_log"
+    },
+    {
+      "item": "productivetrees:cashew_stripped_wood"
     }
   ],
   "result": {

@@ -2,22 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cacao_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:cacao_wood"
-    },
-    {
-      "item": "productivetrees:cacao_stripped_log"
-    },
-    {
-      "item": "productivetrees:cacao_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "actuallyadditions:wooden_aiot",
     "count": 1
   },
-  "ingredient_count": 3,
+  "ingredient_count": 6,
   "type": "sawmill:woodcutting"
 }

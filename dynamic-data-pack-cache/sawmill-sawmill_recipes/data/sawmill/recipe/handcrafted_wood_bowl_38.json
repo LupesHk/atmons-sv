@@ -1,11 +1,22 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "cataclysm:chorus_stem"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:butternut_log"
+    },
+    {
+      "item": "productivetrees:butternut_wood"
+    },
+    {
+      "item": "productivetrees:butternut_stripped_log"
+    },
+    {
+      "item": "productivetrees:butternut_stripped_wood"
+    }
+  ],
   "result": {
     "id": "handcrafted:wood_bowl",
-    "count": 3
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

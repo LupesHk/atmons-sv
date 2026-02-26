@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:banyin_log"
+      "item": "productivetrees:olive_log"
     },
     {
-      "item": "eternal_starlight:banyin_wood"
+      "item": "productivetrees:olive_wood"
     },
     {
-      "item": "eternal_starlight:stripped_banyin_log"
+      "item": "productivetrees:olive_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_banyin_wood"
+      "item": "productivetrees:olive_stripped_wood"
     }
   ],
   "result": {

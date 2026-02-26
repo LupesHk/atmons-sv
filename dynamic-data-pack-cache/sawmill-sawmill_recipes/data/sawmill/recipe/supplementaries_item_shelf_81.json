@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:pomelo_planks"
+    "item": "minecraft:spruce_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

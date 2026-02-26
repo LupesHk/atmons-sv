@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "productivetrees:sweet_chestnut_log"
     },
     {
-      "item": "undergarden:wigglewood_wood"
+      "item": "productivetrees:sweet_chestnut_wood"
     },
     {
-      "item": "undergarden:stripped_wigglewood_log"
+      "item": "productivetrees:sweet_chestnut_stripped_log"
     },
     {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "productivetrees:sweet_chestnut_stripped_wood"
     }
   ],
   "result": {

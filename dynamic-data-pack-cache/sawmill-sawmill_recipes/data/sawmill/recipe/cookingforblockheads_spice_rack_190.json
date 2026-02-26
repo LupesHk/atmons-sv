@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "cobblemon:apricorn_log"
+    },
+    {
+      "item": "cobblemon:apricorn_wood"
+    },
+    {
+      "item": "cobblemon:stripped_apricorn_log"
+    },
+    {
+      "item": "cobblemon:stripped_apricorn_wood"
+    }
+  ],
+  "result": {
+    "id": "cookingforblockheads:spice_rack",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

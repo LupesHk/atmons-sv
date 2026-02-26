@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:crimson_planks"
+    "item": "minecraft:dark_oak_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

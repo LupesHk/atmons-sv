@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pink_ipe_log"
+      "item": "productivetrees:asai_palm_log"
     },
     {
-      "item": "productivetrees:pink_ipe_wood"
+      "item": "productivetrees:asai_palm_wood"
     },
     {
-      "item": "productivetrees:pink_ipe_stripped_log"
+      "item": "productivetrees:asai_palm_stripped_log"
     },
     {
-      "item": "productivetrees:pink_ipe_stripped_wood"
+      "item": "productivetrees:asai_palm_stripped_wood"
     }
   ],
   "result": {

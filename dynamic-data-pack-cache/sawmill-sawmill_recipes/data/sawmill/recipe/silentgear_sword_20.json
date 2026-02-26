@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:key_lime_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "productivetrees:key_lime_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "productivetrees:key_lime_stripped_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "productivetrees:key_lime_stripped_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

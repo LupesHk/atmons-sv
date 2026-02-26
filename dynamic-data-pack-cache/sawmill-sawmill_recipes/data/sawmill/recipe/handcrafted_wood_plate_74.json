@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "productivetrees:apricot_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "productivetrees:apricot_wood"
+    },
+    {
+      "item": "productivetrees:apricot_stripped_log"
+    },
+    {
+      "item": "productivetrees:apricot_stripped_wood"
     }
   ],
   "result": {
     "id": "handcrafted:wood_plate",
-    "count": 4
+    "count": 8
   },
   "type": "sawmill:woodcutting"
 }

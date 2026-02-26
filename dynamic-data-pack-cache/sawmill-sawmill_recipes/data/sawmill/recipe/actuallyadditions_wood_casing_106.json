@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:swamp_gum_log"
+      "item": "productivetrees:peach_log"
     },
     {
-      "item": "productivetrees:swamp_gum_wood"
+      "item": "productivetrees:peach_wood"
     },
     {
-      "item": "productivetrees:swamp_gum_stripped_log"
+      "item": "productivetrees:peach_stripped_log"
     },
     {
-      "item": "productivetrees:swamp_gum_stripped_wood"
+      "item": "productivetrees:peach_stripped_wood"
     }
   ],
   "result": {

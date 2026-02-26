@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:bull_pine_log"
+      "item": "productivetrees:tangerine_log"
     },
     {
-      "item": "productivetrees:bull_pine_wood"
+      "item": "productivetrees:tangerine_wood"
     },
     {
-      "item": "productivetrees:bull_pine_stripped_log"
+      "item": "productivetrees:tangerine_stripped_log"
     },
     {
-      "item": "productivetrees:bull_pine_stripped_wood"
+      "item": "productivetrees:tangerine_stripped_wood"
     }
   ],
   "result": {

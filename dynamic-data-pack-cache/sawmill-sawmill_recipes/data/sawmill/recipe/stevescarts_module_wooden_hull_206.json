@@ -2,22 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "cobblemon:apricorn_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "cobblemon:apricorn_wood"
-    },
-    {
-      "item": "cobblemon:stripped_apricorn_log"
-    },
-    {
-      "item": "cobblemon:stripped_apricorn_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "stevescarts:module_wooden_hull",
     "count": 1
   },
-  "ingredient_count": 3,
+  "ingredient_count": 5,
   "type": "sawmill:woodcutting"
 }

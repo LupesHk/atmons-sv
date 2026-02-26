@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:sweetgum_log"
-    },
-    {
-      "item": "productivetrees:sweetgum_wood"
-    },
-    {
-      "item": "productivetrees:sweetgum_stripped_log"
-    },
-    {
-      "item": "productivetrees:sweetgum_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "silentgear:axe",
     "count": 1

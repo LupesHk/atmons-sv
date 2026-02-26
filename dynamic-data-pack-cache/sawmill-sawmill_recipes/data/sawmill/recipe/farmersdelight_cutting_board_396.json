@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:transformation_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "twilightforest:transformation_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "twilightforest:stripped_transformation_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "twilightforest:stripped_transformation_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

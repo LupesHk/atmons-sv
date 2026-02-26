@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:red_banana_log"
+    },
+    {
+      "item": "productivetrees:red_banana_wood"
+    },
+    {
+      "item": "productivetrees:red_banana_stripped_log"
+    },
+    {
+      "item": "productivetrees:red_banana_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:composter",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

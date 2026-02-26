@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "undergarden:smogstem_planks"
+    "item": "productivetrees:finger_lime_planks"
   },
   "result": {
     "id": "handcrafted:wood_plate",

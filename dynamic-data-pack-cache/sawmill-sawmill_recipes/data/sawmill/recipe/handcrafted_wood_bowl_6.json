@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:flickering_sun_log"
+      "item": "productivetrees:mandarin_log"
     },
     {
-      "item": "productivetrees:flickering_sun_wood"
+      "item": "productivetrees:mandarin_wood"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_log"
+      "item": "productivetrees:mandarin_stripped_log"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_wood"
+      "item": "productivetrees:mandarin_stripped_wood"
     }
   ],
   "result": {

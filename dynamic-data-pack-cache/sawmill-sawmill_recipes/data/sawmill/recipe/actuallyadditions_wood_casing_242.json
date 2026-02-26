@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "undergarden:smogstem_wood"
-    },
-    {
-      "item": "undergarden:stripped_smogstem_log"
-    },
-    {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

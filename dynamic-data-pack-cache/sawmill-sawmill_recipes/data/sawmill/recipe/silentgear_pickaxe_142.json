@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:black_cherry_log"
+      "item": "minecraft:cherry_log"
     },
     {
-      "item": "productivetrees:black_cherry_wood"
+      "item": "minecraft:cherry_wood"
     },
     {
-      "item": "productivetrees:black_cherry_stripped_log"
+      "item": "minecraft:stripped_cherry_log"
     },
     {
-      "item": "productivetrees:black_cherry_stripped_wood"
+      "item": "minecraft:stripped_cherry_wood"
     }
   ],
   "result": {

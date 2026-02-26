@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:star_anise_log"
+      "item": "productivetrees:monkey_puzzle_log"
     },
     {
-      "item": "productivetrees:star_anise_wood"
+      "item": "productivetrees:monkey_puzzle_wood"
     },
     {
-      "item": "productivetrees:star_anise_stripped_log"
+      "item": "productivetrees:monkey_puzzle_stripped_log"
     },
     {
-      "item": "productivetrees:star_anise_stripped_wood"
+      "item": "productivetrees:monkey_puzzle_stripped_wood"
     }
   ],
   "result": {

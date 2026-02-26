@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:birch_planks"
+    "item": "productivetrees:ceylon_ebony_planks"
   },
   "result": {
     "id": "handcrafted:wood_plate",

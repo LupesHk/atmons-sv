@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_log"
     },
     {
-      "item": "undergarden:wigglewood_wood"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_wood"
     },
     {
-      "item": "undergarden:stripped_wigglewood_log"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_log"
     },
     {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_wood"
     }
   ],
   "result": {

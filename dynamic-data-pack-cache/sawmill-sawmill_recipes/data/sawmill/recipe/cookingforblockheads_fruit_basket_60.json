@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "aether:skyroot_log"
+      "item": "productivetrees:aspen_log"
     },
     {
-      "item": "aether:skyroot_wood"
+      "item": "productivetrees:aspen_wood"
     },
     {
-      "item": "aether:stripped_skyroot_log"
+      "item": "productivetrees:aspen_stripped_log"
     },
     {
-      "item": "aether:stripped_skyroot_wood"
+      "item": "productivetrees:aspen_stripped_wood"
     }
   ],
   "result": {

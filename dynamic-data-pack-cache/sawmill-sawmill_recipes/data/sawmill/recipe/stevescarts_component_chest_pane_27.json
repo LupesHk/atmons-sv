@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:mangrove_planks"
+    "item": "productivetrees:red_maple_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "forbidden_arcanus:fungyss_planks"
+    "item": "productivetrees:beliy_naliv_apple_planks"
   },
   "result": {
     "id": "stevescarts:component_large_chest_pane",

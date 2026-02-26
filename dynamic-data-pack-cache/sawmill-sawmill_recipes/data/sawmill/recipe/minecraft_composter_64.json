@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:jungle_log"
+      "item": "productivetrees:sugar_apple_log"
     },
     {
-      "item": "minecraft:jungle_wood"
+      "item": "productivetrees:sugar_apple_wood"
     },
     {
-      "item": "minecraft:stripped_jungle_log"
+      "item": "productivetrees:sugar_apple_stripped_log"
     },
     {
-      "item": "minecraft:stripped_jungle_wood"
+      "item": "productivetrees:sugar_apple_stripped_wood"
     }
   ],
   "result": {

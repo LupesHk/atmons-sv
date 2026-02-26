@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "minecraft:mangrove_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "minecraft:mangrove_wood"
+    },
+    {
+      "item": "minecraft:stripped_mangrove_log"
+    },
+    {
+      "item": "minecraft:stripped_mangrove_wood"
     }
   ],
   "result": {

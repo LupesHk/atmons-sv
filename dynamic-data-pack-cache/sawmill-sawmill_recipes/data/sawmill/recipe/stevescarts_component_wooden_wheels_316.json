@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "productivetrees:pecan_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "productivetrees:pecan_wood"
+    },
+    {
+      "item": "productivetrees:pecan_stripped_log"
+    },
+    {
+      "item": "productivetrees:pecan_stripped_wood"
     }
   ],
   "result": {

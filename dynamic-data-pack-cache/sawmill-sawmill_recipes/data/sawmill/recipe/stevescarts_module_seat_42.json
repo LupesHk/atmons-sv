@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:crimson_stem"
+      "item": "productivetrees:kapok_log"
     },
     {
-      "item": "minecraft:crimson_hyphae"
+      "item": "productivetrees:kapok_wood"
     },
     {
-      "item": "minecraft:stripped_crimson_stem"
+      "item": "productivetrees:kapok_stripped_log"
     },
     {
-      "item": "minecraft:stripped_crimson_hyphae"
+      "item": "productivetrees:kapok_stripped_wood"
     }
   ],
   "result": {

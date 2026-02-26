@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rowan_log"
+      "item": "productivetrees:thunder_bolt_log"
     },
     {
-      "item": "productivetrees:rowan_wood"
+      "item": "productivetrees:thunder_bolt_wood"
     },
     {
-      "item": "productivetrees:rowan_stripped_log"
+      "item": "productivetrees:thunder_bolt_stripped_log"
     },
     {
-      "item": "productivetrees:rowan_stripped_wood"
+      "item": "productivetrees:thunder_bolt_stripped_wood"
     }
   ],
   "result": {

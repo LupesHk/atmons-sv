@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:great_sallow_log"
+      "item": "twilightforest:twilight_oak_log"
     },
     {
-      "item": "productivetrees:great_sallow_wood"
+      "item": "twilightforest:twilight_oak_wood"
     },
     {
-      "item": "productivetrees:great_sallow_stripped_log"
+      "item": "twilightforest:stripped_twilight_oak_log"
     },
     {
-      "item": "productivetrees:great_sallow_stripped_wood"
+      "item": "twilightforest:stripped_twilight_oak_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:birch_log"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "minecraft:birch_wood"
+      "item": "twilightforest:canopy_wood"
     },
     {
-      "item": "minecraft:stripped_birch_log"
+      "item": "twilightforest:stripped_canopy_log"
     },
     {
-      "item": "minecraft:stripped_birch_wood"
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {

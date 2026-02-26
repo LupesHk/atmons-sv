@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:pistachio_log"
-    },
-    {
-      "item": "productivetrees:pistachio_wood"
-    },
-    {
-      "item": "productivetrees:pistachio_stripped_log"
-    },
-    {
-      "item": "productivetrees:pistachio_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "minecraft:wooden_pickaxe",
     "count": 1

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:nutmeg_planks"
+    "item": "productivetrees:aquilaria_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

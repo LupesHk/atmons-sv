@@ -1,23 +1,12 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:allspice_log"
-    },
-    {
-      "item": "productivetrees:allspice_wood"
-    },
-    {
-      "item": "productivetrees:allspice_stripped_log"
-    },
-    {
-      "item": "productivetrees:allspice_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "stevescarts:module_wooden_hull",
     "count": 1
   },
-  "ingredient_count": 3,
+  "ingredient_count": 5,
   "type": "sawmill:woodcutting"
 }

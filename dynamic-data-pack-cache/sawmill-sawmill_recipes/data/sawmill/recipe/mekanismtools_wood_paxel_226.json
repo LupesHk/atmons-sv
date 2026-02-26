@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:key_lime_log"
+    },
+    {
+      "item": "productivetrees:key_lime_wood"
+    },
+    {
+      "item": "productivetrees:key_lime_stripped_log"
+    },
+    {
+      "item": "productivetrees:key_lime_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "mekanismtools:wood_paxel",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cocobolo_log"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "productivetrees:cocobolo_wood"
+      "item": "aether:skyroot_wood"
     },
     {
-      "item": "productivetrees:cocobolo_stripped_log"
+      "item": "aether:stripped_skyroot_log"
     },
     {
-      "item": "productivetrees:cocobolo_stripped_wood"
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {

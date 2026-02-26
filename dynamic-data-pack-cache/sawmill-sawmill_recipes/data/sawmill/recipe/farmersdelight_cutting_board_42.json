@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:northland_log"
+      "item": "productivetrees:swamp_gum_log"
     },
     {
-      "item": "eternal_starlight:northland_wood"
+      "item": "productivetrees:swamp_gum_wood"
     },
     {
-      "item": "eternal_starlight:stripped_northland_log"
+      "item": "productivetrees:swamp_gum_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_northland_wood"
+      "item": "productivetrees:swamp_gum_stripped_wood"
     }
   ],
   "result": {

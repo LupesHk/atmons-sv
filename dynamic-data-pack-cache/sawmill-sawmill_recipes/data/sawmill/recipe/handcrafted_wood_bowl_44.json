@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "productivetrees:cherry_plum_log"
     },
     {
-      "item": "undergarden:smogstem_wood"
+      "item": "productivetrees:cherry_plum_wood"
     },
     {
-      "item": "undergarden:stripped_smogstem_log"
+      "item": "productivetrees:cherry_plum_stripped_log"
     },
     {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "productivetrees:cherry_plum_stripped_wood"
     }
   ],
   "result": {

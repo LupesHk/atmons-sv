@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:pandanus_planks"
+    "item": "minecraft:mangrove_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:purple_crepe_myrtle_log"
+      "item": "productivetrees:cinnamon_log"
     },
     {
-      "item": "productivetrees:purple_crepe_myrtle_wood"
+      "item": "productivetrees:cinnamon_wood"
     },
     {
-      "item": "productivetrees:purple_crepe_myrtle_stripped_log"
+      "item": "productivetrees:cinnamon_stripped_log"
     },
     {
-      "item": "productivetrees:purple_crepe_myrtle_stripped_wood"
+      "item": "productivetrees:cinnamon_stripped_wood"
     }
   ],
   "result": {

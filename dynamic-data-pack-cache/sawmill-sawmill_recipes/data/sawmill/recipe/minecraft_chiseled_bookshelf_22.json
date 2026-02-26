@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:swamp_gum_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "productivetrees:swamp_gum_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "productivetrees:swamp_gum_stripped_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "productivetrees:swamp_gum_stripped_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:dark_oak_log"
+      "item": "productivetrees:sweetgum_log"
     },
     {
-      "item": "minecraft:dark_oak_wood"
+      "item": "productivetrees:sweetgum_wood"
     },
     {
-      "item": "minecraft:stripped_dark_oak_log"
+      "item": "productivetrees:sweetgum_stripped_log"
     },
     {
-      "item": "minecraft:stripped_dark_oak_wood"
+      "item": "productivetrees:sweetgum_stripped_wood"
     }
   ],
   "result": {

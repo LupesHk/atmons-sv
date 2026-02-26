@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "minecraft:birch_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "minecraft:birch_wood"
+    },
+    {
+      "item": "minecraft:stripped_birch_log"
+    },
+    {
+      "item": "minecraft:stripped_birch_wood"
     }
   ],
   "result": {

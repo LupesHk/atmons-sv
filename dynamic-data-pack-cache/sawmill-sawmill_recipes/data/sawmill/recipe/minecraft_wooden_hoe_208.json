@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:purpleheart_log"
+      "item": "productivetrees:cultivated_pear_log"
     },
     {
-      "item": "productivetrees:purpleheart_wood"
+      "item": "productivetrees:cultivated_pear_wood"
     },
     {
-      "item": "productivetrees:purpleheart_stripped_log"
+      "item": "productivetrees:cultivated_pear_stripped_log"
     },
     {
-      "item": "productivetrees:purpleheart_stripped_wood"
+      "item": "productivetrees:cultivated_pear_stripped_wood"
     }
   ],
   "result": {

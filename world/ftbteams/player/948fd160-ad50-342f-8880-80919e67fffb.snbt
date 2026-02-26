@@ -2,9 +2,7 @@
 	id: "948fd160-ad50-342f-8880-80919e67fffb"
 	type: "player"
 	player_name: "FR4N"
-	ranks: {
-		948fd160-ad50-342f-8880-80919e67fffb: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "FR4N"
 		"ftbteams:description": ""

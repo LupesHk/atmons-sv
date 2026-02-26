@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:firecracker_log"
+      "item": "productivetrees:persimmon_log"
     },
     {
-      "item": "productivetrees:firecracker_wood"
+      "item": "productivetrees:persimmon_wood"
     },
     {
-      "item": "productivetrees:firecracker_stripped_log"
+      "item": "productivetrees:persimmon_stripped_log"
     },
     {
-      "item": "productivetrees:firecracker_stripped_wood"
+      "item": "productivetrees:persimmon_stripped_wood"
     }
   ],
   "result": {

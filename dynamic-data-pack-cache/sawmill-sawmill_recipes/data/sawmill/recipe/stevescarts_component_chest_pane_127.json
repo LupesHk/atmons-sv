@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:white_ipe_planks"
+    "item": "productivetrees:douglas_fir_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:plum_planks"
+    "item": "productivetrees:cherry_plum_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

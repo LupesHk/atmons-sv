@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rainbow_gum_log"
+      "item": "productivetrees:cinnamon_log"
     },
     {
-      "item": "productivetrees:rainbow_gum_wood"
+      "item": "productivetrees:cinnamon_wood"
     },
     {
-      "item": "productivetrees:rainbow_gum_stripped_log"
+      "item": "productivetrees:cinnamon_stripped_log"
     },
     {
-      "item": "productivetrees:rainbow_gum_stripped_wood"
+      "item": "productivetrees:cinnamon_stripped_wood"
     }
   ],
   "result": {

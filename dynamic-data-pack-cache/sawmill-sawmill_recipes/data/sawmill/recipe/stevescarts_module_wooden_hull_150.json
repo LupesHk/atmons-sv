@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:cradlewood_log"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "eternal_starlight:cradlewood_wood"
+      "item": "twilightforest:transformation_wood"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_log"
+      "item": "twilightforest:stripped_transformation_log"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_wood"
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {

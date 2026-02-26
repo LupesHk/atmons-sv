@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:jungle_log"
+      "item": "eternal_starlight:banyin_log"
     },
     {
-      "item": "minecraft:jungle_wood"
+      "item": "eternal_starlight:banyin_wood"
     },
     {
-      "item": "minecraft:stripped_jungle_log"
+      "item": "eternal_starlight:stripped_banyin_log"
     },
     {
-      "item": "minecraft:stripped_jungle_wood"
+      "item": "eternal_starlight:stripped_banyin_wood"
     }
   ],
   "result": {

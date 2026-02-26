@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:olive_log"
+      "item": "productivetrees:star_anise_log"
     },
     {
-      "item": "productivetrees:olive_wood"
+      "item": "productivetrees:star_anise_wood"
     },
     {
-      "item": "productivetrees:olive_stripped_log"
+      "item": "productivetrees:star_anise_stripped_log"
     },
     {
-      "item": "productivetrees:olive_stripped_wood"
+      "item": "productivetrees:star_anise_stripped_wood"
     }
   ],
   "result": {

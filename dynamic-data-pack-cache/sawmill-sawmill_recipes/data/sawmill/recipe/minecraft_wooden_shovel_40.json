@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:whitebeam_log"
+      "item": "minecraft:dark_oak_log"
     },
     {
-      "item": "productivetrees:whitebeam_wood"
+      "item": "minecraft:dark_oak_wood"
     },
     {
-      "item": "productivetrees:whitebeam_stripped_log"
+      "item": "minecraft:stripped_dark_oak_log"
     },
     {
-      "item": "productivetrees:whitebeam_stripped_wood"
+      "item": "minecraft:stripped_dark_oak_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:soul_tree_log"
+      "item": "minecraft:warped_stem"
     },
     {
-      "item": "productivetrees:soul_tree_wood"
+      "item": "minecraft:warped_hyphae"
     },
     {
-      "item": "productivetrees:soul_tree_stripped_log"
+      "item": "minecraft:stripped_warped_stem"
     },
     {
-      "item": "productivetrees:soul_tree_stripped_wood"
+      "item": "minecraft:stripped_warped_hyphae"
     }
   ],
   "result": {

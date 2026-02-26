@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:mining_log"
+      "item": "productivetrees:buddhas_hand_log"
     },
     {
-      "item": "twilightforest:mining_wood"
+      "item": "productivetrees:buddhas_hand_wood"
     },
     {
-      "item": "twilightforest:stripped_mining_log"
+      "item": "productivetrees:buddhas_hand_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_mining_wood"
+      "item": "productivetrees:buddhas_hand_stripped_wood"
     }
   ],
   "result": {

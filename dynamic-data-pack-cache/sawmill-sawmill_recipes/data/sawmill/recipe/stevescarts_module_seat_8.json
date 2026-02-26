@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:beliy_naliv_apple_log"
+      "item": "productivetrees:rose_gum_log"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_wood"
+      "item": "productivetrees:rose_gum_wood"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_stripped_log"
+      "item": "productivetrees:rose_gum_stripped_log"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
+      "item": "productivetrees:rose_gum_stripped_wood"
     }
   ],
   "result": {

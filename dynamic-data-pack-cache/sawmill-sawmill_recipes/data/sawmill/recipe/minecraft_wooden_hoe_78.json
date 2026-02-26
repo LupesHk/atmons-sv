@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:cultivated_pear_log"
-    },
-    {
-      "item": "productivetrees:cultivated_pear_wood"
-    },
-    {
-      "item": "productivetrees:cultivated_pear_stripped_log"
-    },
-    {
-      "item": "productivetrees:cultivated_pear_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "minecraft:wooden_hoe",
     "count": 1

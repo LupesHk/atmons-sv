@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:spruce_planks"
+    "item": "productivetrees:peach_planks"
   },
   "result": {
     "id": "stevescarts:component_large_chest_pane",

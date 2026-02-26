@@ -2,16 +2,22 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:banana_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:banana_wood"
+    },
+    {
+      "item": "productivetrees:banana_stripped_log"
+    },
+    {
+      "item": "productivetrees:banana_stripped_wood"
     }
   ],
   "result": {
     "id": "mekanismtools:wood_paxel",
     "count": 1
   },
-  "ingredient_count": 4,
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:cashew_planks"
+    "item": "productivetrees:asai_palm_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

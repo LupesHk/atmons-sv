@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:flickering_sun_planks"
+    "item": "productivetrees:olive_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

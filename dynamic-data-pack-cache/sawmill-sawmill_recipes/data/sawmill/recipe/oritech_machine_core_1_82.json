@@ -2,16 +2,22 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:buddhas_hand_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:buddhas_hand_wood"
+    },
+    {
+      "item": "productivetrees:buddhas_hand_stripped_log"
+    },
+    {
+      "item": "productivetrees:buddhas_hand_stripped_wood"
     }
   ],
   "result": {
     "id": "oritech:machine_core_1",
     "count": 1
   },
-  "ingredient_count": 6,
+  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

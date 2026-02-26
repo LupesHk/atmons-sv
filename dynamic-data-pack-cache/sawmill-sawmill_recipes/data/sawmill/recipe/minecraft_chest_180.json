@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:persimmon_log"
+      "item": "eternal_starlight:banyin_log"
     },
     {
-      "item": "productivetrees:persimmon_wood"
+      "item": "eternal_starlight:banyin_wood"
     },
     {
-      "item": "productivetrees:persimmon_stripped_log"
+      "item": "eternal_starlight:stripped_banyin_log"
     },
     {
-      "item": "productivetrees:persimmon_stripped_wood"
+      "item": "eternal_starlight:stripped_banyin_wood"
     }
   ],
   "result": {

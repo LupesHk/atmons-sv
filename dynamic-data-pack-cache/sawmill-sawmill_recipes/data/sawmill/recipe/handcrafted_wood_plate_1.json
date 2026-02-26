@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:pecan_planks"
+    "item": "productivetrees:candlenut_planks"
   },
   "result": {
     "id": "handcrafted:wood_plate",

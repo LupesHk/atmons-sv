@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:lawson_cypress_log"
+      "item": "productivetrees:white_willow_log"
     },
     {
-      "item": "productivetrees:lawson_cypress_wood"
+      "item": "productivetrees:white_willow_wood"
     },
     {
-      "item": "productivetrees:lawson_cypress_stripped_log"
+      "item": "productivetrees:white_willow_stripped_log"
     },
     {
-      "item": "productivetrees:lawson_cypress_stripped_wood"
+      "item": "productivetrees:white_willow_stripped_wood"
     }
   ],
   "result": {

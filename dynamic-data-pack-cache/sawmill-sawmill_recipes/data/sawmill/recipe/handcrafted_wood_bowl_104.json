@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:red_delicious_apple_log"
+      "item": "productivetrees:asai_palm_log"
     },
     {
-      "item": "productivetrees:red_delicious_apple_wood"
+      "item": "productivetrees:asai_palm_wood"
     },
     {
-      "item": "productivetrees:red_delicious_apple_stripped_log"
+      "item": "productivetrees:asai_palm_stripped_log"
     },
     {
-      "item": "productivetrees:red_delicious_apple_stripped_wood"
+      "item": "productivetrees:asai_palm_stripped_wood"
     }
   ],
   "result": {

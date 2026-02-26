@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yew_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "productivetrees:yew_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "productivetrees:yew_stripped_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "productivetrees:yew_stripped_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

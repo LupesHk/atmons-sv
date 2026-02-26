@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:star_fruit_planks"
+    "item": "productivetrees:white_ipe_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

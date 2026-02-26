@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:coconut_planks"
+    "item": "productivetrees:balsam_fir_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

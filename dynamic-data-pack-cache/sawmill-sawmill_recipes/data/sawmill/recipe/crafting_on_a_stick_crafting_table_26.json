@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:western_hemlock_log"
+      "item": "productivetrees:sweetgum_log"
     },
     {
-      "item": "productivetrees:western_hemlock_wood"
+      "item": "productivetrees:sweetgum_wood"
     },
     {
-      "item": "productivetrees:western_hemlock_stripped_log"
+      "item": "productivetrees:sweetgum_stripped_log"
     },
     {
-      "item": "productivetrees:western_hemlock_stripped_wood"
+      "item": "productivetrees:sweetgum_stripped_wood"
     }
   ],
   "result": {

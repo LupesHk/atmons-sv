@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:white_poplar_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "productivetrees:white_poplar_wood"
-    },
-    {
-      "item": "productivetrees:white_poplar_stripped_log"
-    },
-    {
-      "item": "productivetrees:white_poplar_stripped_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

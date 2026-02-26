@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sycamore_fig_log"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "productivetrees:sycamore_fig_wood"
+      "item": "twilightforest:canopy_wood"
     },
     {
-      "item": "productivetrees:sycamore_fig_stripped_log"
+      "item": "twilightforest:stripped_canopy_log"
     },
     {
-      "item": "productivetrees:sycamore_fig_stripped_wood"
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {

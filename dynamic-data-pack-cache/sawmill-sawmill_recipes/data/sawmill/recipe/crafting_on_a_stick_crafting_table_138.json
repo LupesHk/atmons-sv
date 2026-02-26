@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:balsa_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "productivetrees:balsa_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "productivetrees:balsa_stripped_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "productivetrees:balsa_stripped_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

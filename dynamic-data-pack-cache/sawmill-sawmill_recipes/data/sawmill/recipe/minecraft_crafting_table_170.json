@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:whitebeam_log"
+    },
+    {
+      "item": "productivetrees:whitebeam_wood"
+    },
+    {
+      "item": "productivetrees:whitebeam_stripped_log"
+    },
+    {
+      "item": "productivetrees:whitebeam_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:crafting_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

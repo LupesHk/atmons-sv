@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:northland_planks"
+    "item": "minecraft:jungle_planks"
   },
   "result": {
     "id": "handcrafted:wood_plate",

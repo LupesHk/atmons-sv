@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "undergarden:wigglewood_planks"
+    "item": "productivetrees:candlenut_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

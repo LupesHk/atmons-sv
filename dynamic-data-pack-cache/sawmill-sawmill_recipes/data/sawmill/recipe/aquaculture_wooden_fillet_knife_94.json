@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "productivetrees:copper_beech_log"
     },
     {
-      "item": "undergarden:wigglewood_wood"
+      "item": "productivetrees:copper_beech_wood"
     },
     {
-      "item": "undergarden:stripped_wigglewood_log"
+      "item": "productivetrees:copper_beech_stripped_log"
     },
     {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "productivetrees:copper_beech_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sugar_maple_log"
+      "item": "productivetrees:star_fruit_log"
     },
     {
-      "item": "productivetrees:sugar_maple_wood"
+      "item": "productivetrees:star_fruit_wood"
     },
     {
-      "item": "productivetrees:sugar_maple_stripped_log"
+      "item": "productivetrees:star_fruit_stripped_log"
     },
     {
-      "item": "productivetrees:sugar_maple_stripped_wood"
+      "item": "productivetrees:star_fruit_stripped_wood"
     }
   ],
   "result": {

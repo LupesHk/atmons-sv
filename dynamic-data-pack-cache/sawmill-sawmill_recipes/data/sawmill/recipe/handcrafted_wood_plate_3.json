@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:aquilaria_planks"
+    "item": "productivetrees:soursop_planks"
   },
   "result": {
     "id": "handcrafted:wood_plate",

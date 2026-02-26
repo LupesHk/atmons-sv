@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pomegranate_log"
+      "item": "productivetrees:red_banana_log"
     },
     {
-      "item": "productivetrees:pomegranate_wood"
+      "item": "productivetrees:red_banana_wood"
     },
     {
-      "item": "productivetrees:pomegranate_stripped_log"
+      "item": "productivetrees:red_banana_stripped_log"
     },
     {
-      "item": "productivetrees:pomegranate_stripped_wood"
+      "item": "productivetrees:red_banana_stripped_wood"
     }
   ],
   "result": {

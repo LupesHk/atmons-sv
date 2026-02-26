@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:dark_planks"
+    "item": "productivetrees:copoazu_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

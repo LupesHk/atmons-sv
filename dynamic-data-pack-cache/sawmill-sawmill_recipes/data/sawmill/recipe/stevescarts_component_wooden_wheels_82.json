@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:allspice_log"
+      "item": "productivetrees:flickering_sun_log"
     },
     {
-      "item": "productivetrees:allspice_wood"
+      "item": "productivetrees:flickering_sun_wood"
     },
     {
-      "item": "productivetrees:allspice_stripped_log"
+      "item": "productivetrees:flickering_sun_stripped_log"
     },
     {
-      "item": "productivetrees:allspice_stripped_wood"
+      "item": "productivetrees:flickering_sun_stripped_wood"
     }
   ],
   "result": {

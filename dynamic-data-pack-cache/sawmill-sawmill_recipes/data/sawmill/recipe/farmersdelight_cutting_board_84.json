@@ -2,16 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "productivetrees:asai_palm_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "productivetrees:asai_palm_wood"
+    },
+    {
+      "item": "productivetrees:asai_palm_stripped_log"
+    },
+    {
+      "item": "productivetrees:asai_palm_stripped_wood"
     }
   ],
   "result": {
     "id": "farmersdelight:cutting_board",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "productivetrees:flickering_sun_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "productivetrees:flickering_sun_wood"
+    },
+    {
+      "item": "productivetrees:flickering_sun_stripped_log"
+    },
+    {
+      "item": "productivetrees:flickering_sun_stripped_wood"
     }
   ],
   "result": {

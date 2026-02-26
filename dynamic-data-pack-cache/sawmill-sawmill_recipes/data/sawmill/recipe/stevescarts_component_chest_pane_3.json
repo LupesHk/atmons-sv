@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:aquilaria_planks"
+    "item": "twilightforest:mining_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

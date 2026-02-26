@@ -1,12 +1,22 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "cataclysm:chorus_stem"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:aspen_log"
+    },
+    {
+      "item": "productivetrees:aspen_wood"
+    },
+    {
+      "item": "productivetrees:aspen_stripped_log"
+    },
+    {
+      "item": "productivetrees:aspen_stripped_wood"
+    }
+  ],
   "result": {
     "id": "farmersdelight:cutting_board",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

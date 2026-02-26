@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:elm_log"
+      "item": "undergarden:wigglewood_log"
     },
     {
-      "item": "productivetrees:elm_wood"
+      "item": "undergarden:wigglewood_wood"
     },
     {
-      "item": "productivetrees:elm_stripped_log"
+      "item": "undergarden:stripped_wigglewood_log"
     },
     {
-      "item": "productivetrees:elm_stripped_wood"
+      "item": "undergarden:stripped_wigglewood_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cultivated_pear_log"
+      "item": "productivetrees:butternut_log"
     },
     {
-      "item": "productivetrees:cultivated_pear_wood"
+      "item": "productivetrees:butternut_wood"
     },
     {
-      "item": "productivetrees:cultivated_pear_stripped_log"
+      "item": "productivetrees:butternut_stripped_log"
     },
     {
-      "item": "productivetrees:cultivated_pear_stripped_wood"
+      "item": "productivetrees:butternut_stripped_wood"
     }
   ],
   "result": {

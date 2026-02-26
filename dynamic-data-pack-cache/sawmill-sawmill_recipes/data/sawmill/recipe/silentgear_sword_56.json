@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cacao_log"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_log"
     },
     {
-      "item": "productivetrees:cacao_wood"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_wood"
     },
     {
-      "item": "productivetrees:cacao_stripped_log"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_log"
     },
     {
-      "item": "productivetrees:cacao_stripped_wood"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_wood"
     }
   ],
   "result": {

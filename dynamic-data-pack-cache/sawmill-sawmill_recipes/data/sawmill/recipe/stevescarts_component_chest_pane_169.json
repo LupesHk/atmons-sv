@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:cave_dweller_planks"
+    "item": "productivetrees:sequoia_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

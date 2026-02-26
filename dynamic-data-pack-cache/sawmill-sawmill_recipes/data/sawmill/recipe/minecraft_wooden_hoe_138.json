@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cedar_log"
+      "item": "productivetrees:papaya_log"
     },
     {
-      "item": "productivetrees:cedar_wood"
+      "item": "productivetrees:papaya_wood"
     },
     {
-      "item": "productivetrees:cedar_stripped_log"
+      "item": "productivetrees:papaya_stripped_log"
     },
     {
-      "item": "productivetrees:cedar_stripped_wood"
+      "item": "productivetrees:papaya_stripped_wood"
     }
   ],
   "result": {

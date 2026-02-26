@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:cradlewood_log"
+      "item": "productivetrees:lawson_cypress_log"
     },
     {
-      "item": "eternal_starlight:cradlewood_wood"
+      "item": "productivetrees:lawson_cypress_wood"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_log"
+      "item": "productivetrees:lawson_cypress_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_wood"
+      "item": "productivetrees:lawson_cypress_stripped_wood"
     }
   ],
   "result": {

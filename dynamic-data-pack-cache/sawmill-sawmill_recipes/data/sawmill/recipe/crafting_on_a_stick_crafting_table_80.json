@@ -2,16 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "twilightforest:sorting_wood"
+    },
+    {
+      "item": "twilightforest:stripped_sorting_log"
+    },
+    {
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {
     "id": "crafting_on_a_stick:crafting_table",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

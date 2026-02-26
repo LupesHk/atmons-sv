@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "cobblemon:apricorn_log"
-    },
-    {
-      "item": "cobblemon:apricorn_wood"
-    },
-    {
-      "item": "cobblemon:stripped_apricorn_log"
-    },
-    {
-      "item": "cobblemon:stripped_apricorn_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "farmersdelight:cutting_board",
     "count": 1

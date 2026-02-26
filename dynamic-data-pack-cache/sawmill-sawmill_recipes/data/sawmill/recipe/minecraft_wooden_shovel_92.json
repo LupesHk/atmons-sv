@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:monkey_puzzle_log"
+      "item": "undergarden:grongle_log"
     },
     {
-      "item": "productivetrees:monkey_puzzle_wood"
+      "item": "undergarden:grongle_wood"
     },
     {
-      "item": "productivetrees:monkey_puzzle_stripped_log"
+      "item": "undergarden:stripped_grongle_log"
     },
     {
-      "item": "productivetrees:monkey_puzzle_stripped_wood"
+      "item": "undergarden:stripped_grongle_wood"
     }
   ],
   "result": {

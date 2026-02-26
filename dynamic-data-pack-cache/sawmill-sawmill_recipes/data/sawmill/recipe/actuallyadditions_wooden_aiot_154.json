@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:kapok_log"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "productivetrees:kapok_wood"
+      "item": "twilightforest:canopy_wood"
     },
     {
-      "item": "productivetrees:kapok_stripped_log"
+      "item": "twilightforest:stripped_canopy_log"
     },
     {
-      "item": "productivetrees:kapok_stripped_wood"
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {

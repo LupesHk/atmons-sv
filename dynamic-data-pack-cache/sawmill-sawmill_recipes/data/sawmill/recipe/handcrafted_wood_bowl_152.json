@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sweet_crabapple_log"
+      "item": "productivetrees:golden_delicious_apple_log"
     },
     {
-      "item": "productivetrees:sweet_crabapple_wood"
+      "item": "productivetrees:golden_delicious_apple_wood"
     },
     {
-      "item": "productivetrees:sweet_crabapple_stripped_log"
+      "item": "productivetrees:golden_delicious_apple_stripped_log"
     },
     {
-      "item": "productivetrees:sweet_crabapple_stripped_wood"
+      "item": "productivetrees:golden_delicious_apple_stripped_wood"
     }
   ],
   "result": {

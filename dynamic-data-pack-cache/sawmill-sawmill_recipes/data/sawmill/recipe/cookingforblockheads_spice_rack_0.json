@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "productivetrees:candlenut_log"
     },
     {
-      "item": "undergarden:wigglewood_wood"
+      "item": "productivetrees:candlenut_wood"
     },
     {
-      "item": "undergarden:stripped_wigglewood_log"
+      "item": "productivetrees:candlenut_stripped_log"
     },
     {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "productivetrees:candlenut_stripped_wood"
     }
   ],
   "result": {

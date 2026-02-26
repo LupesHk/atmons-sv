@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:socotra_dragon_planks"
+    "item": "productivetrees:clove_planks"
   },
   "result": {
     "id": "stevescarts:component_large_chest_pane",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:citron_log"
+      "item": "productivetrees:orange_log"
     },
     {
-      "item": "productivetrees:citron_wood"
+      "item": "productivetrees:orange_wood"
     },
     {
-      "item": "productivetrees:citron_stripped_log"
+      "item": "productivetrees:orange_stripped_log"
     },
     {
-      "item": "productivetrees:citron_stripped_wood"
+      "item": "productivetrees:orange_stripped_wood"
     }
   ],
   "result": {

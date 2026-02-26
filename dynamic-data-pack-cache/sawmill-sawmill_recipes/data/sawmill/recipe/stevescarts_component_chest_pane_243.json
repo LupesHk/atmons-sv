@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:clove_planks"
+    "item": "eternal_starlight:cradlewood_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

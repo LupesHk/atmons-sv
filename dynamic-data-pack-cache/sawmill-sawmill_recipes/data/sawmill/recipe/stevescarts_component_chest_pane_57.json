@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:moonlight_magic_crepe_myrtle_planks"
+    "item": "productivetrees:flickering_sun_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:blue_yonder_log"
+      "item": "productivetrees:peach_log"
     },
     {
-      "item": "productivetrees:blue_yonder_wood"
+      "item": "productivetrees:peach_wood"
     },
     {
-      "item": "productivetrees:blue_yonder_stripped_log"
+      "item": "productivetrees:peach_stripped_log"
     },
     {
-      "item": "productivetrees:blue_yonder_stripped_wood"
+      "item": "productivetrees:peach_stripped_wood"
     }
   ],
   "result": {

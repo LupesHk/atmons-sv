@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "deeperdarker:echo_wood"
-    },
-    {
-      "item": "deeperdarker:stripped_echo_log"
-    },
-    {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

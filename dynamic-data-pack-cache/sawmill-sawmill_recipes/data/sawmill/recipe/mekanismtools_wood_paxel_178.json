@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:silver_lime_log"
+    },
+    {
+      "item": "productivetrees:silver_lime_wood"
+    },
+    {
+      "item": "productivetrees:silver_lime_stripped_log"
+    },
+    {
+      "item": "productivetrees:silver_lime_stripped_wood"
+    }
+  ],
   "result": {
     "id": "mekanismtools:wood_paxel",
     "count": 1

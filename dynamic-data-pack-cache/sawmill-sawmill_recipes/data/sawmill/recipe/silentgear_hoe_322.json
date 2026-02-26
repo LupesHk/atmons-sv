@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:aurum_log"
+      "item": "twilightforest:twilight_oak_log"
     },
     {
-      "item": "forbidden_arcanus:aurum_wood"
+      "item": "twilightforest:twilight_oak_wood"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_log"
+      "item": "twilightforest:stripped_twilight_oak_log"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_wood"
+      "item": "twilightforest:stripped_twilight_oak_wood"
     }
   ],
   "result": {

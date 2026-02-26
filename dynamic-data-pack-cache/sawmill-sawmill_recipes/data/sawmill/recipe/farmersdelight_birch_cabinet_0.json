@@ -18,5 +18,6 @@
     "id": "farmersdelight:birch_cabinet",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

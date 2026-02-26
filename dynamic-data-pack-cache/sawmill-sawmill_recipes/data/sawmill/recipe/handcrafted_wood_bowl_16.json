@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:grandidiers_baobab_log"
+      "item": "eternal_starlight:torreya_log"
     },
     {
-      "item": "productivetrees:grandidiers_baobab_wood"
+      "item": "eternal_starlight:torreya_wood"
     },
     {
-      "item": "productivetrees:grandidiers_baobab_stripped_log"
+      "item": "eternal_starlight:stripped_torreya_log"
     },
     {
-      "item": "productivetrees:grandidiers_baobab_stripped_wood"
+      "item": "eternal_starlight:stripped_torreya_wood"
     }
   ],
   "result": {

@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "minecraft:cherry_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "minecraft:cherry_wood"
+    },
+    {
+      "item": "minecraft:stripped_cherry_log"
+    },
+    {
+      "item": "minecraft:stripped_cherry_wood"
     }
   ],
   "result": {
     "id": "cookingforblockheads:fruit_basket",
-    "count": 1
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

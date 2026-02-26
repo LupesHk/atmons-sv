@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:kapok_log"
-    },
-    {
-      "item": "productivetrees:kapok_wood"
-    },
-    {
-      "item": "productivetrees:kapok_stripped_log"
-    },
-    {
-      "item": "productivetrees:kapok_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "minecraft:wooden_shovel",
     "count": 1

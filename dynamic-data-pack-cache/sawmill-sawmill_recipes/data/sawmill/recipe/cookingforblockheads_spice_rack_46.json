@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:old_fustic_log"
+      "item": "productivetrees:flickering_sun_log"
     },
     {
-      "item": "productivetrees:old_fustic_wood"
+      "item": "productivetrees:flickering_sun_wood"
     },
     {
-      "item": "productivetrees:old_fustic_stripped_log"
+      "item": "productivetrees:flickering_sun_stripped_log"
     },
     {
-      "item": "productivetrees:old_fustic_stripped_wood"
+      "item": "productivetrees:flickering_sun_stripped_wood"
     }
   ],
   "result": {

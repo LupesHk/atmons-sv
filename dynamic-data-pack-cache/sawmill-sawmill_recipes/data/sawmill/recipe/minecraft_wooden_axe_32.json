@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "cobblemon:saccharine_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "cobblemon:saccharine_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "cobblemon:stripped_saccharine_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "cobblemon:stripped_saccharine_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

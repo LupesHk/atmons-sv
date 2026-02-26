@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:old_fustic_log"
+      "item": "minecraft:jungle_log"
     },
     {
-      "item": "productivetrees:old_fustic_wood"
+      "item": "minecraft:jungle_wood"
     },
     {
-      "item": "productivetrees:old_fustic_stripped_log"
+      "item": "minecraft:stripped_jungle_log"
     },
     {
-      "item": "productivetrees:old_fustic_stripped_wood"
+      "item": "minecraft:stripped_jungle_wood"
     }
   ],
   "result": {

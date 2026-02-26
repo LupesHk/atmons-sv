@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:sorting_log"
+      "item": "productivetrees:sand_pear_log"
     },
     {
-      "item": "twilightforest:sorting_wood"
+      "item": "productivetrees:sand_pear_wood"
     },
     {
-      "item": "twilightforest:stripped_sorting_log"
+      "item": "productivetrees:sand_pear_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_sorting_wood"
+      "item": "productivetrees:sand_pear_stripped_wood"
     }
   ],
   "result": {

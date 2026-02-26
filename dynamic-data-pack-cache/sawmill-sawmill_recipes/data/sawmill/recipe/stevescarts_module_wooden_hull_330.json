@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:soul_log"
+      "item": "productivetrees:pistachio_log"
     },
     {
-      "item": "allthemodium:stripped_soul_log"
+      "item": "productivetrees:pistachio_wood"
+    },
+    {
+      "item": "productivetrees:pistachio_stripped_log"
+    },
+    {
+      "item": "productivetrees:pistachio_stripped_wood"
     }
   ],
   "result": {

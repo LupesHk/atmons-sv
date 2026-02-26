@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:spruce_log"
+      "item": "productivetrees:purple_ipe_log"
     },
     {
-      "item": "minecraft:spruce_wood"
+      "item": "productivetrees:purple_ipe_wood"
     },
     {
-      "item": "minecraft:stripped_spruce_log"
+      "item": "productivetrees:purple_ipe_stripped_log"
     },
     {
-      "item": "minecraft:stripped_spruce_wood"
+      "item": "productivetrees:purple_ipe_stripped_wood"
     }
   ],
   "result": {

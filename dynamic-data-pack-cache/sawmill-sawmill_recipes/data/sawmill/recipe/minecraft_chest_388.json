@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:great_sallow_log"
+      "item": "productivetrees:purpleheart_log"
     },
     {
-      "item": "productivetrees:great_sallow_wood"
+      "item": "productivetrees:purpleheart_wood"
     },
     {
-      "item": "productivetrees:great_sallow_stripped_log"
+      "item": "productivetrees:purpleheart_stripped_log"
     },
     {
-      "item": "productivetrees:great_sallow_stripped_wood"
+      "item": "productivetrees:purpleheart_stripped_wood"
     }
   ],
   "result": {

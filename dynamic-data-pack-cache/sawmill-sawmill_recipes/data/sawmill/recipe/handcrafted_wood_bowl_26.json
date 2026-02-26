@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:coconut_log"
+      "item": "productivetrees:purple_blackthorn_log"
     },
     {
-      "item": "productivetrees:coconut_wood"
+      "item": "productivetrees:purple_blackthorn_wood"
     },
     {
-      "item": "productivetrees:coconut_stripped_log"
+      "item": "productivetrees:purple_blackthorn_stripped_log"
     },
     {
-      "item": "productivetrees:coconut_stripped_wood"
+      "item": "productivetrees:purple_blackthorn_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:dark_log"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_log"
     },
     {
-      "item": "twilightforest:dark_wood"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_wood"
     },
     {
-      "item": "twilightforest:stripped_dark_log"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_dark_wood"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_wood"
     }
   ],
   "result": {

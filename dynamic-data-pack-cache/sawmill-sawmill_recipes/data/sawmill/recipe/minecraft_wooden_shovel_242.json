@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "eternal_starlight:jinglestem_log"
     },
     {
-      "item": "deeperdarker:echo_wood"
+      "item": "eternal_starlight:jinglestem_wood"
     },
     {
-      "item": "deeperdarker:stripped_echo_log"
+      "item": "eternal_starlight:stripped_jinglestem_log"
     },
     {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "eternal_starlight:stripped_jinglestem_wood"
     }
   ],
   "result": {

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:mangrove_planks"
+    "item": "eternal_starlight:torreya_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:foggy_blast_log"
+      "item": "eternal_starlight:banyin_log"
     },
     {
-      "item": "productivetrees:foggy_blast_wood"
+      "item": "eternal_starlight:banyin_wood"
     },
     {
-      "item": "productivetrees:foggy_blast_stripped_log"
+      "item": "eternal_starlight:stripped_banyin_log"
     },
     {
-      "item": "productivetrees:foggy_blast_stripped_wood"
+      "item": "eternal_starlight:stripped_banyin_wood"
     }
   ],
   "result": {

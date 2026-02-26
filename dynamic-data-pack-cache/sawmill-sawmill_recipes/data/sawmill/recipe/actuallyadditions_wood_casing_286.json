@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rosewood_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:rosewood_wood"
-    },
-    {
-      "item": "productivetrees:rosewood_stripped_log"
-    },
-    {
-      "item": "productivetrees:rosewood_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

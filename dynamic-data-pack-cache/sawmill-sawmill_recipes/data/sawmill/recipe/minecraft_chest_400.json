@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:sparkle_cherry_log"
+    },
+    {
+      "item": "productivetrees:sparkle_cherry_wood"
+    },
+    {
+      "item": "productivetrees:sparkle_cherry_stripped_log"
+    },
+    {
+      "item": "productivetrees:sparkle_cherry_stripped_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:chest",
     "count": 1

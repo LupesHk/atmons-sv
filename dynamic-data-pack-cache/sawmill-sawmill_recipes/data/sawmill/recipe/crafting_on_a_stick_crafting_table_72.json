@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:canopy_log"
+      "item": "productivetrees:flickering_sun_log"
     },
     {
-      "item": "twilightforest:canopy_wood"
+      "item": "productivetrees:flickering_sun_wood"
     },
     {
-      "item": "twilightforest:stripped_canopy_log"
+      "item": "productivetrees:flickering_sun_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_canopy_wood"
+      "item": "productivetrees:flickering_sun_stripped_wood"
     }
   ],
   "result": {

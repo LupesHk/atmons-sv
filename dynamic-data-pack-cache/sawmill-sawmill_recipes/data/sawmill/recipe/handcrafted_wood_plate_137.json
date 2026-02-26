@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:tuscarora_crepe_myrtle_planks"
+    "item": "forbidden_arcanus:edelwood_planks"
   },
   "result": {
     "id": "handcrafted:wood_plate",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

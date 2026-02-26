@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sugar_apple_planks"
+    "item": "productivetrees:water_wonder_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

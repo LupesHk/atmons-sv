@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:soursop_planks"
+    "item": "productivetrees:greenheart_planks"
   },
   "result": {
     "id": "stevescarts:component_large_chest_pane",

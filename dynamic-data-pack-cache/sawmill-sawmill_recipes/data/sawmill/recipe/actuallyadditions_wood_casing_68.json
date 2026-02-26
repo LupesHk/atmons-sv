@@ -2,22 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:thunder_bolt_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:thunder_bolt_wood"
-    },
-    {
-      "item": "productivetrees:thunder_bolt_stripped_log"
-    },
-    {
-      "item": "productivetrees:thunder_bolt_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "actuallyadditions:wood_casing",
     "count": 1
   },
-  "ingredient_count": 2,
+  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

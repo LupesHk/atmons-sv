@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pink_ivory_log"
+      "item": "productivetrees:nutmeg_log"
     },
     {
-      "item": "productivetrees:pink_ivory_wood"
+      "item": "productivetrees:nutmeg_wood"
     },
     {
-      "item": "productivetrees:pink_ivory_stripped_log"
+      "item": "productivetrees:nutmeg_stripped_log"
     },
     {
-      "item": "productivetrees:pink_ivory_stripped_wood"
+      "item": "productivetrees:nutmeg_stripped_wood"
     }
   ],
   "result": {

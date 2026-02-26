@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "forbidden_arcanus:aurum_planks"
+    "item": "silentgear:netherwood_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "productivetrees:beliy_naliv_apple_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "productivetrees:beliy_naliv_apple_wood"
+    },
+    {
+      "item": "productivetrees:beliy_naliv_apple_stripped_log"
+    },
+    {
+      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
     }
   ],
   "result": {

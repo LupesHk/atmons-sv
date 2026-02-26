@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "minecraft:mangrove_log"
-    },
-    {
-      "item": "minecraft:mangrove_wood"
-    },
-    {
-      "item": "minecraft:stripped_mangrove_log"
-    },
-    {
-      "item": "minecraft:stripped_mangrove_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "stevescarts:component_chest_pane",
     "count": 10

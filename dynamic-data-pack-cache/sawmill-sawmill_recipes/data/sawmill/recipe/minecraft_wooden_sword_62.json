@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "cataclysm:chorus_stem"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:carob_log"
+    },
+    {
+      "item": "productivetrees:carob_wood"
+    },
+    {
+      "item": "productivetrees:carob_stripped_log"
+    },
+    {
+      "item": "productivetrees:carob_stripped_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:wooden_sword",
     "count": 1

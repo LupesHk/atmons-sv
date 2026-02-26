@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:time_planks"
+    "item": "productivetrees:sycamore_fig_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

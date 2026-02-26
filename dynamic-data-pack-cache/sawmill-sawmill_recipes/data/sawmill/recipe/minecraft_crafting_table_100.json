@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:avocado_log"
+      "item": "productivetrees:myrtle_ebony_log"
     },
     {
-      "item": "productivetrees:avocado_wood"
+      "item": "productivetrees:myrtle_ebony_wood"
     },
     {
-      "item": "productivetrees:avocado_stripped_log"
+      "item": "productivetrees:myrtle_ebony_stripped_log"
     },
     {
-      "item": "productivetrees:avocado_stripped_wood"
+      "item": "productivetrees:myrtle_ebony_stripped_wood"
     }
   ],
   "result": {

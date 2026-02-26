@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:lunar_planks"
+    "item": "productivetrees:wild_cherry_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

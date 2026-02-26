@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pomelo_log"
+      "item": "undergarden:grongle_log"
     },
     {
-      "item": "productivetrees:pomelo_wood"
+      "item": "undergarden:grongle_wood"
     },
     {
-      "item": "productivetrees:pomelo_stripped_log"
+      "item": "undergarden:stripped_grongle_log"
     },
     {
-      "item": "productivetrees:pomelo_stripped_wood"
+      "item": "undergarden:stripped_grongle_wood"
     }
   ],
   "result": {

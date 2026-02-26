@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sugar_maple_planks"
+    "item": "productivetrees:socotra_dragon_planks"
   },
   "result": {
     "id": "handcrafted:wood_plate",

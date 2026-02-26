@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:breadfruit_planks"
+    "item": "productivetrees:myrtle_ebony_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

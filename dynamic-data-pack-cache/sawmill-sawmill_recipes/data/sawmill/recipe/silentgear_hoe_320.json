@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "cobblemon:apricorn_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "cobblemon:apricorn_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "cobblemon:stripped_apricorn_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "cobblemon:stripped_apricorn_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

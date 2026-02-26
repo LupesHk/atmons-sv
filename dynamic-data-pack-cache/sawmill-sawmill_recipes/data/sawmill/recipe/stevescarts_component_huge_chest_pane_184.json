@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "silentgear:netherwood_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "silentgear:netherwood_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "silentgear:stripped_netherwood_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "silentgear:stripped_netherwood_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:warped_stem"
+      "item": "productivetrees:granny_smith_apple_log"
     },
     {
-      "item": "minecraft:warped_hyphae"
+      "item": "productivetrees:granny_smith_apple_wood"
     },
     {
-      "item": "minecraft:stripped_warped_stem"
+      "item": "productivetrees:granny_smith_apple_stripped_log"
     },
     {
-      "item": "minecraft:stripped_warped_hyphae"
+      "item": "productivetrees:granny_smith_apple_stripped_wood"
     }
   ],
   "result": {

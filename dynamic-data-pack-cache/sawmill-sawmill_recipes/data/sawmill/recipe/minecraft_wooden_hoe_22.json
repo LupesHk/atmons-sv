@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:bull_pine_log"
+      "item": "productivetrees:cempedak_log"
     },
     {
-      "item": "productivetrees:bull_pine_wood"
+      "item": "productivetrees:cempedak_wood"
     },
     {
-      "item": "productivetrees:bull_pine_stripped_log"
+      "item": "productivetrees:cempedak_stripped_log"
     },
     {
-      "item": "productivetrees:bull_pine_stripped_wood"
+      "item": "productivetrees:cempedak_stripped_wood"
     }
   ],
   "result": {
