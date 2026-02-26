@@ -3,23 +3,22 @@ setlocal
 
 set NEOFORGE_VERSION=21.1.219
 
-REM ===========================
-REM CONFIG
-REM ===========================
+echo ===========================
+echo CONFIG
+echo ===========================
 set "GIT=git"
 set "BRANCH=main"
 set "REPO_CLEAN=https://github.com/LupesHk/atmons-sv"
 set "PLAYIT_EXE=playit.exe"
 set "ZIP_NAME=world.zip"
 
-REM Define Java igual ao batch simples (só define se não existir)
 if not defined ATM10_JAVA (
     set ATM10_JAVA=java
 )
 
-REM ===========================
-REM CARREGAR TOKENS (igual ao batch simples)
-REM ===========================
+echo ===========================
+echo CARREGAR TOKENS
+echo ===========================
 if exist "password.env" (
     echo Carregando tokens...
     for /f "tokens=1,2 delims==" %%a in (password.env) do set "%%a=%%b"
@@ -27,13 +26,10 @@ if exist "password.env" (
 
 set "REPO_TOKEN=https://%GIT_TOKEN%@github.com/LupesHk/atmons-sv"
 
-REM Configurar Git
+rem Configurar Git
 "%GIT%" config --global user.name "LucasHk" >nul 2>&1
 "%GIT%" config --global user.email "lucasgamesbrasil.124@gmail.com" >nul 2>&1
 
-REM ===========================
-REM PERGUNTA DO COMMIT
-REM ===========================
 echo.
 echo ================================
 echo Deseja puxar o commit mais recente?
@@ -56,7 +52,7 @@ if "%PULL_RECENTE%"=="N" (
     echo.
 )
 
-REM ===========================
+echo ===========================
 echo Verificando git...
 where git >nul 2>&1
 if %errorlevel% neq 0 (
@@ -73,11 +69,12 @@ echo Verificando Java...
     exit /b 1
 )
 echo Java OK!
+echo ============================
 echo.
 
-REM ===========================
-REM INICIALIZAR REPO SE NECESSARIO
-REM ===========================
+echo ===========================
+echo INICIALIZAR REPO SE NECESSARIO
+echo ===========================
 "%GIT%" rev-parse --git-dir >nul 2>&1
 if %errorlevel% neq 0 (
     echo Repositorio nao encontrado. Inicializando...
@@ -115,11 +112,11 @@ if %errorlevel% neq 0 (
     )
 )
 
-REM ===========================
-REM SINCRONIZANDO
-REM ===========================
 echo.
+echo ===========================
 echo SINCRONIZANDO COM GITHUB...
+echo ===========================
+
 
 "%GIT%" remote set-url origin "%REPO_TOKEN%"
 
@@ -139,8 +136,9 @@ if "%PULL_RECENTE%"=="S" (
 echo Sincronizacao concluida!
 echo.
 
-REM ===========================
+echo ===========================
 echo VERIFICANDO PLAYIT...
+echo ===========================
 tasklist /FI "IMAGENAME eq playit.exe" | find /I "playit.exe" >nul
 if %errorlevel%==0 (
     echo Playit ja esta aberto.
@@ -155,7 +153,9 @@ echo INICIANDO SERVIDOR...
 echo ===========================
 "%ATM10_JAVA%" @user_jvm_args.txt @libraries\net\neoforged\neoforge\%NEOFORGE_VERSION%\win_args.txt nogui
 
+echo ===========================
 echo SERVIDOR FOI FECHADO.
+echo ===========================
 
 :WAIT_JAVA
 tasklist | find /i "java.exe" >nul
@@ -165,7 +165,9 @@ if %errorlevel%==0 (
 )
 
 echo.
+echo ===========================
 echo BACKUP SERA INICIADO AGORA.
+echo ===========================
 
 echo.
 echo Deseja desligar o PC ao final do backup? (S/N)
@@ -180,8 +182,9 @@ if %errorlevel%==2 (
 echo Resposta final: %DESLIGAR%
 echo.
 
-REM ===========================
+echo ===========================
 echo COMMITANDO TUDO...
+echo ===========================
 "%GIT%" remote set-url origin "%REPO_TOKEN%"
 
 "%GIT%" add -A
@@ -198,8 +201,9 @@ if %errorlevel% equ 0 (
 "%GIT%" remote set-url origin "%REPO_CLEAN%"
 echo.
 
-REM ===========================
+echo ===========================
 echo COMPACTANDO WORLD...
+
 if exist "%ZIP_NAME%" del "%ZIP_NAME%"
 powershell -command "Compress-Archive -Path 'world' -DestinationPath '%ZIP_NAME%' -Force"
 echo World compactado: %ZIP_NAME%
