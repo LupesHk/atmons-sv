@@ -16,5 +16,11 @@
     "name": "Lupes",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "68e3c53b-605d-3649-a09a-5394f575a444",
+    "name": "VRCAT",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

@@ -2,9 +2,7 @@
 	id: "68e3c53b-605d-3649-a09a-5394f575a444"
 	type: "player"
 	player_name: "VRCAT"
-	ranks: {
-		68e3c53b-605d-3649-a09a-5394f575a444: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "VRCAT"
 		"ftbteams:description": ""

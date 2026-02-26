@@ -3,6 +3,7 @@
 	type: "party"
 	owner: "3496125e-b842-38d5-bc1a-8d2b346e739b"
 	ranks: {
+		68e3c53b-605d-3649-a09a-5394f575a444: "member"
 		3496125e-b842-38d5-bc1a-8d2b346e739b: "owner"
 		03ba567e-b2bc-3d0a-8152-633f232f386d: "member"
 		948fd160-ad50-342f-8880-80919e67fffb: "member"
@@ -33,6 +34,8 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1771949248539L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Jovem_DeusXD1\"],\"color\":\"green\"}" }
 		{ from: "3496125e-b842-38d5-bc1a-8d2b346e739b", date: 1772072440192L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"FR4N\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1772072443057L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"FR4N\"],\"color\":\"green\"}" }
+		{ from: "3496125e-b842-38d5-bc1a-8d2b346e739b", date: 1772146173747L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"VRCAT\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1772146178501L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"VRCAT\"],\"color\":\"green\"}" }
 	]
 	extra: { }
 }

@@ -3,10 +3,9 @@
 	fly: true
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 386, y: 100, z: 318, time: 1772076731802L, xRot: 2.141512f, yRot: 125.26459f }
+	last_seen: { dim: "minecraft:overworld", x: 384, y: 100, z: 316, time: 1772150137173L, xRot: 5.849986f, yRot: 10.948181f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "cobblemonraiddens:raid_dimension", x: 0, y: 0, z: -1, time: 1771949558600L }
 		{ dim: "minecraft:overworld", x: 222, y: 92, z: 196, time: 1771949594817L }
 		{ dim: "minecraft:overworld", x: 298, y: 65, z: 188, time: 1771950182795L }
 		{ dim: "minecraft:overworld", x: 474, y: 45, z: 205, time: 1771950229999L }
