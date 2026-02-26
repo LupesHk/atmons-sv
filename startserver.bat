@@ -150,30 +150,12 @@ if %errorlevel%==0 (
 )
 echo.
 
-REM ===========================
-echo AVISANDO WHATSAPP: SERVER ON
-if exist "whats\bot.js" (
-    cd whats
-    node bot.js on
-    cd ..
-) else (
-    echo Bot WhatsApp nao encontrado.
-)
-
 echo ===========================
 echo INICIANDO SERVIDOR...
 echo ===========================
 "%ATM10_JAVA%" @user_jvm_args.txt @libraries\net\neoforged\neoforge\%NEOFORGE_VERSION%\win_args.txt nogui
 
 echo SERVIDOR FOI FECHADO.
-
-echo AVISANDO WHATSAPP: SERVER OFF
-if exist "whats\bot.js" (
-    cd whats
-    node bot.js off
-    cd ..
-)
-echo.
 
 :WAIT_JAVA
 tasklist | find /i "java.exe" >nul
