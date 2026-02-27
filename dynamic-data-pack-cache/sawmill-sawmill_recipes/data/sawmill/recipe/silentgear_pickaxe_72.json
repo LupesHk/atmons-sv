@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:copper_beech_log"
+    },
+    {
+      "item": "productivetrees:copper_beech_wood"
+    },
+    {
+      "item": "productivetrees:copper_beech_stripped_log"
+    },
+    {
+      "item": "productivetrees:copper_beech_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:pickaxe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:dogwood_log"
+  },
+  "result": {
+    "id": "productivetrees:dogwood_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

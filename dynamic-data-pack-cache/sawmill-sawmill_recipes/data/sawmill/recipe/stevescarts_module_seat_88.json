@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:birch_log"
+      "item": "eternal_starlight:scarlet_log"
     },
     {
-      "item": "minecraft:birch_wood"
+      "item": "eternal_starlight:scarlet_wood"
     },
     {
-      "item": "minecraft:stripped_birch_log"
+      "item": "eternal_starlight:stripped_scarlet_log"
     },
     {
-      "item": "minecraft:stripped_birch_wood"
+      "item": "eternal_starlight:stripped_scarlet_wood"
     }
   ],
   "result": {

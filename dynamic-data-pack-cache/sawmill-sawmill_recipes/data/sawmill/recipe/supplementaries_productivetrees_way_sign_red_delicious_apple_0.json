@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:red_delicious_apple_log"
+    },
+    {
+      "item": "productivetrees:red_delicious_apple_wood"
+    },
+    {
+      "item": "productivetrees:red_delicious_apple_stripped_log"
+    },
+    {
+      "item": "productivetrees:red_delicious_apple_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_red_delicious_apple",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

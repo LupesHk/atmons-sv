@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:finger_lime_log"
+    },
+    {
+      "item": "productivetrees:finger_lime_wood"
+    },
+    {
+      "item": "productivetrees:finger_lime_stripped_log"
+    },
+    {
+      "item": "productivetrees:finger_lime_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:finger_lime_door",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

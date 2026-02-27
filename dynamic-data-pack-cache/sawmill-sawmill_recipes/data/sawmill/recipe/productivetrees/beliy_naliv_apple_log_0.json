@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:beliy_naliv_apple_log"
+  },
+  "result": {
+    "id": "productivetrees:beliy_naliv_apple_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

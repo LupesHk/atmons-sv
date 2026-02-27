@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:cocobolo_log"
+  },
+  "result": {
+    "id": "productivetrees:cocobolo_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

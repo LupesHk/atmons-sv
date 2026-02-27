@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:cashew_stripped_log"
+  },
+  "result": {
+    "id": "productivetrees:cashew_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

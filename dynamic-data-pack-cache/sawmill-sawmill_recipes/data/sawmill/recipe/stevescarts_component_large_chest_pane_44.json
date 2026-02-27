@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:grandidiers_baobab_log"
+    },
+    {
+      "item": "productivetrees:grandidiers_baobab_wood"
+    },
+    {
+      "item": "productivetrees:grandidiers_baobab_stripped_log"
+    },
+    {
+      "item": "productivetrees:grandidiers_baobab_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

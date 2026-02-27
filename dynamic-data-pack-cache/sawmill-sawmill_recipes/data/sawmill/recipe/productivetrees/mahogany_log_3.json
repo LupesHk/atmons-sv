@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:mahogany_wood"
+  },
+  "result": {
+    "id": "productivetrees:mahogany_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

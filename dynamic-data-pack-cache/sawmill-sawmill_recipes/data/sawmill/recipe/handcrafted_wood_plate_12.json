@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "eternal_starlight:cradlewood_log"
+    },
+    {
+      "item": "eternal_starlight:cradlewood_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_cradlewood_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_cradlewood_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_plate",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

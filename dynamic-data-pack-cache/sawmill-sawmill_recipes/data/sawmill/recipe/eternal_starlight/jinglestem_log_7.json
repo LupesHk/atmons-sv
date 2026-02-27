@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "eternal_starlight:stripped_jinglestem_log"
+  },
+  "result": {
+    "id": "eternal_starlight:stripped_jinglestem_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

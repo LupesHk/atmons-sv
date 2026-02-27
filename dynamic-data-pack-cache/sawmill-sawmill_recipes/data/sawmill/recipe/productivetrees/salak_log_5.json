@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:salak_wood"
+  },
+  "result": {
+    "id": "productivetrees:salak_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

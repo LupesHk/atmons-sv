@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "twilightforest:mining_planks"
+  },
+  "result": {
+    "id": "twilightforest:mining_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

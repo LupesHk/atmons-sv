@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sugar_apple_log"
+    },
+    {
+      "item": "productivetrees:sugar_apple_wood"
+    },
+    {
+      "item": "productivetrees:sugar_apple_stripped_log"
+    },
+    {
+      "item": "productivetrees:sugar_apple_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_wooden_wheels",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

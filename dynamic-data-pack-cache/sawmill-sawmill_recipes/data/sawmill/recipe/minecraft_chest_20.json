@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:golden_delicious_apple_log"
+    },
+    {
+      "item": "productivetrees:golden_delicious_apple_wood"
+    },
+    {
+      "item": "productivetrees:golden_delicious_apple_stripped_log"
+    },
+    {
+      "item": "productivetrees:golden_delicious_apple_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chest",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

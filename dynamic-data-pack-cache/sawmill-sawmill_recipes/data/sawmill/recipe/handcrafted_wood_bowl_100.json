@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:red_maple_log"
+    },
+    {
+      "item": "productivetrees:red_maple_wood"
+    },
+    {
+      "item": "productivetrees:red_maple_stripped_log"
+    },
+    {
+      "item": "productivetrees:red_maple_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_wood"
+    },
+    {
+      "item": "aether:stripped_skyroot_log"
+    },
+    {
+      "item": "aether:stripped_skyroot_wood"
+    }
+  ],
+  "result": {
+    "id": "aether:skyroot_chest_boat",
+    "count": 1
+  },
+  "ingredient_count": 3,
+  "type": "sawmill:woodcutting"
+}

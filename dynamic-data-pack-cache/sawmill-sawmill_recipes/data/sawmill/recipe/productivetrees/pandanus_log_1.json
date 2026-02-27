@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:pandanus_log"
+  },
+  "result": {
+    "id": "productivetrees:pandanus_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

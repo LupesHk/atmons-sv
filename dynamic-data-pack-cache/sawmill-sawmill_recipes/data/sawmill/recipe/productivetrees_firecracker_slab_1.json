@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:firecracker_planks"
+  },
+  "result": {
+    "id": "productivetrees:firecracker_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

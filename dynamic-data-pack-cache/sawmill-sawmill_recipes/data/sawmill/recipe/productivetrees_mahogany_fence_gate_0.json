@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:mahogany_log"
+    },
+    {
+      "item": "productivetrees:mahogany_wood"
+    },
+    {
+      "item": "productivetrees:mahogany_stripped_log"
+    },
+    {
+      "item": "productivetrees:mahogany_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:mahogany_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:salak_planks"
+  },
+  "result": {
+    "id": "productivetrees:salak_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

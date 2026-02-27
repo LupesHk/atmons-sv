@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "twilightforest:mangrove_planks"
+  },
+  "result": {
+    "id": "twilightforest:mangrove_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

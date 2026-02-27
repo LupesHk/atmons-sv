@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:coffea_log"
+      "item": "twilightforest:twilight_oak_log"
     },
     {
-      "item": "productivetrees:coffea_wood"
+      "item": "twilightforest:twilight_oak_wood"
     },
     {
-      "item": "productivetrees:coffea_stripped_log"
+      "item": "twilightforest:stripped_twilight_oak_log"
     },
     {
-      "item": "productivetrees:coffea_stripped_wood"
+      "item": "twilightforest:stripped_twilight_oak_wood"
     }
   ],
   "result": {

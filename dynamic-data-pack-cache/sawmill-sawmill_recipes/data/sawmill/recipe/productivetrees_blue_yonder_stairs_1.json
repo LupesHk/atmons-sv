@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:blue_yonder_planks"
+  },
+  "result": {
+    "id": "productivetrees:blue_yonder_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

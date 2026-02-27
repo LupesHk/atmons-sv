@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:logwood_planks"
+  },
+  "result": {
+    "id": "productivetrees:logwood_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

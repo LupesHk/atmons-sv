@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:flickering_sun_log"
+    },
+    {
+      "item": "productivetrees:flickering_sun_wood"
+    },
+    {
+      "item": "productivetrees:flickering_sun_stripped_log"
+    },
+    {
+      "item": "productivetrees:flickering_sun_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "aquaculture:wooden_fillet_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

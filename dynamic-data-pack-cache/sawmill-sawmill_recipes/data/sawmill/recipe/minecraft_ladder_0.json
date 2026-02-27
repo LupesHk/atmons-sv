@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "minecraft:logs"
+  },
+  "result": {
+    "id": "minecraft:ladder",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

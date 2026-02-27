@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:soul_tree_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "productivetrees:soul_tree_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "productivetrees:soul_tree_stripped_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "productivetrees:soul_tree_stripped_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

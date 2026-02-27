@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:aspen_log"
+    },
+    {
+      "item": "productivetrees:aspen_wood"
+    },
+    {
+      "item": "productivetrees:aspen_stripped_log"
+    },
+    {
+      "item": "productivetrees:aspen_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_wooden_wheels",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

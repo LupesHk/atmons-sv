@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:banana_log"
+    },
+    {
+      "item": "productivetrees:banana_wood"
+    },
+    {
+      "item": "productivetrees:banana_stripped_log"
+    },
+    {
+      "item": "productivetrees:banana_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "aquaculture:wooden_fillet_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

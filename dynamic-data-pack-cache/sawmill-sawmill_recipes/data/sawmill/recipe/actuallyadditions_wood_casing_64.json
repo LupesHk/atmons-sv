@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:pandanus_log"
+    },
+    {
+      "item": "productivetrees:pandanus_wood"
+    },
+    {
+      "item": "productivetrees:pandanus_stripped_log"
+    },
+    {
+      "item": "productivetrees:pandanus_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "actuallyadditions:wood_casing",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

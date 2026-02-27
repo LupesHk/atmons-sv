@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:spruce_planks"
+  },
+  "result": {
+    "id": "handcrafted:spruce_chair",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

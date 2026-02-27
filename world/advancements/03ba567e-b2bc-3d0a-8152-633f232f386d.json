@@ -157,6 +157,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:desert": "2026-02-27 01:50:14 -0300",
       "minecraft:river": "2026-02-24 13:29:08 -0300",
       "minecraft:snowy_plains": "2026-02-24 13:03:41 -0300",
       "minecraft:dripstone_caves": "2026-02-24 13:22:03 -0300",
@@ -1109,41 +1110,17 @@
     },
     "done": true
   },
-  "supplementaries:recipe/sconce_soul": {
+  "ae2:main/fluix": {
     "criteria": {
-      "has_tag_c_nuggets_iron_2": "2026-02-26 00:01:09 -0300"
+      "certus": "2026-02-25 23:30:12 -0300"
     },
     "done": true
   },
-  "create:encased_fan": {
+  "mekanism:energy_transport": {
     "criteria": {
-      "0": "2026-02-26 00:13:39 -0300"
+      "basic_universal_cable": "2026-02-25 23:32:01 -0300"
     },
     "done": true
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2026-02-26 00:01:18 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/buntings/bunting_black": {
-    "criteria": {
-      "has_tag_c_dyes_black_2": "2026-02-26 00:21:46 -0300"
-    },
-    "done": true
-  },
-  "create:water_wheel": {
-    "criteria": {
-      "0": "2026-02-26 00:06:36 -0300"
-    },
-    "done": true
-  },
-  "silentgear:nether_plants": {
-    "criteria": {
-      "banana": "2026-02-25 23:46:06 -0300"
-    },
-    "done": false
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
@@ -1153,9 +1130,51 @@
     },
     "done": false
   },
-  "ae2:main/fluix": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "certus": "2026-02-25 23:30:12 -0300"
+      "entered_nether": "2026-02-25 23:34:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-02-25 23:34:33 -0300"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2026-02-25 23:34:33 -0300"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2026-02-25 23:46:06 -0300"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/sconce_soul": {
+    "criteria": {
+      "has_tag_c_nuggets_iron_2": "2026-02-26 00:01:09 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/slidy_block": {
+    "criteria": {
+      "has_tag_c_nuggets_iron_1": "2026-02-26 00:01:09 -0300"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2026-02-26 00:01:18 -0300"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2026-02-26 00:06:36 -0300"
     },
     "done": true
   },
@@ -1165,9 +1184,27 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "create:shifting_gears": {
     "criteria": {
-      "entered_nether": "2026-02-25 23:34:33 -0300"
+      "0": "2026-02-26 00:09:13 -0300"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2026-02-26 00:13:39 -0300"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2026-02-26 00:18:25 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_black": {
+    "criteria": {
+      "has_tag_c_dyes_black_2": "2026-02-26 00:21:46 -0300"
     },
     "done": true
   },
@@ -1180,12 +1217,6 @@
   "supplementaries:recipe/buntings/bunting_yellow": {
     "criteria": {
       "has_tag_c_dyes_yellow_2": "2026-02-26 00:21:46 -0300"
-    },
-    "done": true
-  },
-  "cobblemon:harvest_apricorn_seed": {
-    "criteria": {
-      "check_inv": "2026-02-26 00:24:24 -0300"
     },
     "done": true
   },
@@ -1207,18 +1238,6 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2026-02-25 23:34:33 -0300"
-    },
-    "done": true
-  },
-  "mekanism:energy_transport": {
-    "criteria": {
-      "basic_universal_cable": "2026-02-25 23:32:01 -0300"
-    },
-    "done": true
-  },
   "supplementaries:recipe/candle_holders/candle_holder_white_dye": {
     "criteria": {
       "has_tag_c_dyes_white_1": "2026-02-26 00:21:46 -0300"
@@ -1237,15 +1256,10 @@
     },
     "done": true
   },
-  "silentgear:nether": {
-    "criteria": {
-      "entered_nether": "2026-02-25 23:34:33 -0300"
-    },
-    "done": true
-  },
   "cobblemon:craft_all_balls": {
     "criteria": {
-      "great_ball": "2026-02-26 00:21:46 -0300"
+      "great_ball": "2026-02-26 00:21:46 -0300",
+      "verdant_ball": "2026-02-27 01:43:52 -0300"
     },
     "done": false
   },
@@ -1255,21 +1269,9 @@
     },
     "done": true
   },
-  "create:fan_processing": {
-    "criteria": {
-      "0": "2026-02-26 00:18:25 -0300"
-    },
-    "done": true
-  },
   "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
     "criteria": {
       "has_tag_c_dyes_black_1": "2026-02-26 00:21:46 -0300"
-    },
-    "done": true
-  },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2026-02-26 00:09:13 -0300"
     },
     "done": true
   },
@@ -1279,9 +1281,111 @@
     },
     "done": true
   },
-  "supplementaries:recipe/slidy_block": {
+  "cobblemon:harvest_apricorn_seed": {
     "criteria": {
-      "has_tag_c_nuggets_iron_1": "2026-02-26 00:01:09 -0300"
+      "check_inv": "2026-02-26 00:24:24 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gravel_bricks": {
+    "criteria": {
+      "has_item_minecraft_gravel_1": "2026-02-27 00:51:11 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/planter_rich_fd": {
+    "criteria": {
+      "has_item_minecraft_bone_meal_2": "2026-02-27 01:14:57 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/dragon_banner_pattern": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-02-27 02:09:24 -0300"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2026-02-27 01:30:01 -0300"
+    },
+    "done": true
+  },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "verdant_ball": "2026-02-27 01:43:52 -0300"
+    },
+    "done": false
+  },
+  "cobblemon:craft_pokedex": {
+    "criteria": {
+      "requirement": "2026-02-27 02:20:07 -0300"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2026-02-27 01:29:57 -0300"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2026-02-27 01:30:32 -0300"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2026-02-27 01:29:52 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/present": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-02-27 02:09:24 -0300"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2026-02-27 01:39:05 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candy": {
+    "criteria": {
+      "has_item_minecraft_paper_2": "2026-02-27 02:09:24 -0300"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2026-02-27 01:30:35 -0300"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2026-02-27 01:32:01 -0300"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2026-02-27 02:21:58 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/trapped_present_3": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-02-27 02:09:24 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/trapped_present_2": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-02-27 02:09:24 -0300"
     },
     "done": true
   },

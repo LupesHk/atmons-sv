@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:olive_stripped_log"
+  },
+  "result": {
+    "id": "productivetrees:olive_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:cedar_planks"
+  },
+  "result": {
+    "id": "productivetrees:cedar_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

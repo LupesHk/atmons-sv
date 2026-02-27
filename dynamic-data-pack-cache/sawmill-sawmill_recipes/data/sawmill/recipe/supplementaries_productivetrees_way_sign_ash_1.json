@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:ash_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_ash",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

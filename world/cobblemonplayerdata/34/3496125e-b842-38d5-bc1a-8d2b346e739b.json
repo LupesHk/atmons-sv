@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 3,
+    "totalBattleVictoryCount": 4,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 4,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -22,7 +22,8 @@
     "totalDefeatedCounts": {
       "cobblemon:swinub": 1,
       "cobblemon:spoink": 1,
-      "cobblemon:lechonk": 1
+      "cobblemon:lechonk": 1,
+      "cobblemon:skwovet": 1
     },
     "aspectsCollected": {}
   }

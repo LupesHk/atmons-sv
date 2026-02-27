@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "eternal_starlight:northland_planks"
+  },
+  "result": {
+    "id": "eternal_starlight:northland_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

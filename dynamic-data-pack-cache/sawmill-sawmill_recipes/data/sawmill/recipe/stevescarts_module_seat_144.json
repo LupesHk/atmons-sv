@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:aurum_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "forbidden_arcanus:aurum_wood"
-    },
-    {
-      "item": "forbidden_arcanus:stripped_aurum_log"
-    },
-    {
-      "item": "forbidden_arcanus:stripped_aurum_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

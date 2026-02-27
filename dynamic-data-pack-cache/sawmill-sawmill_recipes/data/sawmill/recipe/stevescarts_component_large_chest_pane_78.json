@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sandalwood_log"
+    },
+    {
+      "item": "productivetrees:sandalwood_wood"
+    },
+    {
+      "item": "productivetrees:sandalwood_stripped_log"
+    },
+    {
+      "item": "productivetrees:sandalwood_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

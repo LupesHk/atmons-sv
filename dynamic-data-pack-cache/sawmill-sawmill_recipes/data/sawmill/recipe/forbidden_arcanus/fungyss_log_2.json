@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "forbidden_arcanus:fungyss_stem"
+  },
+  "result": {
+    "id": "forbidden_arcanus:fungyss_hyphae",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

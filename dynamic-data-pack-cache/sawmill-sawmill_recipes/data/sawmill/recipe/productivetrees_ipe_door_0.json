@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:ipe_log"
+    },
+    {
+      "item": "productivetrees:ipe_wood"
+    },
+    {
+      "item": "productivetrees:ipe_stripped_log"
+    },
+    {
+      "item": "productivetrees:ipe_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:ipe_door",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

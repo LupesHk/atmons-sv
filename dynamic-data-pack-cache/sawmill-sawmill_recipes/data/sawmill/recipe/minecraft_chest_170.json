@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:yellow_meranti_log"
+    },
+    {
+      "item": "productivetrees:yellow_meranti_wood"
+    },
+    {
+      "item": "productivetrees:yellow_meranti_stripped_log"
+    },
+    {
+      "item": "productivetrees:yellow_meranti_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chest",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:thunder_bolt_wood"
+  },
+  "result": {
+    "id": "productivetrees:thunder_bolt_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

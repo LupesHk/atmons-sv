@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:ash_wood"
+  },
+  "result": {
+    "id": "productivetrees:ash_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

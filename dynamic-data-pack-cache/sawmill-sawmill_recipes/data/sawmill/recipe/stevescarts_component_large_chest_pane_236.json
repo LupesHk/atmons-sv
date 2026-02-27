@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:clove_log"
+    },
+    {
+      "item": "productivetrees:clove_wood"
+    },
+    {
+      "item": "productivetrees:clove_stripped_log"
+    },
+    {
+      "item": "productivetrees:clove_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:tangerine_stripped_log"
+  },
+  "result": {
+    "id": "productivetrees:tangerine_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

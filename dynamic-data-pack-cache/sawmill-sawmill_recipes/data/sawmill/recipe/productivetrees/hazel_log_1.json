@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:hazel_log"
+  },
+  "result": {
+    "id": "productivetrees:hazel_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

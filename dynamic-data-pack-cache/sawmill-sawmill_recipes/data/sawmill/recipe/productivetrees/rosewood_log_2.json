@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:rosewood_log"
+  },
+  "result": {
+    "id": "productivetrees:rosewood_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

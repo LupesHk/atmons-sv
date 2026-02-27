@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sugar_maple_log"
+    },
+    {
+      "item": "productivetrees:sugar_maple_wood"
+    },
+    {
+      "item": "productivetrees:sugar_maple_stripped_log"
+    },
+    {
+      "item": "productivetrees:sugar_maple_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_large_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

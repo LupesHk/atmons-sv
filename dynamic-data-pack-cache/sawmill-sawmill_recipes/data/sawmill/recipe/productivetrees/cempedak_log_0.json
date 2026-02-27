@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:cempedak_log"
+  },
+  "result": {
+    "id": "productivetrees:cempedak_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:water_wonder_log"
+    },
+    {
+      "item": "productivetrees:water_wonder_wood"
+    },
+    {
+      "item": "productivetrees:water_wonder_stripped_log"
+    },
+    {
+      "item": "productivetrees:water_wonder_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "actuallyadditions:wooden_aiot",
+    "count": 1
+  },
+  "ingredient_count": 3,
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,17 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    }
+  ],
+  "result": {
+    "id": "oritech:machine_core_1",
+    "count": 1
+  },
+  "ingredient_count": 6,
+  "type": "sawmill:woodcutting"
+}

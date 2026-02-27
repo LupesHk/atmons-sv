@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:peach_log"
+    },
+    {
+      "item": "productivetrees:peach_wood"
+    },
+    {
+      "item": "productivetrees:peach_stripped_log"
+    },
+    {
+      "item": "productivetrees:peach_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "aquaculture:wooden_fillet_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

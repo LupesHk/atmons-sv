@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:rosewood_log"
+    },
+    {
+      "item": "productivetrees:rosewood_wood"
+    },
+    {
+      "item": "productivetrees:rosewood_stripped_log"
+    },
+    {
+      "item": "productivetrees:rosewood_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

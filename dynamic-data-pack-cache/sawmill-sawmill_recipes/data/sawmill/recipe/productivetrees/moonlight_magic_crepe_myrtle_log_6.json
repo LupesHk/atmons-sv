@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_wood"
+  },
+  "result": {
+    "id": "productivetrees:moonlight_magic_crepe_myrtle_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

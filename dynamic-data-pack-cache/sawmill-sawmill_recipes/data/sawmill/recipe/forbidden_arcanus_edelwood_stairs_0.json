@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
+  "result": {
+    "id": "forbidden_arcanus:edelwood_stairs",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

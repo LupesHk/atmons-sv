@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:yellow_meranti_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_yellow_meranti",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

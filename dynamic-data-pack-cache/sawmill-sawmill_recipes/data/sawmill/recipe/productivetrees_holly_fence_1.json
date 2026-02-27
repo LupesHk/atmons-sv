@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:holly_planks"
+  },
+  "result": {
+    "id": "productivetrees:holly_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:pomelo_log"
+    },
+    {
+      "item": "productivetrees:pomelo_wood"
+    },
+    {
+      "item": "productivetrees:pomelo_stripped_log"
+    },
+    {
+      "item": "productivetrees:pomelo_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "aquaculture:wooden_fillet_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

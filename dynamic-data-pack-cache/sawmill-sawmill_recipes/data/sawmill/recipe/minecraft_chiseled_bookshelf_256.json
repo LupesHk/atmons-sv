@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "undergarden:smogstem_log"
+    },
+    {
+      "item": "undergarden:smogstem_wood"
+    },
+    {
+      "item": "undergarden:stripped_smogstem_log"
+    },
+    {
+      "item": "undergarden:stripped_smogstem_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chiseled_bookshelf",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

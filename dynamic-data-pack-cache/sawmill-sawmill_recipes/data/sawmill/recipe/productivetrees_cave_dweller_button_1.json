@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:cave_dweller_planks"
+  },
+  "result": {
+    "id": "productivetrees:cave_dweller_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

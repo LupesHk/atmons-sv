@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:red_crepe_myrtle_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_red_crepe_myrtle",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

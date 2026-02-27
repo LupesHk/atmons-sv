@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "integrateddynamics:menril_log"
+    },
+    {
+      "item": "integrateddynamics:menril_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

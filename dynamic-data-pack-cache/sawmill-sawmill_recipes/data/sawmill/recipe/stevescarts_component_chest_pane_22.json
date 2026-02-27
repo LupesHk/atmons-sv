@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:cempedak_log"
+    },
+    {
+      "item": "productivetrees:cempedak_wood"
+    },
+    {
+      "item": "productivetrees:cempedak_stripped_log"
+    },
+    {
+      "item": "productivetrees:cempedak_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

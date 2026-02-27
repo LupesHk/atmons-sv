@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:lawson_cypress_planks"
+    "item": "eternal_starlight:cradlewood_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:padauk_log"
+    },
+    {
+      "item": "productivetrees:padauk_wood"
+    },
+    {
+      "item": "productivetrees:padauk_stripped_log"
+    },
+    {
+      "item": "productivetrees:padauk_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

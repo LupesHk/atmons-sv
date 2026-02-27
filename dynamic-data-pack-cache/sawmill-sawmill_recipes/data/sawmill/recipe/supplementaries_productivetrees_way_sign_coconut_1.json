@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:coconut_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_coconut",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "silentgear:stripped_netherwood_wood"
+  },
+  "result": {
+    "id": "silentgear:stripped_netherwood_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

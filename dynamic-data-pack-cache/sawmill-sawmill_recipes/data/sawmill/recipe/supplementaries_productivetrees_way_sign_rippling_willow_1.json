@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:rippling_willow_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_rippling_willow",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

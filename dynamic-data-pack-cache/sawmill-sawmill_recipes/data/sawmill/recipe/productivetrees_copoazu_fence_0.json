@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:copoazu_log"
+    },
+    {
+      "item": "productivetrees:copoazu_wood"
+    },
+    {
+      "item": "productivetrees:copoazu_stripped_log"
+    },
+    {
+      "item": "productivetrees:copoazu_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:copoazu_fence",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}

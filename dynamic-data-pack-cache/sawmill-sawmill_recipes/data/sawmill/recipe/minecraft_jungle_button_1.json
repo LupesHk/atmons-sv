@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:jungle_planks"
+  },
+  "result": {
+    "id": "minecraft:jungle_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

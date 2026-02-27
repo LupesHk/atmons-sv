@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:butternut_planks"
+  },
+  "result": {
+    "id": "productivetrees:butternut_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

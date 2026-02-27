@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:asai_palm_log"
+    },
+    {
+      "item": "productivetrees:asai_palm_wood"
+    },
+    {
+      "item": "productivetrees:asai_palm_stripped_log"
+    },
+    {
+      "item": "productivetrees:asai_palm_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_huge_chest_pane",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:cultivated_pear_log"
+    },
+    {
+      "item": "productivetrees:cultivated_pear_wood"
+    },
+    {
+      "item": "productivetrees:cultivated_pear_stripped_log"
+    },
+    {
+      "item": "productivetrees:cultivated_pear_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:cultivated_pear_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

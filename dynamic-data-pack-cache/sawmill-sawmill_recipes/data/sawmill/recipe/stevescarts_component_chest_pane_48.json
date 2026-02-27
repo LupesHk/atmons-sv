@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sour_cherry_log"
+    },
+    {
+      "item": "productivetrees:sour_cherry_wood"
+    },
+    {
+      "item": "productivetrees:sour_cherry_stripped_log"
+    },
+    {
+      "item": "productivetrees:sour_cherry_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

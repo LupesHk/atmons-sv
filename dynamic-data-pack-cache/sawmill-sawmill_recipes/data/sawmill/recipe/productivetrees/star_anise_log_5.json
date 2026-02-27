@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:star_anise_wood"
+  },
+  "result": {
+    "id": "productivetrees:star_anise_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

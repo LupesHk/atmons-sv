@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:zebrano_planks"
+  },
+  "result": {
+    "id": "productivetrees:zebrano_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

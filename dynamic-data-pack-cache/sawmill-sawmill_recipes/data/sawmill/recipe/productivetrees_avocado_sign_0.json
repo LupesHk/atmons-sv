@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:avocado_log"
+    },
+    {
+      "item": "productivetrees:avocado_wood"
+    },
+    {
+      "item": "productivetrees:avocado_stripped_log"
+    },
+    {
+      "item": "productivetrees:avocado_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:avocado_sign",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

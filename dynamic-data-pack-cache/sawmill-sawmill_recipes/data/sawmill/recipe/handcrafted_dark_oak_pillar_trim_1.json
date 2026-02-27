@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:dark_oak_planks"
+  },
+  "result": {
+    "id": "handcrafted:dark_oak_pillar_trim",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

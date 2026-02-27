@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:kumquat_log"
+    },
+    {
+      "item": "productivetrees:kumquat_wood"
+    },
+    {
+      "item": "productivetrees:kumquat_stripped_log"
+    },
+    {
+      "item": "productivetrees:kumquat_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:kumquat_stairs",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

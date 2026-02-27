@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:papaya_log"
+    },
+    {
+      "item": "productivetrees:papaya_wood"
+    },
+    {
+      "item": "productivetrees:papaya_stripped_log"
+    },
+    {
+      "item": "productivetrees:papaya_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:papaya_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

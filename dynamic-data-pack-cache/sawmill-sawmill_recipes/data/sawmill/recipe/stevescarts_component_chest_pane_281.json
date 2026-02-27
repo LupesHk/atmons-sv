@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:padauk_planks"
+  },
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

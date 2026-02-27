@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "integrateddynamics:menril_log"
+  },
+  "result": {
+    "id": "integrateddynamics:menril_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

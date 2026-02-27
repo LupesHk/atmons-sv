@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "twilightforest:transformation_log"
+    },
+    {
+      "item": "twilightforest:transformation_wood"
+    },
+    {
+      "item": "twilightforest:stripped_transformation_log"
+    },
+    {
+      "item": "twilightforest:stripped_transformation_wood"
+    }
+  ],
+  "result": {
+    "id": "twilightforest:transformation_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

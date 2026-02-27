@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "silentgear:netherwood_planks"
+  },
+  "result": {
+    "id": "silentgear:netherwood_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

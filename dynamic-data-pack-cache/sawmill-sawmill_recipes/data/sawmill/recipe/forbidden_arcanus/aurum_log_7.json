@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "forbidden_arcanus:stripped_aurum_log"
+  },
+  "result": {
+    "id": "forbidden_arcanus:stripped_aurum_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

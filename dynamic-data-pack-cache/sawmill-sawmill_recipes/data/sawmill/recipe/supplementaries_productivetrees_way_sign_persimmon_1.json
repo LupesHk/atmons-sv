@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:persimmon_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_persimmon",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

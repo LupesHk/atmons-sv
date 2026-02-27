@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "undergarden:stripped_wigglewood_log"
+  },
+  "result": {
+    "id": "undergarden:stripped_wigglewood_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

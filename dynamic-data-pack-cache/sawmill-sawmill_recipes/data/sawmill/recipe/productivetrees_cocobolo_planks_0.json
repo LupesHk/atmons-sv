@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:cocobolo_log"
+    },
+    {
+      "item": "productivetrees:cocobolo_wood"
+    },
+    {
+      "item": "productivetrees:cocobolo_stripped_log"
+    },
+    {
+      "item": "productivetrees:cocobolo_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:cocobolo_planks",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

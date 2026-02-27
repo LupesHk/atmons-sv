@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:pink_ivory_log"
+    },
+    {
+      "item": "productivetrees:pink_ivory_wood"
+    },
+    {
+      "item": "productivetrees:pink_ivory_stripped_log"
+    },
+    {
+      "item": "productivetrees:pink_ivory_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "aquaculture:wooden_fillet_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

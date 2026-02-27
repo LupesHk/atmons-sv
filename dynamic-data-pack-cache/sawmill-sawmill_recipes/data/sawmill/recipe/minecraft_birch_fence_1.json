@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:birch_planks"
+  },
+  "result": {
+    "id": "minecraft:birch_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

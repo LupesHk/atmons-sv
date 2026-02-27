@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "twilightforest:twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:twilight_oak_wood"
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_wood"
+    }
+  ],
+  "result": {
+    "id": "twilightforest:twilight_oak_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

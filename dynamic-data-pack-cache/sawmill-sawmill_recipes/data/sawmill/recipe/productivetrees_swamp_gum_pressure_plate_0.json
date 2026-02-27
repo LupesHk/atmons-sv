@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:swamp_gum_log"
+    },
+    {
+      "item": "productivetrees:swamp_gum_wood"
+    },
+    {
+      "item": "productivetrees:swamp_gum_stripped_log"
+    },
+    {
+      "item": "productivetrees:swamp_gum_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:swamp_gum_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

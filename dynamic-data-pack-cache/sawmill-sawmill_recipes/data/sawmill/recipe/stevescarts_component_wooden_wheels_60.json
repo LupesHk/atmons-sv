@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:mango_log"
+    },
+    {
+      "item": "productivetrees:mango_wood"
+    },
+    {
+      "item": "productivetrees:mango_stripped_log"
+    },
+    {
+      "item": "productivetrees:mango_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_wooden_wheels",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

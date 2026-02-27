@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:great_sallow_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_great_sallow",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

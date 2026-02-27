@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:iroko_wood"
+  },
+  "result": {
+    "id": "productivetrees:iroko_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

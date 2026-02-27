@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:asai_palm_log"
+  },
+  "result": {
+    "id": "productivetrees:asai_palm_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

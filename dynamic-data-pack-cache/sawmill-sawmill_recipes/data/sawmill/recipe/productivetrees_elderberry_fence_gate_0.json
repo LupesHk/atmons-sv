@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:elderberry_log"
+    },
+    {
+      "item": "productivetrees:elderberry_wood"
+    },
+    {
+      "item": "productivetrees:elderberry_stripped_log"
+    },
+    {
+      "item": "productivetrees:elderberry_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:elderberry_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

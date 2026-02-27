@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:purpleheart_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_purpleheart",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

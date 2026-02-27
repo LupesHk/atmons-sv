@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "integrateddynamics:menril_log"
+    },
+    {
+      "item": "integrateddynamics:menril_wood"
+    }
+  ],
+  "result": {
+    "id": "integrateddynamics:menril_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:ginkgo_planks"
+  },
+  "result": {
+    "id": "productivetrees:ginkgo_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

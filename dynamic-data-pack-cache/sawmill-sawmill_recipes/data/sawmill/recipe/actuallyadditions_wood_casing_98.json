@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sweetgum_log"
+    },
+    {
+      "item": "productivetrees:sweetgum_wood"
+    },
+    {
+      "item": "productivetrees:sweetgum_stripped_log"
+    },
+    {
+      "item": "productivetrees:sweetgum_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "actuallyadditions:wood_casing",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

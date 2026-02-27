@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:red_crepe_myrtle_log"
+  },
+  "result": {
+    "id": "productivetrees:red_crepe_myrtle_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:stripped_soul_log"
+    }
+  ],
+  "result": {
+    "id": "allthemodium:soul_trap_door",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:soul_tree_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_soul_tree",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

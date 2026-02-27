@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:myrtle_ebony_log"
+    },
+    {
+      "item": "productivetrees:myrtle_ebony_wood"
+    },
+    {
+      "item": "productivetrees:myrtle_ebony_stripped_log"
+    },
+    {
+      "item": "productivetrees:myrtle_ebony_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_wooden_wheels",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

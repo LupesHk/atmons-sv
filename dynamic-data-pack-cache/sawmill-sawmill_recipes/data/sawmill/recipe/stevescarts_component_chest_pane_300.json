@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:elderberry_log"
+    },
+    {
+      "item": "productivetrees:elderberry_wood"
+    },
+    {
+      "item": "productivetrees:elderberry_stripped_log"
+    },
+    {
+      "item": "productivetrees:elderberry_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

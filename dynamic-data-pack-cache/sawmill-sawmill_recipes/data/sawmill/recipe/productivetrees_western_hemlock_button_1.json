@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:western_hemlock_planks"
+  },
+  "result": {
+    "id": "productivetrees:western_hemlock_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

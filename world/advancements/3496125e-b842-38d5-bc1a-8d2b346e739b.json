@@ -158,6 +158,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2026-02-24 12:55:43 -0300",
+      "minecraft:river": "2026-02-27 01:08:24 -0300",
       "minecraft:snowy_plains": "2026-02-24 12:49:21 -0300",
       "minecraft:dripstone_caves": "2026-02-24 13:23:03 -0300"
     },
@@ -1275,10 +1276,11 @@
   "ae2:main/presses": {
     "criteria": {
       "calculation": "2026-02-25 23:55:59 -0300",
+      "silicon": "2026-02-27 01:31:57 -0300",
       "engineering": "2026-02-25 23:59:51 -0300",
       "logic": "2026-02-25 23:53:41 -0300"
     },
-    "done": false
+    "done": true
   },
   "ae2:main/crafting_terminal": {
     "criteria": {
@@ -1364,33 +1366,15 @@
     },
     "done": true
   },
-  "ae2:main/facade": {
+  "supplementaries:recipe/flint_block": {
     "criteria": {
-      "facade": "2026-02-26 20:54:57 -0300"
+      "has_item_minecraft_flint_1": "2026-02-26 20:42:27 -0300"
     },
     "done": true
   },
   "create:andesite_alloy": {
     "criteria": {
       "0": "2026-02-26 20:43:22 -0300"
-    },
-    "done": true
-  },
-  "ars_nouveau:root": {
-    "criteria": {
-      "ars_nouveau:worn_notebook": "2026-02-26 20:43:28 -0300"
-    },
-    "done": true
-  },
-  "silentgear:salvager": {
-    "criteria": {
-      "get_item": "2026-02-26 20:51:18 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/integration/planter_rich_fd": {
-    "criteria": {
-      "has_item_minecraft_brick_1": "2026-02-26 20:44:08 -0300"
     },
     "done": true
   },
@@ -1412,6 +1396,24 @@
     },
     "done": true
   },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2026-02-26 20:43:27 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2026-02-26 20:43:28 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/planter_rich_fd": {
+    "criteria": {
+      "has_item_minecraft_brick_1": "2026-02-26 20:44:08 -0300"
+    },
+    "done": true
+  },
   "mekanism:energy_cube": {
     "criteria": {
       "basic_energy_cube": "2026-02-26 20:45:12 -0300"
@@ -1424,15 +1426,87 @@
     },
     "done": true
   },
-  "mekanism:energy_transport": {
+  "silentgear:salvager": {
     "criteria": {
-      "basic_universal_cable": "2026-02-26 20:43:27 -0300"
+      "get_item": "2026-02-26 20:51:18 -0300"
     },
     "done": true
   },
-  "supplementaries:recipe/flint_block": {
+  "ae2:main/facade": {
     "criteria": {
-      "has_item_minecraft_flint_1": "2026-02-26 20:42:27 -0300"
+      "facade": "2026-02-26 20:54:57 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2026-02-27 02:14:25 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sconce_soul": {
+    "criteria": {
+      "has_tag_c_nuggets_iron_2": "2026-02-27 00:54:51 -0300"
+    },
+    "done": true
+  },
+  "cobblemon:craft_pokedex": {
+    "criteria": {
+      "requirement": "2026-02-27 02:20:19 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gravel_bricks": {
+    "criteria": {
+      "has_item_minecraft_gravel_1": "2026-02-27 01:36:50 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/pancake_fd": {
+    "criteria": {
+      "has_item_minecraft_sugar_1": "2026-02-27 01:09:42 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/pattern_encoding_terminal": {
+    "criteria": {
+      "certus": "2026-02-27 01:55:20 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2026-02-27 02:13:52 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_cpu": {
+    "criteria": {
+      "cu": "2026-02-27 01:33:00 -0300"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2026-02-27 01:08:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candy": {
+    "criteria": {
+      "has_item_minecraft_sugar_1": "2026-02-27 01:09:42 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sugar_cube": {
+    "criteria": {
+      "has_item_minecraft_sugar_1": "2026-02-27 01:09:42 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/slidy_block": {
+    "criteria": {
+      "has_tag_c_nuggets_iron_1": "2026-02-27 00:54:51 -0300"
     },
     "done": true
   },

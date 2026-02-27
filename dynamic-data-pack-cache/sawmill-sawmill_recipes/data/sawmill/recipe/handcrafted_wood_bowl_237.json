@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "cobblemon:apricorn_planks"
+    "item": "productivetrees:swamp_gum_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

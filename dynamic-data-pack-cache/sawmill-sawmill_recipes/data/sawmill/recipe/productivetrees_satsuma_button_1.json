@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:satsuma_planks"
+  },
+  "result": {
+    "id": "productivetrees:satsuma_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

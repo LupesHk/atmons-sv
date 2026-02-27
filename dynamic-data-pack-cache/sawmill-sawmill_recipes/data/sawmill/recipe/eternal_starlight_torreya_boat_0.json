@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "eternal_starlight:torreya_log"
+    },
+    {
+      "item": "eternal_starlight:torreya_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_torreya_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_torreya_wood"
+    }
+  ],
+  "result": {
+    "id": "eternal_starlight:torreya_boat",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

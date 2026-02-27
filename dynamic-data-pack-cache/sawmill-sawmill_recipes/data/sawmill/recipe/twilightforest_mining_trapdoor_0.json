@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "twilightforest:mining_log"
+    },
+    {
+      "item": "twilightforest:mining_wood"
+    },
+    {
+      "item": "twilightforest:stripped_mining_log"
+    },
+    {
+      "item": "twilightforest:stripped_mining_wood"
+    }
+  ],
+  "result": {
+    "id": "twilightforest:mining_trapdoor",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

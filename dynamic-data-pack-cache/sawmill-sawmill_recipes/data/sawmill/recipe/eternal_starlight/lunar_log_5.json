@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "eternal_starlight:lunar_wood"
+  },
+  "result": {
+    "id": "eternal_starlight:stripped_lunar_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

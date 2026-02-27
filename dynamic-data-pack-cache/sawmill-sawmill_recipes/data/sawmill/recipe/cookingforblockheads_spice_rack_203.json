@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "allthemodium:soul_planks"
+    "item": "productivetrees:brazilwood_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

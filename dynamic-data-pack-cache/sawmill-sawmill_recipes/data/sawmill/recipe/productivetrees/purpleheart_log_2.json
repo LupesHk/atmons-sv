@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:purpleheart_log"
+  },
+  "result": {
+    "id": "productivetrees:purpleheart_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

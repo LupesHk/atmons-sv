@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:almond_log"
+      "item": "productivetrees:white_willow_log"
     },
     {
-      "item": "productivetrees:almond_wood"
+      "item": "productivetrees:white_willow_wood"
     },
     {
-      "item": "productivetrees:almond_stripped_log"
+      "item": "productivetrees:white_willow_stripped_log"
     },
     {
-      "item": "productivetrees:almond_stripped_wood"
+      "item": "productivetrees:white_willow_stripped_wood"
     }
   ],
   "result": {

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:red_delicious_apple_log"
+    },
+    {
+      "item": "productivetrees:red_delicious_apple_wood"
+    },
+    {
+      "item": "productivetrees:red_delicious_apple_stripped_log"
+    },
+    {
+      "item": "productivetrees:red_delicious_apple_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "aquaculture:wooden_fillet_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

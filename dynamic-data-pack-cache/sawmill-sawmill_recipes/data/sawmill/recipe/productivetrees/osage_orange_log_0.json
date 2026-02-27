@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:osage_orange_log"
+  },
+  "result": {
+    "id": "productivetrees:osage_orange_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:white_willow_log"
+    },
+    {
+      "item": "productivetrees:white_willow_wood"
+    },
+    {
+      "item": "productivetrees:white_willow_stripped_log"
+    },
+    {
+      "item": "productivetrees:white_willow_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_white_willow",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:dogwood_planks"
+  },
+  "result": {
+    "id": "productivetrees:dogwood_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

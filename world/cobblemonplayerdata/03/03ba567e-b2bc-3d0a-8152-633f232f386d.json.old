@@ -12,14 +12,17 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 0,
+    "totalBattleVictoryCount": 3,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 3,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {},
-    "totalDefeatedCounts": {},
+    "totalDefeatedCounts": {
+      "cobblemon:cottonee": 2,
+      "cobblemon:hoppip": 1
+    },
     "aspectsCollected": {}
   }
 }

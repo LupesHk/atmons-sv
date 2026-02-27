@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "cobblemon:saccharine_planks"
+  },
+  "result": {
+    "id": "cobblemon:saccharine_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

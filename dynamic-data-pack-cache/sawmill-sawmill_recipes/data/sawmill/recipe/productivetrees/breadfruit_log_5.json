@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:breadfruit_wood"
+  },
+  "result": {
+    "id": "productivetrees:breadfruit_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

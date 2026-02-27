@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:brown_amber_log"
+  },
+  "result": {
+    "id": "productivetrees:brown_amber_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

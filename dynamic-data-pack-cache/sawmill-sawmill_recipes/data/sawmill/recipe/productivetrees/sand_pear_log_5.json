@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:sand_pear_wood"
+  },
+  "result": {
+    "id": "productivetrees:sand_pear_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

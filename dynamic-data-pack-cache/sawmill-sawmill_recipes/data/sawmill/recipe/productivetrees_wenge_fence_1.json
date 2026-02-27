@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:wenge_planks"
+  },
+  "result": {
+    "id": "productivetrees:wenge_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

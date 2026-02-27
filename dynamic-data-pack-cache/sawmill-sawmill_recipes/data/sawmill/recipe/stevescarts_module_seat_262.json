@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:buddhas_hand_log"
+    },
+    {
+      "item": "productivetrees:buddhas_hand_wood"
+    },
+    {
+      "item": "productivetrees:buddhas_hand_stripped_log"
+    },
+    {
+      "item": "productivetrees:buddhas_hand_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:module_seat",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:warped_planks"
+  },
+  "result": {
+    "id": "minecraft:warped_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

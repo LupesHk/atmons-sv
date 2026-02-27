@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:myrtle_ebony_planks"
+  },
+  "result": {
+    "id": "productivetrees:myrtle_ebony_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

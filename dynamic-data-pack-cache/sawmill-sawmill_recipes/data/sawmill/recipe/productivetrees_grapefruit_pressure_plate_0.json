@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:grapefruit_log"
+    },
+    {
+      "item": "productivetrees:grapefruit_wood"
+    },
+    {
+      "item": "productivetrees:grapefruit_stripped_log"
+    },
+    {
+      "item": "productivetrees:grapefruit_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:grapefruit_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

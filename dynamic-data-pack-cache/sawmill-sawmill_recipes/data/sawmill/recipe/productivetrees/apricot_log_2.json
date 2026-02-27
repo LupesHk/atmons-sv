@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:apricot_log"
+  },
+  "result": {
+    "id": "productivetrees:apricot_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

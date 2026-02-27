@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:cultivated_pear_log"
+    },
+    {
+      "item": "productivetrees:cultivated_pear_wood"
+    },
+    {
+      "item": "productivetrees:cultivated_pear_stripped_log"
+    },
+    {
+      "item": "productivetrees:cultivated_pear_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:cutting_board",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

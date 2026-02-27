@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:pandanus_log"
+    },
+    {
+      "item": "productivetrees:pandanus_wood"
+    },
+    {
+      "item": "productivetrees:pandanus_stripped_log"
+    },
+    {
+      "item": "productivetrees:pandanus_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:pandanus_fence",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}

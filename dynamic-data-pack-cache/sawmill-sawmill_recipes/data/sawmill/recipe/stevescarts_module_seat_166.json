@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:firecracker_log"
+      "item": "productivetrees:ceylon_ebony_log"
     },
     {
-      "item": "productivetrees:firecracker_wood"
+      "item": "productivetrees:ceylon_ebony_wood"
     },
     {
-      "item": "productivetrees:firecracker_stripped_log"
+      "item": "productivetrees:ceylon_ebony_stripped_log"
     },
     {
-      "item": "productivetrees:firecracker_stripped_wood"
+      "item": "productivetrees:ceylon_ebony_stripped_wood"
     }
   ],
   "result": {

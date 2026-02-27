@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:banana_log"
+    },
+    {
+      "item": "productivetrees:banana_wood"
+    },
+    {
+      "item": "productivetrees:banana_stripped_log"
+    },
+    {
+      "item": "productivetrees:banana_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:banana_sign",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

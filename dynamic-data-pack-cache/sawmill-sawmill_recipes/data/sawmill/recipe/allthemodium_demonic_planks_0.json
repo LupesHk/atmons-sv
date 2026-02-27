@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:stripped_demonic_log"
+    }
+  ],
+  "result": {
+    "id": "allthemodium:demonic_planks",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

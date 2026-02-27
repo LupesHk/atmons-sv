@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:time_traveller_stripped_log"
+  },
+  "result": {
+    "id": "productivetrees:time_traveller_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

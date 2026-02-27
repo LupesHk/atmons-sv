@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:brazil_nut_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_brazil_nut",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:golden_delicious_apple_log"
+    },
+    {
+      "item": "productivetrees:golden_delicious_apple_wood"
+    },
+    {
+      "item": "productivetrees:golden_delicious_apple_stripped_log"
+    },
+    {
+      "item": "productivetrees:golden_delicious_apple_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:golden_delicious_apple_door",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

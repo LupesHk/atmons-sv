@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "cobblemon:saccharine_log"
+    },
+    {
+      "item": "cobblemon:saccharine_wood"
+    },
+    {
+      "item": "cobblemon:stripped_saccharine_log"
+    },
+    {
+      "item": "cobblemon:stripped_saccharine_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

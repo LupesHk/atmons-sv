@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:plantain_log"
+    },
+    {
+      "item": "productivetrees:plantain_wood"
+    },
+    {
+      "item": "productivetrees:plantain_stripped_log"
+    },
+    {
+      "item": "productivetrees:plantain_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:plantain_door",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "twilightforest:dark_planks"
+  },
+  "result": {
+    "id": "twilightforest:dark_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

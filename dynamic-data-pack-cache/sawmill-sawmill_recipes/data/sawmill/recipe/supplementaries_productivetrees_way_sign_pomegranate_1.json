@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:pomegranate_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_pomegranate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

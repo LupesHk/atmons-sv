@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:red_maple_wood"
+  },
+  "result": {
+    "id": "productivetrees:red_maple_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

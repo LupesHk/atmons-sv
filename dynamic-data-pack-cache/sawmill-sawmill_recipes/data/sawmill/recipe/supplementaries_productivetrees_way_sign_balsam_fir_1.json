@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:balsam_fir_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_balsam_fir",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "undergarden:smogstem_log"
+    },
+    {
+      "item": "undergarden:smogstem_wood"
+    },
+    {
+      "item": "undergarden:stripped_smogstem_log"
+    },
+    {
+      "item": "undergarden:stripped_smogstem_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:undergarden/way_sign_smogstem",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "integrateddynamics:menril_log"
+    },
+    {
+      "item": "integrateddynamics:menril_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_cup",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

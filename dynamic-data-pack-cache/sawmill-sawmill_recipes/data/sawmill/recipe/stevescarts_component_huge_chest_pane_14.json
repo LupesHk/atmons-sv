@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
+  "result": {
+    "id": "stevescarts:component_huge_chest_pane",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

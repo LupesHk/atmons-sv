@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:water_wonder_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_water_wonder",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

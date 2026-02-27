@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:aquilaria_log"
+    },
+    {
+      "item": "productivetrees:aquilaria_wood"
+    },
+    {
+      "item": "productivetrees:aquilaria_stripped_log"
+    },
+    {
+      "item": "productivetrees:aquilaria_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_aquilaria",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:zebrano_log"
+    },
+    {
+      "item": "productivetrees:zebrano_wood"
+    },
+    {
+      "item": "productivetrees:zebrano_stripped_log"
+    },
+    {
+      "item": "productivetrees:zebrano_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:zebrano_sign",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

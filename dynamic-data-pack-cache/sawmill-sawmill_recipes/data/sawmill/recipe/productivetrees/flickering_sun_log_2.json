@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:flickering_sun_log"
+  },
+  "result": {
+    "id": "productivetrees:flickering_sun_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:pandanus_log"
+    },
+    {
+      "item": "productivetrees:pandanus_wood"
+    },
+    {
+      "item": "productivetrees:pandanus_stripped_log"
+    },
+    {
+      "item": "productivetrees:pandanus_stripped_wood"
+    }
+  ],
   "result": {
     "id": "stevescarts:module_seat",
     "count": 1

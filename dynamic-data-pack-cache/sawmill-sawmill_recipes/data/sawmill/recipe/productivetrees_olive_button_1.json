@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:olive_planks"
+  },
+  "result": {
+    "id": "productivetrees:olive_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

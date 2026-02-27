@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:mahogany_log"
+    },
+    {
+      "item": "productivetrees:mahogany_wood"
+    },
+    {
+      "item": "productivetrees:mahogany_stripped_log"
+    },
+    {
+      "item": "productivetrees:mahogany_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

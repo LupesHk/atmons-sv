@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:sugar_apple_wood"
+  },
+  "result": {
+    "id": "productivetrees:sugar_apple_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

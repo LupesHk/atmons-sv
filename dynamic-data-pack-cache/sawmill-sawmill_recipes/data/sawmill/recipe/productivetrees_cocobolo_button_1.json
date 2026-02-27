@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:cocobolo_planks"
+  },
+  "result": {
+    "id": "productivetrees:cocobolo_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

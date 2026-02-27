@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:breadfruit_planks"
+  },
+  "result": {
+    "id": "productivetrees:breadfruit_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

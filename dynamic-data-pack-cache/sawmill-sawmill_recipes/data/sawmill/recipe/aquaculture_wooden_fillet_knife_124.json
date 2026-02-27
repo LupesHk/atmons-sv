@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sand_pear_log"
+    },
+    {
+      "item": "productivetrees:sand_pear_wood"
+    },
+    {
+      "item": "productivetrees:sand_pear_stripped_log"
+    },
+    {
+      "item": "productivetrees:sand_pear_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "aquaculture:wooden_fillet_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

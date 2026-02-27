@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:aquilaria_planks"
+  },
+  "result": {
+    "id": "productivetrees:aquilaria_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:pink_ivory_wood"
+  },
+  "result": {
+    "id": "productivetrees:pink_ivory_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:swamp_gum_log"
+  },
+  "result": {
+    "id": "productivetrees:swamp_gum_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:hawthorn_planks"
+  },
+  "result": {
+    "id": "productivetrees:hawthorn_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

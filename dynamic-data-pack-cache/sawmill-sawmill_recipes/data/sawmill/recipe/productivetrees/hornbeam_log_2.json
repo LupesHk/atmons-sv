@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:hornbeam_log"
+  },
+  "result": {
+    "id": "productivetrees:hornbeam_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

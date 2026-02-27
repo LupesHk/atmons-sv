@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:cedar_log"
+    },
+    {
+      "item": "productivetrees:cedar_wood"
+    },
+    {
+      "item": "productivetrees:cedar_stripped_log"
+    },
+    {
+      "item": "productivetrees:cedar_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:cedar_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

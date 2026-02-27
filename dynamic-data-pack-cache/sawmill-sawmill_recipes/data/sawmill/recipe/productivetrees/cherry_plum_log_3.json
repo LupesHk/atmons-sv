@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:cherry_plum_wood"
+  },
+  "result": {
+    "id": "productivetrees:cherry_plum_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:cultivated_pear_log"
+  },
+  "result": {
+    "id": "productivetrees:cultivated_pear_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

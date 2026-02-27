@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "cobblemon:apricorn_planks"
+  },
+  "result": {
+    "id": "supplementaries:cobblemon/way_sign_apricorn",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

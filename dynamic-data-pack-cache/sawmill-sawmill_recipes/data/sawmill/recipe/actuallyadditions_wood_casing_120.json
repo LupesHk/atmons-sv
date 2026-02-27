@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:sweet_crabapple_log"
+    },
+    {
+      "item": "productivetrees:sweet_crabapple_wood"
+    },
+    {
+      "item": "productivetrees:sweet_crabapple_stripped_log"
+    },
+    {
+      "item": "productivetrees:sweet_crabapple_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "actuallyadditions:wood_casing",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

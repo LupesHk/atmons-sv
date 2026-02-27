@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "cobblemon:stripped_saccharine_wood"
+  },
+  "result": {
+    "id": "cobblemon:stripped_saccharine_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

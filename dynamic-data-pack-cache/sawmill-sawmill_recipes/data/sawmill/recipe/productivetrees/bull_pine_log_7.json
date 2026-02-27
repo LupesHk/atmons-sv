@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:bull_pine_stripped_log"
+  },
+  "result": {
+    "id": "productivetrees:bull_pine_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:jackfruit_log"
+    },
+    {
+      "item": "productivetrees:jackfruit_wood"
+    },
+    {
+      "item": "productivetrees:jackfruit_stripped_log"
+    },
+    {
+      "item": "productivetrees:jackfruit_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_chest_pane",
+    "count": 10
+  },
+  "type": "sawmill:woodcutting"
+}

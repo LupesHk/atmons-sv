@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:brazil_nut_planks"
+  },
+  "result": {
+    "id": "productivetrees:brazil_nut_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

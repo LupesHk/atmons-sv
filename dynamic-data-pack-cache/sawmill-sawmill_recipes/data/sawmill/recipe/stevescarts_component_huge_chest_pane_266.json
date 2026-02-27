@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:blackthorn_log"
+    },
+    {
+      "item": "productivetrees:blackthorn_wood"
+    },
+    {
+      "item": "productivetrees:blackthorn_stripped_log"
+    },
+    {
+      "item": "productivetrees:blackthorn_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "stevescarts:component_huge_chest_pane",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

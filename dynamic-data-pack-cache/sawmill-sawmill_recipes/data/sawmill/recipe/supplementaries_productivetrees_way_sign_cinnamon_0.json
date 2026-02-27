@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:cinnamon_log"
+    },
+    {
+      "item": "productivetrees:cinnamon_wood"
+    },
+    {
+      "item": "productivetrees:cinnamon_stripped_log"
+    },
+    {
+      "item": "productivetrees:cinnamon_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_cinnamon",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

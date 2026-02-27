@@ -4,3 +4,15 @@
 breedingCooldown = 12000
 #Replace vanilla animal spawns with mons for maximum immersional damage
 replaceAnimalSpawn = true
+#A multiplier for xp gained from capturing pokemon
+# Default: 20
+# Range: > 0
+captureXPMultiplier = 20
+#How long it takes for eggs to hatch. This value is multiplied by the egg level.
+# Default: 6000
+# Range: > 1
+eggIncubationTime = 6000
+#Shows the number of pokemon in a players pokedex next to their name in chat
+showDexCounterInChat = true
+#Show a chat message to the player when a special pokemon spawns nearby.
+spawnNotifications = true

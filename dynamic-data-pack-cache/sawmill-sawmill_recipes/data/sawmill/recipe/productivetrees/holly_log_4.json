@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:holly_wood"
+  },
+  "result": {
+    "id": "productivetrees:holly_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:tuscarora_crepe_myrtle_planks"
+  },
+  "result": {
+    "id": "productivetrees:tuscarora_crepe_myrtle_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

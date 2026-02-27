@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:spruce_planks"
+  },
+  "result": {
+    "id": "handcrafted:spruce_pillar_trim",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

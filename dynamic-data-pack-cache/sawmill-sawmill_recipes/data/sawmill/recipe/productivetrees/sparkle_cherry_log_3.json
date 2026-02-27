@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:sparkle_cherry_wood"
+  },
+  "result": {
+    "id": "productivetrees:sparkle_cherry_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

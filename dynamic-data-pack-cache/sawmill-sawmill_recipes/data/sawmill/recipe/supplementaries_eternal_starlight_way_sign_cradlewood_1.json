@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "eternal_starlight:cradlewood_planks"
+  },
+  "result": {
+    "id": "supplementaries:eternal_starlight/way_sign_cradlewood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

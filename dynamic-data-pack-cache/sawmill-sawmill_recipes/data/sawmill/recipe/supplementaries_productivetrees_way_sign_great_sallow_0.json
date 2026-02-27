@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:great_sallow_log"
+    },
+    {
+      "item": "productivetrees:great_sallow_wood"
+    },
+    {
+      "item": "productivetrees:great_sallow_stripped_log"
+    },
+    {
+      "item": "productivetrees:great_sallow_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_great_sallow",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

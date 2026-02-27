@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:citron_log"
+  },
+  "result": {
+    "id": "productivetrees:citron_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

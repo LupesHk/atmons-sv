@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "twilightforest:time_log"
+  },
+  "result": {
+    "id": "twilightforest:stripped_time_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

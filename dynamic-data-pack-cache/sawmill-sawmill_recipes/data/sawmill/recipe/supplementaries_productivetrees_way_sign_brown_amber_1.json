@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:brown_amber_planks"
+  },
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_brown_amber",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:osage_orange_planks"
+  },
+  "result": {
+    "id": "productivetrees:osage_orange_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

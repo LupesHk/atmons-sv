@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "ars_nouveau:archwood_planks"
+    "item": "cobblemon:saccharine_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

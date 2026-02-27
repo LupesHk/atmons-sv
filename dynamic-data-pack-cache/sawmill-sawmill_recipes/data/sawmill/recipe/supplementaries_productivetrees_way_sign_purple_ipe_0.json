@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:purple_ipe_log"
+    },
+    {
+      "item": "productivetrees:purple_ipe_wood"
+    },
+    {
+      "item": "productivetrees:purple_ipe_stripped_log"
+    },
+    {
+      "item": "productivetrees:purple_ipe_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:productivetrees/way_sign_purple_ipe",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

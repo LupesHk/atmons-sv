@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:purple_spiral_wood"
+  },
+  "result": {
+    "id": "productivetrees:purple_spiral_stripped_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

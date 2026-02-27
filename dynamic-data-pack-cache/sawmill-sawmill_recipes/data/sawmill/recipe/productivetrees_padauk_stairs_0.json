@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:padauk_log"
+    },
+    {
+      "item": "productivetrees:padauk_wood"
+    },
+    {
+      "item": "productivetrees:padauk_stripped_log"
+    },
+    {
+      "item": "productivetrees:padauk_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "productivetrees:padauk_stairs",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

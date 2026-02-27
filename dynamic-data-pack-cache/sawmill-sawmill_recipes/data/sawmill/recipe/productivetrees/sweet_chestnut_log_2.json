@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:sweet_chestnut_log"
+  },
+  "result": {
+    "id": "productivetrees:sweet_chestnut_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "productivetrees:pomegranate_wood"
+  },
+  "result": {
+    "id": "productivetrees:pomegranate_stripped_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

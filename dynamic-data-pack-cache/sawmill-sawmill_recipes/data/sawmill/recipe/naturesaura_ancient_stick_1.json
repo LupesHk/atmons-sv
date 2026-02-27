@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "naturesaura:ancient_planks"
+  },
+  "result": {
+    "id": "naturesaura:ancient_stick",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "productivetrees:great_sallow_planks"
+  },
+  "result": {
+    "id": "productivetrees:great_sallow_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}
