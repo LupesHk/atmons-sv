@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_planks"
+  },
+  "result": {
+    "id": "supplementaries:item_shelf",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

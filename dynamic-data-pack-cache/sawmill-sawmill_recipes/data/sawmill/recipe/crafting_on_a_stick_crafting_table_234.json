@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "integrateddynamics:menril_log"
+    },
+    {
+      "item": "integrateddynamics:menril_wood"
+    }
+  ],
+  "result": {
+    "id": "crafting_on_a_stick:crafting_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

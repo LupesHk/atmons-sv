@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:hawthorn_log"
+    },
+    {
+      "item": "productivetrees:hawthorn_wood"
+    },
+    {
+      "item": "productivetrees:hawthorn_stripped_log"
+    },
+    {
+      "item": "productivetrees:hawthorn_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:crafting_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

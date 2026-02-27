@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:wenge_log"
+    },
+    {
+      "item": "productivetrees:wenge_wood"
+    },
+    {
+      "item": "productivetrees:wenge_stripped_log"
+    },
+    {
+      "item": "productivetrees:wenge_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "silentgear:hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

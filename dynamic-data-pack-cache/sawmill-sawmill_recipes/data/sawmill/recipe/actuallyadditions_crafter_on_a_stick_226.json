@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:cacao_log"
+    },
+    {
+      "item": "productivetrees:cacao_wood"
+    },
+    {
+      "item": "productivetrees:cacao_stripped_log"
+    },
+    {
+      "item": "productivetrees:cacao_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "actuallyadditions:crafter_on_a_stick",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

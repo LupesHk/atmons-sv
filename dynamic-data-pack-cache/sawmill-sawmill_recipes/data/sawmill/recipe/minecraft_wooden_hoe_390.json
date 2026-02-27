@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "productivetrees:zebrano_log"
+    },
+    {
+      "item": "productivetrees:zebrano_wood"
+    },
+    {
+      "item": "productivetrees:zebrano_stripped_log"
+    },
+    {
+      "item": "productivetrees:zebrano_stripped_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}
