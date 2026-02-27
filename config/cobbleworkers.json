@@ -16,7 +16,6 @@
     "cropIrrigators": [
       "pikachu"
     ],
-    "irrigationRadius": 1,
     "typeIrrigatesCrops": "WATER"
   },
   "amethyst": {
@@ -179,7 +178,6 @@
     "extinguishers": [
       "pikachu"
     ],
-    "extinguishingRadius": 1,
     "typeExtinguishesFire": "WATER"
   },
   "archeology": {

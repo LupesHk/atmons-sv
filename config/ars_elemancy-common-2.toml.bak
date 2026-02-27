@@ -13,8 +13,8 @@
 	silt_focus_buff = 1.0
 	vapor_focus_buff = 1.0
 	mire_focus_buff = 1.0
-	cinder_focus_buff = 1.0
 	fire_focus_buff = 1.0
+	cinder_focus_buff = 1.0
 
 	#Adjust Elemental Armor Mana Buffs
 	["Elemental Spell Foci - Amplify"."Elemental Armors"]
