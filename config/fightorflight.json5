@@ -81,14 +81,8 @@
 	],
 	// The aggression multiplier for natures above.
 	"more_peaceful_nature_multiplier": -2.0,
-	// Pokemon won't be aggressive in these biomes
-	"peaceful_biome": [
-		"minecraft:deep_dark"
-	],
-	// Pokemon will be neutral in these biomes
-	"neutral_biome": [],
-	// Pokemon will always be aggressive in these biomes
-	"aggressive_biome": [],
+	// If the behavior data will work?(Still W.I.P, not avialable yet)
+	"enable_datapack_driven_behavior": true,
 	// Forms that will always be aggressive
 	"always_aggro_aspects": [
 		"alolan"
@@ -187,10 +181,6 @@
 	"max_damage_reduction_multiplier_player": 1.2000000476837158,
 	// The highest defense stat needed to get the highest damage reduction.
 	"defense_stat_limit": 161,
-	// When a player hurts wild pokemon, should a pokemon battle be started?
-	"force_wild_battle_on_player_attack": false,
-	// When a player hurts another player's pokemon, should a pokemon battle be started?
-	"force_player_battle_on_player_attack": false,
 	// When a player owned Pokemon hurts or is hurt by a wild pokemon, should a pokemon battle be started?
 	"force_wild_battle_on_pokemon_hurt": false,
 	// When a player owned Pokemon hurts or is hurt by another player's pokemon, should a pokemon battle be started?
