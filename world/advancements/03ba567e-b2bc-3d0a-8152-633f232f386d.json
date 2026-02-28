@@ -1299,27 +1299,9 @@
     },
     "done": true
   },
-  "supplementaries:recipe/dragon_banner_pattern": {
+  "mekanism:steel_casing": {
     "criteria": {
-      "has_item_minecraft_paper_1": "2026-02-27 02:09:24 -0300"
-    },
-    "done": true
-  },
-  "mekanism:basic_control_circuit": {
-    "criteria": {
-      "basic_control_circuit": "2026-02-27 01:30:01 -0300"
-    },
-    "done": true
-  },
-  "cobblemon:craft_base_balls": {
-    "criteria": {
-      "verdant_ball": "2026-02-27 01:43:52 -0300"
-    },
-    "done": false
-  },
-  "cobblemon:craft_pokedex": {
-    "criteria": {
-      "requirement": "2026-02-27 02:20:07 -0300"
+      "steel_casing": "2026-02-27 01:29:52 -0300"
     },
     "done": true
   },
@@ -1329,33 +1311,15 @@
     },
     "done": true
   },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2026-02-27 01:30:01 -0300"
+    },
+    "done": true
+  },
   "mekanism:energy_cube": {
     "criteria": {
       "basic_energy_cube": "2026-02-27 01:30:32 -0300"
-    },
-    "done": true
-  },
-  "mekanism:steel_casing": {
-    "criteria": {
-      "steel_casing": "2026-02-27 01:29:52 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/present": {
-    "criteria": {
-      "has_item_minecraft_paper_1": "2026-02-27 02:09:24 -0300"
-    },
-    "done": true
-  },
-  "mekanism:metallurgic_infuser": {
-    "criteria": {
-      "metallurgic_infuser": "2026-02-27 01:39:05 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/candy": {
-    "criteria": {
-      "has_item_minecraft_paper_2": "2026-02-27 02:09:24 -0300"
     },
     "done": true
   },
@@ -1371,9 +1335,33 @@
     },
     "done": true
   },
-  "cobblemon:healing_machine": {
+  "mekanism:metallurgic_infuser": {
     "criteria": {
-      "use_healing_machine": "2026-02-27 02:21:58 -0300"
+      "metallurgic_infuser": "2026-02-27 01:39:05 -0300"
+    },
+    "done": true
+  },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "verdant_ball": "2026-02-27 01:43:52 -0300"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/dragon_banner_pattern": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-02-27 02:09:24 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/present": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-02-27 02:09:24 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candy": {
+    "criteria": {
+      "has_item_minecraft_paper_2": "2026-02-27 02:09:24 -0300"
     },
     "done": true
   },
@@ -1386,6 +1374,18 @@
   "supplementaries:recipe/trapped_present_2": {
     "criteria": {
       "has_item_minecraft_paper_1": "2026-02-27 02:09:24 -0300"
+    },
+    "done": true
+  },
+  "cobblemon:craft_pokedex": {
+    "criteria": {
+      "requirement": "2026-02-27 02:20:07 -0300"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2026-02-27 02:21:58 -0300"
     },
     "done": true
   },
