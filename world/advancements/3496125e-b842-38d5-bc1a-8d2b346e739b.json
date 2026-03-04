@@ -1517,9 +1517,9 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
+  "supplementaries:recipe/statue": {
     "criteria": {
-      "kill_mimic": "2026-02-27 20:24:44 -0300"
+      "has_item_minecraft_clay_1": "2026-02-27 19:57:56 -0300"
     },
     "done": true
   },
@@ -1529,17 +1529,29 @@
     },
     "done": true
   },
-  "supplementaries:recipe/lumisene_bottle": {
+  "supplementaries:recipe/awnings/awning_green": {
     "criteria": {
-      "has_item_minecraft_glow_berries_1": "2026-02-27 20:23:07 -0300"
+      "has_tag_c_dyes_green_2": "2026-02-27 20:05:07 -0300"
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "apotheosis:progression/haven": {
     "criteria": {
-      "blaze_rod": "2026-02-27 21:14:16 -0300"
+      "affixed": "2026-02-27 20:19:10 -0300"
     },
     "done": true
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "uncommon_helm": "2026-02-27 20:19:19 -0300"
+    },
+    "done": false
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_helm": "2026-02-27 20:19:19 -0300"
+    },
+    "done": false
   },
   "lootr:1cart": {
     "criteria": {
@@ -1547,33 +1559,27 @@
     },
     "done": true
   },
-  "ae2:main/network1": {
+  "supplementaries:recipe/item_lore": {
     "criteria": {
-      "cable": "2026-02-27 21:31:16 -0300"
+      "has_item_minecraft_name_tag_1": "2026-02-27 20:22:04 -0300"
     },
     "done": true
   },
-  "silentgear:crimson_iron": {
+  "supplementaries:recipe/lumisene_bottle": {
     "criteria": {
-      "get_ingot": "2026-02-27 21:11:31 -0300"
-    },
-    "done": false
-  },
-  "silentgear:blaze_gold": {
-    "criteria": {
-      "get_item": "2026-02-27 21:48:39 -0300"
+      "has_item_minecraft_glow_berries_1": "2026-02-27 20:23:07 -0300"
     },
     "done": true
   },
-  "supplementaries:recipe/awnings/awning_green": {
+  "supplementaries:recipe/integration/lumisene_mixing": {
     "criteria": {
-      "has_tag_c_dyes_green_2": "2026-02-27 20:05:07 -0300"
+      "has_item_minecraft_glow_berries_1": "2026-02-27 20:23:07 -0300"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "wither_skull": "2026-02-27 21:16:28 -0300"
+      "kill_mimic": "2026-02-27 20:24:44 -0300"
     },
     "done": true
   },
@@ -1589,45 +1595,39 @@
     },
     "done": true
   },
-  "apotheosis:progression/ascent": {
-    "criteria": {
-      "uncommon_helm": "2026-02-27 20:19:19 -0300"
-    },
-    "done": false
-  },
-  "supplementaries:recipe/item_lore": {
-    "criteria": {
-      "has_item_minecraft_name_tag_1": "2026-02-27 20:22:04 -0300"
-    },
-    "done": true
-  },
-  "apotheosis:progression/haven": {
-    "criteria": {
-      "affixed": "2026-02-27 20:19:10 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/statue": {
-    "criteria": {
-      "has_item_minecraft_clay_1": "2026-02-27 19:57:56 -0300"
-    },
-    "done": true
-  },
-  "apotheosis:progression/frontier": {
-    "criteria": {
-      "common_helm": "2026-02-27 20:19:19 -0300"
-    },
-    "done": false
-  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2026-02-27 21:07:52 -0300"
     },
     "done": true
   },
-  "supplementaries:recipe/integration/lumisene_mixing": {
+  "silentgear:crimson_iron": {
     "criteria": {
-      "has_item_minecraft_glow_berries_1": "2026-02-27 20:23:07 -0300"
+      "get_ingot": "2026-02-27 21:11:31 -0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-02-27 21:14:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-02-27 21:16:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/network1": {
+    "criteria": {
+      "cable": "2026-02-27 21:31:16 -0300"
+    },
+    "done": true
+  },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2026-02-27 21:48:39 -0300"
     },
     "done": true
   },
